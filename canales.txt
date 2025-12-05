@@ -1,10 +1,7 @@
 # Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
+# o https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml
+# o https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz
 La 1 HD,La 1
-La 2,La 2
-Antena 3 HD,Antena 3
-Cuatro HD,Cuatro
-Telecinco HD,Telecinco
-La Sexta HD,La Sexta
 M+ Estrenos HD,M+ Estrenos
 M+ Hits HD,M+ Hits
 M+ Originales HD,M+ Originales
@@ -20,61 +17,21 @@ M+ Cine Español,M+ Cine Español
 M+ PopUp,M+ PopUp
 M+ PopUp 2,M+ PopUp 2
 TCM HD,TCM
-BBC Series,BBC Series
-BBC Earth,BBC Earth
-BBC Top Gear,BBC Top Gear
-BBC Lifestyle,BBC Lifestyle
 Paramount Network,Paramount Network
 Be Mad,Be Mad
-STAR Channel HD,STAR Channel
 AXN HD,AXN
 Warner TV HD,Warner TV
-Comedy Central HD,Comedy Central
 Calle 13 HD,Calle 13
-Cosmo HD,Cosmo
 SyFy HD,SyFy
-Energy,Energy
-Factoría de Ficción,Factoría de Ficción
-Neox,Neox
 Caza y Pesca HD,Caza y Pesca
 Iberalia TV,Iberalia TV
 National Geographic HD,National Geographic
 Nat Geo Wild HD,Nat Geo Wild
-BBC History,BBC History
-Discovery,Discovery
-BBC Food,BBC Food
-Divinity,Divinity
-Nova,Nova
-Dreamworks HD,Dreamworks
-Boing,Boing
-MTV España,MTV España
-MTV 00s,MTV 00s
-Mezzo,Mezzo
-Mezzo Live HD,Mezzo Live
-Classica HD,Classica
-24 Horas,24 Horas
 CMM TV,CMM TV
 La 7 CyL,La 7 CyL
-Telemadrid,Telemadrid
-La Otra,La Otra
 HBO Max Avances,HBO Max Avances
 SkyShowtime,SkyShowtime
 AXN Movies HD,AXN Movies
-TRECE,TRECE
-Atreseries,Atreseries
-Real Madrid TV,Real Madrid TV
-Garage TV,Garage TV
-UBEAT,UBEAT
-DMAX,DMAX
-DKISS,DKISS
-Mega,Mega
-Ten,Ten
-EuroNews,EuroNews
-El Toro TV,El Toro TV
-Negocios TV,Negocios TV
-UCL,UCL
-Canal de las Estrellas,Canal de las Estrellas
-Telemadrid Internacional,Telemadrid Internacional
 Movistar Plus+ HD,Movistar Plus+
 Primera Federación,Primera Federación
 M+ Vamos HD,M+ Vamos
@@ -98,7 +55,6 @@ DAZN 1 HD,DAZN 1
 DAZN 2 HD,DAZN 2
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
-GOL,GOL
 Teledeporte,Teledeporte
 M+ Liga de Campeones 4,M+ Liga de Campeones 4
 M+ Liga de Campeones 5,M+ Liga de Campeones 5
@@ -144,23 +100,9 @@ LaLiga TV BAR HD,LaLiga TV BAR
 LaLiga TV BAR 2,LaLiga TV BAR 2
 LaLiga TV BAR 3,LaLiga TV BAR 3
 Rally.TV,Rally.TV
-Tennis+,Tennis+
-Canal FlixOlé 1,Canal FlixOlé 1
-Canal FlixOlé 2,Canal FlixOlé 2
 Liga de Campeones BAR 2,Liga de Campeones BAR 2
-GolStadium BAR,GolStadium BAR
 DAZN F1 BAR,DAZN F1 BAR
-GolStadium,GolStadium
-Torolé TV,Torolé TV
-Iberalia caza,Iberalia caza
-Fight Time,Fight Time
-DBike,DBike
-Antena Motor,Antena Motor
-REKTV,REKTV
-NFL Network,NFL Network
-Red Bull TV,Red Bull TV
-Unbeaten,Unbeaten
-Billiard TV,Billiard TV
+Iberalia caza,Iberalia caza,,-1
 DAZN LALIGA EA SPORTS,DAZN LALIGA EA SPORTS
 DAZN LALIGA EA SPORTS 2,DAZN LALIGA EA SPORTS 2
 DAZN Liga F,DAZN Liga F
@@ -170,16 +112,13 @@ DAZN MotoGP,DAZN MotoGP
 Extreme Channel,Extreme Channel
 VINX,VINX
 HIT TV,HIT TV
-Playboy TV,Playboy TV
 Dark Rojo,Dark Rojo
-AMC Anime,AMC Anime
 AMC+ Connect,AMC+ Connect
 DAZN 1 BAR,DAZN 1 BAR
 DAZN 2 BAR,DAZN 2 BAR
 LaLiga TV BAR 4,LaLiga TV BAR 4
 LaLiga TV BAR 5,LaLiga TV BAR 5
 Somos Cine,Somos Cine
-Fight Sports, Fight Sports
 La 7 Segovia,La 7 Segovia
 La 8 Segovia,La 8 Segovia
 DARK,DARK
@@ -187,55 +126,18 @@ AMC Break,AMC Break
 Odisea,Odisea
 AMC HD,AMC
 AMC Crime,AMC Crime
-Historia,Historia
 XTRM,XTRM
 Canal Hollywood HD,Canal Hollywood
-Sundance TV,Sundance TV
-VinTV,VinTV
-Somos,Somos
-Canal Cocina,Canal Cocina
-SELEKT,SELEKT
-Veo7,Veo7
 BOM Cine,BOM Cine
 Cines Verdi TV,Cines Verdi TV
 Cine Feel Good,Cine Feel Good
 LALIGA Inside,LALIGA Inside
-DAZN Baloncesto,DAZN Baloncesto
-DAZN Baloncesto 2,DAZN Baloncesto 2
-DAZN Baloncesto 3,DAZN Baloncesto 3
-Rugby Challenge Spain,Rugby Challenge Spain
-MMA TV,MMA TV
-Gol Classics,Gol Classics
-Runtime Thriller-Terror,Runtime Thriller-Terror
-Runtime Comedia,Runtime Comedia
-Runtime Cine y Series,Runtime Cine y Series
-Runtime Series,Runtime Series
-Runtime Acción,Runtime Acción
-Runtime Crimen,Runtime Crimen
-Runtime Romance,Runtime Romance
-RunTime Clásicos,RunTime Clásicos
-RunTime Familia,RunTime Familia
-TRACE Sports Stars,TRACE Sports Stars
-Horse TV,Horse TV
-Motorvision,Motorvision
-FightSports,FightSports
-Fight Box HD,Fight Box
 Cazavisión,Cazavisión
-TR3CE,TR3CE
 Tennis Channel,Tennis Channel
-NatureTime,NatureTime
-Moto ADV,Moto ADV
-8madrid TV,8madrid TV
-Sky News International,Sky News International
 FIFA+,FIFA+
 DSPORTS,DSPORTS
 DSPORTS 2,DSPORTS 2
 DSPORTS+,DSPORTS+
-DSPORTS Fight,DSPORTS Fight
-beIN SPORTS en español,beIN SPORTS en español
-beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ
-Star TVE HD,Star TVE
-Discovery Turbo,Discovery Turbo
 FOX SPORTS,FOX SPORTS
 FOX SPORTS 2,FOX SPORTS 2
 FOX SPORTS 3,FOX SPORTS 3
@@ -249,16 +151,6 @@ TyC Sports,TyC Sports
 TUDN (Estados Unidos),TUDN (Estados Unidos)
 TUDN (México),TUDN (México)
 Sky Sports 16,Sky Sports 16
-Libertad Digital TV,Libertad Digital TV
-PT | Canal 11,PT | Canal 11
-PT | DAZN 1,PT | DAZN 1
-PT | DAZN 2,PT | DAZN 2
-PT | DAZN 3,PT | DAZN 3
-PT | DAZN 4,PT | DAZN 4
-PT | DAZN 5,PT | DAZN 5
-PT | Eurosport 1 HD,PT | Eurosport 1
-PT | Eurosport 2 HD,PT | Eurosport 2
-PT | Fight Box,PT | Fight Box
 PT | Sport TV +,PT | Sport TV +
 PT | Sport TV 1,PT | Sport TV 1
 PT | Sport TV 2,PT | Sport TV 2
@@ -267,9 +159,7 @@ PT | Sport TV 4,PT | Sport TV 4
 PT | Sport TV 5,PT | Sport TV 5
 PT | Sport TV 6,PT | Sport TV 6
 PT | Sport TV 7,PT | Sport TV 7
-Onetoro,Onetoro
 UK | Sky Sport Main Event,UK | Sky Sport Main Event
-UK | Sky Sport Football,UK | Sky Sport Football
 UK | Sky Sport F1,UK | Sky Sport F1
 UK | Sky Sport Action,UK | Sky Sport Action
 UK | Sky Sport Arena,UK | Sky Sport Arena
