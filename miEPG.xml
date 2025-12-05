@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 05/12/2025 11:34" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 05/12/2025 13:34" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1">
     <display-name>La 1</display-name>
 		<icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -33,8 +33,10 @@
 	</programme>
 	<programme start="20251205103500 +0100" stop="20251205150000 +0100" channel="La 1">
     <title>Mañaneros 360 T2 E70</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20251205150000 +0100" stop="20251205153500 +0100" channel="La 1">
     <title>Telediario 1</title>
@@ -53,7 +55,7 @@
 	</programme>
 	<programme start="20251205154000 +0100" stop="20251205154500 +0100" channel="La 1">
     <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.4/10
+    <desc>Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -65,19 +67,23 @@
 	</programme>
 	<programme start="20251205155500 +0100" stop="20251205175500 +0100" channel="La 1">
     <title>Directo al grano T1 E60</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20251205175500 +0100" stop="20251205193000 +0100" channel="La 1">
     <title>Sorteo Mundial 2026</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *8.0/10
+    <desc>Deportes,Programa deportes | 2025 | *8.0/10
 · El Centro Kennedy de Washington, en Estados Unidos, acoge la celebración del sorteo.
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20251205193000 +0100" stop="20251205203000 +0100" channel="La 1">
     <title>Malas lenguas T2 E60</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.6/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20251205203000 +0100" stop="20251205210000 +0100" channel="La 1">
     <title>Aquí la Tierra</title>
@@ -153,19 +159,19 @@
 	</programme>
 	<programme start="20251206042000 +0100" stop="20251206060000 +0100" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
 	<programme start="20251206060000 +0100" stop="20251206070000 +0100" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
 	<programme start="20251206070000 +0100" stop="20251206100000 +0100" channel="La 1">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
@@ -184,7 +190,7 @@
 	</programme>
 	<programme start="20251206145500 +0100" stop="20251206154500 +0100" channel="La 1">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | *4.0/10
+    <desc>Información,Informativo | 2021 | TP | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -219,8 +225,13 @@
 	</programme>
 	<programme start="20251206173000 +0100" stop="20251206190500 +0100" channel="La 1">
     <title>Flechazo a primera vista</title>
-    <desc>Cine,Drama | 2018 | TP | *7.4/10
-· Charlotte Marton es una joven administradora judicial que va a Suecia para cerrar una empresa de juguetes. Allí conoce a Martial, un hombre encantador que asumió la dirección de la empresa después de la muerte de su hermana.</desc>
+    <desc>Cine,Drama | 2018 | TP | *7.2/10
+· Charlotte Marton es una joven administradora judicial que va a Suecia para cerrar una empresa de juguetes. Allí conoce a Martial, un hombre encantador que asumió la dirección de la empresa después de la muerte de su hermana.
+· País: Francia
+· Dirección: Arnauld Mercadier.
+· Reparto: Julie De Bona, Tomer Sisley, Malonn Lévana.
+· Guion: Amanda Sthers.
+· Productora: Big Band Story.</desc>
 	</programme>
 	<programme start="20251206190500 +0100" stop="20251206205500 +0100" channel="La 1">
     <title>La tía de Carlos</title>
@@ -965,8 +976,10 @@
 	</programme>
 	<programme start="20251205103500 +0100" stop="20251205150000 +0100" channel="La 1 Super UHD 4k">
     <title>Mañaneros 360 T2 E70</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16
-· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
+· País: España
+· Presenta: Adela González, Javier Ruiz.</desc>
 	</programme>
 	<programme start="20251205150000 +0100" stop="20251205153500 +0100" channel="La 1 Super UHD 4k">
     <title>Telediario 1</title>
@@ -985,7 +998,7 @@
 	</programme>
 	<programme start="20251205154000 +0100" stop="20251205154500 +0100" channel="La 1 Super UHD 4k">
     <title>El tiempo</title>
-    <desc>Información,Meteorología | 2014 | TP | *6.4/10
+    <desc>Información,Meteorología | 2014 | *6.4/10
 · Información sobre la previsión meteorológica.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -997,19 +1010,23 @@
 	</programme>
 	<programme start="20251205155500 +0100" stop="20251205175500 +0100" channel="La 1 Super UHD 4k">
     <title>Directo al grano T1 E60</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16
-· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.
+· País: España
+· Presenta: Marta Flich, Gonzalo Miró.</desc>
 	</programme>
 	<programme start="20251205175500 +0100" stop="20251205193000 +0100" channel="La 1 Super UHD 4k">
     <title>Sorteo Mundial 2026</title>
-    <desc>Deportes,Programa deportes | 2025 | TP | *8.0/10
+    <desc>Deportes,Programa deportes | 2025 | *8.0/10
 · El Centro Kennedy de Washington, en Estados Unidos, acoge la celebración del sorteo.
 · País: Estados Unidos</desc>
 	</programme>
 	<programme start="20251205193000 +0100" stop="20251205203000 +0100" channel="La 1 Super UHD 4k">
     <title>Malas lenguas T2 E60</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.6/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20251205203000 +0100" stop="20251205210000 +0100" channel="La 1 Super UHD 4k">
     <title>Aquí la Tierra</title>
@@ -1085,19 +1102,19 @@
 	</programme>
 	<programme start="20251206042000 +0100" stop="20251206060000 +0100" channel="La 1 Super UHD 4k">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
 	<programme start="20251206060000 +0100" stop="20251206070000 +0100" channel="La 1 Super UHD 4k">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
 	<programme start="20251206070000 +0100" stop="20251206100000 +0100" channel="La 1 Super UHD 4k">
     <title>Noticias 24H</title>
-    <desc>Información,Informativo | 2021 | TP | *6.2/10
+    <desc>Información,Informativo | 2021 | *6.2/10
 · Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.
 · País: España</desc>
 	</programme>
@@ -1116,7 +1133,7 @@
 	</programme>
 	<programme start="20251206145500 +0100" stop="20251206154500 +0100" channel="La 1 Super UHD 4k">
     <title>Telediario 1 Fin de Semana</title>
-    <desc>Información,Informativo | 2021 | *4.0/10
+    <desc>Información,Informativo | 2021 | TP | *4.0/10
 · Noticiario del fin de semana, que pone especial énfasis en los acontecimientos deportivos.
 · País: España
 · Presenta: Marc Sala, Lourdes Maldonado.
@@ -1151,8 +1168,13 @@
 	</programme>
 	<programme start="20251206173000 +0100" stop="20251206190500 +0100" channel="La 1 Super UHD 4k">
     <title>Flechazo a primera vista</title>
-    <desc>Cine,Drama | 2018 | TP | *7.4/10
-· Charlotte Marton es una joven administradora judicial que va a Suecia para cerrar una empresa de juguetes. Allí conoce a Martial, un hombre encantador que asumió la dirección de la empresa después de la muerte de su hermana.</desc>
+    <desc>Cine,Drama | 2018 | TP | *7.2/10
+· Charlotte Marton es una joven administradora judicial que va a Suecia para cerrar una empresa de juguetes. Allí conoce a Martial, un hombre encantador que asumió la dirección de la empresa después de la muerte de su hermana.
+· País: Francia
+· Dirección: Arnauld Mercadier.
+· Reparto: Julie De Bona, Tomer Sisley, Malonn Lévana.
+· Guion: Amanda Sthers.
+· Productora: Big Band Story.</desc>
 	</programme>
 	<programme start="20251206190500 +0100" stop="20251206205500 +0100" channel="La 1 Super UHD 4k">
     <title>La tía de Carlos</title>
@@ -1969,7 +1991,7 @@
 	</programme>
 	<programme start="20251205113000 +0100" stop="20251205115500 +0100" channel="La 2 Super Full HD 8k">
     <title>El escarabajo verde: Sed digital</title>
-    <desc>Documentales,Naturaleza | 2025 | TP | *6.0/10
+    <desc>Documentales,Naturaleza | 2025 | TP | *6.4/10
 · El programa se centra en conocer el impacto ecológico de los centros de datos. Para ello, el equipo entrevista a una Inteligencia Artificial, así como a expertos y expertas en la materia.
 · País: España
 · Productora: Televisión Española (TVE).</desc>
@@ -2030,8 +2052,10 @@
 	</programme>
 	<programme start="20251205174000 +0100" stop="20251205193500 +0100" channel="La 2 Super Full HD 8k">
     <title>Malas lenguas T2 E60</title>
-    <desc>Entretenimiento,Magacín | 2025 | +16
-· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.6/10
+· Jesús Cintora presenta este magacine de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.
+· País: España
+· Dirección: Jesús Cintora.</desc>
 	</programme>
 	<programme start="20251205193500 +0100" stop="20251205202000 +0100" channel="La 2 Super Full HD 8k">
     <title>La asombrosa aventura estadounidense de George · La Costa Este</title>
@@ -2106,7 +2130,7 @@
 	</programme>
 	<programme start="20251206022500 +0100" stop="20251206032500 +0100" channel="La 2 Super Full HD 8k">
     <title>Las noches del Monumental T25/26 · Itziar Yague</title>
-    <desc>Música,Concierto | 2025 | TP
+    <desc>Música,Concierto | 2025 | TP | *8.0/10
 · Emisión de conciertos en vivo de música clásica, jazz, flamenco y copla, entre otros géneros, desde el Teatro Monumental, con grupos de la Orquesta y Coro RTVE y artistas de reconocido prestigio.
 · País: España</desc>
 	</programme>
@@ -2119,7 +2143,7 @@
 	</programme>
 	<programme start="20251206041500 +0100" stop="20251206050000 +0100" channel="La 2 Super Full HD 8k">
     <title>La asombrosa aventura estadounidense de George · Florida</title>
-    <desc>Documentales,Viajes | 2024 | TP
+    <desc>Documentales,Viajes | 2024 | TP | *6.0/10
 · George Clarke explora el icónico movimiento de diseño americano en un camino cautivador menos transitado por los Estados Unidos.
 · País: Reino Unido</desc>
 	</programme>
@@ -2220,7 +2244,8 @@
 	<programme start="20251206123500 +0100" stop="20251206130500 +0100" channel="La 2 Super Full HD 8k">
     <title>El lenguaje de las máquinas</title>
     <desc>Documentales,Docureality | 2025 | TP
-· Programa que muestra a estudiantes en su aprendizaje de computación, IA y robótica.</desc>
+· Programa que muestra a estudiantes en su aprendizaje de computación, IA y robótica.
+· País: España</desc>
 	</programme>
 	<programme start="20251206130500 +0100" stop="20251206133500 +0100" channel="La 2 Super Full HD 8k">
     <title>Página 2 T19</title>
