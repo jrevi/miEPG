@@ -1,67 +1,102 @@
 # Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
 # o https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiaiptv.xml
 # o https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz
-La 1 HD,La 1
-M+ Estrenos HD,M+ Estrenos
-M+ Hits HD,M+ Hits
-M+ Originales HD,M+ Originales
-M+ Navidad,M+ Navidad
-M+ Documentales HD,M+ Documentales
-M+ En juego,M+ En juego
-M+ Clásicos HD,M+ Clásicos
-M+ Acción HD,M+ Acción
-M+ Comedia HD,M+ Comedia
-M+ Drama HD,M+ Drama
-M+ Indie HD,M+ Indie
-M+ Cine Español,M+ Cine Español
-M+ PopUp,M+ PopUp
-M+ PopUp 2,M+ PopUp 2
-TCM HD,TCM
-Paramount Network,Paramount Network
-Be Mad,Be Mad
+# AMC Break,AMC Break
+AMC Crime,AMC Crime
+AMC HD,AMC
 AXN HD,AXN
-Warner TV HD,Warner TV
-Calle 13 HD,Calle 13
-SyFy HD,SyFy
-Caza y Pesca HD,Caza y Pesca
-Iberalia TV,Iberalia TV
-National Geographic HD,National Geographic
-Nat Geo Wild HD,Nat Geo Wild
-CMM TV,CMM TV
-La 7 CyL,La 7 CyL
-HBO Max Avances,HBO Max Avances
-SkyShowtime,SkyShowtime
 AXN Movies HD,AXN Movies
-Movistar Plus+ HD,Movistar Plus+
-Primera Federación,Primera Federación
-M+ Vamos HD,M+ Vamos
-M+ LaLiga HD,M+ LaLiga
-DAZN LaLiga HD,DAZN LaLiga
-LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
-M+ LaLiga 2 HD,M+ LaLiga 2
-DAZN LaLiga 2 HD,DAZN LaLiga 2
-LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
-M+ Liga de Campeones HD,M+ Liga de Campeones
-M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2
-M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3
-M+ Deportes HD,M+ Deportes
-M+ Deportes 2 HD,M+ Deportes 2
-M+ Deportes 3,M+ Deportes 3
-M+ Ellas Vamos HD,M+ Ellas Vamos
-M+ Golf HD,M+ Golf
-M+ Golf 2 HD,M+ Golf 2
-DAZN F1 HD,DAZN F1
+BOM Cine,BOM Cine
+Be Mad,Be Mad
+# CMM TV,CMM TV
+Calle 13 HD,Calle 13
+Canal Hollywood HD,Canal Hollywood
+Caza y Pesca HD,Caza y Pesca
+# Cazavisión,Cazavisión
+Cine Feel Good,Cine Feel Good
+Cines Verdi TV,Cines Verdi TV
+DARK,DARK
+DAZN 1 BAR,DAZN 1 BAR
 DAZN 1 HD,DAZN 1
+DAZN 2 BAR,DAZN 2 BAR
 DAZN 2 HD,DAZN 2
+DAZN 3 HD,DAZN 3
+DAZN 4 HD,DAZN 4
+# DAZN F1 BAR,DAZN F1 BAR
+DAZN F1 HD,DAZN F1
+# DAZN LALIGA EA SPORTS 2,DAZN LALIGA EA SPORTS 2
+# DAZN LALIGA EA SPORTS,DAZN LALIGA EA SPORTS
+DAZN LaLiga 2 HD,DAZN LaLiga 2
+# DAZN LaLiga 3,DAZN LaLiga 3
+# DAZN LaLiga 4,DAZN LaLiga 4
+# DAZN LaLiga 5,DAZN LaLiga 5
+DAZN LaLiga HD,DAZN LaLiga
+# DAZN Liga F 2,DAZN Liga F 2
+# DAZN Liga F 3,DAZN Liga F 3
+# DAZN Liga F,DAZN Liga F
+# DAZN MotoGP,DAZN MotoGP
+ESPN 2,ESPN 2
+ESPN 3,ESPN 3
+# ESPN 4,ESPN 4
+# ESPN Deportes,ESPN Deportes
+# ESPN International,ESPN International
+# ESPN,ESPN
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
-Teledeporte,Teledeporte
-M+ Liga de Campeones 4,M+ Liga de Campeones 4
-M+ Liga de Campeones 5,M+ Liga de Campeones 5
-M+ Liga de Campeones 6,M+ Liga de Campeones 6
-M+ Liga de Campeones 7,M+ Liga de Campeones 7
-M+ Liga de Campeones 8,M+ Liga de Campeones 8
-M+ Liga de Campeones 9,M+ Liga de Campeones 9
+# Eurosport 4K,Eurosport 4K
+# Extreme Channel,Extreme Channel
+# FIFA+,FIFA+
+FOX SPORTS 2,FOX SPORTS 2
+FOX SPORTS 3,FOX SPORTS 3
+FOX SPORTS,FOX SPORTS
+GOL,GOL
+GolStadium,GolStadium
+# HBO Max Avances,HBO Max Avances
+Iberalia TV,Iberalia TV
+Iberalia caza,Iberalia caza,,+1
+LALIGA Inside,LALIGA Inside
+La 1 HD,La 1
+# La 7 CyL,La 7 CyL
+# La 7 Segovia,La 7 Segovia
+# La 8 Segovia,La 8 Segovia
+# LaLiga TV BAR 2,LaLiga TV BAR 2
+# LaLiga TV BAR 3,LaLiga TV BAR 3
+# LaLiga TV BAR 4,LaLiga TV BAR 4
+# LaLiga TV BAR 5,LaLiga TV BAR 5
+# LaLiga TV BAR HD,LaLiga TV BAR
+LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2
+LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
+LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
+# Liga de Campeones BAR 2,Liga de Campeones BAR 2
+M+ Acción HD,M+ Acción
+M+ Cine Español,M+ Cine Español
+M+ Clásicos HD,M+ Clásicos
+M+ Comedia HD,M+ Comedia
+M+ Deportes 2 HD,M+ Deportes 2
+M+ Deportes 3,M+ Deportes 3
+M+ Deportes 4,M+ Deportes 4
+M+ Deportes 5,M+ Deportes 5
+M+ Deportes 6,M+ Deportes 6
+M+ Deportes 7,M+ Deportes 7
+M+ Deportes 8,M+ Deportes 8
+M+ Deportes HD,M+ Deportes
+M+ Documentales HD,M+ Documentales
+M+ Drama HD,M+ Drama
+M+ Ellas Vamos HD,M+ Ellas Vamos
+M+ En juego,M+ En juego
+M+ Estrenos HD,M+ Estrenos
+M+ Golf 2 HD,M+ Golf 2
+M+ Golf HD,M+ Golf
+M+ Hits HD,M+ Hits
+M+ Indie HD,M+ Indie
+M+ LaLiga 2 HD,M+ LaLiga 2
+M+ LaLiga 2 HDR,M+ LaLiga 2 HDR
+M+ LaLiga 3 HD,M+ LaLiga 3
+M+ LaLiga 4,M+ LaLiga 4
+# M+ LaLiga 5,M+ LaLiga 5
+M+ LaLiga 6,M+ LaLiga 6
+M+ LaLiga HD,M+ LaLiga
+M+ LaLiga HDR,M+ LaLiga HDR
 M+ Liga de Campeones 10,M+ Liga de Campeones 10
 M+ Liga de Campeones 11,M+ Liga de Campeones 11
 M+ Liga de Campeones 12,M+ Liga de Campeones 12
@@ -72,85 +107,29 @@ M+ Liga de Campeones 16,M+ Liga de Campeones 16
 M+ Liga de Campeones 17,M+ Liga de Campeones 17
 M+ Liga de Campeones 18,M+ Liga de Campeones 18
 M+ Liga de Campeones 19,M+ Liga de Campeones 19
-M+ LaLiga 3 HD,M+ LaLiga 3
-M+ LaLiga 4,M+ LaLiga 4
-M+ LaLiga 5,M+ LaLiga 5
-M+ LaLiga 6,M+ LaLiga 6
-DAZN LaLiga 3,DAZN LaLiga 3
-DAZN LaLiga 4,DAZN LaLiga 4
-DAZN LaLiga 5,DAZN LaLiga 5
+M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2
+# M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
+M+ Liga de Campeones 3 HD,M+ Liga de Campeones 3
+M+ Liga de Campeones 4,M+ Liga de Campeones 4
+M+ Liga de Campeones 5,M+ Liga de Campeones 5
+M+ Liga de Campeones 6,M+ Liga de Campeones 6
+M+ Liga de Campeones 7,M+ Liga de Campeones 7
+M+ Liga de Campeones 8,M+ Liga de Campeones 8
+M+ Liga de Campeones 9,M+ Liga de Campeones 9
+M+ Liga de Campeones HD,M+ Liga de Campeones
+# M+ Liga de Campeones HDR,M+ Liga de Campeones HDR
+# M+ Navidad,M+ Navidad
+M+ Originales HD,M+ Originales
+# M+ PopUp 2,M+ PopUp 2
+# M+ PopUp,M+ PopUp
 M+ Vamos 2,M+ Vamos 2
-LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
-M+ Deportes 4,M+ Deportes 4
-M+ Deportes 5,M+ Deportes 5
-M+ Deportes 6,M+ Deportes 6
-M+ Deportes 7,M+ Deportes 7
-M+ Deportes 8,M+ Deportes 8
-DAZN 3 HD,DAZN 3
-DAZN 4 HD,DAZN 4
-M+ LaLiga HDR,M+ LaLiga HDR
-M+ LaLiga 2 HDR,M+ LaLiga 2 HDR
-M+ Liga de Campeones HDR,M+ Liga de Campeones HDR
-M+ Liga de Campeones 2 HDR,M+ Liga de Campeones 2 HDR
-Eurosport 4K,Eurosport 4K
-M+ Wimbledon UHD,M+ Wimbledon
-Vamos BAR,Vamos BAR
-Vamos BAR 2,Vamos BAR 2
-LaLiga TV BAR HD,LaLiga TV BAR
-LaLiga TV BAR 2,LaLiga TV BAR 2
-LaLiga TV BAR 3,LaLiga TV BAR 3
-Rally.TV,Rally.TV
-Liga de Campeones BAR 2,Liga de Campeones BAR 2
-DAZN F1 BAR,DAZN F1 BAR
-Iberalia caza,Iberalia caza,,-1
-DAZN LALIGA EA SPORTS,DAZN LALIGA EA SPORTS
-DAZN LALIGA EA SPORTS 2,DAZN LALIGA EA SPORTS 2
-DAZN Liga F,DAZN Liga F
-DAZN Liga F 2,DAZN Liga F 2
-DAZN Liga F 3,DAZN Liga F 3
-DAZN MotoGP,DAZN MotoGP
-Extreme Channel,Extreme Channel
-VINX,VINX
-HIT TV,HIT TV
-Dark Rojo,Dark Rojo
-AMC+ Connect,AMC+ Connect
-DAZN 1 BAR,DAZN 1 BAR
-DAZN 2 BAR,DAZN 2 BAR
-LaLiga TV BAR 4,LaLiga TV BAR 4
-LaLiga TV BAR 5,LaLiga TV BAR 5
-Somos Cine,Somos Cine
-La 7 Segovia,La 7 Segovia
-La 8 Segovia,La 8 Segovia
-DARK,DARK
-AMC Break,AMC Break
+M+ Vamos HD,M+ Vamos
+# M+ Wimbledon UHD,M+ Wimbledon
+Movistar Plus+ HD,Movistar Plus+
+# Nat Geo Wild HD,Nat Geo Wild
+# National Geographic HD,National Geographic
 Odisea,Odisea
-AMC HD,AMC
-AMC Crime,AMC Crime
-XTRM,XTRM
-Canal Hollywood HD,Canal Hollywood
-BOM Cine,BOM Cine
-Cines Verdi TV,Cines Verdi TV
-Cine Feel Good,Cine Feel Good
-LALIGA Inside,LALIGA Inside
-Cazavisión,Cazavisión
-Tennis Channel,Tennis Channel
-FIFA+,FIFA+
-DSPORTS,DSPORTS
-DSPORTS 2,DSPORTS 2
-DSPORTS+,DSPORTS+
-FOX SPORTS,FOX SPORTS
-FOX SPORTS 2,FOX SPORTS 2
-FOX SPORTS 3,FOX SPORTS 3
-ESPN,ESPN
-ESPN 2,ESPN 2
-ESPN 3,ESPN 3
-ESPN 4,ESPN 4
-ESPN Deportes,ESPN Deportes
-ESPN International,ESPN International
-TyC Sports,TyC Sports
-TUDN (Estados Unidos),TUDN (Estados Unidos)
-TUDN (México),TUDN (México)
-Sky Sports 16,Sky Sports 16
+Onetoro,Onetoro
 PT | Sport TV +,PT | Sport TV +
 PT | Sport TV 1,PT | Sport TV 1
 PT | Sport TV 2,PT | Sport TV 2
@@ -159,14 +138,33 @@ PT | Sport TV 4,PT | Sport TV 4
 PT | Sport TV 5,PT | Sport TV 5
 PT | Sport TV 6,PT | Sport TV 6
 PT | Sport TV 7,PT | Sport TV 7
-UK | Sky Sport Main Event,UK | Sky Sport Main Event
+Paramount Network,Paramount Network
+# Primera Federación,Primera Federación
+# Rally.TV,Rally.TV
+Sky Sports 16,Sky Sports 16
+SkyShowtime,SkyShowtime
+Somos,Somos
+# Somos Cine,Somos Cine
+SyFy HD,SyFy
+TCM HD,TCM
+# TUDN (Estados Unidos),TUDN (Estados Unidos)
+# TUDN (México),TUDN (México)
+Teledeporte,Teledeporte
+# Tennis Channel,Tennis Channel
+# TyC Sports,TyC Sports
+UK | Sky Sport Action,UK | Sky Sport Action,,+1
+# UK | Sky Sport Arena,UK | Sky Sport Arena
 UK | Sky Sport F1,UK | Sky Sport F1
-UK | Sky Sport Action,UK | Sky Sport Action
-UK | Sky Sport Arena,UK | Sky Sport Arena
-UK | Sky Sport Mix,UK | Sky Sport Mix
+UK | Sky Sport Main Event,UK | Sky Sport Main Event
+**+1? UK | Sky Sport Mix,UK | Sky Sport Mix
 UK | Sky Sport Tennis,UK | Sky Sport Tennis
-UK | TNT Sports 1,UK | TNT Sports 1
+**+1? UK | TNT Sports 1,UK | TNT Sports 1
 UK | TNT Sports 2,UK | TNT Sports 2
 UK | TNT Sports 3,UK | TNT Sports 3
 UK | TNT Sports 4,UK | TNT Sports 4
-UK | TNT Sports Ultimate,UK | TNT Sports Ultimate
+# UK | TNT Sports Ultimate,UK | TNT Sports Ultimate
+# VINX,VINX
+# Vamos BAR 2,Vamos BAR 2
+Vamos BAR,Vamos BAR
+Warner TV HD,Warner TV
+XTRM,XTRM
