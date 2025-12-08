@@ -40,7 +40,7 @@ ESPN 3,ESPN 3
 # ESPN 4,ESPN 4
 # ESPN Deportes,ESPN Deportes
 # ESPN International,ESPN International
-# ESPN,ESPN
+ESPN,ESPN
 Eurosport 1 HD,Eurosport 1
 Eurosport 2,Eurosport 2
 # Eurosport 4K,Eurosport 4K
@@ -54,7 +54,7 @@ GolStadium,GolStadium
 # HBO Max Avances,HBO Max Avances
 Iberalia TV,Iberalia TV
 Iberalia caza,Iberalia caza,,+2
-LALIGA Inside,LALIGA Inside
+# LALIGA Inside,LALIGA Inside
 La 1 HD,La 1
 # La 7 CyL,La 7 CyL
 # La 7 Segovia,La 7 Segovia
