@@ -93,7 +93,7 @@ M+ LaLiga 2 HD,M+ LaLiga 2
 M+ LaLiga 2 HDR,M+ LaLiga 2 HDR
 M+ LaLiga 3 HD,M+ LaLiga 3
 M+ LaLiga 4,M+ LaLiga 4
-# M+ LaLiga 5,M+ LaLiga 5
+M+ LaLiga 5,M+ LaLiga 5
 M+ LaLiga 6,M+ LaLiga 6
 M+ LaLiga HD,M+ LaLiga
 M+ LaLiga HDR,M+ LaLiga HDR
@@ -153,15 +153,15 @@ Teledeporte,Teledeporte
 # Tennis Channel,Tennis Channel
 # TyC Sports,TyC Sports
 UK | Sky Sport Action,UK | Sky Sport Action,,2
-UK | Sky Sport Arena,UK | Sky Sport Arena,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Arena.png,2
-UK | Sky Sport F1,UK | Sky Sport F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20F1.png,2
-UK | Sky Sport Main Event,UK | Sky Sport Main Event,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Main%20Event.png,2
-UK | Sky Sport Mix,UK | Sky Sport Mix,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Mix.png,2
-UK | Sky Sport Tennis,UK | Sky Sport Tennis,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Tennis.png,2
-UK | TNT Sports 1,UK | TNT Sports 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png,2
-UK | TNT Sports 2,UK | TNT Sports 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png,2
-UK | TNT Sports 3,UK | TNT Sports 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png,2
-UK | TNT Sports 4,UK | TNT Sports 4,UK | TNT Sports 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%204.png,2
+UK | Sky Sport Arena,UK | Sky Sport Arena,,2
+UK | Sky Sport F1,UK | Sky Sport F1,,2
+UK | Sky Sport Main Event,UK | Sky Sport Main Event,,2
+UK | Sky Sport Mix,UK | Sky Sport Mix,,2
+UK | Sky Sport Tennis,UK | Sky Sport Tennis,,2
+UK | TNT Sports 1,UK | TNT Sports 1,,2
+UK | TNT Sports 2,UK | TNT Sports 2,,2
+UK | TNT Sports 3,UK | TNT Sports 3,,2
+UK | TNT Sports 4,UK | TNT Sports 4,,2
 # UK | TNT Sports Ultimate,UK | TNT Sports Ultimate
 # VINX,VINX
 # Vamos BAR 2,Vamos BAR 2
