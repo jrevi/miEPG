@@ -145,7 +145,7 @@ Paramount Network,Paramount Network
 # Rally.TV,Rally.TV
 # Sky Sports 16,Sky Sports 16
 SkyShowtime,SkyShowtime
-Somos,Somos
+# no se ve Somos,Somos
 # Somos Cine,Somos Cine
 STAR Channel HD,STAR Channel
 # Star TVE HD,Star TVE
