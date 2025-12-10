@@ -171,6 +171,6 @@ UK | TNT Sports 4,UK | TNT Sports 4,,2
 # UK | TNT Sports Ultimate,UK | TNT Sports Ultimate
 # VINX,VINX
 # Vamos BAR 2,Vamos BAR 2
-Vamos BAR,Vamos BAR
+# igual que "M+ Vamos HD" Vamos BAR,Vamos BAR
 Warner TV HD,Warner TV
 # XTRM,XTRM
