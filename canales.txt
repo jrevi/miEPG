@@ -141,8 +141,10 @@ Onetoro,Onetoro
 PT | Sport TV 6,PT | Sport TV 6
 PT | Sport TV 7,PT | Sport TV 7
 Paramount Network,Paramount Network
-# Primera Federación,Primera Federación
+Primera Federación,Primera Federación
 # Rally.TV,Rally.TV
+RunTime Clásicos,RunTime Clásicos
+Runtime Thriller-Terror,Runtime Thriller-Terror
 # Sky Sports 16,Sky Sports 16
 SkyShowtime,SkyShowtime
 # Somos,Somos
