@@ -391,41 +391,41 @@ Banyoles TV,Banyoles TV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset
 Vallès Visió,Vallès Visió,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/113f590aa4c64dba85578d063e164269/Images/16ef075877324bf1846413275a7ff5bc
 DARK,DARK,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DARK.png
 AMC Break,AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
-Odisea,Odisea,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Odisea.png
-AMC HD,AMC,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC.png
-AMC Crime,AMC Crime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png
-Historia,Historia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png
-XTRM,XTRM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/XTRM.png
-Canal Hollywood HD,Canal Hollywood,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png
-Sundance TV,Sundance TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sundance%20TV.png
-VinTV,VinTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VinTV.png
-Somos,Somos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos.png
-Canal Cocina,Canal Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
-Decasa,Decasa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Decasa.png
-SELEKT,SELEKT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png
-Veo7,Veo7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Veo7.png
-BOM Cine,BOM Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png
-BuenViaje,BuenViaje,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png
-Cines Verdi TV,Cines Verdi TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png
-Cine Feel Good,Cine Feel Good,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png
-LALIGA Inside,LALIGA Inside,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png
-Top Barça,Top Barça,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png
-Betis TV,Betis TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
-DAZN Baloncesto,DAZN Baloncesto,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png
-DAZN Baloncesto 2,DAZN Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png
-DAZN Baloncesto 3,DAZN Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
-Rugby Challenge Spain,Rugby Challenge Spain,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rugby%20Challenge%20Spain.png
-MMA TV,MMA TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MMA%20TV.png
-Gol Classics,Gol Classics,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
-Runtime Thriller-Terror,Runtime Thriller-Terror,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png
-Runtime Comedia,Runtime Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Comedia.png
-Runtime Cine y Series,Runtime Cine y Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Cine%20y%20Series.png
-Runtime Series,Runtime Series,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Series.png
-Runtime Acción,Runtime Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Acci%C3%B3n.png
-Runtime Crimen,Runtime Crimen,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Crimen.png
-Runtime Romance,Runtime Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Romance.png
-RunTime Clásicos,RunTime Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png
-RunTime Familia,RunTime Familia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Familia.png
+Odisea,Odisea,
+AMC HD,AMC,
+AMC Crime,AMC Crime,
+Historia,Historia,
+XTRM,XTRM,
+Canal Hollywood HD,Canal Hollywood,
+Sundance TV,Sundance TV,
+VinTV,VinTV,
+Somos,Somos,
+Canal Cocina,Canal Cocina,
+Decasa,Decasa,
+SELEKT,SELEKT,
+Veo7,Veo7,
+BOM Cine,BOM Cine,
+BuenViaje,BuenViaje,
+Cines Verdi TV,Cines Verdi TV,
+Cine Feel Good,Cine Feel Good,
+LALIGA Inside,LALIGA Inside,
+Top Barça,Top Barça,
+Betis TV,Betis TV,
+DAZN Baloncesto,DAZN Baloncesto,
+DAZN Baloncesto 2,DAZN Baloncesto 2,
+DAZN Baloncesto 3,DAZN Baloncesto 3,
+Rugby Challenge Spain,Rugby Challenge Spain,
+MMA TV,MMA TV,
+Gol Classics,Gol Classics,
+Runtime Thriller-Terror,Runtime Thriller-Terror,
+Runtime Comedia,Runtime Comedia,
+Runtime Cine y Series,Runtime Cine y Series,
+Runtime Series,Runtime Series,
+Runtime Acción,Runtime Acción,
+Runtime Crimen,Runtime Crimen,
+Runtime Romance,Runtime Romance,
+RunTime Clásicos,RunTime Clásicos,
+RunTime Familia,RunTime Familia,
 TRACE Sports Stars,TRACE Sports Stars,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png
 Horse TV,Horse TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Horse%20TV.png
 Nautical Channel,Nautical Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nautical%20Channel.png
