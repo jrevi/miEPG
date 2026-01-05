@@ -275,10 +275,6 @@ TELEVIGO,TELEVIGO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 Lolly Kids,Lolly Kids,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png
 VINX,VINX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VINX.png
 HIT TV,HIT TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HIT%20TV.png
-MTV 80s,MTV 80s,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2080s.png
-MTV 90s,MTV 90s,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2090s.png
-MTV Hits,MTV Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Hits.png
-Club MTV,Club MTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Club%20MTV.png
 NickMusic,NickMusic,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NickMusic.png
 Record,Record,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Record.png
 RTP Internacional,RTP Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RTP%20Internacional.png
@@ -569,7 +565,7 @@ DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_d
 DE | DAZN 1,DE | DAZN 1,https://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png
 DE | DAZN 2,DE | DAZN 2,https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png
 DE | Sky Sport Austria 1,DE | Sky Sport Austria 1,https://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
-DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
+DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,
 DE | Sky Sport Austria 3,DE | Sky Sport Austria 3,
 DE | Sky Sport Austria 4,DE | Sky Sport Austria 4,
 DE | Sky Sport Austria 5,DE | Sky Sport Austria 5,
