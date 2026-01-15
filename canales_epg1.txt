@@ -240,7 +240,6 @@ Red Bull TV,Red Bull TV,https://raw.githubusercontent.com/davidmuma/picons_doble
 Unbeaten,Unbeaten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png
 PowerSports World,PowerSports World,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PowerSports%20World.png
 PLL Network,PLL Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PLL%20Network.png
-ACL Cornhole TV,ACL Cornhole TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ACL%20Cornhole%20TV.png
 Billiard TV,Billiard TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Billiard%20TV.png
 DAZN Bundesliga,DAZN Bundesliga,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Bundesliga 2,DAZN Bundesliga 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
@@ -301,6 +300,11 @@ DAZN 1 BAR,DAZN 1 BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/
 DAZN 2 BAR,DAZN 2 BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png
 LaLiga TV BAR 4,LaLiga TV BAR 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%204.png
 LaLiga TV BAR 5,LaLiga TV BAR 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20BAR%205.png
+ETB1 euskera,ETB1 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1%20euskera.png
+ETB2 euskera,ETB2 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2%20euskera.png
+ETB3 euskera,ETB3 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3%20euskera.png
+ETB4 euskera,ETB4 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB4%20euskera.png
+EITB Basque euskera,EITB Basque euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EITB%20Basque%20euskera.png
 La 1 Cataluña,La 1 Cataluña,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Catalu%C3%B1a.png
 La 2 Cataluña,La 2 Cataluña,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Catalu%C3%B1a.png
 24 horas Cataluña,24 horas Cataluña,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Catalu%C3%B1a.png
