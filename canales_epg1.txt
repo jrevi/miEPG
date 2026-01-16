@@ -364,7 +364,7 @@ La 8 Valladolid,La 8 Valladolid,https://raw.githubusercontent.com/davidmuma/pico
 La 8 Zamora,La 8 Zamora,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%208%20Zamora.png
 Canal 10 Empordà,Canal 10 Empordà,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/59b39e8627ac48fc918ac74868f10c52/Images/c87bb30b698f4dc9ae2fb28664d7f557
 EmpordaTV,EmpordaTV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/372eac7b9f6147ce9b33835dcca3fa7c/Images/6864e0b1ce6f454995af88f894038cda
-TAC12,TAC12,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75
+TAC12,TAC12,
 TV Costa Brava,TV Costa Brava,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/d8b1cbbc1ebb4ce7acc069ec43a341a8
 Canal Terrassa,Canal Terrassa,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/7b1fb076dbeb487ebc107950baeaa583/Images/30706a728c58462a92dc464334a0cd9b
 Televisió de l'Hospitalet,Televisió de l'Hospitalet,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4d27376306554922877e2fcde8b28d2a/Images/b3d18271aae4465290668f581fa3e20d
@@ -589,12 +589,12 @@ DE | DAZN 1,DE | DAZN 1,https://www.sky.de/static/img/senderlogos_dark/659_sky_l
 DE | DAZN 2,DE | DAZN 2,https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png
 DE | Sky Sport Austria 1,DE | Sky Sport Austria 1,https://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
 DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png
-DE | Sky Sport Austria 3,DE | Sky Sport Austria 3,
-DE | Sky Sport Austria 4,DE | Sky Sport Austria 4,
-DE | Sky Sport Austria 5,DE | Sky Sport Austria 5,
-DE | Sky Sport Austria 6,DE | Sky Sport Austria 6,
-DE | Sky Sport Austria 7,DE | Sky Sport Austria 7,
-DE | Sky Sport Austria 8,DE | Sky Sport Austria 8,
+DE | Sky Sport Austria 3,DE | Sky Sport Austria 3,https://www.sky.de/static/img/senderlogos_dark/730_sky_logo_skysportaustria_3-hd_tvguide.png
+DE | Sky Sport Austria 4,DE | Sky Sport Austria 4,https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png
+DE | Sky Sport Austria 5,DE | Sky Sport Austria 5,https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png
+DE | Sky Sport Austria 6,DE | Sky Sport Austria 6,https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png
+DE | Sky Sport Austria 7,DE | Sky Sport Austria 7,https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png
+DE | Sky Sport Austria 8,DE | Sky Sport Austria 8,https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png
 DE | Sky Sport Bundesliga,DE | Sky Sport Bundesliga,https://www.sky.de/static/img/senderlogos_dark/1018_sky_logo_sky-sport-buli-hd_tvguide.png
 DE | Sky Sport Bundesliga 1,DE | Sky Sport Bundesliga 1,https://www.sky.de/static/img/senderlogos_dark/119_sky_logo_skybundesligahd2_tvguide.png
 DE | Sky Sport Bundesliga 2,DE | Sky Sport Bundesliga 2,https://www.sky.de/static/img/senderlogos_dark/120_sky_logo_skybundesligahd3_tvguide.png
