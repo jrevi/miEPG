@@ -240,7 +240,6 @@ Red Bull TV,Red Bull TV,https://raw.githubusercontent.com/davidmuma/picons_doble
 Unbeaten,Unbeaten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten.png
 PowerSports World,PowerSports World,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PowerSports%20World.png
 PLL Network,PLL Network,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PLL%20Network.png
-ACL Cornhole TV,ACL Cornhole TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ACL%20Cornhole%20TV.png
 Billiard TV,Billiard TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Billiard%20TV.png
 DAZN Bundesliga,DAZN Bundesliga,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
 DAZN Bundesliga 2,DAZN Bundesliga 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
@@ -509,36 +508,36 @@ MTV Classic,MTV Classic,
 FR | ARTE,FR | ARTE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ARTE.png
 FR | FRANCE 24,FR | FRANCE 24,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FRANCE%2024.png
 FR | I24 NEWS,FR | I24 NEWS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/I24%20NEWS.png
-FR | MTV,FR | MTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png
-FR | INFOSPORT+,FR | INFOSPORT+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/INFOSPORT%2B.png
-FR | L`ÉQUIPE,FR | L`ÉQUIPE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/L%60%C3%89QUIPE.png
-FR | beIN SPORTS 1,FR | beIN SPORTS 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png
-FR | beIN SPORTS 2,FR | beIN SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png
-FR | beIN SPORTS 3,FR | beIN SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png
-FR | beIN SPORTS MAX 4,FR | beIN SPORTS MAX 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%204.png
-FR | beIN SPORTS MAX 5,FR | beIN SPORTS MAX 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%205.png
-FR | beIN SPORTS MAX 6,FR | beIN SPORTS MAX 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%206.png
-FR | beIN SPORTS MAX 7,FR | beIN SPORTS MAX 7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%207.png
-FR | beIN SPORTS MAX 8,FR | beIN SPORTS MAX 8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%208.png
-FR | beIN SPORTS MAX 9,FR | beIN SPORTS MAX 9,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%209.png
-FR | beIN SPORTS MAX 10,FR | beIN SPORTS MAX 10,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20MAX%2010.png
-FR | CANAL+ Sport,FR | CANAL+ Sport,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Sport.png
-FR | CANAL+ Premier League,FR | CANAL+ Premier League,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CANAL%2B%20Premier%20League.png
-FR | DAZN 1,FR | DAZN 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png
-FR | DAZN 2,FR | DAZN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png
-FR | DAZN 3,FR | DAZN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png
-FR | DAZN 4,FR | DAZN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png
-FR | DAZN 5,FR | DAZN 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png
-FR | Eurosport 1,FR | Eurosport 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png
-FR | Eurosport 2,FR | Eurosport 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png
-FR | Eurosport 360 1,FR | Eurosport 360 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%201.png
-FR | Eurosport 360 2,FR | Eurosport 360 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%202.png
-FR | Eurosport 360 3,FR | Eurosport 360 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%203.png
-FR | Eurosport 360 4,FR | Eurosport 360 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%204.png
-FR | Eurosport 360 5,FR | Eurosport 360 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%205.png
-FR | Eurosport 360 6,FR | Eurosport 360 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%206.png
-FR | Eurosport 360 7,FR | Eurosport 360 7,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%207.png
-FR | Eurosport 360 8,FR | Eurosport 360 8,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%20360%208.png
+FR | MTV,FR | MTV,
+FR | INFOSPORT+,FR | INFOSPORT+,
+FR | L`ÉQUIPE,FR | L`ÉQUIPE,
+FR | beIN SPORTS 1,FR | beIN SPORTS 1,
+FR | beIN SPORTS 2,FR | beIN SPORTS 2,
+FR | beIN SPORTS 3,FR | beIN SPORTS 3,
+FR | beIN SPORTS MAX 4,FR | beIN SPORTS MAX 4,
+FR | beIN SPORTS MAX 5,FR | beIN SPORTS MAX 5,
+FR | beIN SPORTS MAX 6,FR | beIN SPORTS MAX 6,
+FR | beIN SPORTS MAX 7,FR | beIN SPORTS MAX 7,
+FR | beIN SPORTS MAX 8,FR | beIN SPORTS MAX 8,
+FR | beIN SPORTS MAX 9,FR | beIN SPORTS MAX 9,
+FR | beIN SPORTS MAX 10,FR | beIN SPORTS MAX 10,
+FR | CANAL+ Sport,FR | CANAL+ Sport,
+FR | CANAL+ Premier League,FR | CANAL+ Premier League,
+FR | DAZN 1,FR | DAZN 1,
+FR | DAZN 2,FR | DAZN 2,
+FR | DAZN 3,FR | DAZN 3,
+FR | DAZN 4,FR | DAZN 4,
+FR | DAZN 5,FR | DAZN 5,
+FR | Eurosport 1,FR | Eurosport 1,
+FR | Eurosport 2,FR | Eurosport 2,
+FR | Eurosport 360 1,FR | Eurosport 360 1,
+FR | Eurosport 360 2,FR | Eurosport 360 2,
+FR | Eurosport 360 3,FR | Eurosport 360 3,
+FR | Eurosport 360 4,FR | Eurosport 360 4,
+FR | Eurosport 360 5,FR | Eurosport 360 5,
+FR | Eurosport 360 6,FR | Eurosport 360 6,
+FR | Eurosport 360 7,FR | Eurosport 360 7,
+FR | Eurosport 360 8,FR | Eurosport 360 8,
 Libertad Digital TV,Libertad Digital TV,https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj
 Imás TV,Imás TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png
 Punt 3,Punt 3,https://www.punt3.es/android-icon-192x192.png
