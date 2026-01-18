@@ -48,31 +48,31 @@ Divinity,Divinity,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 Nova,Nova,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nova.png
 Baby TV,Baby TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Baby%20TV.png
 Disney Junior,Disney Junior,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Disney%20Junior.png
-Nick JR,Nick JR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nick%20JR.png
-Nickelodeon HD,Nickelodeon,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nickelodeon.png
-Dreamworks HD,Dreamworks,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dreamworks.png
-Boing,Boing,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Boing.png
-Clan,Clan,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Clan.png
-MTV España,MTV España,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Espa%C3%B1a.png
-Mezzo,Mezzo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png
-Mezzo Live HD,Mezzo Live,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png
-Classica HD,Classica,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Classica.png
-24 Horas,24 Horas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png
-BBC World News Europe HD,BBC World News Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BBC%20World%20News%20Europe.png
-CNN International Europe,CNN International Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20International%20Europe.png
-Al Jazeera English HD,Al Jazeera English,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Al%20Jazeera%20English.png
-France 24 (en Francais),France 24 (en Francais),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%2024%20(en%20Francais).png
-CNBC Europe HD,CNBC Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNBC%20Europe.png
-TV5 Monde Europe HD,TV5 Monde Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV5%20Monde%20Europe.png
-Bloomberg TV Europe,Bloomberg TV Europe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bloomberg%20TV%20Europe.png
-Cubavisión Internacional HD,Cubavisión Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cubavisi%C3%B3n%20Internacional.png
-Telesur HD,Telesur,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telesur.png
-Canal Sur Andalucía,Canal Sur Andalucía,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur%20Andaluc%C3%ADa.png
-TVG Europa HD,TVG Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png
-Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png
-Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
-Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
-Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
+Nick JR,Nick JR,
+Nickelodeon HD,Nickelodeon,
+Dreamworks HD,Dreamworks,
+Boing,Boing,
+Clan,Clan,
+MTV España,MTV España,
+Mezzo,Mezzo,
+Mezzo Live HD,Mezzo Live,
+Classica HD,Classica,
+24 Horas,24 Horas,
+BBC World News Europe HD,BBC World News Europe,
+CNN International Europe,CNN International Europe,
+Al Jazeera English HD,Al Jazeera English,
+France 24 (en Francais),France 24 (en Francais),
+CNBC Europe HD,CNBC Europe,
+TV5 Monde Europe HD,TV5 Monde Europe,
+Bloomberg TV Europe,Bloomberg TV Europe,
+Cubavisión Internacional HD,Cubavisión Internacional,
+Telesur HD,Telesur,
+Canal Sur Andalucía,Canal Sur Andalucía,
+TVG Europa HD,TVG Europa,
+Canal Extremadura SAT,Canal Extremadura SAT,
+Aragón TV Internacional,Aragón TV Internacional,
+Alquiler HD,Alquiler,
+Alquiler 1,Alquiler 1,
 À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Navarra TV,Navarra TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png
@@ -83,46 +83,46 @@ La 7 CyL,La 7 CyL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 ETB1,ETB1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB1.png
 ETB2,ETB2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB2.png
 TVG,TVG,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG.png
-TVG2,TVG2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG2.png
-Canal Extremadura,Canal Extremadura,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura.png
-Telemadrid,Telemadrid,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid.png
-La Otra,La Otra,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Otra.png
-TV3,TV3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3.png
-La 7 Murcia,La 7 Murcia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Murcia.png
-Canal Sur HD,Canal Sur,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Sur.png
-Andalucía TV,Andalucía TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Andaluc%C3%ADa%20TV.png
-La Ocho Mediterráneo,La Ocho Mediterráneo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Ocho%20Mediterr%C3%A1neo.png
-IB3 TV Illes Balears,IB3 TV Illes Balears,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/IB3%20TV%20Illes%20Balears.png
-TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
-HBO Max Avances,HBO Max Avances,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png
-SkyShowtime,SkyShowtime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
-AXN Movies HD,AXN Movies,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
-TRECE,TRECE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRECE.png
-Atreseries,Atreseries,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atreseries.png
-Real Madrid TV,Real Madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png
-Garage TV,Garage TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Garage%20TV.png
-UBEAT,UBEAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png
-DMAX,DMAX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DMAX.png
-DKISS,DKISS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DKISS.png
-Mega,Mega,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mega.png
-Ten,Ten,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ten.png
-ETB3,ETB3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ETB3.png
-EuroNews,EuroNews,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png
-El Toro TV,El Toro TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png
-Negocios TV,Negocios TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Negocios%20TV.png
-CGTN Español,CGTN Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Espa%C3%B1ol.png
-CGTN Documentary,CGTN Documentary,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CGTN%20Documentary.png
-UCL,UCL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UCL.png
-Canal de las Estrellas,Canal de las Estrellas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20de%20las%20Estrellas.png
-TV Chile,TV Chile,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Chile.png
-Nuestra Tele Internacional,Nuestra Tele Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Nuestra%20Tele%20Internacional.png
-EWTN,EWTN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EWTN.png
-EITB Basque,EITB Basque,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EITB%20Basque.png
-Telemadrid Internacional,Telemadrid Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telemadrid%20Internacional.png
-SX3,SX3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SX3.png
-Esport 3,Esport 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png
-3CatInfo,3CatInfo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/3CatInfo.png
-Betevé,Betevé,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betev%C3%A9.png
+TVG2,TVG2,
+Canal Extremadura,Canal Extremadura,
+Telemadrid,Telemadrid,
+La Otra,La Otra,
+TV3,TV3,
+La 7 Murcia,La 7 Murcia,
+Canal Sur HD,Canal Sur,
+Andalucía TV,Andalucía TV,
+La Ocho Mediterráneo,La Ocho Mediterráneo,
+IB3 TV Illes Balears,IB3 TV Illes Balears,
+TV Canaria,TV Canaria,
+HBO Max Avances,HBO Max Avances,
+SkyShowtime,SkyShowtime,
+AXN Movies HD,AXN Movies,
+TRECE,TRECE,
+Atreseries,Atreseries,
+Real Madrid TV,Real Madrid TV,
+Garage TV,Garage TV,
+UBEAT,UBEAT,
+DMAX,DMAX,
+DKISS,DKISS,
+Mega,Mega,
+Ten,Ten,
+ETB3,ETB3,
+EuroNews,EuroNews,
+El Toro TV,El Toro TV,
+Negocios TV,Negocios TV,
+CGTN Español,CGTN Español,
+CGTN Documentary,CGTN Documentary,
+UCL,UCL,
+Canal de las Estrellas,Canal de las Estrellas,
+TV Chile,TV Chile,
+Nuestra Tele Internacional,Nuestra Tele Internacional,
+EWTN,EWTN,
+EITB Basque,EITB Basque,
+Telemadrid Internacional,Telemadrid Internacional,
+SX3,SX3,
+Esport 3,Esport 3,
+3CatInfo,3CatInfo,
+Betevé,Betevé,
 Movistar Plus+ HD,Movistar Plus+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B.png
 Primera Federación,Primera Federación,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png
 M+ Vamos HD,M+ Vamos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
@@ -214,8 +214,8 @@ Liga de Campeones BAR 11,Liga de Campeones BAR 11,https://raw.githubusercontent.
 Liga de Campeones BAR 12,Liga de Campeones BAR 12,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2012.png
 GolStadium BAR,GolStadium BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png
 DAZN F1 BAR,DAZN F1 BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png
-Gol Classics,Gol Classics,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
 GolStadium,GolStadium,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png
+Gol Classics,Gol Classics,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
 Torolé TV,Torolé TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
 Iberalia pesca,Iberalia pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png
 Iberalia caza,Iberalia caza,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png
