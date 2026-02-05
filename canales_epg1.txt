@@ -310,7 +310,7 @@ La 2 Canarias,La 2 Canarias,https://raw.githubusercontent.com/davidmuma/picons_d
 Cocina,Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cocina.png
 La Promesa,La Promesa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png
 La Moderna,La Moderna,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Moderna.png
-benidormfest,benidormfest,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/benidormfest.png
+Benidorm Fest,Benidorm Fest,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Benidorm%20Fest.png
 La Revuelta,La Revuelta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Revuelta.png
 Somos Cine,Somos Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png
 Cuéntame,Cuéntame,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png
@@ -604,7 +604,7 @@ DE | Sky Sport Bundesliga 8,DE | Sky Sport Bundesliga 8,https://www.sky.de/stati
 DE | Sky Sport Bundesliga 9,DE | Sky Sport Bundesliga 9,
 DE | Sky Sport Bundesliga 10,DE | Sky Sport Bundesliga 10,
 DE | Sky Sport 1,DE | Sky Sport 1,https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png
-DE | Sky Sport 2,DE | Sky Sport 2,https://www.sky.de/static/img/senderlogos_dark/131_sky_logo_skysporthd4_tvguide.png
+DE | Sky Sport 2,DE | Sky Sport 2,
 DE | Sky Sport 3,DE | Sky Sport 3,
 DE | Sky Sport 4,DE | Sky Sport 4,
 DE | Sky Sport 5,DE | Sky Sport 5,
