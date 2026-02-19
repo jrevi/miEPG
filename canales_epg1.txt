@@ -640,7 +640,6 @@ UK | Sky Sports Golf,UK | Sky Sports Golf,https://tv.assets.pressassociation.io/
 UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/c7d9e6a2-3351-52a5-b4e2-4befae5d8591.png
 UK | Sky Sports Mix,UK | Sky Sports Mix,https://tv.assets.pressassociation.io/2d33bfc8-a9d1-556f-a4f6-d2139c447b93.png
 UK | Sky Sports News,UK | Sky Sports News,https://tv.assets.pressassociation.io/0a56d5bd-07eb-5a70-b405-b88ed6c07702.png
-UK | Sky Sports NFL,UK | Sky Sports NFL,
 UK | Sky Sports Premier League,UK | Sky Sports Premier League,https://tv.assets.pressassociation.io/f5053a63-3227-5a31-a2b7-8be1b692aeed.png
 UK | Sky Sports Premier League ROI,UK | Sky Sports Premier League ROI,https://tv.assets.pressassociation.io/fc95f290-910a-5e8c-93cf-2df325a3fa53.png
 UK | Sky Sports Racing,UK | Sky Sports Racing,https://tv.assets.pressassociation.io/6f006562-ca88-5f32-a458-5212d0636355.png
