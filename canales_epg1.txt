@@ -311,7 +311,6 @@ La 2 Canarias,La 2 Canarias,https://raw.githubusercontent.com/davidmuma/picons_d
 Cocina,Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cocina.png
 La Promesa,La Promesa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png
 La Moderna,La Moderna,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Moderna.png
-Benidorm Fest,Benidorm Fest,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Benidorm%20Fest.png
 La Revuelta,La Revuelta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Revuelta.png
 Somos Cine,Somos Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Somos%20Cine.png
 Cuéntame,Cuéntame,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cu%C3%A9ntame.png
@@ -463,46 +462,46 @@ Moto ADV,Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/mast
 8madrid TV,8madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
-1+1 International,1+1 International,
-100% Navidad (Rakuten TV),100% Navidad (Rakuten TV),
-Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV),
+1+1 International,1+1 International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1+1 International.png
+100% Navidad (Rakuten TV),100% Navidad (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/33827624-56e3-464f-8763-9e634babe552.png
+Todo Crimen (Rakuten TV),Todo Crimen (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e058d349-db97-4c0b-a9dd-477147a1d473.png
 Crimen (Rakuten TV),Crimen (Rakuten TV),
-Thrillers (Rakuten TV),Thrillers (Rakuten TV),
-MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV),
-Cine Español (Rakuten TV),Cine Español (Rakuten TV),
-Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV),
-Dramas (Rakuten TV),Dramas (Rakuten TV),
-Comedias (Rakuten TV),Comedias (Rakuten TV),
-Acción (Rakuten TV),Acción (Rakuten TV),
-Pelis Top (Rakuten TV),Pelis Top (Rakuten TV),
-Red Bull TV (Rakuten TV),Red Bull TV (Rakuten TV),
-FIFA+,FIFA+,
-DSPORTS,DSPORTS,
-DSPORTS 2,DSPORTS 2,
-DSPORTS+,DSPORTS+,
-DSPORTS Fight,DSPORTS Fight,
-beIN SPORTS en español,beIN SPORTS en español,
-beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ,
-CNN en Español,CNN en Español,
-Concert Channel,Concert Channel,
-Star TVE HD,Star TVE,
-Discovery Turbo,Discovery Turbo,
-FOX SPORTS,FOX SPORTS,
-FOX SPORTS 2,FOX SPORTS 2,
-FOX SPORTS 3,FOX SPORTS 3,
-ESPN,ESPN,
-ESPN 2,ESPN 2,
-ESPN 3,ESPN 3,
-ESPN 4,ESPN 4,
-ESPN Deportes,ESPN Deportes,
-ESPN International,ESPN International,
-TyC Sports,TyC Sports,
-TUDN (Estados Unidos),TUDN (Estados Unidos),
-TUDN (México),TUDN (México),
-Sky Sports 16,Sky Sports 16,
-Atrescine,Atrescine,
-Vivid TV,Vivid TV,
-MTV Classic,MTV Classic,
+Thrillers (Rakuten TV),Thrillers (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/5728a608-5527-4d19-a4cc-18ca9f019688.png
+MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/d3b1e728-ef8e-4dc6-b2ee-dd668a44bae4-mytime-movie-network-1643366410.png
+Cine Español (Rakuten TV),Cine Español (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png
+Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png
+Dramas (Rakuten TV),Dramas (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png
+Comedias (Rakuten TV),Comedias (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png
+Acción (Rakuten TV),Acción (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png
+Pelis Top (Rakuten TV),Pelis Top (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png
+Red Bull TV (Rakuten TV),Red Bull TV (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
+FIFA+,FIFA+,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png
+DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
+DSPORTS 2,DSPORTS 2,https://dsports-widgets.tbxnet.com/assets/images/channels/1612.png
+DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613.png
+DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
+beIN SPORTS en español,beIN SPORTS en español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png
+beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png
+CNN en Español,CNN en Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20en%20Espa%C3%B1ol.png
+Concert Channel,Concert Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Concert%20Channel.png
+Star TVE HD,Star TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png
+Discovery Turbo,Discovery Turbo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery%20Turbo.png
+FOX SPORTS,FOX SPORTS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png
+FOX SPORTS 2,FOX SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png
+FOX SPORTS 3,FOX SPORTS 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png
+ESPN,ESPN,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
+ESPN 2,ESPN 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
+ESPN 3,ESPN 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
+ESPN 4,ESPN 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
+ESPN Deportes,ESPN Deportes,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Deportes.png
+ESPN International,ESPN International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20International.png
+TyC Sports,TyC Sports,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TyC%20Sports.png
+TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
+TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
+Sky Sports 16,Sky Sports 16,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png
+Atrescine,Atrescine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png
+Vivid TV,Vivid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivid%20TV.png
+MTV Classic,MTV Classic,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Classic.png
 FR · France 24,FR · France 24,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%2024.png
 FR · i24 News,FR · i24 News,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/i24%20News.png
 FR · Infosport+,FR · Infosport+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Infosport%2B.png
@@ -631,19 +630,19 @@ UK | TNT Sports 10,UK | TNT Sports 10,https://tv.assets.pressassociation.io/b029
 UK | TNT Sports Box Office,UK | TNT Sports Box Office,https://tv.assets.pressassociation.io/0e736662-ebac-5fa5-9a38-f79e5f91e0a2.png
 UK | TNT Sports Box Office 2,UK | TNT Sports Box Office 2,https://tv.assets.pressassociation.io/a5a4c54e-969e-5fd2-96bc-bae1e24edc90.png
 UK | TNT Sports Ultimate,UK | TNT Sports Ultimate,https://tv.assets.pressassociation.io/89a98873-d91f-5165-a45f-9771712801ac.png
-UK | Sky Sports +,UK | Sky Sports +,https://tv.assets.pressassociation.io/1dd4d5ed-fb04-579c-b723-e4280cc33ba2.png
-UK | Sky Sports Box Office,UK | Sky Sports Box Office,https://tv.assets.pressassociation.io/f7077ab2-6f28-5dc7-8206-fc32ef274852.png
-UK | Sky Sports Cricket,UK | Sky Sports Cricket,https://tv.assets.pressassociation.io/601dc218-6777-5f55-8114-952600e39012.png
-UK | Sky Sports F1,UK | Sky Sports F1,https://tv.assets.pressassociation.io/4c7d96e4-15e9-5653-a309-51cd84aaa98d.png
-UK | Sky Sports Football,UK | Sky Sports Football,https://tv.assets.pressassociation.io/6a276699-37b7-5c60-aac2-c2e900d81b08.png
-UK | Sky Sports Golf,UK | Sky Sports Golf,https://tv.assets.pressassociation.io/97cbd895-f816-5d62-8e77-bbd1e3f73352.png
-UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/c7d9e6a2-3351-52a5-b4e2-4befae5d8591.png
-UK | Sky Sports Mix,UK | Sky Sports Mix,https://tv.assets.pressassociation.io/2d33bfc8-a9d1-556f-a4f6-d2139c447b93.png
-UK | Sky Sports News,UK | Sky Sports News,https://tv.assets.pressassociation.io/0a56d5bd-07eb-5a70-b405-b88ed6c07702.png
-UK | Sky Sports Premier League,UK | Sky Sports Premier League,https://tv.assets.pressassociation.io/f5053a63-3227-5a31-a2b7-8be1b692aeed.png
-UK | Sky Sports Premier League ROI,UK | Sky Sports Premier League ROI,https://tv.assets.pressassociation.io/fc95f290-910a-5e8c-93cf-2df325a3fa53.png
-UK | Sky Sports Racing,UK | Sky Sports Racing,https://tv.assets.pressassociation.io/6f006562-ca88-5f32-a458-5212d0636355.png
-UK | Sky Sports Tennis,UK | Sky Sports Tennis,https://tv.assets.pressassociation.io/35260b24-70bc-53e9-b15a-58d64063e4ff.png
+UK | Sky Sports +,UK | Sky Sports +,https://tv.assets.pressassociation.io/d55ab11f-7aca-5e2b-b620-bf147b49744c.png
+UK | Sky Sports Box Office,UK | Sky Sports Box Office,https://tv.assets.pressassociation.io/6e71065b-8581-50f3-9c0f-1a7533943b89.png
+UK | Sky Sports Cricket,UK | Sky Sports Cricket,https://tv.assets.pressassociation.io/a7d89d33-c1ac-5323-9c3e-aa9a0c7aa367.png
+UK | Sky Sports F1,UK | Sky Sports F1,https://tv.assets.pressassociation.io/697b9b06-530b-5dd9-a4c7-1947e2ab93d7.png
+UK | Sky Sports Football,UK | Sky Sports Football,https://tv.assets.pressassociation.io/c7c1f241-4754-502b-aa34-24fc98aba436.png
+UK | Sky Sports Golf,UK | Sky Sports Golf,https://tv.assets.pressassociation.io/5230aba5-7ffd-572f-8fc4-954cca4d17ea.png
+UK | Sky Sports Main Event,UK | Sky Sports Main Event,https://tv.assets.pressassociation.io/4a35f45e-79c6-5da0-b2fb-c9192eb9f24b.png
+UK | Sky Sports Mix,UK | Sky Sports Mix,https://tv.assets.pressassociation.io/a0c9f65a-78c6-596f-ab7a-be6af03a0e2b.png
+UK | Sky Sports News,UK | Sky Sports News,https://tv.assets.pressassociation.io/76876ed9-173a-57bb-b745-bc0d9b6c462d.png
+UK | Sky Sports Premier League,UK | Sky Sports Premier League,https://tv.assets.pressassociation.io/2a51b9ff-b27d-53dc-be74-aac95ecd291e.png
+UK | Sky Sports Premier League ROI,UK | Sky Sports Premier League ROI,https://tv.assets.pressassociation.io/010be2d3-d23d-5b8f-80fa-3fed47cf6fa2.png
+UK | Sky Sports Racing,UK | Sky Sports Racing,https://tv.assets.pressassociation.io/20a18ded-2b5c-5c1b-9a7b-9092b49435f8.png
+UK | Sky Sports Tennis,UK | Sky Sports Tennis,https://tv.assets.pressassociation.io/a6b31bb1-ca01-5178-9d69-9bee48a27748.png
 UK | Premier Sports 1,UK | Premier Sports 1,https://tv.assets.pressassociation.io/c45c421e-6415-5530-a3ae-9667368d1422.png
 UK | Premier Sports 1 ROI,UK | Premier Sports 1 ROI,https://tv.assets.pressassociation.io/efd15b54-5dc8-5bd1-b3cb-d120d1bbb7b5.png
 UK | Premier Sports 2,UK | Premier Sports 2,https://tv.assets.pressassociation.io/97139609-e267-5916-87df-8548c24b534e.png
