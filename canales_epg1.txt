@@ -443,17 +443,9 @@ Gol Classics,Gol Classics,https://raw.githubusercontent.com/davidmuma/picons_dob
 GolStadium,GolStadium,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium.png
 Ubeat lite,Ubeat lite,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Ubeat%20lite.png
 NBA TV,NBA TV,https://cdn.nba.com/logos/leagues/logo-nba.svg
-Torolé TV,Torolé TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Torol%C3%A9%20TV.png
-Iberalia pesca,Iberalia pesca,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png
-Iberalia caza,Iberalia caza,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png
-Global Telenovelas,Global Telenovelas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Telenovelas.png
-Global Tendencias,Global Tendencias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Global%20Tendencias.png
-Fight Time,Fight Time,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png
-DBike,DBike,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DBike.png
 Náutica TV,Náutica TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%A1utica%20TV.png
-Antena Motor,Antena Motor,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%20Motor.png
 Dhípica,Dhípica,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png
-REKTV,REKTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/REKTV.png
+Fight Time,Fight Time,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Fight%20Time.png
 tlnovelas,tlnovelas,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/tlnovelas.png
 DePelícula,DePelícula,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DePel%C3%ADcula.png
 DejateTV,DejateTV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DejateTV.png
