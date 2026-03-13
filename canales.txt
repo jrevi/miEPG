@@ -87,8 +87,8 @@ M+ Deportes 8,M+ Deportes 8
 M+ Deportes HD,M+ Deportes
 M+ Documentales HD,M+ Documentales
 M+ Drama HD,M+ Drama
-M+ Ellas Vamos HD,M+ Ellas Vamos
-M+ En juego,M+ En juego
+# M+ Ellas Vamos HD,M+ Ellas Vamos
+# M+ En juego,M+ En juego
 M+ Estrenos HD,M+ Estrenos
 M+ Golf 2 HD,M+ Golf 2
 M+ Golf HD,M+ Golf
@@ -143,7 +143,7 @@ Onetoro,Onetoro
 # PT | Sport TV 5,PT | Sport TV 5
 PT | Sport TV 6,PT | Sport TV 6
 PT | Sport TV 7,PT | Sport TV 7
-Paramount Network,Paramount Network
+# Paramount Network,Paramount Network
 Primera Federación,Primera Federación
 # Rally.TV,Rally.TV
 RunTime Clásicos,RunTime Clásicos
@@ -161,8 +161,6 @@ STAR Channel HD,STAR Channel
 # Teledeporte,Teledeporte
 # Tennis Channel,Tennis Channel
 # TyC Sports,TyC Sports
-# UK | Sky Sport Action,UK | Sky Sport Action,,2
-# UK | Sky Sport Arena,UK | Sky Sport Arena,,2
 # UK | Sky Sports F1,UK | Sky Sports F1
 UK | Sky Sports Main Event,UK | Sky Sports Main Event
 UK | Sky Sports Mix,UK | Sky Sports Mix
