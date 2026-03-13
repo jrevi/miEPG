@@ -58,7 +58,7 @@ GOL,GOL
 GolStadium,GolStadium
 # HBO Max Avances,HBO Max Avances
 Iberalia TV,Iberalia TV
-Iberalia caza,Iberalia caza,,+2
+Iberalia caza,Iberalia caza
 # LALIGA Inside,LALIGA Inside
 # La 1 HD,La 1
 # La 7 CyL,La 7 CyL
@@ -161,16 +161,16 @@ STAR Channel HD,STAR Channel
 # Teledeporte,Teledeporte
 # Tennis Channel,Tennis Channel
 # TyC Sports,TyC Sports
-UK | Sky Sport Action,UK | Sky Sport Action,,2
-UK | Sky Sport Arena,UK | Sky Sport Arena,,2
-# UK | Sky Sport F1,UK | Sky Sport F1,,2
-UK | Sky Sport Main Event,UK | Sky Sport Main Event,,2
-UK | Sky Sport Mix,UK | Sky Sport Mix,,2
-UK | Sky Sport Tennis,UK | Sky Sport Tennis,,2
-UK | TNT Sports 1,UK | TNT Sports 1,,2
-UK | TNT Sports 2,UK | TNT Sports 2,,2
-UK | TNT Sports 3,UK | TNT Sports 3,,2
-UK | TNT Sports 4,UK | TNT Sports 4,,2
+# UK | Sky Sport Action,UK | Sky Sport Action,,2
+# UK | Sky Sport Arena,UK | Sky Sport Arena,,2
+# UK | Sky Sports F1,UK | Sky Sports F1
+UK | Sky Sports Main Event,UK | Sky Sports Main Event
+UK | Sky Sports Mix,UK | Sky Sports Mix
+UK | Sky Sports Tennis,UK | Sky Sports Tennis
+UK | TNT Sports 1,UK | TNT Sports 1
+UK | TNT Sports 2,UK | TNT Sports 2
+UK | TNT Sports 3,UK | TNT Sports 3
+UK | TNT Sports 4,UK | TNT Sports 4
 # UK | TNT Sports Ultimate,UK | TNT Sports Ultimate
 # VINX,VINX
 # Vamos BAR 2,Vamos BAR 2
