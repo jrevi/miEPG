@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/03/2026 08:27" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/03/2026 20:19" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="AMC Crime">
     <display-name>AMC Crime</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
@@ -3326,7 +3326,7 @@
 	</programme>
 	<programme start="20260329104700 +0200" stop="20260329114400 +0200" channel="AXN">
     <title>Hudson y Rex T4 E8 · Muerte súbita</title>
-    <sub-title>2022 | ⑫ | ★5.8/10</sub-title>
+    <sub-title>2022 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Policíaca) El nuevo jugador y estrella rusa del equipo de hockey Ice Pirates es encontrado asesinado la mañana después de unirse a otros jugadores en una caminata nocturna de formación de equipo. La sospecha cae inmediatamente sobre el capitán del equipo.
 · País: Canadá
 · Dirección: Bosede Williams.
@@ -3338,7 +3338,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329114400 +0200" stop="20260329124200 +0200" channel="AXN">
@@ -3601,7 +3601,7 @@
 	</programme>
 	<programme start="20260330082500 +0200" stop="20260330090700 +0200" channel="AXN">
     <title>NCIS: Nueva Orleans T4 E5 · Viral</title>
-    <sub-title>2017 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2017 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Policíaca) Sebastian es puesto en servicio administrativo cuando su actuación en una persecución a pie para detener a un fugitivo de alto valor es cuestionada por el FBI. Además, Pride y el equipo continúan rastreando el objetivo de alto valor.
 · País: Estados Unidos
 · Reparto: Scott Bakula, Lucas Black, CCH Pounder, Vanessa Ferlito, Zoe McLellan, Mark Harmon, Rob Kerkovich, Shalita Grant.
@@ -3612,7 +3612,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330090700 +0200" stop="20260330100000 +0200" channel="AXN">
@@ -11807,7 +11807,7 @@
 	</programme>
 	<programme start="20260329114000 +0200" stop="20260329122500 +0200" channel="Caza y Pesca">
     <title>Los últimos gigantes T4 E5</title>
-    <sub-title>2021 | TP | ★5.8/10</sub-title>
+    <sub-title>2021 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) Una explosiva serie que sigue al popular aventurero Cyril Chauquet y a su equipo mientras se sumergen en los entornos más hostiles de la tierra.
 · País: Canadá</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -11816,7 +11816,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329122500 +0200" stop="20260329125000 +0200" channel="Caza y Pesca">
@@ -11864,7 +11864,7 @@
 	</programme>
 	<programme start="20260329135000 +0200" stop="20260329142000 +0200" channel="Caza y Pesca">
     <title>Caza bajo el sol T1 · Paloma Torcaz</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★5.8/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) La paloma torcaz ha visto multiplicadas sus poblaciones en buena parte de la península ibérica volviéndose sedentaria en amplias zonas sobre todo del interior.
 · País: España</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -11873,7 +11873,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329142000 +0200" stop="20260329145000 +0200" channel="Caza y Pesca">
@@ -12034,7 +12034,7 @@
 	</programme>
 	<programme start="20260329195500 +0200" stop="20260329202500 +0200" channel="Caza y Pesca">
     <title>Cocina salvaje con Daniel Ochoa T1 · Postres y bebida</title>
-    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) Preparar tus propias bebidas, eso es lo que nos propone Daniel en este capítulo donde nos enseña algunas maneras de aprovechar los frutos del bosque tanto en bebidas como en postres. Además, Daniel visita eL obrador de Abantos.
 · País: España</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -12043,7 +12043,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329202500 +0200" stop="20260329210000 +0200" channel="Caza y Pesca">
@@ -12458,7 +12458,7 @@
 	</programme>
 	<programme start="20260330113500 +0200" stop="20260330120500 +0200" channel="Caza y Pesca">
     <title>Cocina salvaje con Daniel Ochoa T1 · Postres y bebida</title>
-    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) Preparar tus propias bebidas, eso es lo que nos propone Daniel en este capítulo donde nos enseña algunas maneras de aprovechar los frutos del bosque tanto en bebidas como en postres. Además, Daniel visita eL obrador de Abantos.
 · País: España</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -12467,7 +12467,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330120500 +0200" stop="20260330123000 +0200" channel="Caza y Pesca">
@@ -12571,7 +12571,7 @@
 	</programme>
 	<programme start="20260330153000 +0200" stop="20260330160000 +0200" channel="Caza y Pesca">
     <title>Caza bajo el sol T1 · Paloma Torcaz</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★5.8/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) La paloma torcaz ha visto multiplicadas sus poblaciones en buena parte de la península ibérica volviéndose sedentaria en amplias zonas sobre todo del interior.
 · País: España</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -12580,7 +12580,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330160000 +0200" stop="20260330163000 +0200" channel="Caza y Pesca">
@@ -19296,7 +19296,7 @@
 	</programme>
 	<programme start="20260329115500 +0200" stop="20260329125000 +0200" channel="DAZN 1">
     <title>DIRECTO Superpole Race T2026 · Mundial de Superbike - Algarve</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motociclismo) El campeonato del mundo de Superbike es una competición de motos de gran cilindrada paralela al mundial de velocidad. El calendario de 2026 consta de doce pruebas. En cada evento se disputan tres carreras puntuables.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -19305,7 +19305,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329125000 +0200" stop="20260329173400 +0200" channel="DAZN 1">
@@ -19353,7 +19353,7 @@
 	</programme>
 	<programme start="20260329204000 +0200" stop="20260329231000 +0200" channel="DAZN 1">
     <title>DIRECTO Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -19362,7 +19362,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329231000 +0200" stop="20260329233300 +0200" channel="DAZN 1">
@@ -19381,7 +19381,7 @@
 	</programme>
 	<programme start="20260329233300 +0200" stop="20260330012600 +0200" channel="DAZN 1">
     <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -19390,7 +19390,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330012600 +0200" stop="20260330060000 +0200" channel="DAZN 1">
@@ -19486,7 +19486,7 @@
 	</programme>
 	<programme start="20260330191000 +0200" stop="20260330210100 +0200" channel="DAZN 1">
     <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -19495,7 +19495,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330210100 +0200" stop="20260330213800 +0200" channel="DAZN 1">
@@ -19663,7 +19663,7 @@
 	</programme>
 	<programme start="20260331203000 +0200" stop="20260331223000 +0200" channel="DAZN 1">
     <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -19672,7 +19672,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331223000 +0200" stop="20260331230000 +0200" channel="DAZN 1">
@@ -19690,7 +19690,7 @@
 	</programme>
 	<programme start="20260331230000 +0200" stop="20260401011000 +0200" channel="DAZN 1">
     <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -19699,7 +19699,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401011000 +0200" stop="20260401060000 +0200" channel="DAZN 1">
@@ -19712,7 +19712,7 @@
 	</programme>
 	<programme start="20260401130000 +0200" stop="20260401150000 +0200" channel="DAZN 1">
     <title>Jornada 24: Real Madrid - Barcelona T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -19721,7 +19721,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401150000 +0200" stop="20260401152500 +0200" channel="DAZN 1">
@@ -19792,7 +19792,7 @@
 	</programme>
 	<programme start="20260401184000 +0200" stop="20260401203000 +0200" channel="DAZN 1">
     <title>Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -19801,7 +19801,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401203000 +0200" stop="20260401210000 +0200" channel="DAZN 1">
@@ -20137,7 +20137,7 @@
 	</programme>
 	<programme start="20260404115000 +0200" stop="20260404140000 +0200" channel="DAZN 1">
     <title>DIRECTO Jornada 25: Alhama CF ElPozo - Real Sociedad T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -20146,7 +20146,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404140000 +0200" stop="20260404144500 +0200" channel="DAZN 1">
@@ -20263,7 +20263,7 @@
 	</programme>
 	<programme start="20260404204500 +0200" stop="20260404225000 +0200" channel="DAZN 1">
     <title>Jornada 25: DUX Logroño - Sevilla T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -20272,7 +20272,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404225000 +0200" stop="20260405004000 +0200" channel="DAZN 1">
@@ -20820,7 +20820,7 @@
 	</programme>
 	<programme start="20260329115000 +0200" stop="20260329140200 +0200" channel="DAZN 2">
     <title>DIRECTO Jornada 24: Real Sociedad - DUX Logroño T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -20829,7 +20829,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329140200 +0200" stop="20260329164500 +0200" channel="DAZN 2">
@@ -20838,7 +20838,7 @@
 	</programme>
 	<programme start="20260329164500 +0200" stop="20260329190000 +0200" channel="DAZN 2">
     <title>DIRECTO Jornada 24: Athletic Club - Atlético de Madrid T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -20847,7 +20847,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329190000 +0200" stop="20260329220000 +0200" channel="DAZN 2">
@@ -20992,7 +20992,7 @@
 	</programme>
 	<programme start="20260404115000 +0200" stop="20260404140000 +0200" channel="DAZN 2">
     <title>DIRECTO Jornada 25: DUX Logroño - Sevilla T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -21001,7 +21001,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404140000 +0200" stop="20260404180000 +0200" channel="DAZN 2">
@@ -21524,7 +21524,7 @@
 	</programme>
 	<programme start="20260401202100 +0200" stop="20260401225400 +0200" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 19: Baskonia - Basket Zaragoza T25/26 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas. Los ocho mejores equipos pelean por el título en unos exigentes playoffs. El Real Madrid defiende corona.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -21533,7 +21533,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401225400 +0200" stop="20260402013000 +0200" channel="DAZN Baloncesto">
@@ -21620,7 +21620,7 @@
 	</programme>
 	<programme start="20260404175100 +0200" stop="20260404202400 +0200" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 25: Surne Bilbao - Unicaja T25/26 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas. Los ocho mejores equipos pelean por el título en unos exigentes playoffs. El Real Madrid defiende corona.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -21629,7 +21629,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404202400 +0200" stop="20260404205100 +0200" channel="DAZN Baloncesto">
@@ -21908,7 +21908,7 @@
 	</programme>
 	<programme start="20260329165100 +0200" stop="20260329192400 +0200" channel="DAZN Baloncesto 3">
     <title>DIRECTO Jornada 24: Morabanc Andorra - Kosner Baskonia T25/26 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas. Los ocho mejores equipos pelean por el título en unos exigentes playoffs. El Real Madrid defiende corona.
 · País: Andorra y España</desc>
     <category>Deportes, Baloncesto</category>
@@ -21917,7 +21917,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329192400 +0200" stop="20260329232400 +0200" channel="DAZN Baloncesto 3">
@@ -22102,7 +22102,7 @@
 	</programme>
 	<programme start="20260329065500 +0200" stop="20260329090500 +0200" channel="DAZN F1">
     <title>DIRECTO Carrera T2026 · Mundial F1 - GP de Japón</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465725" />
@@ -22110,10 +22110,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329090500 +0200" stop="20260329100000 +0200" channel="DAZN F1">
+	<programme start="20260329090500 +0200" stop="20260329102900 +0200" channel="DAZN F1">
     <title>DIRECTO El Post de la Fórmula 1 T2026 · Mundial F1 - GP de Japón</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -22126,7 +22126,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329100000 +0200" stop="20260329103500 +0200" channel="DAZN F1">
+	<programme start="20260329102900 +0200" stop="20260329110400 +0200" channel="DAZN F1">
     <title>Gearbox T2026 E21</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
@@ -22139,7 +22139,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329103500 +0200" stop="20260329122000 +0200" channel="DAZN F1">
+	<programme start="20260329110400 +0200" stop="20260329124400 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Japón T2026 · Box, Box</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -22152,7 +22152,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329122000 +0200" stop="20260329133000 +0200" channel="DAZN F1">
+	<programme start="20260329124400 +0200" stop="20260329135600 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Japón T2026 · Libres 1</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -22165,7 +22165,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329133000 +0200" stop="20260329144100 +0200" channel="DAZN F1">
+	<programme start="20260329135600 +0200" stop="20260329150800 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Japón T2026 · Libres 2</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -22178,7 +22178,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329144100 +0200" stop="20260329155000 +0200" channel="DAZN F1">
+	<programme start="20260329150800 +0200" stop="20260329161800 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Japón T2026 · Libres 3</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -22191,7 +22191,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329155000 +0200" stop="20260329170600 +0200" channel="DAZN F1">
+	<programme start="20260329161800 +0200" stop="20260329173400 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de Japón T2026 · Clasificación</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -22204,9 +22204,9 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329170600 +0200" stop="20260329182500 +0200" channel="DAZN F1">
+	<programme start="20260329173400 +0200" stop="20260329193000 +0200" channel="DAZN F1">
     <title>Carrera T2026 · Mundial F1 - GP de Japón</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465725" />
@@ -22214,10 +22214,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329182500 +0200" stop="20260329194600 +0200" channel="DAZN F1">
+	<programme start="20260329193000 +0200" stop="20260329205200 +0200" channel="DAZN F1">
     <title>Decoded: Alonso</title>
     <sub-title>2025 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fórmula 1) Decoded: Alonso.</desc>
@@ -22230,7 +22230,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329194600 +0200" stop="20260329215500 +0200" channel="DAZN F1">
+	<programme start="20260329205200 +0200" stop="20260329230200 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de China T2026 · Carrera</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
@@ -22243,22 +22243,9 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329215500 +0200" stop="20260329221000 +0200" channel="DAZN F1">
-    <title>Código F1 T2026 · China</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
-    <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2511586V4220708" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260329221000 +0200" stop="20260330001000 +0200" channel="DAZN F1">
+	<programme start="20260329230200 +0200" stop="20260330005600 +0200" channel="DAZN F1">
     <title>Carrera T2026 · Mundial F1 - GP de Japón</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465725" />
@@ -22266,10 +22253,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260330001000 +0200" stop="20260330004000 +0200" channel="DAZN F1">
+	<programme start="20260330005600 +0200" stop="20260330012600 +0200" channel="DAZN F1">
     <title>Gearbox T2026 E21</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
@@ -22282,7 +22269,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260330004000 +0200" stop="20260330024500 +0200" channel="DAZN F1">
+	<programme start="20260330012600 +0200" stop="20260330032900 +0200" channel="DAZN F1">
     <title>Mundial F1 - GP de España T2025 · Carrera</title>
     <sub-title>2025 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Motor) Los pilotos afrontarán un apasionante Gran Premio en el circuito de Montmeló, y buscarán hacer frente al líder de la clasificación actual, el australiano Oscar Piastri (161 puntos), seguido muy de cerca por Lando Norris (158) y Max Verstappen (136).
@@ -22296,7 +22283,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260330024500 +0200" stop="20260330031500 +0200" channel="DAZN F1">
+	<programme start="20260330032900 +0200" stop="20260330035600 +0200" channel="DAZN F1">
     <title>Código F1 T2025 · España</title>
     <sub-title>2025 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
@@ -22309,38 +22296,12 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260330031500 +0200" stop="20260330052000 +0200" channel="DAZN F1">
+	<programme start="20260330035600 +0200" stop="20260330061000 +0200" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
     <sub-title>2024 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4203916" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260330052000 +0200" stop="20260330054500 +0200" channel="DAZN F1">
-    <title>True Driver T2024 · Ayrton Senna: 30 años de Eterna Leyenda</title>
-    <sub-title>2024 | TP | ★5.6/10</sub-title>
-    <desc>(Deportes,Programa deportes) En 2024 se cumplen 30 años del fallecimiento de Ayrton Senna. El mito del automovilismo perdió la vida en el circuito de Imola en un accidente que conmocionó al mundo. Su legado continúa vivo y sigue inspirando a todos los pilotos.</desc>
-    <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4242863" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260330054500 +0200" stop="20260330061000 +0200" channel="DAZN F1">
-    <title>True Driver T2024 · Steiner, politicamente incorrecto</title>
-    <sub-title>2024 | TP | ★5.8/10</sub-title>
-    <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
-    <category>Deportes, Programa deportes</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4242861" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -22493,7 +22454,7 @@
 	</programme>
 	<programme start="20260330213000 +0200" stop="20260330233000 +0200" channel="DAZN F1">
     <title>Carrera T2026 · Mundial F1 - GP de Japón</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465725" />
@@ -22501,7 +22462,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330233000 +0200" stop="20260330234500 +0200" channel="DAZN F1">
@@ -23339,7 +23300,7 @@
 	</programme>
 	<programme start="20260403225000 +0200" stop="20260404005000 +0200" channel="DAZN F1">
     <title>Carrera T2026 · Mundial F1 - GP de Japón</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465725" />
@@ -23347,7 +23308,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404005000 +0200" stop="20260404010500 +0200" channel="DAZN F1">
@@ -23776,7 +23737,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20260329113000 +0200" stop="20260329120000 +0200" channel="DAZN LaLiga">
-    <title>Finales: Final de consolación T2026 · LaLiga FC Futures Mundial sub12</title>
+    <title>DIRECTO Finales: Final de consolación T2026 · LaLiga FC Futures Mundial sub12</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol 7) Brunete (Madrid) acoge la primera edición del Mundial sub12 del 25 al 29 de marzo. Este torneo reúne a 20 clubes de élite de cinco continentes que lucharán por alzarse con el triunfo.
 · País: España</desc>
@@ -25242,7 +25203,7 @@
 	</programme>
 	<programme start="20260403170000 +0200" stop="20260403180000 +0200" channel="DAZN LaLiga">
     <title>El Post de DAZN T25/26 · Vini, vidi, vici</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -25251,7 +25212,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403180000 +0200" stop="20260403200000 +0200" channel="DAZN LaLiga">
@@ -25340,7 +25301,7 @@
 	</programme>
 	<programme start="20260403223000 +0200" stop="20260403230000 +0200" channel="DAZN LaLiga">
     <title>Come On Fútbol! T2023 · Álex Remiro, la fortaleza empieza en la mente</title>
-    <sub-title>2023 | TP | ★6.2/10</sub-title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Nos adentramos de lleno en la vida de Álex Remiro, un futbolista de un pequeño pueblo de Navarra que con trabajo y esfuerzo ha conseguido afianzarme como portero de la Real Sociedad. Remiro, desde bien pequeño, ya descataba por encima del resto.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -25349,7 +25310,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403230000 +0200" stop="20260403233000 +0200" channel="DAZN LaLiga">
@@ -25447,7 +25408,7 @@
 	</programme>
 	<programme start="20260404123000 +0200" stop="20260404133000 +0200" channel="DAZN LaLiga">
     <title>El Post de DAZN T25/26 · Vini, vidi, vici</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -25456,7 +25417,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404133000 +0200" stop="20260404163000 +0200" channel="DAZN LaLiga">
@@ -25572,7 +25533,7 @@
 	</programme>
 	<programme start="20260404193000 +0200" stop="20260404200000 +0200" channel="DAZN LaLiga">
     <title>Dorsal 12 T23/24 · Un escenario Olímpico para un partido único</title>
-    <sub-title>2023 | TP</sub-title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) ElClásico se juega por primera vez en Montjuic, la montaña que tanto significa para la ciudad de Barcelona y para el deporte español. Rafa Escrig nos muestra todos los secretos de este mágico lugar.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -25580,6 +25541,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260404200000 +0200" stop="20260404233000 +0200" channel="DAZN LaLiga">
     <title>DIRECTO Jornada 30: Atlético de Madrid - Barcelona T25/26 · LALIGA EA SPORTS</title>
@@ -25611,7 +25575,7 @@
 	</programme>
 	<programme start="20260405003000 +0200" stop="20260405004500 +0200" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T25/26 · Jornada 30: Mallorca - Real Madrid</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -25620,12 +25584,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260405004500 +0200" stop="20260405010000 +0200" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T25/26 · Jornada 30: Alavés - Osasuna</title>
-    <sub-title>2026 | TP | ★9.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -25634,7 +25598,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>9.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329000000 +0200" stop="20260329040000 +0200" channel="ESPN 2">
@@ -26177,7 +26141,7 @@
 	</programme>
 	<programme start="20260329192500 +0200" stop="20260329201500 +0200" channel="Eurosport 1">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -26186,12 +26150,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329201500 +0200" stop="20260329210000 +0200" channel="Eurosport 1">
     <title>Tour de Flandes M T2026 · UCI World Tour</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Ciclismo) Ya está aquí una de las carreras más prestigiosas del calendario, un Monumento del ciclismo que este año alcanza la 110ª edición. Su recorrido cuenta con continuas subidas y bajadas, así como con secciones de pavé extenuantes.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -26200,7 +26164,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329210000 +0200" stop="20260329214500 +0200" channel="Eurosport 1">
@@ -26261,7 +26225,7 @@
 	</programme>
 	<programme start="20260330000000 +0200" stop="20260330013000 +0200" channel="Eurosport 1">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -26270,7 +26234,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330013000 +0200" stop="20260330030000 +0200" channel="Eurosport 1">
@@ -26415,7 +26379,7 @@
 	</programme>
 	<programme start="20260330170000 +0200" stop="20260330190000 +0200" channel="Eurosport 1">
     <title>Tour de Flandes M T2026 · UCI World Tour</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Ciclismo) Ya está aquí una de las carreras más prestigiosas del calendario, un Monumento del ciclismo que este año alcanza la 110ª edición. Su recorrido cuenta con continuas subidas y bajadas, así como con secciones de pavé extenuantes.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -26424,7 +26388,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330190000 +0200" stop="20260330200000 +0200" channel="Eurosport 1">
@@ -26470,7 +26434,7 @@
 	</programme>
 	<programme start="20260331000000 +0200" stop="20260331013000 +0200" channel="Eurosport 1">
     <title>Tour de Flandes M T2026 · UCI World Tour</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Ciclismo) Ya está aquí una de las carreras más prestigiosas del calendario, un Monumento del ciclismo que este año alcanza la 110ª edición. Su recorrido cuenta con continuas subidas y bajadas, así como con secciones de pavé extenuantes.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -26479,7 +26443,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331013000 +0200" stop="20260331030000 +0200" channel="Eurosport 1">
@@ -27446,7 +27410,7 @@
 	</programme>
 	<programme start="20260404103000 +0200" stop="20260404123000 +0200" channel="Eurosport 1">
     <title>Mundial de curling M T2026 · Semifinales</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Curling) El Weber County Ice Sheet de Utah, en Estados Unidos, es el escenario del Mundial masculino de curling. El torneo, que llega a su 68ª edición, cuenta con la participación de 13 selecciones. Escocia es la defensora del título.
 · País: Estados Unidos</desc>
     <category>Deportes, Curling</category>
@@ -27454,6 +27418,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260404123000 +0200" stop="20260404140000 +0200" channel="Eurosport 1">
     <title>Semifinales - Sesión 2 T25/26 · Tour Championship de snooker</title>
@@ -27612,9 +27579,9 @@
 	<programme start="20260329083000 +0200" stop="20260329103000 +0200" channel="Eurosport 2">
     <title>Abierto de Gales de snooker T25/26 · Final: Hawkins - Lisowski</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
-    <desc>(Deportes,Otros deportes) El Venue Cymru de Llandudno alberga la disputa del Abierto de Gales del 23 de febrero al 1 de marzo, un torneo englobado en las Home Nations Series. El inglés Mark Selby es el defensor del título. El snooker es la modalidad del billar más profesional.
+    <desc>(Deportes,Snooker) El Venue Cymru de Llandudno alberga la disputa del Abierto de Gales del 23 de febrero al 1 de marzo, un torneo englobado en las Home Nations Series. El inglés Mark Selby es el defensor del título. El snooker es la modalidad del billar más profesional.
 · País: Reino Unido</desc>
-    <category>Deportes, Otros deportes</category>
+    <category>Deportes, Snooker</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4251606" />
 		<rating system="ES">
 			<value>TP</value>
@@ -27653,7 +27620,7 @@
 	</programme>
 	<programme start="20260329122000 +0200" stop="20260329141500 +0200" channel="Eurosport 2">
     <title>DIRECTO Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -27662,12 +27629,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329141500 +0200" stop="20260329164500 +0200" channel="Eurosport 2">
     <title>DIRECTO Tour de Flandes M T2026 · UCI World Tour</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Ciclismo) Ya está aquí una de las carreras más prestigiosas del calendario, un Monumento del ciclismo que este año alcanza la 110ª edición. Su recorrido cuenta con continuas subidas y bajadas, así como con secciones de pavé extenuantes.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -27676,12 +27643,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329164500 +0200" stop="20260329181500 +0200" channel="Eurosport 2">
     <title>DIRECTO Tour de Flandes F T2026 · UCI Women World Tour</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Ciclismo) Al igual que la carrera masculina, el Tour de Flandes Femenino es una carrera muy dura y exigente, que requiere de habilidad técnica, resistencia física y táctica. La primera edición se disputó en 2004. En 2025, la vencedora fue la local Lotte Kopecky.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -27690,12 +27657,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329181500 +0200" stop="20260329190000 +0200" channel="Eurosport 2">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -27704,7 +27671,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329190000 +0200" stop="20260329200000 +0200" channel="Eurosport 2">
@@ -27737,7 +27704,7 @@
 	</programme>
 	<programme start="20260329210000 +0200" stop="20260329220000 +0200" channel="Eurosport 2">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -27746,7 +27713,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329220000 +0200" stop="20260330000000 +0200" channel="Eurosport 2">
@@ -27849,7 +27816,7 @@
 	</programme>
 	<programme start="20260330093000 +0200" stop="20260330103000 +0200" channel="Eurosport 2">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -27858,7 +27825,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330103000 +0200" stop="20260330123000 +0200" channel="Eurosport 2">
@@ -27905,7 +27872,7 @@
 	</programme>
 	<programme start="20260330141500 +0200" stop="20260330153000 +0200" channel="Eurosport 2">
     <title>Tour de Flandes F T2026 · UCI Women World Tour</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Ciclismo) Al igual que la carrera masculina, el Tour de Flandes Femenino es una carrera muy dura y exigente, que requiere de habilidad técnica, resistencia física y táctica. La primera edición se disputó en 2004. En 2025, la vencedora fue la local Lotte Kopecky.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -27914,12 +27881,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330153000 +0200" stop="20260330170000 +0200" channel="Eurosport 2">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -27928,7 +27895,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330170000 +0200" stop="20260330190000 +0200" channel="Eurosport 2">
@@ -27961,7 +27928,7 @@
 	</programme>
 	<programme start="20260330200000 +0200" stop="20260330220000 +0200" channel="Eurosport 2">
     <title>Tour de Flandes M T2026 · UCI World Tour</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Ciclismo) Ya está aquí una de las carreras más prestigiosas del calendario, un Monumento del ciclismo que este año alcanza la 110ª edición. Su recorrido cuenta con continuas subidas y bajadas, así como con secciones de pavé extenuantes.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -27970,7 +27937,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330220000 +0200" stop="20260331010000 +0200" channel="Eurosport 2">
@@ -28115,7 +28082,7 @@
 	</programme>
 	<programme start="20260331140000 +0200" stop="20260331151500 +0200" channel="Eurosport 2">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -28124,12 +28091,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331151500 +0200" stop="20260331171500 +0200" channel="Eurosport 2">
     <title>Tour de Flandes M T2026 · UCI World Tour</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Ciclismo) Ya está aquí una de las carreras más prestigiosas del calendario, un Monumento del ciclismo que este año alcanza la 110ª edición. Su recorrido cuenta con continuas subidas y bajadas, así como con secciones de pavé extenuantes.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -28138,12 +28105,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331171500 +0200" stop="20260331183000 +0200" channel="Eurosport 2">
     <title>Tour de Flandes F T2026 · UCI Women World Tour</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Ciclismo) Al igual que la carrera masculina, el Tour de Flandes Femenino es una carrera muy dura y exigente, que requiere de habilidad técnica, resistencia física y táctica. La primera edición se disputó en 2004. En 2025, la vencedora fue la local Lotte Kopecky.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -28152,7 +28119,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331183000 +0200" stop="20260331190000 +0200" channel="Eurosport 2">
@@ -28184,7 +28151,7 @@
 	</programme>
 	<programme start="20260331200000 +0200" stop="20260331204500 +0200" channel="Eurosport 2">
     <title>Tour de Flandes F T2026 · UCI Women World Tour</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Ciclismo) Al igual que la carrera masculina, el Tour de Flandes Femenino es una carrera muy dura y exigente, que requiere de habilidad técnica, resistencia física y táctica. La primera edición se disputó en 2004. En 2025, la vencedora fue la local Lotte Kopecky.
 · País: Bélgica</desc>
     <category>Deportes, Ciclismo</category>
@@ -28193,12 +28160,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331204500 +0200" stop="20260331213000 +0200" channel="Eurosport 2">
     <title>Etapa 7 - Barcelona - Barcelona T2026 · Volta ciclista a Catalunya</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) Un nutrido grupo del mejor pelotón internacional se cita en el asfalto catalán del 23 al 29 de marzo. Englobada en el UCI WorldTour, la tradicional carrera llega a su 105ª edición. El esloveno Primoz Roglic se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Ciclismo</category>
@@ -28207,7 +28174,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331213000 +0200" stop="20260331220000 +0200" channel="Eurosport 2">
@@ -29298,7 +29265,7 @@
 	</programme>
 	<programme start="20260404230000 +0200" stop="20260405000000 +0200" channel="Eurosport 2">
     <title>El club de la UFC T2026 · 04/04/2026</title>
-    <sub-title>2026 | ⑱ | ★6.6/10</sub-title>
+    <sub-title>2026 | ⑱ | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Un repaso a toda la actualidad del Ultimate Fighting Championship. El auge de las artes marciales mixtas viene de la mano del UFC, un campeonato que aglutina a la mayoría de las estrellas de este deporte.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -29307,7 +29274,7 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260405000000 +0200" stop="20260405013000 +0200" channel="Eurosport 2">
@@ -30095,7 +30062,7 @@
 	</programme>
 	<programme start="20260329120000 +0200" stop="20260329140000 +0200" channel="GOL">
     <title>Jornada 24: Real Sociedad - DUX Logroño T25/26 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) El crecimiento del fútbol femenino se ve reflejado semana a semana en la Liga F, la máxima competición de clubes de España. El Barcelona, dominador de la competición durante las seis últimas temporadas, es el rival a batir. Los otros 15 equipos pretenden.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -30104,7 +30071,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329140000 +0200" stop="20260329151500 +0200" channel="GOL">
@@ -30626,7 +30593,7 @@
 	</programme>
 	<programme start="20260330224500 +0200" stop="20260331002500 +0200" channel="GOL">
     <title>Gol T25/26 E213</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -30635,7 +30602,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331002500 +0200" stop="20260331003000 +0200" channel="GOL">
@@ -30766,7 +30733,7 @@
 	</programme>
 	<programme start="20260331111500 +0200" stop="20260331130000 +0200" channel="GOL">
     <title>Gol T25/26 E213</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -30775,7 +30742,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331130000 +0200" stop="20260331141000 +0200" channel="GOL">
@@ -30802,7 +30769,7 @@
 	</programme>
 	<programme start="20260331150000 +0200" stop="20260331164500 +0200" channel="GOL">
     <title>Gol T25/26 E213</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -30811,7 +30778,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331164500 +0200" stop="20260331171500 +0200" channel="GOL">
@@ -30970,7 +30937,7 @@
 	</programme>
 	<programme start="20260331224500 +0200" stop="20260401003000 +0200" channel="GOL">
     <title>Gol T25/26 E214</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -30979,7 +30946,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401003000 +0200" stop="20260401013000 +0200" channel="GOL">
@@ -31082,7 +31049,7 @@
 	</programme>
 	<programme start="20260401111500 +0200" stop="20260401130000 +0200" channel="GOL">
     <title>Gol T25/26 E214</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -31091,7 +31058,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401130000 +0200" stop="20260401140000 +0200" channel="GOL">
@@ -31124,7 +31091,7 @@
 	</programme>
 	<programme start="20260401150000 +0200" stop="20260401164500 +0200" channel="GOL">
     <title>Gol T25/26 E214</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -31133,7 +31100,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401164500 +0200" stop="20260401171500 +0200" channel="GOL">
@@ -31586,7 +31553,7 @@
 	</programme>
 	<programme start="20260402233000 +0200" stop="20260403010000 +0200" channel="GOL">
     <title>Gol T25/26 E216</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -31595,7 +31562,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403010000 +0200" stop="20260403015000 +0200" channel="GOL">
@@ -31658,7 +31625,7 @@
 	</programme>
 	<programme start="20260403113000 +0200" stop="20260403130000 +0200" channel="GOL">
     <title>Gol T25/26 E216</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -31667,7 +31634,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403130000 +0200" stop="20260403150000 +0200" channel="GOL">
@@ -31686,7 +31653,7 @@
 	</programme>
 	<programme start="20260403150000 +0200" stop="20260403163000 +0200" channel="GOL">
     <title>Gol T25/26 E216</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) El plató de Gol sirve de introducción del mejor fútbol. Las previas de los partidos, los resúmenes, las clasificaciones, las imágenes más divertidas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -31695,7 +31662,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403163000 +0200" stop="20260403164500 +0200" channel="GOL">
@@ -31986,46 +31953,6 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260328003000 +0100" stop="20260328010000 +0100" channel="GolStadium">
-    <title>The Outdoor Sports Show 2025</title>
-    <desc>The Outdoor Sports Show 2025</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
-	<programme start="20260328120000 +0100" stop="20260328122500 +0100" channel="GolStadium">
-    <title>Gearing Up 2025</title>
-    <desc>Gearing Up 2025</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
-	<programme start="20260328122500 +0100" stop="20260328125000 +0100" channel="GolStadium">
-    <title>The Outdoor Sports Show 2025</title>
-    <desc>The Outdoor Sports Show 2025</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
-	<programme start="20260328125000 +0100" stop="20260328182000 +0100" channel="GolStadium">
-    <title>Imola (Race)</title>
-    <desc>European Le Mans Series 2025</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
-	<programme start="20260328182000 +0100" stop="20260328192000 +0100" channel="GolStadium">
-    <title>Aus Cycling MTB Championship 2025</title>
-    <desc>Documentales Icarus 2025</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
-	<programme start="20260328192000 +0100" stop="20260328201000 +0100" channel="GolStadium">
-    <title>UTMB KODIAK Ultra Marathon 2025</title>
-    <desc>Documentales Icarus 2025</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
-	<programme start="20260328201000 +0100" stop="20260328221000 +0100" channel="GolStadium">
-    <title>Feyenoord - Ajax</title>
-    <desc>Eredivisie 2025/2026 J28</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
-	<programme start="20260328221000 +0100" stop="20260329000000 +0100" channel="GolStadium">
-    <title>Winning time, Reggie Miller</title>
-    <desc>ESPN : Leyendas del deporte</desc>
-		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
-	</programme>
 	<programme start="20260329000000 +0100" stop="20260329010000 +0100" channel="GolStadium">
     <title>Muhammad and Larry</title>
     <desc>ESPN : Leyendas del deporte</desc>
@@ -32296,19 +32223,49 @@
     <desc>HYROX - The World Series of Fitness Racing ICARUS</desc>
 		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
 	</programme>
-	<programme start="20260403233000 +0100" stop="20260404000000 +0100" channel="GolStadium">
-    <title>The Hyrox Series 2025 ep. 6</title>
-    <desc>HYROX - The World Series of Fitness Racing ICARUS</desc>
+	<programme start="20260404110000 +0100" stop="20260404131000 +0100" channel="GolStadium">
+    <title>FC Groningen - AZ Alkmaar</title>
+    <desc>Eredivisie 2025/2026 J28</desc>
 		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
 	</programme>
-	<programme start="20260403233000 +0100" stop="20260404000000 +0100" channel="GolStadium">
-    <title>The Hyrox Series 2025 ep. 6</title>
-    <desc>HYROX - The World Series of Fitness Racing ICARUS</desc>
+	<programme start="20260404131000 +0100" stop="20260404170000 +0100" channel="GolStadium">
+    <title>Kotarr - Cronometrados</title>
+    <desc>Copa de España de MiniVelocidad - 2026</desc>
 		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
 	</programme>
-	<programme start="20260403233000 +0100" stop="20260404000000 +0100" channel="GolStadium">
-    <title>The Hyrox Series 2025 ep. 6</title>
-    <desc>HYROX - The World Series of Fitness Racing ICARUS</desc>
+	<programme start="20260404170000 +0100" stop="20260404173000 +0100" channel="GolStadium">
+    <title>The Sports Rundowm 2025</title>
+    <desc>The Sports Rundowm 2025</desc>
+		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
+	</programme>
+	<programme start="20260404173000 +0100" stop="20260404184000 +0100" channel="GolStadium">
+    <title>Xabi Alonso : El Arquitecto</title>
+    <desc>Xabi Alonso : El Arquitecto</desc>
+		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
+	</programme>
+	<programme start="20260404184000 +0100" stop="20260404192500 +0100" channel="GolStadium">
+    <title>UTMB Chiang Mai Thailand 2025</title>
+    <desc>Documentales Icarus 2025</desc>
+		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
+	</programme>
+	<programme start="20260404192500 +0100" stop="20260404200000 +0100" channel="GolStadium">
+    <title>Raid Gallaecia 2025</title>
+    <desc>Documentales Icarus 2025</desc>
+		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
+	</programme>
+	<programme start="20260404200000 +0100" stop="20260404220000 +0100" channel="GolStadium">
+    <title>Ajax - FC Twente</title>
+    <desc>Eredivisie 2025/2026 J29</desc>
+		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
+	</programme>
+	<programme start="20260404220000 +0100" stop="20260404232000 +0100" channel="GolStadium">
+    <title>Tommy</title>
+    <desc>ESPN : Leyendas del deporte</desc>
+		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
+	</programme>
+	<programme start="20260404232000 +0100" stop="20260405001000 +0100" channel="GolStadium">
+    <title>Greatest Mixtape Ever (And1)</title>
+    <desc>ESPN : Leyendas del deporte</desc>
 		<icon src="https://storage.googleapis.com/golstadium-pro/directus/gol/254d4a5d-b8c6-4eed-85b0-6bb129ffef82.jpg" />
 	</programme>
 	<programme start="20260329060200 +0200" stop="20260329063600 +0200" channel="Iberalia TV">
@@ -32562,7 +32519,7 @@
 	</programme>
 	<programme start="20260329171400 +0200" stop="20260329174700 +0200" channel="Iberalia TV">
     <title>Cazadores sin fronteras ep.6 Grazalema y el duende morisco</title>
-    <sub-title>2025 | TP | ★5.6/10</sub-title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) Cazadores sin fronteras ep.6 Grazalema y el duende morisco -.
 · País: España</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -32571,7 +32528,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329174700 +0200" stop="20260329182800 +0200" channel="Iberalia TV">
@@ -36532,7 +36489,7 @@
 	</programme>
 	<programme start="20260329161500 +0200" stop="20260329181500 +0200" channel="LaLiga TV Hypermotion">
     <title>DIRECTO Jornada 32: Cultural - Andorra T25/26 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) La Cultural propone circulación y cambios de ritmo para filtrar por dentro sin perder equilibrio. El Andorra querrá bajar pulsaciones con posesión larga; quien controle mejor la pérdida estará más cerca de mandar el guion.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -36541,7 +36498,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329181500 +0200" stop="20260329183000 +0200" channel="LaLiga TV Hypermotion">
@@ -36560,7 +36517,7 @@
 	</programme>
 	<programme start="20260329183000 +0200" stop="20260329203000 +0200" channel="LaLiga TV Hypermotion">
     <title>DIRECTO Jornada 32: Zaragoza - Racing T25/26 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) La Romareda aprieta: el Zaragoza, con la permanencia como hoja de ruta, prioriza solidez y control emocional para competir cada detalle. El Racing llega con energía en duelos y transiciones.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -36569,7 +36526,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329203000 +0200" stop="20260329210000 +0200" channel="LaLiga TV Hypermotion">
@@ -36616,7 +36573,7 @@
 	</programme>
 	<programme start="20260329233000 +0200" stop="20260330013000 +0200" channel="LaLiga TV Hypermotion">
     <title>Jornada 32: Zaragoza - Racing T25/26 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) La Romareda aprieta: el Zaragoza, con la permanencia como hoja de ruta, prioriza solidez y control emocional para competir cada detalle. El Racing llega con energía en duelos y transiciones.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -36625,7 +36582,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330013000 +0200" stop="20260330043000 +0200" channel="LaLiga TV Hypermotion">
@@ -36688,7 +36645,7 @@
 	</programme>
 	<programme start="20260331190000 +0200" stop="20260331210000 +0200" channel="LaLiga TV Hypermotion">
     <title>DIRECTO Jornada 33: Mirandés - Albacete T25/26 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La igualdad es la nota imperante en LaLiga HyperMotion, la Segunda División de fútbol español. Muchos son los aspirantes al ascenso, bien en busca de las dos plazas directas o por la vía del emocionante playoff con el que culmina la temporada.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -36697,7 +36654,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331210000 +0200" stop="20260331213000 +0200" channel="LaLiga TV Hypermotion">
@@ -36730,7 +36687,7 @@
 	</programme>
 	<programme start="20260331233000 +0200" stop="20260401000000 +0200" channel="LaLiga TV Hypermotion">
     <title>Post Segunda División T25/26 · Valladolid - Cádiz</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Tras la disputa de los encuentros, es tiempo para el análisis. Los entrenadores de los equipos de LaLiga HyperMotion desmenuzan las claves que, según ellos, han propiciado el resultado del partido que acaban de jugar.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -36739,7 +36696,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401000000 +0200" stop="20260401010000 +0200" channel="LaLiga TV Hypermotion">
@@ -36833,7 +36790,7 @@
 	</programme>
 	<programme start="20260401233000 +0200" stop="20260402000000 +0200" channel="LaLiga TV Hypermotion">
     <title>Post Segunda División T25/26 · Racing - Sporting</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Tras la disputa de los encuentros, es tiempo para el análisis. Los entrenadores de los equipos de LaLiga HyperMotion desmenuzan las claves que, según ellos, han propiciado el resultado del partido que acaban de jugar.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -36842,7 +36799,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402000000 +0200" stop="20260402010000 +0200" channel="LaLiga TV Hypermotion">
@@ -37107,7 +37064,7 @@
 	</programme>
 	<programme start="20260404203000 +0200" stop="20260404210000 +0200" channel="LaLiga TV Hypermotion">
     <title>Post Segunda División T25/26 · Deportivo - Málaga</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Tras la disputa de los encuentros, es tiempo para el análisis. Los entrenadores de los equipos de LaLiga HyperMotion desmenuzan las claves que, según ellos, han propiciado el resultado del partido que acaban de jugar.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -37116,7 +37073,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404210000 +0200" stop="20260404230000 +0200" channel="LaLiga TV Hypermotion">
@@ -45478,7 +45435,7 @@
 	</programme>
 	<programme start="20260404140500 +0200" stop="20260404160000 +0200" channel="M+ Deportes 2">
     <title>Semifinales: Semifinal 1 T2026 · Torneo de Marrakech</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Tenis) Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
     <category>Deportes, Tenis</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464648" />
@@ -45486,7 +45443,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404160000 +0200" stop="20260404183000 +0200" channel="M+ Deportes 2">
@@ -45569,20 +45526,6 @@
 	</programme>
 	<programme start="20260329201000 +0200" stop="20260329225000 +0200" channel="M+ Deportes 3">
     <title>DIRECTO 4º.- Finales Regionales: Tennessee - Michigan T25/26 · NCAA</title>
-    <sub-title>2025 | TP | ★5.6/10</sub-title>
-    <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
-· País: Estados Unidos</desc>
-    <category>Deportes, Baloncesto</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4466924" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260329225000 +0200" stop="20260330013500 +0200" channel="M+ Deportes 3">
-    <title>DIRECTO 4º.- Finales Regionales: UConn - Duke (VO) T25/26 · NCAA</title>
     <sub-title>2025 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
 · País: Estados Unidos</desc>
@@ -45593,6 +45536,20 @@
 		</rating>
 		<star-rating system="ES">
 			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260329225000 +0200" stop="20260330013500 +0200" channel="M+ Deportes 3">
+    <title>DIRECTO 4º.- Finales Regionales: UConn - Duke (VO) T25/26 · NCAA</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
+· País: Estados Unidos</desc>
+    <category>Deportes, Baloncesto</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4466924" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330013500 +0200" stop="20260330080000 +0200" channel="M+ Deportes 3">
@@ -45636,20 +45593,6 @@
 	</programme>
 	<programme start="20260330202000 +0200" stop="20260330230000 +0200" channel="M+ Deportes 3">
     <title>4º.- Finales Regionales: Tennessee - Michigan T25/26 · NCAA</title>
-    <sub-title>2025 | TP | ★5.6/10</sub-title>
-    <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
-· País: Estados Unidos</desc>
-    <category>Deportes, Baloncesto</category>
-		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4466924" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20260330230000 +0200" stop="20260331014500 +0200" channel="M+ Deportes 3">
-    <title>4º.- Finales Regionales: UConn - Duke (VO) T25/26 · NCAA</title>
     <sub-title>2025 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
 · País: Estados Unidos</desc>
@@ -45660,6 +45603,20 @@
 		</rating>
 		<star-rating system="ES">
 			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260330230000 +0200" stop="20260331014500 +0200" channel="M+ Deportes 3">
+    <title>4º.- Finales Regionales: UConn - Duke (VO) T25/26 · NCAA</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.
+· País: Estados Unidos</desc>
+    <category>Deportes, Baloncesto</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4466924" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331014500 +0200" stop="20260331080000 +0200" channel="M+ Deportes 3">
@@ -45842,7 +45799,7 @@
 	</programme>
 	<programme start="20260404120500 +0200" stop="20260404140000 +0200" channel="M+ Deportes 3">
     <title>DIRECTO Semifinales: Semifinal 1 T2026 · Torneo de Bucarest</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Tenis) Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
     <category>Deportes, Tenis</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464665" />
@@ -45850,18 +45807,21 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404140000 +0200" stop="20260404160000 +0200" channel="M+ Deportes 3">
     <title>DIRECTO Semifinales: Semifinal 2 T2026 · Torneo de Bucarest</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
     <category>Deportes, Tenis</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464665" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260404160000 +0200" stop="20260404230000 +0200" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
@@ -45904,7 +45864,7 @@
 	</programme>
 	<programme start="20260329155000 +0200" stop="20260330000000 +0200" channel="M+ Deportes 4">
     <title>DIRECTO Sao Paulo. Jornada 2 (VO) T2026 · World Rugby Sevens Series Femenina Nivel 2</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Rugby) World Rugby Sevens Series Femenina Nivel 2.</desc>
     <category>Deportes, Rugby</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4467724" />
@@ -45912,7 +45872,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330000000 +0200" stop="20260330070000 +0200" channel="M+ Deportes 4">
@@ -46144,7 +46104,7 @@
 	</programme>
 	<programme start="20260404205000 +0200" stop="20260404231500 +0200" channel="M+ Deportes 4">
     <title>DIRECTO Octavos de Final: Harlequins - Sale Sharks (VO) T25/26 · Investec Champions Cup</title>
-    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Rugby) La Investec Champions Cup o Copa de Europa de rugby reúne a los 24 mejores equipos del continente en busca del preciado título ahora en poder del gigante Stade Toulousain.
 · País: Francia</desc>
     <category>Deportes, Rugby</category>
@@ -46153,7 +46113,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329080000 +0200" stop="20260329200000 +0200" channel="M+ Deportes 5">
@@ -46220,7 +46180,7 @@
 	</programme>
 	<programme start="20260402203000 +0200" stop="20260402204500 +0200" channel="M+ Deportes 5">
     <title>Previa Euroliga de baloncesto T25/26 · Jornada 35: París - Milán</title>
-    <sub-title>TP | ★6.0/10</sub-title>
+    <sub-title>TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Euroliga de baloncesto.</desc>
     <category>Deportes, Programa deportes</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464600" />
@@ -46228,7 +46188,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402204500 +0200" stop="20260402230000 +0200" channel="M+ Deportes 5">
@@ -46564,7 +46524,7 @@
 	</programme>
 	<programme start="20260329091800 +0200" stop="20260329110000 +0200" channel="M+ Deportes">
     <title>NCAA T25/26 · Semifinales Regionales: Alabama - Michigan</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Baloncesto) El pívot español Aday Mara y sus Michigan Wolverines se enfrentan a Alabama en una de las semifinales regionales con el objetivo de convertirse en uno de los ultimos ocho equipos con posibilidades de alcanzar el título de la NCAA.
 · País: Estados Unidos</desc>
     <category>Deportes, Baloncesto</category>
@@ -46573,7 +46533,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329110000 +0200" stop="20260329114500 +0200" channel="M+ Deportes">
@@ -46591,7 +46551,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329114500 +0200" stop="20260329144500 +0200" channel="M+ Deportes">
+	<programme start="20260329114500 +0200" stop="20260329144000 +0200" channel="M+ Deportes">
     <title>DIRECTO Hipódromo de La Zarzuela. 29/03/2026 T2026 · Las Carreras</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Hípica) Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos.</desc>
@@ -46604,7 +46564,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329144500 +0200" stop="20260329145500 +0200" channel="M+ Deportes">
+	<programme start="20260329144000 +0200" stop="20260329145100 +0200" channel="M+ Deportes">
     <title>Evasión TV T2026 · Trofeo Fundación Jesús Serra</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
@@ -46618,7 +46578,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329145500 +0200" stop="20260329152500 +0200" channel="M+ Deportes">
+	<programme start="20260329145100 +0200" stop="20260329152500 +0200" channel="M+ Deportes">
     <title>Eurofighters T25/26 E25</title>
     <sub-title>2025 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters crece una temporada más. La Euroliga femenina y masculina serán los protagonistas de este clásico de los viernes. Los 7 equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que sucede en todas las canchas.
@@ -46647,9 +46607,9 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329155500 +0200" stop="20260329175500 +0200" channel="M+ Deportes">
+	<programme start="20260329155500 +0200" stop="20260329175800 +0200" channel="M+ Deportes">
     <title>DIRECTO T. Regular: Sale Sharks - Bath T25/26 · The Gallagher PREM Rugby</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Rugby) Sale Sharks y Bath cierran la 12ª jornada de la Gallagher PREM con un duelo muy atractivo en el Corpacq Stadium de Salford. Los Sharks llegan tras su clara derrota ante Exeter Chiefs y deben reaccionar en casa con su rocosa delantera como gran argumento.</desc>
     <category>Deportes, Rugby</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465326" />
@@ -46657,12 +46617,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329175500 +0200" stop="20260329182500 +0200" channel="M+ Deportes">
+	<programme start="20260329175800 +0200" stop="20260329182800 +0200" channel="M+ Deportes">
     <title>Planeta Tenis T2026 E7</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.
 · País: España
 · Presenta: Lidia Blanco, Roberto Carretero.</desc>
@@ -46672,10 +46632,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329182500 +0200" stop="20260329190000 +0200" channel="M+ Deportes">
+	<programme start="20260329182800 +0200" stop="20260329190000 +0200" channel="M+ Deportes">
     <title>World of free sports T2026 E11</title>
     <sub-title>2025 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) El apasionante mundo de los deportes al aire libre llega a nuestro canal para su repaso semanal.</desc>
@@ -46731,7 +46691,7 @@
 	</programme>
 	<programme start="20260330011500 +0200" stop="20260330031500 +0200" channel="M+ Deportes">
     <title>T. Regular: Sale Sharks - Bath T25/26 · The Gallagher PREM Rugby</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Rugby) Sale Sharks y Bath cierran la 12ª jornada de la Gallagher PREM con un duelo muy atractivo en el Corpacq Stadium de Salford. Los Sharks llegan tras su clara derrota ante Exeter Chiefs y deben reaccionar en casa con su rocosa delantera como gran argumento.</desc>
     <category>Deportes, Rugby</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465326" />
@@ -46739,7 +46699,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330031500 +0200" stop="20260330042000 +0200" channel="M+ Deportes">
@@ -46954,7 +46914,7 @@
 	</programme>
 	<programme start="20260330233000 +0200" stop="20260331000000 +0200" channel="M+ Deportes">
     <title>Planeta Tenis T2026 E7</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.
 · País: España
 · Presenta: Lidia Blanco, Roberto Carretero.</desc>
@@ -46964,12 +46924,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331000000 +0200" stop="20260331014500 +0200" channel="M+ Deportes">
     <title>T. Regular: Sale Sharks - Bath T25/26 · The Gallagher PREM Rugby</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Rugby) Sale Sharks y Bath cierran la 12ª jornada de la Gallagher PREM con un duelo muy atractivo en el Corpacq Stadium de Salford. Los Sharks llegan tras su clara derrota ante Exeter Chiefs y deben reaccionar en casa con su rocosa delantera como gran argumento.</desc>
     <category>Deportes, Rugby</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4465326" />
@@ -46977,7 +46937,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331014500 +0200" stop="20260331021500 +0200" channel="M+ Deportes">
@@ -48246,7 +48206,7 @@
 	</programme>
 	<programme start="20260404234500 +0200" stop="20260405014500 +0200" channel="M+ Deportes">
     <title>Semifinales: Semifinal 1 T2026 · Torneo de Bucarest</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Tenis) Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
     <category>Deportes, Tenis</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464665" />
@@ -48254,12 +48214,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260405014500 +0200" stop="20260405034500 +0200" channel="M+ Deportes">
     <title>Semifinales: Semifinal 1 T2026 · Torneo de Bucarest</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Tenis) Los torneos ATP 250 son el nivel más bajo de los torneos anuales de tenis masculino en el ATP Tour principal, después de los cuatro torneos Grand Slam, ATP Finals, ATP Torneos Masters 1000 y torneos ATP 500.</desc>
     <category>Deportes, Tenis</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464665" />
@@ -48267,7 +48227,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260405034500 +0200" stop="20260405040000 +0200" channel="M+ Deportes">
@@ -52988,7 +52948,7 @@
 	</programme>
 	<programme start="20260329151100 +0200" stop="20260329172400 +0200" channel="M+ Estrenos">
     <title>Valor sentimental</title>
-    <sub-title>2025 | ⑫ | ★7.0/10</sub-title>
+    <sub-title>2025 | ⑫ | ★7.2/10</sub-title>
     <desc>(Cine,Drama) Durante una reunión conmemorativa por la muerte de su madre, Nora y Agnes se reencuentran con su distanciado padre, un veterano director de cine, que le ofrece a su hija Nora un guion sobre la historia de la familia para que esta lo protagonice.
 · País: Alemania, Dinamarca, Francia, Noruega, Reino Unido, Suecia y Turquía
 · Dirección: Joachim Trier.
@@ -53003,7 +52963,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329172400 +0200" stop="20260329190800 +0200" channel="M+ Estrenos">
@@ -53356,7 +53316,7 @@
 	</programme>
 	<programme start="20260330223900 +0200" stop="20260331001600 +0200" channel="M+ Estrenos">
     <title>Mr. Monk's Last Case: A Monk Movie</title>
-    <sub-title>2023 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2023 | ⑫ | ★6.0/10</sub-title>
     <desc>(Cine,Comedia) Monk es un brillante detective con un trastorno obsesivo-compulsivo que regresa para resolver un último caso relacionado con su hijastra Molly, una periodista que prepara su boda.
 · País: Estados Unidos
 · Dirección: Randy Zisk.
@@ -53368,7 +53328,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331001600 +0200" stop="20260331020500 +0200" channel="M+ Estrenos">
@@ -54919,7 +54879,7 @@
     <title>Próximamente M+ Golf 2</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20260329073000 +0200" stop="20260329113000 +0200" channel="M+ Golf">
+	<programme start="20260329073000 +0200" stop="20260329105400 +0200" channel="M+ Golf">
     <title>DIRECTO Hero Indian Open (World Feed) Jornada 4. Parte 2 T25/26 · DP World Tour</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) El DP World Tour para en la India y lo jugadores se enfrentarán, posiblemente, al campo más duro del año. El año pasado solo 3 jugadores terminaron bajo par y Eugenio Chacarra ganó con -4. 13 españoles lucharán por la victoria.</desc>
@@ -54932,7 +54892,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329113000 +0200" stop="20260329123000 +0200" channel="M+ Golf">
+	<programme start="20260329105400 +0200" stop="20260329115400 +0200" channel="M+ Golf">
     <title>Sueños de Golf T2026 · La Escuela del LPGA, el último examen</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Dura, larga, tensa, exigente...cualquiera de estos calificativos definen lo que es la fase final de la Escuela de la LPGA, donde rookies y veteranas luchan por esa ansiada tarjeta del LPGA. 3 españolas fueron este año a Alabama a pasar "El último examen".
@@ -54946,7 +54906,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329123000 +0200" stop="20260329130100 +0200" channel="M+ Golf">
+	<programme start="20260329115400 +0200" stop="20260329122400 +0200" channel="M+ Golf">
     <title>Locos por el golf T2026 E11</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Jon Rahm se quedó a las puertas de lograr su segunda victoria del año en el LIV en su primera visita a Sudáfrica. El torneo fue una absoluta locura. También brillaron Jorge Campillo, 2º en China, y Carla Tejedo, 5ª en su debut en el LPGA.
@@ -54961,7 +54921,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329130100 +0200" stop="20260329133100 +0200" channel="M+ Golf">
+	<programme start="20260329122400 +0200" stop="20260329125400 +0200" channel="M+ Golf">
     <title>Sueños de Golf T2018 · Nick Price</title>
     <sub-title>2018 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.
@@ -54975,7 +54935,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329133100 +0200" stop="20260329140000 +0200" channel="M+ Golf">
+	<programme start="20260329125400 +0200" stop="20260329132000 +0200" channel="M+ Golf">
     <title>Lara Academy T5 · Mejorar golpes de 125 metros</title>
     <sub-title>2022 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales, consultas de espectadores y análisis de los profesionales.
@@ -54990,9 +54950,9 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329140000 +0200" stop="20260329164000 +0200" channel="M+ Golf">
+	<programme start="20260329132000 +0200" stop="20260329155100 +0200" channel="M+ Golf">
     <title>Ladies PGA T2026 · Ford Championship presented by Wild Horse Pass. Jornada 3</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464116" />
@@ -55000,10 +54960,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329164000 +0200" stop="20260329171000 +0200" channel="M+ Golf">
+	<programme start="20260329155100 +0200" stop="20260329162100 +0200" channel="M+ Golf">
     <title>Sueños de Golf T2025 · Luna Creciente</title>
     <sub-title>2025 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Cada gran jugadora tiene una buena historia detrás. Y la de Luna Sobrón, la niña de Mallorca que quiere ser una campeona, merece ser contada desde el principio.
@@ -55017,7 +54977,22 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329171000 +0200" stop="20260329174000 +0200" channel="M+ Golf">
+	<programme start="20260329162100 +0200" stop="20260329164600 +0200" channel="M+ Golf">
+    <title>Lara Academy T5 · Hoy jugamos con Javier Clemente</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales, consultas de espectadores y análisis de los profesionales.
+· País: España
+· Presenta: Jose Manuel Lara.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F3652068" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260329164600 +0200" stop="20260329171000 +0200" channel="M+ Golf">
     <title>HotelPlanner Tour Series T2026 · PGTI Open</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Golf) Desde febrero y hasta octubre, este programa repasa los torneos de la división de plata del circuito europeo mientras conocemos más de cerca a sus protagonistas.</desc>
@@ -55030,7 +55005,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329174000 +0200" stop="20260329181200 +0200" channel="M+ Golf">
+	<programme start="20260329171000 +0200" stop="20260329174000 +0200" channel="M+ Golf">
     <title>Locos por el golf T2026 E11</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Jon Rahm se quedó a las puertas de lograr su segunda victoria del año en el LIV en su primera visita a Sudáfrica. El torneo fue una absoluta locura. También brillaron Jorge Campillo, 2º en China, y Carla Tejedo, 5ª en su debut en el LPGA.
@@ -55045,7 +55020,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329181200 +0200" stop="20260329184000 +0200" channel="M+ Golf">
+	<programme start="20260329174000 +0200" stop="20260329180700 +0200" channel="M+ Golf">
     <title>Lara Academy T5 · Mejorando el juego corto</title>
     <sub-title>2025 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) José Manuel Lara, dos veces ganador en el European Tour, se convierte en el profesor particular de los abonados de Movistar Golf con consejos en el campo de prácticas, situaciones reales, consultas de espectadores y análisis de los profesionales.
@@ -55060,7 +55035,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329184000 +0200" stop="20260329223500 +0200" channel="M+ Golf">
+	<programme start="20260329180700 +0200" stop="20260329213500 +0200" channel="M+ Golf">
     <title>Hero Indian Open (World Feed) Jornada 4. Parte 2 T25/26 · DP World Tour</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) El DP World Tour para en la India y lo jugadores se enfrentarán, posiblemente, al campo más duro del año. El año pasado solo 3 jugadores terminaron bajo par y Eugenio Chacarra ganó con -4. 13 españoles lucharán por la victoria.</desc>
@@ -55073,7 +55048,21 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329223500 +0200" stop="20260329230500 +0200" channel="M+ Golf">
+	<programme start="20260329213500 +0200" stop="20260329220800 +0200" channel="M+ Golf">
+    <title>Sueños de Golf T2025 · Monty</title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4382192" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260329220800 +0200" stop="20260329223300 +0200" channel="M+ Golf">
     <title>HotelPlanner Tour Series T2026 · PGTI Open</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Golf) Desde febrero y hasta octubre, este programa repasa los torneos de la división de plata del circuito europeo mientras conocemos más de cerca a sus protagonistas.</desc>
@@ -55086,7 +55075,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329230500 +0200" stop="20260329233400 +0200" channel="M+ Golf">
+	<programme start="20260329223300 +0200" stop="20260329230000 +0200" channel="M+ Golf">
     <title>The Legends Tour T2026 · Legends Tour Documentary EP 2</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Golf) El Staysure Tour, el circuito senior europeo se relanza con una nueva imagen y un nuevo nombre: Legends Tour. Son leyendas, capitanes ganadores de Ryder Cup, campeones de major e iconos de golf.</desc>
@@ -55099,7 +55088,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329233400 +0200" stop="20260330000000 +0200" channel="M+ Golf">
+	<programme start="20260329230000 +0200" stop="20260329232300 +0200" channel="M+ Golf">
     <title>Sueños de Golf T2025 · Electric Lowry</title>
     <sub-title>2025 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.
@@ -55113,9 +55102,23 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
+	<programme start="20260329232300 +0200" stop="20260330000000 +0200" channel="M+ Golf">
+    <title>Sueños de Golf T2018 · Nick Price</title>
+    <sub-title>2018 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F3356912" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
 	<programme start="20260330000000 +0200" stop="20260330030000 +0200" channel="M+ Golf">
-    <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>DIRECTO Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55123,7 +55126,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330030000 +0200" stop="20260330033000 +0200" channel="M+ Golf">
@@ -55205,7 +55208,7 @@
 	</programme>
 	<programme start="20260330100000 +0200" stop="20260330130000 +0200" channel="M+ Golf">
     <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55213,7 +55216,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330130000 +0200" stop="20260330133200 +0200" channel="M+ Golf">
@@ -55315,7 +55318,7 @@
 	</programme>
 	<programme start="20260330194500 +0200" stop="20260330214500 +0200" channel="M+ Golf">
     <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55323,7 +55326,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330214500 +0200" stop="20260330220500 +0200" channel="M+ Golf">
@@ -55460,7 +55463,7 @@
 	</programme>
 	<programme start="20260331144500 +0200" stop="20260331174500 +0200" channel="M+ Golf">
     <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55468,7 +55471,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331174500 +0200" stop="20260331183000 +0200" channel="M+ Golf">
@@ -55557,7 +55560,7 @@
 	</programme>
 	<programme start="20260331234500 +0200" stop="20260401014500 +0200" channel="M+ Golf">
     <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55565,7 +55568,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401014500 +0200" stop="20260401060000 +0200" channel="M+ Golf">
@@ -55634,7 +55637,7 @@
 	</programme>
 	<programme start="20260401102500 +0200" stop="20260401132500 +0200" channel="M+ Golf">
     <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55642,7 +55645,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401132500 +0200" stop="20260401140000 +0200" channel="M+ Golf">
@@ -55821,7 +55824,7 @@
 	</programme>
 	<programme start="20260402100000 +0200" stop="20260402130000 +0200" channel="M+ Golf">
     <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55829,7 +55832,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402130000 +0200" stop="20260402133000 +0200" channel="M+ Golf">
@@ -55917,7 +55920,7 @@
 	</programme>
 	<programme start="20260402190000 +0200" stop="20260402200000 +0200" channel="M+ Golf">
     <title>Ford Championship presented by Wild Horse Pass. Jornada 4 T2026 · Ladies PGA</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) Tras su buena actuación la semana pasada, Carla Bernat ha sido la última española en clasificarse para el Ford Championship. Así que tendremos a 5 de las nuestras peleando esta semana en Arizona en el sexto torneo de la temporada.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464118" />
@@ -55925,7 +55928,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402200000 +0200" stop="20260402203000 +0200" channel="M+ Golf">
@@ -55998,7 +56001,7 @@
 	</programme>
 	<programme start="20260403000000 +0200" stop="20260403040000 +0200" channel="M+ Golf">
     <title>DIRECTO Aramco Championship USA. Jornada 1 T2026 · Ladies European Tour</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Golf) El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
@@ -56006,7 +56009,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403040000 +0200" stop="20260403043000 +0200" channel="M+ Golf">
@@ -56097,7 +56100,7 @@
 	</programme>
 	<programme start="20260403120000 +0200" stop="20260403160000 +0200" channel="M+ Golf">
     <title>Aramco Championship USA. Jornada 1 T2026 · Ladies European Tour</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Golf) El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
@@ -56105,7 +56108,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403160000 +0200" stop="20260403163000 +0200" channel="M+ Golf">
@@ -56206,7 +56209,7 @@
 	</programme>
 	<programme start="20260403230000 +0200" stop="20260404000000 +0200" channel="M+ Golf">
     <title>Aramco Championship USA. Jornada 1 T2026 · Ladies European Tour</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Golf) El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
@@ -56214,12 +56217,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404000000 +0200" stop="20260404040000 +0200" channel="M+ Golf">
     <title>DIRECTO Aramco Championship USA. Jornada 2 T2026 · Ladies European Tour</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Golf) El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
@@ -56227,7 +56230,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404040000 +0200" stop="20260404043000 +0200" channel="M+ Golf">
@@ -56332,7 +56335,7 @@
 	</programme>
 	<programme start="20260404110500 +0200" stop="20260404150500 +0200" channel="M+ Golf">
     <title>Aramco Championship USA. Jornada 1 T2026 · Ladies European Tour</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Golf) El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
@@ -56340,7 +56343,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404150500 +0200" stop="20260404153500 +0200" channel="M+ Golf">
@@ -56415,7 +56418,7 @@
 	</programme>
 	<programme start="20260404210000 +0200" stop="20260404220000 +0200" channel="M+ Golf">
     <title>Aramco Championship USA. Jornada 1 T2026 · Ladies European Tour</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Golf) El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
@@ -56423,7 +56426,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404220000 +0200" stop="20260404223000 +0200" channel="M+ Golf">
@@ -56456,7 +56459,7 @@
 	</programme>
 	<programme start="20260404230000 +0200" stop="20260405030000 +0200" channel="M+ Golf">
     <title>DIRECTO Aramco Championship USA. Jornada 3 T2026 · Ladies European Tour</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Golf) El circuito europeo femenino viajará a 20 países por todo el mundo para un total de 32 torneos. Andalucía Costa del Sol Open de España pondrá por 4º año consecutivo el punto y final a la Race to Costa del Sol.</desc>
     <category>Deportes, Golf</category>
 		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
@@ -56464,7 +56467,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260405030000 +0200" stop="20260405033000 +0200" channel="M+ Golf">
@@ -58407,7 +58410,7 @@
 	</programme>
 	<programme start="20260329201000 +0200" stop="20260329220000 +0200" channel="M+ Indie">
     <title>La hermanastra fea</title>
-    <sub-title>2025 | ⑱ | ★6.8/10</sub-title>
+    <sub-title>2025 | ⑱ | ★6.6/10</sub-title>
     <desc>(Cine,Terror) Cuando su último marido muere inesperadamente, Rebekka descubre que no es un hombre adinerado. La única esperanza para la familia es que su hija Elvira se case con el príncipe. Pero, Rebekka sabe que Elvira no tiene posibilidades.
 · País: Dinamarca, Noruega, Polonia, Rumanía y Suecia
 · Dirección: Emilie Blichfeldt.
@@ -58422,7 +58425,7 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329220000 +0200" stop="20260329233800 +0200" channel="M+ Indie">
@@ -60226,7 +60229,7 @@
 	</programme>
 	<programme start="20260404220000 +0200" stop="20260405002500 +0200" channel="M+ Indie">
     <title>Julia</title>
-    <sub-title>2008 | ⑱</sub-title>
+    <sub-title>2008 | ⑱ | ★6.0/10</sub-title>
     <desc>(Cine,Drama) Una mujer alcohólica, manipuladora, desconfiada y mentirosa acude a terapia para hacer rehabilitación. Allí conoce a una mujer que le propone ayudarla a secuestrar a su hijo, del que ha perdido la patria potestad, a cambio de una gran cantidad de dinero.
 · País: Francia
 · Dirección: Érick Zonca.
@@ -60238,6 +60241,9 @@
 		<rating system="ES">
 			<value>18</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260405002500 +0200" stop="20260405020800 +0200" channel="M+ Indie">
     <title>Un simple accidente</title>
@@ -60390,7 +60396,7 @@
 	</programme>
 	<programme start="20260404203000 +0200" stop="20260404210000 +0200" channel="M+ LaLiga 2">
     <title>La Casa del Fútbol Post T25/26 · Betis - Espanyol</title>
-    <sub-title>2025 | TP</sub-title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -60398,6 +60404,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260329120000 +0200" stop="20260329130000 +0200" channel="M+ LaLiga 2 HDR">
     <title>M+ LALIGA 2 HDR</title>
@@ -60491,7 +60500,7 @@
 	</programme>
 	<programme start="20260404203000 +0200" stop="20260404210000 +0200" channel="M+ LaLiga 2 HDR">
     <title>La Casa del Fútbol Post T25/26 · Betis - Espanyol</title>
-    <sub-title>2025 | TP</sub-title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -60499,6 +60508,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260329120000 +0200" stop="20260329130000 +0200" channel="M+ LaLiga 3">
     <title>M+ LALIGA 3</title>
@@ -61567,7 +61579,7 @@
 	</programme>
 	<programme start="20260331080000 +0200" stop="20260331100000 +0200" channel="M+ LaLiga">
     <title>Jornada 32: Zaragoza - Racing T25/26 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) La Romareda aprieta: el Zaragoza, con la permanencia como hoja de ruta, prioriza solidez y control emocional para competir cada detalle. El Racing llega con energía en duelos y transiciones.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61576,7 +61588,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331100000 +0200" stop="20260331110000 +0200" channel="M+ LaLiga">
@@ -63847,7 +63859,7 @@
 	</programme>
 	<programme start="20260404151500 +0200" stop="20260404160900 +0200" channel="M+ LaLiga">
     <title>La Casa del Fútbol Previa T25/26 · Mallorca - Real Madrid</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -63856,7 +63868,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404160900 +0200" stop="20260404181500 +0200" channel="M+ LaLiga">
@@ -63875,7 +63887,7 @@
 	</programme>
 	<programme start="20260404181500 +0200" stop="20260404184500 +0200" channel="M+ LaLiga">
     <title>La Casa del Fútbol Post T25/26 · Mallorca - Real Madrid</title>
-    <sub-title>2025 | TP</sub-title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -63883,6 +63895,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260404184500 +0200" stop="20260404194500 +0200" channel="M+ LaLiga">
     <title>Momentazos de LaLiga T19/20 · Los 15 nombres de la historia de La Liga</title>
@@ -64145,7 +64160,7 @@
 	</programme>
 	<programme start="20260404151500 +0200" stop="20260404160900 +0200" channel="M+ LaLiga HDR">
     <title>La Casa del Fútbol Previa T25/26 · Mallorca - Real Madrid</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -64154,7 +64169,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404160900 +0200" stop="20260404181500 +0200" channel="M+ LaLiga HDR">
@@ -64173,7 +64188,7 @@
 	</programme>
 	<programme start="20260404181500 +0200" stop="20260404184500 +0200" channel="M+ LaLiga HDR">
     <title>La Casa del Fútbol Post T25/26 · Mallorca - Real Madrid</title>
-    <sub-title>2025 | TP</sub-title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -64181,6 +64196,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260329120000 +0200" stop="20260329130000 +0200" channel="M+ Liga de Campeones 10">
     <title>M+ Liga de Campeones 10</title>
@@ -64460,13 +64478,13 @@
 	</programme>
 	<programme start="20260330080000 +0200" stop="20260330120000 +0200" channel="M+ Liga de Campeones 14">
     <title>M Liga de Campeones 14</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 14.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS13.jpg" />
 	</programme>
 	<programme start="20260330120000 +0200" stop="20260330160000 +0200" channel="M+ Liga de Campeones 14">
     <title>M Liga de Campeones 14</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 14.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS13.jpg" />
 	</programme>
@@ -64478,7 +64496,7 @@
 	</programme>
 	<programme start="20260330200000 +0200" stop="20260331000000 +0200" channel="M+ Liga de Campeones 14">
     <title>M Liga de Campeones 14</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 14.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS13.jpg" />
 	</programme>
@@ -64712,13 +64730,13 @@
 	</programme>
 	<programme start="20260330080000 +0200" stop="20260330120000 +0200" channel="M+ Liga de Campeones 15">
     <title>M Liga de Campeones 15</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 15.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS14.jpg" />
 	</programme>
 	<programme start="20260330120000 +0200" stop="20260330160000 +0200" channel="M+ Liga de Campeones 15">
     <title>M Liga de Campeones 15</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 15.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS14.jpg" />
 	</programme>
@@ -64964,13 +64982,13 @@
 	</programme>
 	<programme start="20260330080000 +0200" stop="20260330120000 +0200" channel="M+ Liga de Campeones 16">
     <title>M Liga de Campeones 16</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 16.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS15.jpg" />
 	</programme>
 	<programme start="20260330120000 +0200" stop="20260330160000 +0200" channel="M+ Liga de Campeones 16">
     <title>M Liga de Campeones 16</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 16.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS15.jpg" />
 	</programme>
@@ -65216,13 +65234,13 @@
 	</programme>
 	<programme start="20260330080000 +0200" stop="20260330120000 +0200" channel="M+ Liga de Campeones 17">
     <title>M Liga de Campeones 17</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 17.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS16.jpg" />
 	</programme>
 	<programme start="20260330120000 +0200" stop="20260330160000 +0200" channel="M+ Liga de Campeones 17">
     <title>M Liga de Campeones 17</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 17.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS16.jpg" />
 	</programme>
@@ -65468,13 +65486,13 @@
 	</programme>
 	<programme start="20260330080000 +0200" stop="20260330120000 +0200" channel="M+ Liga de Campeones 18">
     <title>M Liga de Campeones 18</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 18.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS17.jpg" />
 	</programme>
 	<programme start="20260330120000 +0200" stop="20260330160000 +0200" channel="M+ Liga de Campeones 18">
     <title>M Liga de Campeones 18</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 18.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS17.jpg" />
 	</programme>
@@ -65720,13 +65738,13 @@
 	</programme>
 	<programme start="20260330080000 +0200" stop="20260330120000 +0200" channel="M+ Liga de Campeones 19">
     <title>M Liga de Campeones 19</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 19.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS18.jpg" />
 	</programme>
 	<programme start="20260330120000 +0200" stop="20260330160000 +0200" channel="M+ Liga de Campeones 19">
     <title>M Liga de Campeones 19</title>
-    <desc>(Programa,Otros) Información del canal.</desc>
+    <desc>(Programa,Otros) M Liga de Campeones 19.</desc>
     <category>Programa, Otros</category>
 		<icon src="https://orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BS18.jpg" />
 	</programme>
@@ -67485,7 +67503,7 @@
 	</programme>
 	<programme start="20260401232500 +0200" stop="20260402013000 +0200" channel="M+ Liga de Campeones">
     <title>DIRECTO Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67494,7 +67512,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402013000 +0200" stop="20260402033000 +0200" channel="M+ Liga de Campeones">
@@ -67628,7 +67646,7 @@
 	</programme>
 	<programme start="20260402120000 +0200" stop="20260402140000 +0200" channel="M+ Liga de Campeones">
     <title>Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67637,7 +67655,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402140000 +0200" stop="20260402163500 +0200" channel="M+ Liga de Campeones">
@@ -67683,7 +67701,7 @@
 	</programme>
 	<programme start="20260402185500 +0200" stop="20260402205500 +0200" channel="M+ Liga de Campeones">
     <title>Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67692,7 +67710,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402205500 +0200" stop="20260402225500 +0200" channel="M+ Liga de Campeones">
@@ -67738,7 +67756,7 @@
 	</programme>
 	<programme start="20260403012500 +0200" stop="20260403033000 +0200" channel="M+ Liga de Campeones">
     <title>DIRECTO Jornada 9: Bragantino - Flamengo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67747,12 +67765,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403033000 +0200" stop="20260403053000 +0200" channel="M+ Liga de Campeones">
     <title>Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67761,7 +67779,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403053000 +0200" stop="20260403063000 +0200" channel="M+ Liga de Campeones">
@@ -67851,7 +67869,7 @@
 	</programme>
 	<programme start="20260403125000 +0200" stop="20260403145000 +0200" channel="M+ Liga de Campeones">
     <title>Jornada 9: Bragantino - Flamengo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67860,7 +67878,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403145000 +0200" stop="20260403152000 +0200" channel="M+ Liga de Campeones">
@@ -67878,7 +67896,7 @@
 	</programme>
 	<programme start="20260403152000 +0200" stop="20260403172000 +0200" channel="M+ Liga de Campeones">
     <title>Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67887,12 +67905,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403172000 +0200" stop="20260403192000 +0200" channel="M+ Liga de Campeones">
     <title>Jornada 9: Bragantino - Flamengo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -67901,7 +67919,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403192000 +0200" stop="20260403195500 +0200" channel="M+ Liga de Campeones">
@@ -68542,7 +68560,7 @@
 	</programme>
 	<programme start="20260330071200 +0200" stop="20260330074200 +0200" channel="M+ Originales">
     <title>Planeta Tenis T2026 E7</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.
 · País: España
 · Presenta: Lidia Blanco, Roberto Carretero.</desc>
@@ -68552,7 +68570,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330074200 +0200" stop="20260330080900 +0200" channel="M+ Originales">
@@ -68730,7 +68748,7 @@
 	</programme>
 	<programme start="20260330143600 +0200" stop="20260330155100 +0200" channel="M+ Originales">
     <title>La Mesías T1 E6 · La cara de mi madre</title>
-    <sub-title>2022 | ⑱ | ★6.8/10</sub-title>
+    <sub-title>2022 | ⑱ | ★6.6/10</sub-title>
     <desc>(Series,Drama) Irene y Enric siguen con su búsqueda. Una reunión llena de tensión reabre viejas heridas.
 · País: España
 · Dirección: Javier Ambrossi, Javier Calvo.
@@ -68742,7 +68760,7 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330155100 +0200" stop="20260330164700 +0200" channel="M+ Originales">
@@ -71681,7 +71699,7 @@
 	</programme>
 	<programme start="20260405043100 +0200" stop="20260405044100 +0200" channel="M+ Originales">
     <title>Bakalá express T25/26 E30</title>
-    <sub-title>TP</sub-title>
+    <sub-title>TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
 · País: España
 · Presenta: Raúl Pérez.</desc>
@@ -71690,6 +71708,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20260405044100 +0200" stop="20260405054100 +0200" channel="M+ Originales">
     <title>Eurofighters T25/26 E26</title>
@@ -71750,7 +71771,7 @@
 	</programme>
 	<programme start="20260329132500 +0200" stop="20260329135500 +0200" channel="M+ Vamos 2">
     <title>Planeta Tenis T2026 E7</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.
 · País: España
 · Presenta: Lidia Blanco, Roberto Carretero.</desc>
@@ -71760,7 +71781,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329135500 +0200" stop="20260329145000 +0200" channel="M+ Vamos 2">
@@ -71979,7 +72000,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20260403130000 +0200" stop="20260403150000 +0200" channel="M+ Vamos 2">
-    <title>Final Masculina T2026 · Premier Padel Miami</title>
+    <title>Final: Tapia/Coello - Galán/Chingotto T2026 · Premier Padel Miami</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category>Deportes, Pádel</category>
@@ -72374,7 +72395,7 @@
 			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329110000 +0200" stop="20260329115900 +0200" channel="M+ Vamos">
+	<programme start="20260329110000 +0200" stop="20260329120300 +0200" channel="M+ Vamos">
     <title>Vamos al Frontón T2026 · El camino a la gran final</title>
     <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Ezkurdia hasta la final.</desc>
@@ -72387,9 +72408,9 @@
 			<value>5.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329115900 +0200" stop="20260329133000 +0200" channel="M+ Vamos">
+	<programme start="20260329120300 +0200" stop="20260329133300 +0200" channel="M+ Vamos">
     <title>Morata: no saben quién soy</title>
-    <sub-title>2025 | TP | ★6.8/10</sub-title>
+    <sub-title>2025 | TP | ★6.6/10</sub-title>
     <desc>(Documentales,Biografía) 2024 fue para Morata una montaña rusa en la que el delantero madrileño estuvo, más que nunca, en el centro de todas las miradas. Como capitán de la selección española levantó la Eurocopa, mientras en su vida privada afrontaba la ruptura con su mujer.
 · País: Emiratos Árabes Unidos
 · Dirección: Álvaro García Cuesta.
@@ -72401,10 +72422,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329133000 +0200" stop="20260329143100 +0200" channel="M+ Vamos">
+	<programme start="20260329133300 +0200" stop="20260329143900 +0200" channel="M+ Vamos">
     <title>Carreras de Caballos- Turf T2026 · 29/03/2026 Hipódromo de la Zarzuela</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Las carreras de caballos son un espectáculo extendido por todo el mundo y generan multitud de apuestas. Monturas y jinetes se exprimen al máximo para llegar a la meta en el menor tiempo posible.</desc>
@@ -72417,7 +72438,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329143100 +0200" stop="20260329153100 +0200" channel="M+ Vamos">
+	<programme start="20260329143900 +0200" stop="20260329153400 +0200" channel="M+ Vamos">
     <title>Informe Plus+. Orgullo, Valor y Garra: 100 años del Real Oviedo</title>
     <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Deportes,Programa deportes) El 26 de marzo de 2026 el Real Oviedo cumple cien años. Y lo hace en Primera División, después de una larga travesía de 24 años en la que llegó a rozar la desaparición. Un siglo de vida con muchas pequeñas y grandes historias que merecen recordarse.
@@ -72431,7 +72452,7 @@
 			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329153100 +0200" stop="20260329165100 +0200" channel="M+ Vamos">
+	<programme start="20260329153400 +0200" stop="20260329165400 +0200" channel="M+ Vamos">
     <title>Torneo de Miami T2026 · Semifinales: Lehecka - Fils</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Tenis) Miami acoge el segundo Masters 1000 de la temporada, que pone fin a la gira de pista dura americana de febrero y marzo. El checo Jakub Mensik fue el campeón de 2025.
@@ -72445,9 +72466,9 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20260329165100 +0200" stop="20260329172200 +0200" channel="M+ Vamos">
+	<programme start="20260329165400 +0200" stop="20260329172200 +0200" channel="M+ Vamos">
     <title>Planeta Tenis T2026 E7</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Magazine semanal en el que repasamos toda la actualidad del mundo del tenis, escuchamos a sus protagonistas y echamos una mirada a la historia.
 · País: España
 · Presenta: Lidia Blanco, Roberto Carretero.</desc>
@@ -72457,7 +72478,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329172200 +0200" stop="20260329180400 +0200" channel="M+ Vamos">
@@ -72518,7 +72539,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20260329220000 +0200" stop="20260330000000 +0200" channel="M+ Vamos">
-    <title>DIRECTO Final Femenino T2026 · Premier Padel Miami</title>
+    <title>DIRECTO Final Femenino: Brea/Triay - Josemaria/González T2026 · Premier Padel Miami</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category>Deportes, Pádel</category>
@@ -72531,7 +72552,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20260330000000 +0200" stop="20260330023000 +0200" channel="M+ Vamos">
-    <title>DIRECTO Final Masculina T2026 · Premier Padel Miami</title>
+    <title>DIRECTO Final: Tapia/Coello - Galán/Chingotto T2026 · Premier Padel Miami</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category>Deportes, Pádel</category>
@@ -72628,7 +72649,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20260330120000 +0200" stop="20260330143000 +0200" channel="M+ Vamos">
-    <title>Final Masculina T2026 · Premier Padel Miami</title>
+    <title>Final: Tapia/Coello - Galán/Chingotto T2026 · Premier Padel Miami</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category>Deportes, Pádel</category>
@@ -72822,7 +72843,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20260331020500 +0200" stop="20260331040500 +0200" channel="M+ Vamos">
-    <title>Final Femenino T2026 · Premier Padel Miami</title>
+    <title>Final Femenino: Brea/Triay - Josemaria/González T2026 · Premier Padel Miami</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category>Deportes, Pádel</category>
@@ -73423,7 +73444,7 @@
 	</programme>
 	<programme start="20260402002500 +0200" stop="20260402023000 +0200" channel="M+ Vamos">
     <title>Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -73432,7 +73453,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402023000 +0200" stop="20260402042000 +0200" channel="M+ Vamos">
@@ -73463,7 +73484,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20260402062500 +0200" stop="20260402083000 +0200" channel="M+ Vamos">
-    <title>Final Masculina T2026 · Premier Padel Miami</title>
+    <title>Final: Tapia/Coello - Galán/Chingotto T2026 · Premier Padel Miami</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
     <category>Deportes, Pádel</category>
@@ -73549,7 +73570,7 @@
 	</programme>
 	<programme start="20260402114000 +0200" stop="20260402133000 +0200" channel="M+ Vamos">
     <title>Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -73558,7 +73579,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402133000 +0200" stop="20260402143500 +0200" channel="M+ Vamos">
@@ -73782,7 +73803,7 @@
 	</programme>
 	<programme start="20260403022500 +0200" stop="20260403043000 +0200" channel="M+ Vamos">
     <title>Jornada 9: Bragantino - Flamengo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -73791,12 +73812,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403043000 +0200" stop="20260403062000 +0200" channel="M+ Vamos">
     <title>Jornada 9: Internacional - Sao Paulo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -73805,7 +73826,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403062000 +0200" stop="20260403081500 +0200" channel="M+ Vamos">
@@ -73869,7 +73890,7 @@
 	</programme>
 	<programme start="20260403124500 +0200" stop="20260403143500 +0200" channel="M+ Vamos">
     <title>Jornada 9: Bragantino - Flamengo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -73878,7 +73899,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403143500 +0200" stop="20260403150500 +0200" channel="M+ Vamos">
@@ -74086,7 +74107,7 @@
 	</programme>
 	<programme start="20260404050500 +0200" stop="20260404065500 +0200" channel="M+ Vamos">
     <title>Jornada 9: Bragantino - Flamengo T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -74095,7 +74116,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404065500 +0200" stop="20260404072500 +0200" channel="M+ Vamos">
@@ -74230,7 +74251,7 @@
 	</programme>
 	<programme start="20260404180500 +0200" stop="20260404201500 +0200" channel="M+ Vamos">
     <title>DIRECTO Cuartos de final: Chelsea - Port Vale T25/26 · FA Cup</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) Cuartos de final de la FA Cup, El Chelsea recibe en Stamford Bridge al Port Vale. El rival del Chelsea es colista de la League One, pero viene de eliminar al Sunderland.
 · País: Reino Unido</desc>
     <category>Deportes, Fútbol</category>
@@ -74239,7 +74260,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404201500 +0200" stop="20260404211000 +0200" channel="M+ Vamos">
@@ -74499,7 +74520,7 @@
 	</programme>
 	<programme start="20260329145400 +0200" stop="20260329155200 +0200" channel="Movistar Plus+">
     <title>El Imperio romano: más allá del mito · Caracalla y el guardia pretoriano</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
     <desc>(Documentales,Historia) Esta serie documental revela como nunca antes el fascinante mundo del antiguo Imperio romano, desvelando aspectos hasta ahora desconocidos de su civilización.
 · País: Francia
 · Productora: Indigenes Productions.</desc>
@@ -74509,7 +74530,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329155200 +0200" stop="20260329173800 +0200" channel="Movistar Plus+">
@@ -76078,7 +76099,7 @@
 	</programme>
 	<programme start="20260403003300 +0200" stop="20260403011700 +0200" channel="Movistar Plus+">
     <title>Lynley T1 E2 · Un lugar donde esconderse. Parte 2</title>
-    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Drama) A medida que profundizan en el caso, las tensiones dentro de la comunidad salen a la luz y los sospechosos se multiplican. Lynley y Havers empiezan a encontrar un equilibrio en su forma de trabajar, combinando método e intuición.
 · País: Irlanda y Reino Unido
 · Reparto: Leo Suter, Sofia Barclay, Daniel Mays, Michael Workeye, Kris Hitchen, Hamza Jeetooa, Crispin Letts.</desc>
@@ -76088,7 +76109,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403011700 +0200" stop="20260403020100 +0200" channel="Movistar Plus+">
@@ -76493,7 +76514,7 @@
 	</programme>
 	<programme start="20260404010500 +0200" stop="20260404015000 +0200" channel="Movistar Plus+">
     <title>Lynley T1 E5 · Imprudencia letal. Parte 1</title>
-    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.4/10</sub-title>
     <desc>(Series,Drama) Un nuevo caso sitúa al dúo en un entorno aparentemente idílico donde el asesinato de un joven sacude a la comunidad. Bajo la superficie tranquila emergen tensiones sociales y secretos difíciles de sostener.
 · País: Irlanda y Reino Unido
 · Reparto: Leo Suter, Sofia Barclay, Daniel Mays, Michael Workeye, Kris Hitchen, Hamza Jeetooa, Crispin Letts.</desc>
@@ -76503,7 +76524,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404015000 +0200" stop="20260404023300 +0200" channel="Movistar Plus+">
@@ -76680,7 +76701,7 @@
 	</programme>
 	<programme start="20260404151500 +0200" stop="20260404160800 +0200" channel="Movistar Plus+">
     <title>La Casa del Fútbol Previa T25/26 · Mallorca - Real Madrid</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -76689,7 +76710,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260404160800 +0200" stop="20260404181000 +0200" channel="Movistar Plus+">
@@ -82108,7 +82129,7 @@
 	</programme>
 	<programme start="20260329141500 +0200" stop="20260329163000 +0200" channel="Primera Federación">
     <title>DIRECTO Jornada 30: Atlético de Madrid B - Antequera T25/26 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -82117,11 +82138,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329163000 +0200" stop="20260329184500 +0200" channel="Primera Federación">
-    <title>Jornada 30: Sevilla Atlético - Murcia T25/26 · Primera Federación</title>
+    <title>DIRECTO Jornada 30: Sevilla Atlético - Murcia T25/26 · Primera Federación</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
@@ -82178,7 +82199,7 @@
 	</programme>
 	<programme start="20260330005500 +0200" stop="20260330025500 +0200" channel="Primera Federación">
     <title>Resúmenes Primera Federación T25/26 · Jornada 29</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Sin clasificar,SIN CLASIFICAR) Resumen de los partidos de la jornada de Primera Federación.
 · País: España</desc>
     <category>Sin clasificar, SIN CLASIFICAR</category>
@@ -82187,7 +82208,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260330025500 +0200" stop="20260330052500 +0200" channel="Primera Federación">
@@ -82320,7 +82341,7 @@
 	</programme>
 	<programme start="20260331090000 +0200" stop="20260331112300 +0200" channel="Primera Federación">
     <title>Primera Federación T25/26 · Jornada 30: Villarreal B - Sabadell</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -82329,7 +82350,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331112300 +0200" stop="20260331134500 +0200" channel="Primera Federación">
@@ -82472,7 +82493,7 @@
 	</programme>
 	<programme start="20260401141500 +0200" stop="20260401164200 +0200" channel="Primera Federación">
     <title>Jornada 30: Atlético de Madrid B - Antequera T25/26 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -82481,7 +82502,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401164200 +0200" stop="20260401184500 +0200" channel="Primera Federación">
@@ -82596,7 +82617,7 @@
 	</programme>
 	<programme start="20260402140500 +0200" stop="20260402162500 +0200" channel="Primera Federación">
     <title>Primera Federación T25/26 · Jornada 30: Villarreal B - Sabadell</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la cuarta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -82605,7 +82626,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260402162500 +0200" stop="20260402184500 +0200" channel="Primera Federación">
@@ -86722,7 +86743,7 @@
 	</programme>
 	<programme start="20260330235300 +0200" stop="20260331004300 +0200" channel="SkyShowtime">
     <title>The Iris Affair T1 E7</title>
-    <sub-title>2025 | ⑯ | ★5.8/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Devastada por la traición de Joy, Iris cree que ha perdido la batalla.
 · País: Estados Unidos
 · Dirección: Sarah O'Gorman, Terry McDonough.
@@ -86734,12 +86755,12 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331004300 +0200" stop="20260331014400 +0200" channel="SkyShowtime">
     <title>The Iris Affair T1 E8</title>
-    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2025 | ⑯ | ★5.8/10</sub-title>
     <desc>(Series,Thriller) Cuando Iris llega a Caliburn, desesperada por encontrar respuestas, su regreso aviva la ira de Joy.
 · País: Estados Unidos
 · Dirección: Sarah O'Gorman, Terry McDonough.
@@ -86751,7 +86772,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260331014400 +0200" stop="20260331022700 +0200" channel="SkyShowtime">
@@ -87666,7 +87687,7 @@
 	</programme>
 	<programme start="20260401210000 +0200" stop="20260401215000 +0200" channel="SkyShowtime">
     <title>The Death of Bunny Munro T1 E1 · Parte Uno Hombre de familia</title>
-    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Bunny debe decidir si es capaz de criar él solo a su hijo de 9 años.
 · País: Reino Unido</desc>
     <category>Series, Drama</category>
@@ -87675,12 +87696,12 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401215000 +0200" stop="20260401224000 +0200" channel="SkyShowtime">
     <title>The Death of Bunny Munro T1 E2 · Parte Dos Vendedor</title>
-    <sub-title>2025 | ⑯ | ★5.8/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Bunny se embarca en un viaje vendiendo productos de belleza y seduciendo a las clientas.
 · País: Reino Unido</desc>
     <category>Series, Drama</category>
@@ -87689,7 +87710,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260401224000 +0200" stop="20260402002500 +0200" channel="SkyShowtime">
@@ -88202,7 +88223,7 @@
 	</programme>
 	<programme start="20260403002500 +0200" stop="20260403011500 +0200" channel="SkyShowtime">
     <title>The Death of Bunny Munro T1 E1 · Parte Uno Hombre de familia</title>
-    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Bunny debe decidir si es capaz de criar él solo a su hijo de 9 años.
 · País: Reino Unido</desc>
     <category>Series, Drama</category>
@@ -88211,12 +88232,12 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403011500 +0200" stop="20260403020500 +0200" channel="SkyShowtime">
     <title>The Death of Bunny Munro T1 E2 · Parte Dos Vendedor</title>
-    <sub-title>2025 | ⑯ | ★5.8/10</sub-title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Bunny se embarca en un viaje vendiendo productos de belleza y seduciendo a las clientas.
 · País: Reino Unido</desc>
     <category>Series, Drama</category>
@@ -88225,7 +88246,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260403020500 +0200" stop="20260403025000 +0200" channel="SkyShowtime">
@@ -97894,7 +97915,7 @@
 	</programme>
 	<programme start="20260329084500 +0200" stop="20260329093100 +0200" channel="Warner TV">
     <title>FBI T7 E19 · Compañeros</title>
-    <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Policíaca) Al investigar la desaparición de una joven, el equipo descubre que los secuestradores la usaron para cometer un robo de explosivos a gran escala.
 · País: Estados Unidos
 · Dirección: Jean de Segonzac.
@@ -97906,12 +97927,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329093100 +0200" stop="20260329102500 +0200" channel="Warner TV">
     <title>FBI T7 E20 · Startup</title>
-    <sub-title>2025 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Policíaca) El equipo sospecha que una IA podría ser la responsable de una explosión intencionada que ha provoado la muerte de un CEO en su apartamento de lujo.
 · País: Estados Unidos
 · Dirección: Jean de Segonzac.
@@ -97923,7 +97944,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260329102500 +0200" stop="20260329111200 +0200" channel="Warner TV">
