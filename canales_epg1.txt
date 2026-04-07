@@ -613,7 +613,7 @@ DE | Sky Sport 3,DE | Sky Sport 3,
 DE | Sky Sport 4,DE | Sky Sport 4,
 DE | Sky Sport 5,DE | Sky Sport 5,
 DE | Sky Sport 6,DE | Sky Sport 6,
-DE | Sky Sport 7,DE | Sky Sport 7,
+DE | Sky Sport 7,DE | Sky Sport 7,https://www.sky.de/static/img/senderlogos_dark/136_sky_logo_skysporthd9_tvguide.png
 DE | Sky Sport 8,DE | Sky Sport 8,https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png
 DE | Sky Sport 9,DE | Sky Sport 9,
 DE | Sky Sport 10,DE | Sky Sport 10,
