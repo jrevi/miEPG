@@ -39,7 +39,9 @@ DAZN LaLiga HD,DAZN LaLiga
 # DAZN Liga F 2,DAZN Liga F 2
 # DAZN Liga F 3,DAZN Liga F 3
 # DAZN Liga F,DAZN Liga F
-# DAZN MotoGP,DAZN MotoGP
+DAZN MotoGP,DAZN MotoGP
+DAZN Mundial 2 HD,DAZN Mundial 2
+DAZN Mundial HD,DAZN Mundial
 ESPN 2,ESPN 2
 ESPN 3,ESPN 3
 # ESPN 4,ESPN 4
@@ -55,7 +57,7 @@ FOX SPORTS 2,FOX SPORTS 2
 FOX SPORTS 3,FOX SPORTS 3
 FOX SPORTS,FOX SPORTS
 GOL,GOL
-GolStadium,GolStadium
+GolStadium BAR,GolStadium BAR
 # HBO Max Avances,HBO Max Avances
 Iberalia TV,Iberalia TV
 Iberalia caza,Iberalia caza
@@ -130,7 +132,7 @@ M+ Originales HD,M+ Originales
 M+ Vamos 2,M+ Vamos 2
 M+ Vamos HD,M+ Vamos
 # M+ Wimbledon UHD,M+ Wimbledon
-Movistar Plus+ HD,Movistar Plus+
+Movistar Plus HD,Movistar Plus
 # Nat Geo Wild HD,Nat Geo Wild
 # National Geographic HD,National Geographic
 # Odisea,Odisea
