@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 05/07/2026 20:44" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 06/07/2026 06:05" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="AMC Crime">
     <display-name>AMC Crime</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
@@ -295,6 +295,10 @@
   <channel id="M+ Vamos 2">
     <display-name>M+ Vamos 2</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" />
+  </channel>
+  <channel id="M+ Vamos 3">
+    <display-name>M+ Vamos 3</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" />
   </channel>
   <channel id="M+ Vamos">
     <display-name>M+ Vamos</display-name>
@@ -72296,6 +72300,500 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705080000 +0200" stop="20260705091500 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <sub-title>★5.8/10</sub-title>
+    <desc>(Deportes,Deporte) Vamos 3 tiene el objetivo de impulsar el deporte femenino y de hacer más accesibles las historias de nuestras deportistas.</desc>
+    <category>Deportes, Deporte</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2497185V4246862" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705091500 +0200" stop="20260705111500 +0200" channel="M+ Vamos 3">
+    <title>Premier Padel. Burdeos T2026 · Semifinal Femenina: Icardo/Jensen - Josemaria/González</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+    <category>Deportes, Pádel</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458947" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260705111500 +0200" stop="20260705130000 +0200" channel="M+ Vamos 3">
+    <title>Premier Padel. Burdeos T2026 · Semifinal Femenina: Triay/Brea - Sanchez/Ustero</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+    <category>Deportes, Pádel</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458947" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260705130000 +0200" stop="20260705150500 +0200" channel="M+ Vamos 3">
+    <title>Diamond League T2026 · Meeting: Eugene</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Atletismo) La Diamond League volverá a ser uno de los grandes focos de atención del atletismo en la temporada 2025. Serán 14 citas repartidas entre Europa, Asia, África y Estados Unidos, con la gran final de regreso en Zúrich (Suiza) durante el 27 y 28 de agosto.</desc>
+    <category>Deportes, Atletismo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4474654" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260705150500 +0200" stop="20260705155500 +0200" channel="M+ Vamos 3">
+    <title>Informe Plus+. Daria Bilodid. Deporte en guerra</title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Dos veces campeona del mundo y bronce olímpico en Tokio, la invasión rusa de Ucrania cambió la vida de la joven judoca, que apenas un mes después llegó a Valencia. Allí, Daria se prepara para los Juegos Olímpicos de París.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4333653" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705155500 +0200" stop="20260705175000 +0200" channel="M+ Vamos 3">
+    <title>Torneo 6 Naciones Femenino T2026 · Jornada 5: Francia - Inglaterra</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Rugby) Día D y Hora H para Francia e Inglaterra, que libran un apasionante pulso en Burdeos para coronar a la campeona del 6 Naciones Femenino 2026.</desc>
+    <category>Deportes, Rugby</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4468753" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260705175000 +0200" stop="20260705183000 +0200" channel="M+ Vamos 3">
+    <title>Gracias, Carolina. Una mirada hacia delante</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Carolina Marín, campeona europea, mundial y olímpica de bádminton, se sienta con Amaya Valdemoro, la mejor jugadora de la historia del baloncesto español, para reflexionar sobre su nueva vida tras anunciar la retirada.
+· País: España
+· Presenta: Amaya Valdemoro.
+· Productora: Movistar Plus+.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4482073" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705183000 +0200" stop="20260705213000 +0200" channel="M+ Vamos 3">
+    <title>Indycar T2026 · Carrera: Grand Prix of Mid-Ohio</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Motor) La undécima cita de la temporada del IndyCar se celebra en el circuito de Mid-Ohio. El español Álex Palou, que ya ha ganado en este circuito en 2023, llega líder del campeonato tras haber logrado 4 victorias este año.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4460439" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260705213000 +0200" stop="20260705233000 +0200" channel="M+ Vamos 3">
+    <title>Premier Padel. Burdeos T2026 · Final Femenina: Triay/Brea - Icardo/Jensen</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+    <category>Deportes, Pádel</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458945" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705233000 +0200" stop="20260706000000 +0200" channel="M+ Vamos 3">
+    <title>Leyendas de Wimbledon. M. Navratilova</title>
+    <sub-title>2014 | TP | ★8.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Leyendas de Wimbledon. M. Navratilova -.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2601195V1157292" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706000000 +0200" stop="20260706005500 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <sub-title>★5.8/10</sub-title>
+    <desc>(Deportes,Deporte) Vamos 3 tiene el objetivo de impulsar el deporte femenino y de hacer más accesibles las historias de nuestras deportistas.</desc>
+    <category>Deportes, Deporte</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2497185V4246862" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706005500 +0200" stop="20260706125500 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260706125500 +0200" stop="20260707000000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260707000000 +0200" stop="20260707120000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260707120000 +0200" stop="20260708000000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260708000000 +0200" stop="20260708120000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260708120000 +0200" stop="20260709000000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260709000000 +0200" stop="20260709120000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260709120000 +0200" stop="20260710000000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260710000000 +0200" stop="20260710084500 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260710084500 +0200" stop="20260710114500 +0200" channel="M+ Vamos 3">
+    <title>The Amundi Evian Championship (VO) Jornada 1 T2026 · LPGA Tour</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Golf) Las mejores golfistas del mundo compiten por más de 118 millones de dólares, la cifra más alta en la historia del tour. Entre ellas, las españolas Carlota Ciganda y Azahara Muñoz.</desc>
+    <category>Deportes, Golf</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4457759" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710114500 +0200" stop="20260710135000 +0200" channel="M+ Vamos 3">
+    <title>Femenino: Semifinal Femenina 1 T2026 · Wimbledon</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Tenis) En el tenis hay cuatro Grand Slams. Todos son importantes y legendarios. Pero Wimbledon… Wimbledon es otra cosa. Tiene otro aura. Las leyendas son más leyendas si ganan en el All England Tennis Club.</desc>
+    <category>Deportes, Tenis</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4478547" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710135000 +0200" stop="20260710150500 +0200" channel="M+ Vamos 3">
+    <title>Desirée Vila, ganas de vivir</title>
+    <sub-title>2026 | ⑦ | ★8.4/10</sub-title>
+    <desc>(Documentales,Deportes) El Langui dirige "Desirée Vila. Ganas de vivir", un documental que narra la extraordinaria historia de Desirée Vila, una joven atleta paralímpica cuya vida cambió drásticamente tras perder una pierna por negligencia médica.
+· País: España
+· Dirección: Juan Manuel Montilla.
+· Reparto: Desirée Vila.</desc>
+    <category>Documentales, Deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4476434" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710150500 +0200" stop="20260710155500 +0200" channel="M+ Vamos 3">
+    <title>DIRECTO Reino Unido (Donington Park). Superpole T2026 · Cto. del Mundo de Motociclismo Femenino</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Sesión de clasificación para la carrera del fin de semana en el Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4467424" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710155500 +0200" stop="20260710175500 +0200" channel="M+ Vamos 3">
+    <title>Premier Padel. Burdeos T2026 · Final Femenina: Triay/Brea - Icardo/Jensen</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+    <category>Deportes, Pádel</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458945" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710175500 +0200" stop="20260710183000 +0200" channel="M+ Vamos 3">
+    <title>Verdeliss, 7 maratones 7 continentes 7 días E1</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Documentales,Deportes) Estefanía Unzu, la atleta e influencer, más conocida como Verdeliss, se enfrenta al mayor reto de su carrera: correr 7 MARATONES en 7 CONTINENTES durante 7 DÍAS consecutivos. Un viaje salvaje, trepidante y exigente en el que pondrá a prueba sus límites.
+· País: España
+· Presenta: Juanma Castaño.
+· Dirección: Isabel Hidalgo.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, Deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4365366" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710183000 +0200" stop="20260710190500 +0200" channel="M+ Vamos 3">
+    <title>Verdeliss, 7 maratones 7 continentes 7 días E2</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Documentales,Deportes) Estefanía Unzu, la atleta e influencer, más conocida como Verdeliss, se enfrenta al mayor reto de su carrera: correr 7 MARATONES en 7 CONTINENTES durante 7 DÍAS consecutivos. Un viaje salvaje, trepidante y exigente en el que pondrá a prueba sus límites.
+· País: España
+· Presenta: Juanma Castaño.
+· Dirección: Isabel Hidalgo.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, Deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4365366" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710190500 +0200" stop="20260710200000 +0200" channel="M+ Vamos 3">
+    <title>Informe Robinson T7 · De Conchi Amancio a Conchi Maradona</title>
+    <sub-title>2019 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Hace 50 años se disputó el primer partido de fútbol femenino en España. Ocurrió en Madrid y el encuentro acabó con un resultado de cinco goles a uno a favor del Sizam, un equipo liderado por una adolescente de 13 años de nombre Conchi Sánchez.
+· País: España
+· Presenta: Michael Robinson.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F3807216" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710200000 +0200" stop="20260710205000 +0200" channel="M+ Vamos 3">
+    <title>Reino Unido (Donington Park). Superpole T2026 · Cto. del Mundo de Motociclismo Femenino</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Sesión de clasificación para la carrera del fin de semana en el Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4467424" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710205000 +0200" stop="20260710212500 +0200" channel="M+ Vamos 3">
+    <title>Gracias, Carolina. Una mirada hacia delante</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Carolina Marín, campeona europea, mundial y olímpica de bádminton, se sienta con Amaya Valdemoro, la mejor jugadora de la historia del baloncesto español, para reflexionar sobre su nueva vida tras anunciar la retirada.
+· País: España
+· Presenta: Amaya Valdemoro.
+· Productora: Movistar Plus+.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4482073" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710212500 +0200" stop="20260710233000 +0200" channel="M+ Vamos 3">
+    <title>Diamond League T2026 · Meeting: Eugene</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Atletismo) La Diamond League volverá a ser uno de los grandes focos de atención del atletismo en la temporada 2025. Serán 14 citas repartidas entre Europa, Asia, África y Estados Unidos, con la gran final de regreso en Zúrich (Suiza) durante el 27 y 28 de agosto.</desc>
+    <category>Deportes, Atletismo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4474654" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260710233000 +0200" stop="20260711003000 +0200" channel="M+ Vamos 3">
+    <title>OXER Hípica T2026 · CSI Maeza. Gran Premio Maeza</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Hípica) Competición hípica del máximo nivel. Los mejores Concursos de Salto Internacionales y la Liga Nacional de Salto de la Real Federación Hípico Española.
+· País: España</desc>
+    <category>Deportes, Hípica</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4107606" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711003000 +0200" stop="20260711012000 +0200" channel="M+ Vamos 3">
+    <title>Reino Unido (Donington Park). Superpole T2026 · Cto. del Mundo de Motociclismo Femenino</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Sesión de clasificación para la carrera del fin de semana en el Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4467424" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711012000 +0200" stop="20260711080000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <sub-title>★5.8/10</sub-title>
+    <desc>(Deportes,Deporte) Vamos 3 tiene el objetivo de impulsar el deporte femenino y de hacer más accesibles las historias de nuestras deportistas.</desc>
+    <category>Deportes, Deporte</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2497185V4246862" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711080000 +0200" stop="20260711085000 +0200" channel="M+ Vamos 3">
+    <title>M+ Vamos 3</title>
+    <sub-title>★5.8/10</sub-title>
+    <desc>(Deportes,Deporte) Vamos 3 tiene el objetivo de impulsar el deporte femenino y de hacer más accesibles las historias de nuestras deportistas.</desc>
+    <category>Deportes, Deporte</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/M2497185V4246862" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711085000 +0200" stop="20260711105000 +0200" channel="M+ Vamos 3">
+    <title>Femenino: Semifinal Femenina 2 T2026 · Wimbledon</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Tenis) En el tenis hay cuatro Grand Slams. Todos son importantes y legendarios. Pero Wimbledon… Wimbledon es otra cosa. Tiene otro aura. Las leyendas son más leyendas si ganan en el All England Tennis Club.</desc>
+    <category>Deportes, Tenis</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4478547" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711105000 +0200" stop="20260711135000 +0200" channel="M+ Vamos 3">
+    <title>The Amundi Evian Championship Jornada 2 T2026 · LPGA Tour</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Golf) Las mejores golfistas del mundo compiten por más de 118 millones de dólares, la cifra más alta en la historia del tour. Entre ellas, las españolas Carlota Ciganda y Azahara Muñoz.</desc>
+    <category>Deportes, Golf</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4457759" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711135000 +0200" stop="20260711144000 +0200" channel="M+ Vamos 3">
+    <title>DIRECTO Reino Unido (Donington Park). Carrera 1 T2026 · Cto. del Mundo de Motociclismo Femenino</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Primera carrera de la cita en Reino Unido del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4467425" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711144000 +0200" stop="20260711154000 +0200" channel="M+ Vamos 3">
+    <title>OXER Hípica T2026 · CSI Maeza. Gran Premio Maeza</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Hípica) Competición hípica del máximo nivel. Los mejores Concursos de Salto Internacionales y la Liga Nacional de Salto de la Real Federación Hípico Española.
+· País: España</desc>
+    <category>Deportes, Hípica</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4107606" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711154000 +0200" stop="20260711162500 +0200" channel="M+ Vamos 3">
+    <title>Gracias, Carolina. Una mirada hacia delante</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Carolina Marín, campeona europea, mundial y olímpica de bádminton, se sienta con Amaya Valdemoro, la mejor jugadora de la historia del baloncesto español, para reflexionar sobre su nueva vida tras anunciar la retirada.
+· País: España
+· Presenta: Amaya Valdemoro.
+· Productora: Movistar Plus+.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4482073" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711162500 +0200" stop="20260711175000 +0200" channel="M+ Vamos 3">
+    <title>La mejor escaladora</title>
+    <sub-title>2025 | ⑫ | ★6.4/10</sub-title>
+    <desc>(Documentales,Deportes) "La mejor escaladora" acompaña a la alpinista de élite Emily Harrington en su intento de conquistar el Capitán de Yosemite en menos de 24 horas, una de las ascensiones más exigentes y peligrosas del mundo.
+· País: Austria
+· Dirección: Jon Glassberg.</desc>
+    <category>Documentales, Deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464915" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711175000 +0200" stop="20260711200000 +0200" channel="M+ Vamos 3">
+    <title>Euroliga femenina T25/26 · Final: Fenerbahçe - Galatasaray</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Baloncesto) Los 16 mejores equipos de Europa luchan por el título más codiciado. Valencia, Girona y Zaragoza son candidatos a llegar muy lejos. El objetivo es la Final a 6 que se jugará en Zaragoza en el mes de abril.</desc>
+    <category>Deportes, Baloncesto</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4471123" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20260711200000 +0200" stop="20260711205000 +0200" channel="M+ Vamos 3">
+    <title>Reino Unido (Donington Park). Carrera 1 T2026 · Cto. del Mundo de Motociclismo Femenino</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Primera carrera de la cita en Reino Unido del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4467425" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711205000 +0200" stop="20260711225000 +0200" channel="M+ Vamos 3">
+    <title>Premier Padel. Burdeos T2026 · Final Femenina: Triay/Brea - Icardo/Jensen</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Pádel) Vive en Movistar Plus cómo se desarrolla el deporte de raqueta de más rápido crecimiento del mundo en 25 torneos y 18 países durante la temporada Premier Padel 2024, que comienza con la Ronda de Riad, en Arabia Saudí.</desc>
+    <category>Deportes, Pádel</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458945" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711225000 +0200" stop="20260712005000 +0200" channel="M+ Vamos 3">
+    <title>Meeting: Mónaco T2026 · Diamond League</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Atletismo) La Diamond League volverá a ser uno de los grandes focos de atención del atletismo en la temporada 2025. Serán 14 citas repartidas entre Europa, Asia, África y Estados Unidos, con la gran final de regreso en Zúrich (Suiza) durante el 27 y 28 de agosto.</desc>
+    <category>Deportes, Atletismo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4474658" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260712005000 +0200" stop="20260712014000 +0200" channel="M+ Vamos 3">
+    <title>Reino Unido (Donington Park). Carrera 1 T2026 · Cto. del Mundo de Motociclismo Femenino</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Motor) Primera carrera de la cita en Reino Unido del Mundial femenino de Motociclismo que afronta en 2026 su tercera edición. La española María Herrera buscará la defensa del título logrado en 2025 a lo largo de 6 circuitos.</desc>
+    <category>Deportes, Motor</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/F4467425" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260705062800 +0200" stop="20260705073500 +0200" channel="M+ Vamos">
