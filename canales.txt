@@ -161,6 +161,7 @@ STAR Channel HD,STAR Channel
 # TCM HD,TCM
 # TUDN (Estados Unidos),TUDN (Estados Unidos)
 # TUDN (México),TUDN (México)
+Telecinco HD,Telecinco
 # Teledeporte,Teledeporte
 # Tennis Channel,Tennis Channel
 # TyC Sports,TyC Sports
