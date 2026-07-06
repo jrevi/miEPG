@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 06/07/2026 06:05" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 06/07/2026 06:10" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="AMC Crime">
     <display-name>AMC Crime</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
@@ -339,6 +339,10 @@
   <channel id="STAR Channel">
     <display-name>STAR Channel</display-name>
 		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" />
+  </channel>
+  <channel id="Telecinco">
+    <display-name>Telecinco</display-name>
+		<icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" />
   </channel>
   <channel id="UK | Sky Sports Main Event">
     <display-name>UK | Sky Sports Main Event</display-name>
@@ -92939,6 +92943,2124 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705062800 +0200" stop="20260705064300 +0200" channel="Telecinco">
+    <title>Enphorma T1</title>
+    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705064300 +0200" stop="20260705071300 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705071300 +0200" stop="20260705104100 +0200" channel="Telecinco">
+    <title>Got Talent España T11 · Cuarta semifinal</title>
+    <sub-title>2026 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Concurso que busca nuevas promesas de diferentes disciplinas artísticas en España.
+· País: España
+· Presenta: Santi Millán.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4347882" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705104100 +0200" stop="20260705120900 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2 E30</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4250037" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705120900 +0200" stop="20260705133500 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2 E31</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4250641" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705133500 +0200" stop="20260705150000 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2 E32</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4250639" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705150000 +0200" stop="20260705153000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <sub-title>★6.2/10</sub-title>
+    <desc>(Información,Informativo) María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P756592" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705153000 +0200" stop="20260705154500 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco fin de semana T4 E172</title>
+    <sub-title>2026 | ★2.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4347896" />
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705154500 +0200" stop="20260705160000 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705160000 +0200" stop="20260705180000 +0200" channel="Telecinco">
+    <title>El Show de Paz T1 E4</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Paz Padilla presenta este espacio de entrevistas, historias inspiradoras, cámaras ocultas, encuentros inesperados, bromas en la calle y momentos emotivos.
+· País: España
+· Presenta: Paz Padilla.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4347898" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705180000 +0200" stop="20260705210000 +0200" channel="Telecinco">
+    <title>Fiesta T6 E59</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.
+· País: España
+· Presenta: Àlex Blanquer, César Muñoz.
+· Productora: Unicorn Content.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4347894" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705210000 +0200" stop="20260705212500 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <sub-title>★6.2/10</sub-title>
+    <desc>(Información,Informativo) María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P756592" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705212500 +0200" stop="20260705214000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco Fin de Semana Noche T4 E175</title>
+    <sub-title>2026 | ★5.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4347900" />
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705214000 +0200" stop="20260705220000 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260705220000 +0200" stop="20260706012000 +0200" channel="Telecinco">
+    <title>La Casa Gucci</title>
+    <sub-title>2021 | ⑫ | ★7.8/10</sub-title>
+    <desc>(Cine,Drama) Inspirada en la historia real del imperio familiar italiano de la moda. Cuando Patrizia Reggiani entra por matrimonio en la familia Gucci, su gran ambición hace tambalear el legado familiar y precipita una espiral de traiciones, decadencia y muerte.
+· País: Canadá y Estados Unidos
+· Dirección: Ridley Scott.
+· Reparto: Lady Gaga, Adam Driver, Al Pacino, Jeremy Irons.
+· Guion: Becky Johnston, Roberto Bentivegna.
+· Música: Harry Gregson-Williams.
+· Productora: Metro-Goldwyn-Mayer (MGM), Scott Free Productions, Universal Pictures, BRON Studios.</desc>
+    <category>Cine, Drama</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2095922" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706012000 +0200" stop="20260706020000 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706020000 +0200" stop="20260706022500 +0200" channel="Telecinco">
+    <title>Gran Madrid Show</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+    <category>Entretenimiento</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207083" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706022500 +0200" stop="20260706024500 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706024500 +0200" stop="20260706031500 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706031500 +0200" stop="20260706034500 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706034500 +0200" stop="20260706055500 +0200" channel="Telecinco">
+    <title>Miramimúsica</title>
+    <sub-title>2016 | TP | ★6.2/10</sub-title>
+    <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
+· País: España</desc>
+    <category>Música, Programa de música</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MFDFICP1303097" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706055500 +0200" stop="20260706061000 +0200" channel="Telecinco">
+    <title>Enphorma T1</title>
+    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706061000 +0200" stop="20260706070000 +0200" channel="Telecinco">
+    <title>¡Allá tú! T2 E6</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
+· País: España
+· Presenta: Juanra Bonet.
+· Productora: Gestmusic Endemol.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4220295" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706070000 +0200" stop="20260706090000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco matinal</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899129" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706090000 +0200" stop="20260706103000 +0200" channel="Telecinco">
+    <title>La mirada crítica T6 E65</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Presenta: Ana Terradillos, José Luis Vidal, Antonio Texeira.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348762" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706103000 +0200" stop="20260706133000 +0200" channel="Telecinco">
+    <title>Vamos a ver verano T5 E127</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento del verano.
+· País: España
+· Presenta: Patricia Pardo.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348766" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706133000 +0200" stop="20260706150000 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T3 E6</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348752" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706150000 +0200" stop="20260706152500 +0200" channel="Telecinco">
+    <title>Informativos Telecinco</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899147" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706152500 +0200" stop="20260706153500 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco T4 E178</title>
+    <sub-title>2026 | ★8.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348756" />
+		<star-rating system="ES">
+			<value>8.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706153500 +0200" stop="20260706154500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706154500 +0200" stop="20260706170000 +0200" channel="Telecinco">
+    <title>Amor... ¡O lo que surja! T1 E11</title>
+    <sub-title>2026 | ⑫</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Bajo la atenta mirada de Carlos Lozano, dos jóvenes 'Diamantes' -un chico y una chica- sus respectivos pretendientes y 20 mujeres y 20 hombres adultos se verán inmersos en la aventura de encontrar el amor en este dating show.
+· País: España
+· Presenta: Carlos Lozano.
+· Productora: Bulldog TV.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348750" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+	</programme>
+	<programme start="20260706170000 +0200" stop="20260706181500 +0200" channel="Telecinco">
+    <title>El verano se mueve T1 E6</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Magazine dedicado a los viajes que recorre toda la geografía española para mostrar los lugares más emblemáticos del país. El espacio está presentado por Ion Aramendi.
+· País: España
+· Presenta: Ion Aramendi.
+· Productora: Unicorn Content.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348754" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706181500 +0200" stop="20260706200000 +0200" channel="Telecinco">
+    <title>¡De Lunes a Viernes! T1 E1</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Santi Acosta y Beatriz Archidona abordan las grandes tramas del mundo de los famosos con un tono fresco, gamberro y desenfadado y conexiones en directo con un nutrido equipo de reporteros.
+· País: España
+· Presenta: Santi Acosta, Beatriz Archidona.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4347892" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706200000 +0200" stop="20260706210000 +0200" channel="Telecinco">
+    <title>¡Allá tú! Diarios T4 E10</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
+· País: España
+· Presenta: Juanra Bonet.
+· Productora: Gestmusic Endemol.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348748" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706210000 +0200" stop="20260706213000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Noche</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899161" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706213000 +0200" stop="20260706214000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco Noche T4 E181</title>
+    <sub-title>2026</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348758" />
+	</programme>
+	<programme start="20260706214000 +0200" stop="20260706214500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706214500 +0200" stop="20260706230000 +0200" channel="Telecinco">
+    <title>First dates T14 E117</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348760" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260706230000 +0200" stop="20260707011500 +0200" channel="Telecinco">
+    <title>Universo Calleja T2 E6</title>
+    <sub-title>2026 | ⑦ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Entrevista) Jesús Calleja vuelve a enrolarse en una nueva temporada de 'Universo Calleja' con nuevas aventuras por vivir y nuevos famosos y amigos.
+· País: España
+· Presenta: Jesús Calleja.</desc>
+    <category>Entretenimiento, Entrevista</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4348764" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707011500 +0200" stop="20260707020500 +0200" channel="Telecinco">
+    <title>Planeta Calleja T9 · Lolita</title>
+    <sub-title>2022 | ⑫ | ★7.6/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Lolita Flores protagoniza un avistamiento de ballenas en su viaje a la isla de Madeira.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707020500 +0200" stop="20260707023500 +0200" channel="Telecinco">
+    <title>Gran Madrid Show</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+    <category>Entretenimiento</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207083" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707023500 +0200" stop="20260707025000 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707025000 +0200" stop="20260707032000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707032000 +0200" stop="20260707035000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707035000 +0200" stop="20260707054500 +0200" channel="Telecinco">
+    <title>Miramimúsica</title>
+    <sub-title>2016 | TP | ★6.2/10</sub-title>
+    <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
+· País: España</desc>
+    <category>Música, Programa de música</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MFDFICP1303097" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707054500 +0200" stop="20260707060000 +0200" channel="Telecinco">
+    <title>Enphorma T1</title>
+    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707060000 +0200" stop="20260707080000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco matinal</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899129" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707080000 +0200" stop="20260707090000 +0200" channel="Telecinco">
+    <title>La mirada crítica</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Dirección: María Teresa Campos.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208112" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707090000 +0200" stop="20260707123000 +0200" channel="Telecinco">
+    <title>El programa de Ana Rosa T22</title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208124" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707123000 +0200" stop="20260707133000 +0200" channel="Telecinco">
+    <title>Vamos a ver T5</title>
+    <sub-title>2025 | ⑯ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Joaquín Prat junto a Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208114" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707133000 +0200" stop="20260707150000 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707150000 +0200" stop="20260707152500 +0200" channel="Telecinco">
+    <title>Informativos Telecinco</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899147" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707152500 +0200" stop="20260707153500 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco</title>
+    <sub-title>2026 | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707153500 +0200" stop="20260707154500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707154500 +0200" stop="20260707170000 +0200" channel="Telecinco">
+    <title>Amor... ¡O lo que surja! T1</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Bajo la atenta mirada de Carlos Lozano, dos jóvenes 'Diamantes' -un chico y una chica- sus respectivos pretendientes y 20 mujeres y 20 hombres adultos se verán inmersos en la aventura de encontrar el amor en este dating show.
+· País: España
+· Presenta: Carlos Lozano.
+· Productora: Bulldog TV.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4337369" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707170000 +0200" stop="20260707183000 +0200" channel="Telecinco">
+    <title>El tiempo justo T2</title>
+    <sub-title>2025 | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208116" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707183000 +0200" stop="20260707200000 +0200" channel="Telecinco">
+    <title>El Diario de Jorge T3</title>
+    <sub-title>2026 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+    <category>Entretenimiento, Tertulia</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208118" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707200000 +0200" stop="20260707210000 +0200" channel="Telecinco">
+    <title>¡Allá tú! Diarios</title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
+· País: España
+· Presenta: Juanra Bonet, Jesús Vázquez.
+· Productora: Gestmusic Endemol.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3210764" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707210000 +0200" stop="20260707213000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Noche</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899161" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707213000 +0200" stop="20260707214000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco Noche</title>
+    <sub-title>2026 | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207087" />
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707214000 +0200" stop="20260707214500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260707214500 +0200" stop="20260708003500 +0200" channel="Telecinco">
+    <title>First dates T11</title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1795835" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708003500 +0200" stop="20260708022000 +0200" channel="Telecinco">
+    <title>Cine</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260708022000 +0200" stop="20260708024500 +0200" channel="Telecinco">
+    <title>Gran Madrid Show T3</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+    <category>Entretenimiento</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207083" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708024500 +0200" stop="20260708030000 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708030000 +0200" stop="20260708033000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.6/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708033000 +0200" stop="20260708040000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.6/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708040000 +0200" stop="20260708054500 +0200" channel="Telecinco">
+    <title>Miramimúsica</title>
+    <sub-title>2016 | TP | ★6.2/10</sub-title>
+    <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
+· País: España</desc>
+    <category>Música, Programa de música</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MFDFICP1303097" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708054500 +0200" stop="20260708060000 +0200" channel="Telecinco">
+    <title>Enphorma T1</title>
+    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708060000 +0200" stop="20260708080000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco matinal</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899129" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708080000 +0200" stop="20260708090000 +0200" channel="Telecinco">
+    <title>La mirada crítica</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Dirección: María Teresa Campos.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208112" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708090000 +0200" stop="20260708123000 +0200" channel="Telecinco">
+    <title>El programa de Ana Rosa T22</title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208124" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708123000 +0200" stop="20260708133000 +0200" channel="Telecinco">
+    <title>Vamos a ver T5</title>
+    <sub-title>2025 | ⑯ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Joaquín Prat junto a Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208114" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708133000 +0200" stop="20260708150000 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708150000 +0200" stop="20260708153000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899147" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708153000 +0200" stop="20260708154000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco</title>
+    <sub-title>2026 | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708154000 +0200" stop="20260708154500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708154500 +0200" stop="20260708170000 +0200" channel="Telecinco">
+    <title>Amor... ¡O lo que surja! T1</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Bajo la atenta mirada de Carlos Lozano, dos jóvenes 'Diamantes' -un chico y una chica- sus respectivos pretendientes y 20 mujeres y 20 hombres adultos se verán inmersos en la aventura de encontrar el amor en este dating show.
+· País: España
+· Presenta: Carlos Lozano.
+· Productora: Bulldog TV.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4337369" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708170000 +0200" stop="20260708183000 +0200" channel="Telecinco">
+    <title>El tiempo justo T2</title>
+    <sub-title>2025 | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208116" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708183000 +0200" stop="20260708200000 +0200" channel="Telecinco">
+    <title>El Diario de Jorge T3</title>
+    <sub-title>2026 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+    <category>Entretenimiento, Tertulia</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208118" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708200000 +0200" stop="20260708210000 +0200" channel="Telecinco">
+    <title>¡Allá tú! Diarios</title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
+· País: España
+· Presenta: Juanra Bonet, Jesús Vázquez.
+· Productora: Gestmusic Endemol.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3210764" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708210000 +0200" stop="20260708213000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Noche</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899161" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708213000 +0200" stop="20260708214000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco Noche</title>
+    <sub-title>2026 | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207087" />
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708214000 +0200" stop="20260708214500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260708214500 +0200" stop="20260709003000 +0200" channel="Telecinco">
+    <title>First Dates Summer Resort</title>
+    <sub-title>2025 | ⑫ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) El restaurante más romántico de la televisión se transforma en un exclusivo resort veraniego.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4074456" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709003000 +0200" stop="20260709021500 +0200" channel="Telecinco">
+    <title>Cine</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20260709021500 +0200" stop="20260709024000 +0200" channel="Telecinco">
+    <title>Gran Madrid Show</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+    <category>Entretenimiento</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207083" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709024000 +0200" stop="20260709030000 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709030000 +0200" stop="20260709033000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.6/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709033000 +0200" stop="20260709040000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.6/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709040000 +0200" stop="20260709054500 +0200" channel="Telecinco">
+    <title>Miramimúsica</title>
+    <sub-title>2016 | TP | ★6.2/10</sub-title>
+    <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
+· País: España</desc>
+    <category>Música, Programa de música</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MFDFICP1303097" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709054500 +0200" stop="20260709060000 +0200" channel="Telecinco">
+    <title>Enphorma T1</title>
+    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709060000 +0200" stop="20260709080000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco matinal</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899129" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709080000 +0200" stop="20260709090000 +0200" channel="Telecinco">
+    <title>La mirada crítica</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Dirección: María Teresa Campos.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208112" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709090000 +0200" stop="20260709123000 +0200" channel="Telecinco">
+    <title>El programa de Ana Rosa T22</title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208124" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709123000 +0200" stop="20260709133000 +0200" channel="Telecinco">
+    <title>Vamos a ver T5</title>
+    <sub-title>2025 | ⑯ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Joaquín Prat junto a Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208114" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709133000 +0200" stop="20260709150000 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709150000 +0200" stop="20260709153000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899147" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709153000 +0200" stop="20260709154000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco</title>
+    <sub-title>2026 | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709154000 +0200" stop="20260709154500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709154500 +0200" stop="20260709170000 +0200" channel="Telecinco">
+    <title>Amor... ¡O lo que surja! T1</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Bajo la atenta mirada de Carlos Lozano, dos jóvenes 'Diamantes' -un chico y una chica- sus respectivos pretendientes y 20 mujeres y 20 hombres adultos se verán inmersos en la aventura de encontrar el amor en este dating show.
+· País: España
+· Presenta: Carlos Lozano.
+· Productora: Bulldog TV.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4337369" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709170000 +0200" stop="20260709183000 +0200" channel="Telecinco">
+    <title>El tiempo justo T2</title>
+    <sub-title>2025 | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208116" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709183000 +0200" stop="20260709200000 +0200" channel="Telecinco">
+    <title>El Diario de Jorge T3</title>
+    <sub-title>2026 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+    <category>Entretenimiento, Tertulia</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208118" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709200000 +0200" stop="20260709210000 +0200" channel="Telecinco">
+    <title>¡Allá tú! Diarios</title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
+· País: España
+· Presenta: Juanra Bonet, Jesús Vázquez.
+· Productora: Gestmusic Endemol.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3210764" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709210000 +0200" stop="20260709213000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Noche</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899161" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709213000 +0200" stop="20260709214000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco Noche</title>
+    <sub-title>2026 | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207087" />
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709214000 +0200" stop="20260709214500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709214500 +0200" stop="20260709230000 +0200" channel="Telecinco">
+    <title>First dates T11</title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MC4P1795835" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260709230000 +0200" stop="20260710004000 +0200" channel="Telecinco">
+    <title>Ella, maldita alma</title>
+    <sub-title>2026 | ★5.8/10</sub-title>
+    <desc>(Series,Drama) Fermín, un joven sacerdote muy querido en el pueblo costero de La Isleta, ve tambalearse su tranquila vida cuando llegan su primo Isaac y la esposa de este, Ana. Ella despierta en él sentimientos que nunca había experimentado.
+· País: España
+· Dirección: Iñaki Mercero, Javier Quintas.
+· Reparto: Maxi Iglesias, María de Nati, Karina Koloklchykova, Martiño Rivas, Antonio Gil, Nacho Fresneda, Susana Córdoba, Ana Ruiz, Paco Marín, Alan Miranda, Lucas Blas, Lisi Linder.
+· Guion: Manuel Rivas, Aurora Guerra.</desc>
+    <category>Series, Drama</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4256016" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710004000 +0200" stop="20260710021500 +0200" channel="Telecinco">
+    <title>Ella, maldita alma</title>
+    <sub-title>2026 | ★5.8/10</sub-title>
+    <desc>(Series,Drama) Fermín, un joven sacerdote muy querido en el pueblo costero de La Isleta, ve tambalearse su tranquila vida cuando llegan su primo Isaac y la esposa de este, Ana. Ella despierta en él sentimientos que nunca había experimentado.
+· País: España
+· Dirección: Iñaki Mercero, Javier Quintas.
+· Reparto: Maxi Iglesias, María de Nati, Karina Koloklchykova, Martiño Rivas, Antonio Gil, Nacho Fresneda, Susana Córdoba, Ana Ruiz, Paco Marín, Alan Miranda, Lucas Blas, Lisi Linder.
+· Guion: Manuel Rivas, Aurora Guerra.</desc>
+    <category>Series, Drama</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4256016" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710021500 +0200" stop="20260710024500 +0200" channel="Telecinco">
+    <title>Gran Madrid Show</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+    <category>Entretenimiento</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207083" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710024500 +0200" stop="20260710030000 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710030000 +0200" stop="20260710033000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.6/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710033000 +0200" stop="20260710040000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.6/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710040000 +0200" stop="20260710054500 +0200" channel="Telecinco">
+    <title>Miramimúsica</title>
+    <sub-title>2016 | TP | ★6.2/10</sub-title>
+    <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
+· País: España</desc>
+    <category>Música, Programa de música</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MFDFICP1303097" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710054500 +0200" stop="20260710060000 +0200" channel="Telecinco">
+    <title>Enphorma T1</title>
+    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710060000 +0200" stop="20260710080000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco matinal</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899129" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710080000 +0200" stop="20260710090000 +0200" channel="Telecinco">
+    <title>La mirada crítica</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Dirección: María Teresa Campos.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208112" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710090000 +0200" stop="20260710121500 +0200" channel="Telecinco">
+    <title>El programa de Ana Rosa</title>
+    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208124" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710121500 +0200" stop="20260710134500 +0200" channel="Telecinco">
+    <title>Vamos a ver T5</title>
+    <sub-title>2025 | ⑯ | ★5.6/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Joaquín Prat junto a Patricia Pardo y Adriana Dorronsoro repasan todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208114" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710134500 +0200" stop="20260710150000 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710150000 +0200" stop="20260710153000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899147" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710153000 +0200" stop="20260710154000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco</title>
+    <sub-title>2026 | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710154000 +0200" stop="20260710155000 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710155000 +0200" stop="20260710183000 +0200" channel="Telecinco">
+    <title>El tiempo justo</title>
+    <sub-title>2025 | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208116" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710183000 +0200" stop="20260710200000 +0200" channel="Telecinco">
+    <title>El Diario de Jorge T3</title>
+    <sub-title>2026 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+    <category>Entretenimiento, Tertulia</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208118" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710200000 +0200" stop="20260710210000 +0200" channel="Telecinco">
+    <title>¡Allá tú! Diarios</title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
+· País: España
+· Presenta: Juanra Bonet, Jesús Vázquez.
+· Productora: Gestmusic Endemol.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3210764" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710210000 +0200" stop="20260710213000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Noche</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899161" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710213000 +0200" stop="20260710214000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco Noche</title>
+    <sub-title>2026 | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207087" />
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710214000 +0200" stop="20260710214500 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260710214500 +0200" stop="20260711020000 +0200" channel="Telecinco">
+    <title>¡De Viernes! T4</title>
+    <sub-title>2026 | ⑯ | ★5.8/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Programa de crónica social presentado por Beatriz Archidona y Santi Acosta en el que se entrevistan a personajes importantes así como también se desvelan grandes exclusivas además de un repaso a la actualidad que marca la agenda del corazón.
+· País: España
+· Presenta: Beatriz Archidona, Santi Acosta.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208122" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711020000 +0200" stop="20260711022500 +0200" channel="Telecinco">
+    <title>Gran Madrid Show</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+    <category>Entretenimiento</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207083" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711022500 +0200" stop="20260711024500 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711024500 +0200" stop="20260711031500 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711031500 +0200" stop="20260711034500 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711034500 +0200" stop="20260711065500 +0200" channel="Telecinco">
+    <title>Miramimúsica</title>
+    <sub-title>2016 | TP | ★6.2/10</sub-title>
+    <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
+· País: España</desc>
+    <category>Música, Programa de música</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MFDFICP1303097" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711065500 +0200" stop="20260711071000 +0200" channel="Telecinco">
+    <title>Enphorma T1</title>
+    <sub-title>2023 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711071000 +0200" stop="20260711074000 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711074000 +0200" stop="20260711105000 +0200" channel="Telecinco">
+    <title>Got Talent España. Momentazos</title>
+    <sub-title>2024 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
+· País: España
+· Presenta: Santi Millán.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3481843" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711105000 +0200" stop="20260711120500 +0200" channel="Telecinco">
+    <title>Más Que Coches</title>
+    <sub-title>1995 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Informativo que abarca todos los ámbitos del sector del motor: deporte, consumo o salones.
+· País: España
+· Dirección: Gonzalo Serrano.</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P249911" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711120500 +0200" stop="20260711133500 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711133500 +0200" stop="20260711150000 +0200" channel="Telecinco">
+    <title>El precio justo (diario) T2</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: FremantleMedia España.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711150000 +0200" stop="20260711153000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <sub-title>★6.2/10</sub-title>
+    <desc>(Información,Informativo) María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P756592" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711153000 +0200" stop="20260711154500 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco fin de semana</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208551" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711154500 +0200" stop="20260711160000 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711160000 +0200" stop="20260711210000 +0200" channel="Telecinco">
+    <title>Fiesta T6</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.
+· País: España
+· Presenta: Àlex Blanquer, César Muñoz.
+· Productora: Unicorn Content.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207089" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711210000 +0200" stop="20260711213000 +0200" channel="Telecinco">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <sub-title>★6.2/10</sub-title>
+    <desc>(Información,Informativo) María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P756592" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711213000 +0200" stop="20260711214000 +0200" channel="Telecinco">
+    <title>El Desmarque Telecinco Fin de Semana Noche</title>
+    <sub-title>2026 | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+    <category>Deportes, Programa deportes</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208553" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711214000 +0200" stop="20260711220000 +0200" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★5.8/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260711220000 +0200" stop="20260712020000 +0200" channel="Telecinco">
+    <title>Hay una cosa que te quiero decir</title>
+    <sub-title>2013 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Magacín) Reencuentros, amor, sorpresas y lágrimas. Todos estos ingredientes confluyen en este espacio en el que los espectadores podrán recuperar amistades perdidas, declararse a la persona amada, conocer a un famoso o superar las diferencias.
+· País: España
+· Presenta: Jordi González, Jorge Javier Vázquez.
+· Dirección: Josep Tomás.
+· Reparto: Imanol Arias, Silvia Tortosa, Mónica Randall, Loles León, Anabel Alonso, Santiago Segura.
+· Productora: Magnolia TV.</desc>
+    <category>Entretenimiento, Magacín</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1114522" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260712020000 +0200" stop="20260712022500 +0200" channel="Telecinco">
+    <title>Gran Madrid Show</title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+    <category>Entretenimiento</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207083" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260712022500 +0200" stop="20260712024500 +0200" channel="Telecinco">
+    <title>El rey del mando</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Zapping) Programa de zapping.
+· País: España</desc>
+    <category>Entretenimiento, Zapping</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3970442" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260712024500 +0200" stop="20260712031500 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20260712031500 +0200" stop="20260712034500 +0200" channel="Telecinco">
+    <title>Love Shopping TV T1</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+    <category>Ocio y Aficiones, Televenta</category>
+		<icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3341503" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20260705000000 +0000" stop="20260705010000 +0000" channel="UK | Sky Sports Main Event">
