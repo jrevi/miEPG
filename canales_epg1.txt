@@ -8,9 +8,9 @@ La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/m
 M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
 M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
-M+ Vacaciones,M+ Vacaciones,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vacaciones.png
+M+ Terror,M+ Terror,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png
 M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
-M+ Orgullo,M+ Orgullo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Orgullo.png
+M+ Romance,M+ Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png
 M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
 M+ Acción HD,M+ Acción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png
 M+ Comedia HD,M+ Comedia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png
@@ -33,7 +33,7 @@ Warner TV HD,Warner TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 Comedy Central HD,Comedy Central,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Comedy%20Central.png
 Calle 13 HD,Calle 13,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Calle%2013.png
 Cosmo HD,Cosmo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cosmo.png
-SyFy HD,SyFy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SyFy.png
+SciFi HD,SciFi,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SciFi.png
 Energy,Energy,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Energy.png
 Factoría de Ficción,Factoría de Ficción,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Factor%C3%ADa%20de%20Ficci%C3%B3n.png
 Neox,Neox,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Neox.png
@@ -72,13 +72,12 @@ Canal Sur Andalucía,Canal Sur Andalucía,https://raw.githubusercontent.com/davi
 TVG Europa HD,TVG Europa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TVG%20Europa.png
 Canal Extremadura SAT,Canal Extremadura SAT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Extremadura%20SAT.png
 Aragón TV Internacional,Aragón TV Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV%20Internacional.png
-Alquiler HD,Alquiler,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler.png
-Alquiler 1,Alquiler 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Alquiler%201.png
 À Punt,À Punt,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/%C3%80%20Punt.png
 Aragón TV,Aragón TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arag%C3%B3n%20TV.png
 Navarra TV,Navarra TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Navarra%20TV.png
 Navarra TV 2,Navarra TV 2,https://www.navarratelevision.es/entorno/Cabeceras/CabeceraNATV.png?20250129a
-TPA Asturias,TPA Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA%20Asturias.png
+TPA7 Asturias,TPA7 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png
+TPA8 Asturias,TPA8 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png
 CMM TV,CMM TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CMM%20TV.png
 La 7 CyL,La 7 CyL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20CyL.png
 etb1,etb1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1.png
@@ -95,6 +94,8 @@ Andalucía TV,Andalucía TV,https://raw.githubusercontent.com/davidmuma/picons_d
 La Ocho Mediterráneo,La Ocho Mediterráneo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Ocho%20Mediterr%C3%A1neo.png
 IB3 TV Illes Balears,IB3 TV Illes Balears,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/IB3%20TV%20Illes%20Balears.png
 TV Canaria,TV Canaria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV%20Canaria.png
+Atlántico TV,Atlántico TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atl%C3%A1ntico%20TV.png
+Canal RED,Canal RED,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20RED.png
 HBO Max Avances,HBO Max Avances,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/HBO%20Max%20Avances.png
 SkyShowtime,SkyShowtime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png
 AXN Movies HD,AXN Movies,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png
@@ -130,10 +131,10 @@ Movistar Plus HD,Movistar Plus,https://raw.githubusercontent.com/davidmuma/picon
 Primera Federación,Primera Federación,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png
 M+ Vamos HD,M+ Vamos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png
 M+ LaLiga HD,M+ LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png
-DAZN Mundial HD,DAZN Mundial,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png
+DAZN LaLiga HD,DAZN LaLiga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png
-M+ Fanzone,M+ Fanzone,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Fanzone.png
-DAZN Mundial 2 HD,DAZN Mundial 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%202.png
+M+ LaLiga 2 HD,M+ LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png
+DAZN LaLiga 2 HD,DAZN LaLiga 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png
 LaLiga TV Hypermotion 2,LaLiga TV Hypermotion 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png
 M+ Liga de Campeones HD,M+ Liga de Campeones,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png
 M+ Liga de Campeones 2 HD,M+ Liga de Campeones 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png
@@ -143,6 +144,9 @@ M+ Deportes 2 HD,M+ Deportes 2,https://raw.githubusercontent.com/davidmuma/picon
 M+ Deportes 3,M+ Deportes 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png
 M+ Baloncesto,M+ Baloncesto,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png
 M+ Baloncesto 2,M+ Baloncesto 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png
+M+ Baloncesto 3,M+ Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png
+M+ Baloncesto 4,M+ Baloncesto 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%204.png
+M+ Baloncesto 5,M+ Baloncesto 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%205.png
 M+ Golf HD,M+ Golf,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png
 M+ Golf 2 HD,M+ Golf 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png
 DAZN F1 HD,DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
@@ -154,7 +158,7 @@ DAZN Baloncesto 2,DAZN Baloncesto 2,https://raw.githubusercontent.com/davidmuma/
 DAZN Baloncesto 3,DAZN Baloncesto 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png
 Eurosport 1 HD,Eurosport 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png
 Eurosport 2,Eurosport 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png
-GOL,GOL,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL.png
+Replay,Replay,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Replay.png
 Teledeporte,Teledeporte,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png
 M+ Liga de Campeones 4,M+ Liga de Campeones 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png
 M+ Liga de Campeones 5,M+ Liga de Campeones 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png
@@ -170,10 +174,10 @@ M+ LaLiga 3 HD,M+ LaLiga 3,https://raw.githubusercontent.com/davidmuma/picons_do
 M+ LaLiga 4,M+ LaLiga 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png
 M+ LaLiga 5,M+ LaLiga 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%205.png
 M+ LaLiga 6,M+ LaLiga 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%206.png
-DAZN Mundial 3,DAZN Mundial 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%203.png
-DAZN Mundial 4,DAZN Mundial 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%204.png
-DAZN Mundial 5,DAZN Mundial 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%205.png
-DAZN Mundial 6,DAZN Mundial 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial%206.png
+DAZN LaLiga 3,DAZN LaLiga 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%203.png
+DAZN LaLiga 4,DAZN LaLiga 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%204.png
+DAZN LaLiga 5,DAZN LaLiga 5,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%205.png
+DAZN LaLiga 6,DAZN LaLiga 6,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%206.png
 M+ Vamos 2,M+ Vamos 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png
 M+ Vamos 3,M+ Vamos 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png
 LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png
@@ -210,7 +214,7 @@ Odisea,Odisea,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/i
 AMC Break,AMC Break,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Break.png
 Canal Cocina,Canal Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png
 AMC Living,AMC Living,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Living.png
-SELEKT,SELEKT,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SELEKT.png
+AMC Selekt TV,AMC Selekt TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Selekt%20TV.png
 Sol Música,Sol Música,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sol%20M%C3%BAsica.png
 Squirrel 2,Squirrel 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Squirrel%202.png
 BOM Cine,BOM Cine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BOM%20Cine.png
@@ -250,7 +254,6 @@ Love the Planet,Love the Planet,https://raw.githubusercontent.com/davidmuma/pico
 Love Wine,Love Wine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Love%20Wine.png
 Historia y Vida,Historia y Vida,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia%20y%20Vida.png
 Cazavisión,Cazavisión,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png
-LALIGA Inside,LALIGA Inside,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LALIGA%20Inside.png
 Top Barça,Top Barça,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Top%20Bar%C3%A7a.png
 Betis TV,Betis TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png
 Tennis Channel,Tennis Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png
@@ -268,14 +271,17 @@ Fight Box HD,Fight Box,https://raw.githubusercontent.com/davidmuma/picons_dobleM
 Moto ADV,Moto ADV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Moto%20ADV.png
 8madrid TV,8madrid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/8madrid%20TV.png
 acontra+,acontra+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/acontra%2B.png
+Atrescine,Atrescine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png
 Nós Televisión,Nós Televisión,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%B3s%20Televisi%C3%B3n.png
 TELEVIGO,TELEVIGO,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TELEVIGO.png
 Lolly Kids,Lolly Kids,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Lolly%20Kids.png
-VINX,VINX,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/VINX.png
 Record,Record,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Record.png
 RTP Internacional,RTP Internacional,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RTP%20Internacional.png
 NHK WORLD,NHK WORLD,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NHK%20WORLD.png
 PRO TV RUMANIA,PRO TV RUMANIA,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PRO%20TV%20RUMANIA.png
+Dviaje,Dviaje,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dviaje.png
+Dpelis,Dpelis,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dpelis.png
+Radio Televisión Ceuta,Radio Televisión Ceuta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Radio%20Televisi%C3%B3n%20Ceuta.png
 Playboy TV,Playboy TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Playboy%20TV.png
 Dark Rojo,Dark Rojo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dark%20Rojo.png
 AMC Anime,AMC Anime,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Anime.png
@@ -284,8 +290,6 @@ Distrito TV,Distrito TV,https://raw.githubusercontent.com/davidmuma/picons_doble
 Escapa TV,Escapa TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Escapa%20TV.png
 Popular TV Región de Murcia,Popular TV Región de Murcia,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Popular%20TV%20Regi%C3%B3n%20de%20Murcia.png
 La 7 Rioja,La 7 Rioja,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Rioja.png
-TPA7 Asturias,TPA7 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA7%20Asturias.png
-TPA8 Asturias,TPA8 Asturias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TPA8%20Asturias.png
 Levante TV,Levante TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Levante%20TV.png
 Onda Algeciras TV,Onda Algeciras TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onda%20Algeciras%20TV.png
 Tele Elx,Tele Elx,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tele%20Elx.png
@@ -316,6 +320,7 @@ ATV Andorra Televisión,ATV Andorra Televisión,https://raw.githubusercontent.co
 Stingray Classica,Stingray Classica,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Stingray%20Classica.png
 GCM,GCM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GCM.png
 AZ Corazón,AZ Corazón,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AZ%20Coraz%C3%B3n.png
+Mírame TV,Mírame TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%C3%ADrame%20TV.png
 etb1 euskera,etb1 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1%20euskera.png
 etb2 euskera,etb2 euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb2%20euskera.png
 etb1ON euskera,etb1ON euskera,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/etb1ON%20euskera.png
@@ -326,6 +331,7 @@ La 2 Cataluña,La 2 Cataluña,https://raw.githubusercontent.com/davidmuma/picons
 La 1 Canarias,La 1 Canarias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201%20Canarias.png
 La 2 Canarias,La 2 Canarias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202%20Canarias.png
 24 horas Canarias,24 horas Canarias,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20horas%20Canarias.png
+En Play,En Play,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/En%20Play.png
 Al cielo con ella,Al cielo con ella,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Al%20cielo%20con%20ella.png
 Cocina,Cocina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cocina.png
 La Promesa,La Promesa,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Promesa.png
@@ -340,7 +346,6 @@ El 33 Catalunya,El 33 Catalunya,https://raw.githubusercontent.com/davidmuma/pico
 Esport3 Catalunya,Esport3 Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport3%20Catalunya.png
 TV3CAT Catalunya,TV3CAT Catalunya,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TV3CAT%20Catalunya.png
 Bon Dia TV,Bon Dia TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Bon%20Dia%20TV.png
-Libertad Digital TV,Libertad Digital TV,https://yt3.googleusercontent.com/ytc/AIdro_mJBwGvGJx9rJx7Fyo19zzImyR7p9O2WXRS1uPaSMoP6HE=s900-c-k-c0x00ffffff-no-rj
 Imás TV,Imás TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Im%C3%A1s%20TV.png
 Punt 3,Punt 3,https://www.punt3.es/android-icon-192x192.png
 Onetoro,Onetoro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png
@@ -350,6 +355,8 @@ Popular TV Cantabria,Popular TV Cantabria,https://populartvcantabria.com/wp-cont
 interalmería TV,interalmería TV,https://www.interalmeria.tv/wp-content/uploads/2019/01/iatv-mosca.png?x96146
 Huelva TV,Huelva TV,https://huelvatv.com/wp-content/uploads/2024/11/70_Huelva_TV_Logotipo_AZUL.png
 TV Melilla,TV Melilla,https://th.bing.com/th/id/OIP.lq_9H8H5nXXUHfAoNQJJnQHaHa?w=80&amp;h=80&amp;c=1&amp;bgcl=f47899&amp;r=0&amp;o=7&amp;dpr=1.1&amp;pid=ImgRC&amp;rm=3
+Solidaria TV España,Solidaria TV España,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
+Solidaria TV Argentina,Solidaria TV Argentina,https://www.solidariatv.com/wp-content/uploads/2025/05/logoweb2022.jpg
 La 7 Ávila,La 7 Ávila,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20%C3%81vila.png
 La 7 Bierzo,La 7 Bierzo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Bierzo.png
 La 7 Burgos,La 7 Burgos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%207%20Burgos.png
@@ -371,7 +378,7 @@ La 8 Soria,La 8 Soria,https://raw.githubusercontent.com/davidmuma/picons_dobleM/
 La 8 Valladolid,La 8 Valladolid,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%208%20Valladolid.png
 La 8 Zamora,La 8 Zamora,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%208%20Zamora.png
 Canal 10 Empordà,Canal 10 Empordà,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/59b39e8627ac48fc918ac74868f10c52/Images/c87bb30b698f4dc9ae2fb28664d7f557
-EmpordaTV,EmpordaTV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/372eac7b9f6147ce9b33835dcca3fa7c/Images/6864e0b1ce6f454995af88f894038cda
+EmpordaTV,EmpordaTV,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/372eac7b9f6147ce9b33835dcca3fa7c/Images/06864cf2e1d84e26b2d9e5a43bd5f922
 TAC12,TAC12,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/35fb7e6bd71744cd920462b0d7507803/Images/11ffc0ea325540219ca78995bade2c75
 TV Costa Brava,TV Costa Brava,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/4710b8c020dc4441929c75e3a40d9a7d/Images/d8b1cbbc1ebb4ce7acc069ec43a341a8
 Canal Terrassa,Canal Terrassa,https://d22hf6hy3vcb1o.cloudfront.net:443/Tenant_1/Asset/7b1fb076dbeb487ebc107950baeaa583/Images/30706a728c58462a92dc464334a0cd9b
@@ -408,13 +415,12 @@ Inquietos atresplayer,Inquietos atresplayer,https://raw.githubusercontent.com/da
 Flooxer,Flooxer,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Flooxer.png
 Kidz,Kidz,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Kidz.png
 ATRESplayer PREMIUM,ATRESplayer PREMIUM,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ATRESplayer%20PREMIUM.png
-Infinity En la calle,Infinity En la calle,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTA2ZGM0N2JhNmQ1ODMyNy9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktRW4tbGEtY2FsbGUucG5n/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
-Infinity Viajes,Infinity Viajes,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMTVjMWUyNWJhZjhkNjE4MC9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktVmlhamVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
-Infinity Comedia,Infinity Comedia,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vNmFhMmMyNDRhYTUzMmEyNS9vcmlnaW5hbC9DaGFubmVsLWxvZ29fSW5maW5pdHktQ29tZWRpYS5wbmc/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
-Infinity Top Series,Infinity Top Series,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vMmE2YTBiNDYzYjI4YTRlL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1Ub3AtU2VyaWVzLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
-Infinity+ LQSA,Infinity+ LQSA,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/aHR0cHM6Ly9kYW0uY2xvdWQubWVkaWFzZXQubmV0L20vOWQ1ZTZkNWFmNDM0OTNkL29yaWdpbmFsL0NoYW5uZWwtbG9nb19JbmZpbml0eS1MUVNBLnBuZw/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
+Infinity En la calle,Infinity En la calle,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A106dc47ba6d58327%2Foriginal%2FChannel-logo_Infinity-En-la-calle.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A106dc47ba6d58327%2Foriginal%2FChannel-logo_Infinity-En-la-calle.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A106dc47ba6d58327%2Foriginal%2FChannel-logo_Infinity-En-la-calle.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A106dc47ba6d58327%2Foriginal%2FChannel-logo_Infinity-En-la-calle.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A106dc47ba6d58327%2Foriginal%2FChannel-logo_Infinity-En-la-calle.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A106dc47ba6d58327%2Foriginal%2FChannel-logo_Infinity-En-la-calle.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A106dc47ba6d58327%2Foriginal%2FChannel-logo_Infinity-En-la-calle.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
+Infinity Viajes,Infinity Viajes,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A15c1e25baf8d6180%2Foriginal%2FChannel-logo_Infinity-Viajes.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
+Infinity Comedia,Infinity Comedia,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A6aa2c244aa532a25%2Foriginal%2FChannel-logo_Infinity-Comedia.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
+Infinity Top Series,Infinity Top Series,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A2a6a0b463b28a4e%2Foriginal%2FChannel-logo_Infinity-Top-Series.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
+Infinity+ LQSA,Infinity+ LQSA,https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A9d5e6d5af43493d%2Foriginal%2FChannel-logo_Infinity-LQSA.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A9d5e6d5af43493d%2Foriginal%2FChannel-logo_Infinity-LQSA.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A9d5e6d5af43493d%2Foriginal%2FChannel-logo_Infinity-LQSA.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A9d5e6d5af43493d%2Foriginal%2FChannel-logo_Infinity-LQSA.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A9d5e6d5af43493d%2Foriginal%2FChannel-logo_Infinity-LQSA.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A9d5e6d5af43493d%2Foriginal%2FChannel-logo_Infinity-LQSA.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)|https://img-prod-api2.mediasetplay.mediaset.it/api/images/by/v5/esp/bym%3A9d5e6d5af43493d%2Foriginal%2FChannel-logo_Infinity-LQSA.png/single/87/87@2?r=%202x&quot;%20media=&quot;(max-width:%201023px)
 Sony One Shark Tank,Sony One Shark Tank,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300004C9_20241106T142325SQUARE.png
-Sony One Series Thriller,Sony One Series Thriller,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300002Y6_20241106T142251SQUARE.png
 Sony One Éxitos,Sony One Éxitos,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300003D4_20241022T051059SQUARE.png
 Sony One The Blacklist,Sony One The Blacklist,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300005EL_20241022T115805SQUARE.png
 Sony One Series Comedia,Sony One Series Comedia,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES30000145_20241106T142322SQUARE.png
@@ -422,7 +428,15 @@ Sony One Hits Comedia,Sony One Hits Comedia,https://tvpnlogopeu.samsungcloud.tv/
 Sony One Hits Acción,Sony One Hits Acción,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES300006QJ_20251111T011921SQUARE.png
 Mr Bean Animated,Mr Bean Animated,https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ES900001SH_20250923T011557SQUARE.png
 Tennis+,Tennis+,https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png
-FashionTV,FashionTV,https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png
+FANPLAY TV Primera Federación 1,FANPLAY TV Primera Federación 1,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 2,FANPLAY TV Primera Federación 2,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 3,FANPLAY TV Primera Federación 3,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 4,FANPLAY TV Primera Federación 4,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 5,FANPLAY TV Primera Federación 5,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 6,FANPLAY TV Primera Federación 6,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 7,FANPLAY TV Primera Federación 7,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 8,FANPLAY TV Primera Federación 8,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
+FANPLAY TV Primera Federación 9,FANPLAY TV Primera Federación 9,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReZW0T1JCPFdWLodj4_Nw43TdFBQ0CSYO4OMUUIW37mw&amp;s=10
 Liga de Campeones BAR 2,Liga de Campeones BAR 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%202.png
 Liga de Campeones BAR 3,Liga de Campeones BAR 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%203.png
 Liga de Campeones BAR 4,Liga de Campeones BAR 4,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%204.png
@@ -435,7 +449,6 @@ Liga de Campeones BAR 11,Liga de Campeones BAR 11,https://raw.githubusercontent.
 Liga de Campeones BAR 12,Liga de Campeones BAR 12,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Liga%20de%20Campeones%20BAR%2012.png
 GolStadium BAR,GolStadium BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png
 DAZN F1 BAR,DAZN F1 BAR,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1%20BAR.png
-Gol Classics,Gol Classics,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Gol%20Classics.png
 NBA TV,NBA TV,https://cdn.nba.com/logos/leagues/logo-nba.svg
 Náutica TV,Náutica TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/N%C3%A1utica%20TV.png
 Dhípica,Dhípica,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Dh%C3%ADpica.png
@@ -448,11 +461,33 @@ PTV Córdoba,PTV Córdoba,https://raw.githubusercontent.com/davidmuma/picons_dob
 PTV Linares,PTV Linares,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20Linares.png
 PTV Málaga,PTV Málaga,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/PTV%20M%C3%A1laga.png
 Unbeaten (DAZN),Unbeaten (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Unbeaten%20(DAZN).png
-Mundial (DAZN),Mundial (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mundial%20(DAZN).png
 NFL Network (DAZN),NFL Network (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NFL%20Network%20(DAZN).png
 Red Bull TV (DAZN),Red Bull TV (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Red%20Bull%20TV%20(DAZN).png
 Primera Federación (DAZN),Primera Federación (DAZN),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n%20(DAZN).png
-DAZN Copa Mundial de FIFA,DAZN Copa Mundial de FIFA,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_70excpe1synn9kadnbppahdn7/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Bundesliga,DAZN Bundesliga,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Bundesliga 2,DAZN Bundesliga 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Bundesliga 3,DAZN Bundesliga 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Bundesliga 4,DAZN Bundesliga 4,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Bundesliga 5,DAZN Bundesliga 5,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_6by3h89i2eykc341oz7lv1ddd/fill/center/top/none/100/0/0/png/image/25/g
+DAZN LALIGA EA SPORTS,DAZN LALIGA EA SPORTS,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_34pl8szyvrbwcmfkuocjm3r6t/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Liga F,DAZN Liga F,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Liga F 2,DAZN Liga F 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_5k620c7y6dlbmcm88dt3eb7t/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League,DAZN National League,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League 2,DAZN National League 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League 3,DAZN National League 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League 4,DAZN National League 4,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League 5,DAZN National League 5,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League 6,DAZN National League 6,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League 7,DAZN National League 7,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN National League 8,DAZN National League 8,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_b5udgm9vakjqz8dcmy5b2g0xt/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Premier League,DAZN Premier League,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Premier League 2,DAZN Premier League 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Premier League 3,DAZN Premier League 3,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Premier League 4,DAZN Premier League 4,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2kwbbcootiqqgmrzs6o5inle5/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Serie A,DAZN Serie A,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g
+DAZN Serie A 2,DAZN Serie A 2,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1r097lpxe0xn03ihb7wi98kao/fill/center/top/none/100/0/0/png/image/25/g
+DAZN F1,DAZN F1,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_1m5x4n07f2kqkiczebja5etiq/fill/center/top/none/100/0/0/png/image/25/g
+DAZN MotoGP,DAZN MotoGP,https://image.discovery.indazn.com/eu/v4/onboarding-images/none/sn_2e554vbpw7g0ykhl0rziuabxl/fill/center/top/none/100/0/0/png/image/25/g
 Sky News International,Sky News International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20News%20International.png
 Arirang TV HD,Arirang TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Arirang%20TV.png
 1+1 International,1+1 International,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/1%2B1%20International.png
@@ -465,10 +500,12 @@ Thrillers (Rakuten TV),Thrillers (Rakuten TV),https://images-2.rakuten.tv/storag
 MyTime Movie Network (Rakuten TV),MyTime Movie Network (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/d3b1e728-ef8e-4dc6-b2ee-dd668a44bae4-mytime-movie-network-1643366410.png
 Cine Español (Rakuten TV),Cine Español (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/2da65634-f27e-48f9-8f3b-a03bd31cbade.png
 Películas Románticas (Rakuten TV),Películas Románticas (Rakuten TV),https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6a3d067c-8cb2-4581-84e1-f284ee948e3a.png
-Dramas (Rakuten TV),Dramas (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png
-Comedias (Rakuten TV),Comedias (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png
-Acción (Rakuten TV),Acción (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png
+Todo Drama (Rakuten TV),Todo Drama (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b8da0e9-a7f1-4fc5-85d5-668d0e4df0b9.png
+Películas de Drama (Rakuten TV),Películas de Drama (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/ee3c242a-398d-4d9e-9a79-c8c6427278c0.png
+Comedia (Rakuten TV),Comedia (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/14c7b74d-cd73-4791-98f2-f6e097cce068.png
+Películas de Acción (Rakuten TV),Películas de Acción (Rakuten TV),https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/6b4cf5b7-bb4d-439a-9779-f83fd1bde012.png
 Pelis Top (Rakuten TV),Pelis Top (Rakuten TV),https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/82ae4be3-2514-4733-9f9d-89545d4e2ef4.png
+Fashion TV (Rakuten TV),Fashion TV (Rakuten TV),https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/838ea64b-a331-4322-971a-3c8c52ac1124-fashion-tv-1643624523.png
 Red Bull TV,Red Bull TV,https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/b03ad405-231f-44f4-90ea-5fdacaf2a06c.png
 FIFA+,FIFA+,https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork-negative/e2bc4647-5158-44b1-a14e-6b541ed03997.png
 DSPORTS,DSPORTS,https://dsports-widgets.tbxnet.com/assets/images/channels/1610.png
@@ -477,13 +514,12 @@ DSPORTS+,DSPORTS+,https://dsports-widgets.tbxnet.com/assets/images/channels/1613
 DSPORTS Motor,DSPORTS Motor,https://dsports-widgets.tbxnet.com/assets/images/channels/1614.png
 DSPORTS Fight,DSPORTS Fight,https://dsports-widgets.tbxnet.com/assets/images/channels/1615.png
 DSPORTS 3,DSPORTS 3,https://dsports-widgets.tbxnet.com/assets/images/channels/1616.png
-DSPORTS 4,DSPORTS 4,https://dsports-widgets.tbxnet.com/assets/images/channels/1617.png
 DSPORTS 5,DSPORTS 5,https://dsports-widgets.tbxnet.com/assets/images/channels/1618.png
 beIN SPORTS en español,beIN SPORTS en español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20en%20espa%C3%B1ol.png
 beIN SPORTS XTRA ñ,beIN SPORTS XTRA ñ,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%20XTRA%20%C3%B1.png
+Star TVE HD,Star TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png
 CNN en Español,CNN en Español,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/CNN%20en%20Espa%C3%B1ol.png
 Concert Channel,Concert Channel,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Concert%20Channel.png
-Star TVE HD,Star TVE,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Star%20TVE.png
 Discovery Turbo,Discovery Turbo,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery%20Turbo.png
 FOX SPORTS,FOX SPORTS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png
 FOX SPORTS 2,FOX SPORTS 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png
@@ -498,9 +534,9 @@ TyC Sports,TyC Sports,https://raw.githubusercontent.com/davidmuma/picons_dobleM/
 TUDN (Estados Unidos),TUDN (Estados Unidos),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(Estados%20Unidos).png
 TUDN (México),TUDN (México),https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TUDN%20(M%C3%A9xico).png
 Sky Sports 16,Sky Sports 16,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sports%2016.png
-Atrescine,Atrescine,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Atrescine.png
-Vivid TV,Vivid TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivid%20TV.png
-MTV Classic,MTV Classic,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%20Classic.png
+ESPN Argentina,ESPN Argentina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%20Argentina.png
+ESPN 2 Argentina,ESPN 2 Argentina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202%20Argentina.png
+ESPN 3 Argentina,ESPN 3 Argentina,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203%20Argentina.png
 FR · Infosport+,FR · Infosport+,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Infosport%2B.png
 FR · L’Equipe,FR · L’Equipe,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/L%E2%80%99Equipe.png
 FR · Premiere Futebol Clube,FR · Premiere Futebol Clube,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Premiere%20Futebol%20Clube.png
@@ -567,38 +603,12 @@ DE | Sky Sport Top Event,DE | Sky Sport Top Event,https://images.tvtoday.de/send
 DE | DAZN,DE | DAZN,https://images.tvtoday.de/sender/small/dazn.png
 DE | Sky Sport Austria,DE | Sky Sport Austria,https://images.tvtoday.de/sender/small/spo-a.png
 DE | Rally TV,DE | Rally TV,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png
-DE | DAZN 1,DE | DAZN 1,https://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png
-DE | DAZN 2,DE | DAZN 2,https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png
-DE | Sky Sport Austria 1,DE | Sky Sport Austria 1,https://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png
-DE | Sky Sport Austria 2,DE | Sky Sport Austria 2,
-DE | Sky Sport Austria 3,DE | Sky Sport Austria 3,
-DE | Sky Sport Austria 4,DE | Sky Sport Austria 4,
-DE | Sky Sport Austria 5,DE | Sky Sport Austria 5,
-DE | Sky Sport Austria 6,DE | Sky Sport Austria 6,
-DE | Sky Sport Austria 7,DE | Sky Sport Austria 7,
-DE | Sky Sport Austria 8,DE | Sky Sport Austria 8,
-DE | Sky Sport Bundesliga,DE | Sky Sport Bundesliga,https://www.sky.de/static/img/senderlogos_dark/1018_sky_logo_sky-sport-buli-hd_tvguide.png
-DE | Sky Sport Bundesliga 1,DE | Sky Sport Bundesliga 1,
-DE | Sky Sport Bundesliga 2,DE | Sky Sport Bundesliga 2,
-DE | Sky Sport Bundesliga 3,DE | Sky Sport Bundesliga 3,
-DE | Sky Sport Bundesliga 4,DE | Sky Sport Bundesliga 4,
-DE | Sky Sport Bundesliga 5,DE | Sky Sport Bundesliga 5,
-DE | Sky Sport Bundesliga 6,DE | Sky Sport Bundesliga 6,
-DE | Sky Sport Bundesliga 7,DE | Sky Sport Bundesliga 7,https://www.sky.de/static/img/senderlogos_dark/125_sky_logo_skybundesligahd8_tvguide.png
-DE | Sky Sport Bundesliga 8,DE | Sky Sport Bundesliga 8,https://www.sky.de/static/img/senderlogos_dark/126_sky_logo_skybundesligahd9_tvguide.png
-DE | Sky Sport Bundesliga 9,DE | Sky Sport Bundesliga 9,https://www.sky.de/static/img/senderlogos_dark/127_sky_logo_skybundesligahd10_tvguide.png
-DE | Sky Sport Bundesliga 10,DE | Sky Sport Bundesliga 10,https://www.sky.de/static/img/senderlogos_dark/998_sky_logo_sky-sport-buli-10-hd_tvguide.png
-DE | Sky Sport 1,DE | Sky Sport 1,https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png
-DE | Sky Sport 2,DE | Sky Sport 2,https://www.sky.de/static/img/senderlogos_dark/131_sky_logo_skysporthd4_tvguide.png
-DE | Sky Sport 3,DE | Sky Sport 3,https://www.sky.de/static/img/senderlogos_dark/132_sky_logo_skysporthd5_tvguide2.png
-DE | Sky Sport 4,DE | Sky Sport 4,https://www.sky.de/static/img/senderlogos_dark/133_sky_logo_skysporthd6_tvguide.png
-DE | Sky Sport 5,DE | Sky Sport 5,
-DE | Sky Sport 6,DE | Sky Sport 6,
-DE | Sky Sport 7,DE | Sky Sport 7,
-DE | Sky Sport 8,DE | Sky Sport 8,
-DE | Sky Sport 9,DE | Sky Sport 9,
-DE | Sky Sport 10,DE | Sky Sport 10,
-DE | Motorvision+,DE | Motorvision+,https://www.sky.de/static/img/senderlogos_dark/52_sky_logo_motorvision_b.png
+DE | eSportsONE,DE | eSportsONE,http://ngiss.t-online.de/cm1s/media/d9eaa902b52b78517f3b47ab210111b9d37a7fa7.png
+DE | MagentaSport,DE | MagentaSport,http://ngiss.t-online.de/cm1s/media/ac4a4a48299d42f6ee414227a1e3e25da23a3abd.png
+DE | Motorvision+,DE | Motorvision+,http://ngiss.t-online.de/cm1s/media/c106fe8ef548c796be95ef4d6e17d7718e8f765e.png
+DE | SPORTDIGITAL FUSSBALL,DE | SPORTDIGITAL FUSSBALL,http://ngiss.t-online.de/cm1s/media/58639959eb7241ee5cc8dbf96122c1f73ec809a9.png
+DE | Sportdigital1+,DE | Sportdigital1+,http://ngiss.t-online.de/cm1s/media/1387e929a8dc564c1b47249c58db2087ae0fc93b.png
+DE | Sky Sport Kompakt 1,DE | Sky Sport Kompakt 1,http://ngiss.t-online.de/cm1s/media/50dd32f0f42a79c4b5379b499412f381564764e3.png
 UK | TNT Sports 1,UK | TNT Sports 1,https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png
 UK | TNT Sports 2,UK | TNT Sports 2,https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png
 UK | TNT Sports 3,UK | TNT Sports 3,https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png
@@ -612,7 +622,7 @@ UK | TNT Sports 10,UK | TNT Sports 10,https://tv.assets.pressassociation.io/b029
 UK | TNT Sports Box Office,UK | TNT Sports Box Office,https://tv.assets.pressassociation.io/0e736662-ebac-5fa5-9a38-f79e5f91e0a2.png
 UK | TNT Sports Box Office 2,UK | TNT Sports Box Office 2,https://tv.assets.pressassociation.io/a5a4c54e-969e-5fd2-96bc-bae1e24edc90.png
 UK | TNT Sports Ultimate,UK | TNT Sports Ultimate,https://tv.assets.pressassociation.io/89a98873-d91f-5165-a45f-9771712801ac.png
-UK | Sky Sports Action,UK | Sky Sports Action,https://tv.assets.pressassociation.io/2572d3f8-dd18-5558-ac1a-e9f69c8153ac.png
+UK | Sky Sports NFL,UK | Sky Sports NFL,https://tv.assets.pressassociation.io/82f0fea4-f9a2-5a7f-b33a-233bb905ba50.png
 UK | Sky Sports +,UK | Sky Sports +,https://tv.assets.pressassociation.io/7b9aa7fb-3ec6-5ba6-94d6-9490bfecfc20.png
 UK | Sky Sports Box Office,UK | Sky Sports Box Office,https://tv.assets.pressassociation.io/d3f5a3f4-3011-517a-99ab-fea7a9c8a095.png
 UK | Sky Sports Cricket,UK | Sky Sports Cricket,https://tv.assets.pressassociation.io/f8de69a5-4c3e-5836-b93e-aa7f71d073dc.png
