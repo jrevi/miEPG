@@ -76,6 +76,9 @@ LaLiga TV Hypermotion 3,LaLiga TV Hypermotion 3
 LaLiga TV Hypermotion HD,LaLiga TV Hypermotion
 # Liga de Campeones BAR 2,Liga de Campeones BAR 2
 M+ Acción HD,M+ Acción
+M+ Baloncesto,M+ Baloncesto
+M+ Baloncesto 2,M+ Baloncesto 2
+M+ Baloncesto 3,M+ Baloncesto 3
 M+ Cine Español,M+ Cine Español
 M+ Clásicos HD,M+ Clásicos
 M+ Comedia HD,M+ Comedia
