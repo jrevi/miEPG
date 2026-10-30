@@ -212,7 +212,7 @@ dias_futuros=${dias_futuros:-99}
 
 # 3. Calcular fechas de corte (Formato XMLTV)
 fecha_corte_pasado=$(date -d "$dias_pasados days ago 00:00" +"%Y%m%d%H%M%S")
-fecha_corte_futuro=$(date -d "$dias_futuros days 02:00" +"%Y%m%d%H%M%S")
+fecha_corte_futuro=$(date -d "$dias_futuros days 23:59" +"%Y%m%d%H%M%S")
 
 echo " Limpieza Pasado: Manteniendo desde $fecha_corte_pasado ($dias_pasados días)"
 echo " Limpieza Futuro: Limitando hasta $fecha_corte_futuro ($dias_futuros días)"
