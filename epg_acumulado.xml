@@ -1,717 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="AMC Crime">
-    <display-name>AMC Crime UHD 4K</display-name>
-    <display-name>AMC Crime ESPAÑA FHD</display-name>
-    <display-name>AMC Crime FHD</display-name>
-    <display-name>AMC Crime HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
   </channel>
   <channel id="AXN">
-    <display-name>AXN UHD 4K</display-name>
-    <display-name>AXN ESPAÑA FHD</display-name>
-    <display-name>AXN FHD</display-name>
-    <display-name>AXN HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" />
   </channel>
   <channel id="AXN Movies">
-    <display-name>AXN Movies UHD 4K</display-name>
-    <display-name>AXN Movies ESPAÑA FHD</display-name>
-    <display-name>AXN Movies FHD</display-name>
-    <display-name>AXN Movies HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
   <channel id="Canal FlixOlé 1">
-    <display-name>Canal FlixOlé 1 UHD 4K</display-name>
-    <display-name>Canal FlixOlé 1 ESPAÑA FHD</display-name>
-    <display-name>Canal FlixOlé 1 FHD</display-name>
-    <display-name>Canal FlixOlé 1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png" />
   </channel>
   <channel id="Canal FlixOlé 2">
-    <display-name>Canal FlixOlé 2 UHD 4K</display-name>
-    <display-name>Canal FlixOlé 2 ESPAÑA FHD</display-name>
-    <display-name>Canal FlixOlé 2 FHD</display-name>
-    <display-name>Canal FlixOlé 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png" />
   </channel>
   <channel id="Caza y Pesca">
-    <display-name>Caza y Pesca UHD 4K</display-name>
-    <display-name>Caza y Pesca ESPAÑA FHD</display-name>
-    <display-name>Caza y Pesca FHD</display-name>
-    <display-name>Caza y Pesca HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" />
   </channel>
   <channel id="Cine Feel Good">
-    <display-name>Cine Feel Good UHD 4K</display-name>
-    <display-name>Cine Feel Good ESPAÑA FHD</display-name>
-    <display-name>Cine Feel Good FHD</display-name>
-    <display-name>Cine Feel Good HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" />
   </channel>
   <channel id="Cines Verdi TV">
-    <display-name>Cines Verdi TV UHD 4K</display-name>
-    <display-name>Cines Verdi TV ESPAÑA FHD</display-name>
-    <display-name>Cines Verdi TV FHD</display-name>
-    <display-name>Cines Verdi TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" />
   </channel>
   <channel id="DAZN 1 BAR">
-    <display-name>DAZN 1 BAR UHD 4K</display-name>
-    <display-name>DAZN 1 BAR ESPAÑA FHD</display-name>
-    <display-name>DAZN 1 BAR FHD</display-name>
-    <display-name>DAZN 1 BAR HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
   <channel id="DAZN 1">
-    <display-name>DAZN 1 UHD 4K</display-name>
-    <display-name>DAZN 1 ESPAÑA FHD</display-name>
-    <display-name>DAZN 1 FHD</display-name>
-    <display-name>DAZN 1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
   <channel id="DAZN 2 BAR">
-    <display-name>DAZN 2 BAR UHD 4K</display-name>
-    <display-name>DAZN 2 BAR ESPAÑA FHD</display-name>
-    <display-name>DAZN 2 BAR FHD</display-name>
-    <display-name>DAZN 2 BAR HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
   </channel>
   <channel id="DAZN 2">
-    <display-name>DAZN 2 UHD 4K</display-name>
-    <display-name>DAZN 2 ESPAÑA FHD</display-name>
-    <display-name>DAZN 2 FHD</display-name>
-    <display-name>DAZN 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" />
   </channel>
   <channel id="DAZN 3">
-    <display-name>DAZN 3 UHD 4K</display-name>
-    <display-name>DAZN 3 ESPAÑA FHD</display-name>
-    <display-name>DAZN 3 FHD</display-name>
-    <display-name>DAZN 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" />
   </channel>
   <channel id="DAZN 4">
-    <display-name>DAZN 4 UHD 4K</display-name>
-    <display-name>DAZN 4 ESPAÑA FHD</display-name>
-    <display-name>DAZN 4 FHD</display-name>
-    <display-name>DAZN 4 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
   </channel>
   <channel id="DAZN Baloncesto">
-    <display-name>DAZN Baloncesto UHD 4K</display-name>
-    <display-name>DAZN Baloncesto ESPAÑA FHD</display-name>
-    <display-name>DAZN Baloncesto FHD</display-name>
-    <display-name>DAZN Baloncesto HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" />
   </channel>
   <channel id="DAZN Baloncesto 2">
-    <display-name>DAZN Baloncesto 2 UHD 4K</display-name>
-    <display-name>DAZN Baloncesto 2 ESPAÑA FHD</display-name>
-    <display-name>DAZN Baloncesto 2 FHD</display-name>
-    <display-name>DAZN Baloncesto 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" />
   </channel>
   <channel id="DAZN Baloncesto 3">
-    <display-name>DAZN Baloncesto 3 UHD 4K</display-name>
-    <display-name>DAZN Baloncesto 3 ESPAÑA FHD</display-name>
-    <display-name>DAZN Baloncesto 3 FHD</display-name>
-    <display-name>DAZN Baloncesto 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
   </channel>
   <channel id="ES: DAZN F1">
-    <display-name>ES: DAZN F1 UHD 4K</display-name>
-    <display-name>ES: DAZN F1 ESPAÑA FHD</display-name>
-    <display-name>ES: DAZN F1 FHD</display-name>
-    <display-name>ES: DAZN F1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" />
   </channel>
   <channel id="DAZN LaLiga 2">
-    <display-name>DAZN LaLiga 2 UHD 4K</display-name>
-    <display-name>DAZN LaLiga 2 ESPAÑA FHD</display-name>
-    <display-name>DAZN LaLiga 2 FHD</display-name>
-    <display-name>DAZN LaLiga 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" />
   </channel>
   <channel id="DAZN LaLiga">
-    <display-name>DAZN LaLiga UHD 4K</display-name>
-    <display-name>DAZN LaLiga ESPAÑA FHD</display-name>
-    <display-name>DAZN LaLiga FHD</display-name>
-    <display-name>DAZN LaLiga HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
   </channel>
   <channel id="DAZN MotoGP">
-    <display-name>DAZN MotoGP UHD 4K</display-name>
-    <display-name>DAZN MotoGP ESPAÑA FHD</display-name>
-    <display-name>DAZN MotoGP FHD</display-name>
-    <display-name>DAZN MotoGP HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" />
   </channel>
   <channel id="Latin: ESPN 4K">
-    <display-name>Latin: ESPN 4K UHD 4K</display-name>
-    <display-name>Latin: ESPN 4K ESPAÑA FHD</display-name>
-    <display-name>Latin: ESPN 4K FHD</display-name>
-    <display-name>Latin: ESPN 4K HD</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png" />
   </channel>
   <channel id="Latin: ESPN 2 4K">
-    <display-name>Latin: ESPN 2 4K UHD 4K</display-name>
-    <display-name>Latin: ESPN 2 4K ESPAÑA FHD</display-name>
-    <display-name>Latin: ESPN 2 4K FHD</display-name>
-    <display-name>Latin: ESPN 2 4K HD</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png" />
   </channel>
   <channel id="Latin: ESPN 3 4K">
-    <display-name>Latin: ESPN 3 4K UHD 4K</display-name>
-    <display-name>Latin: ESPN 3 4K ESPAÑA FHD</display-name>
-    <display-name>Latin: ESPN 3 4K FHD</display-name>
-    <display-name>Latin: ESPN 3 4K HD</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png" />
   </channel>
   <channel id="Latin: ESPN 4 4K">
-    <display-name>Latin: ESPN 4 4K UHD 4K</display-name>
-    <display-name>Latin: ESPN 4 4K ESPAÑA FHD</display-name>
-    <display-name>Latin: ESPN 4 4K FHD</display-name>
-    <display-name>Latin: ESPN 4 4K HD</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png" />
   </channel>
   <channel id="Latin: ESPN 5 4K">
-    <display-name>Latin: ESPN 5 4K UHD 4K</display-name>
-    <display-name>Latin: ESPN 5 4K ESPAÑA FHD</display-name>
-    <display-name>Latin: ESPN 5 4K FHD</display-name>
-    <display-name>Latin: ESPN 5 4K HD</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png" />
   </channel>
   <channel id="Latin: ESPN 6 4K">
-    <display-name>Latin: ESPN 6 4K UHD 4K</display-name>
-    <display-name>Latin: ESPN 6 4K ESPAÑA FHD</display-name>
-    <display-name>Latin: ESPN 6 4K FHD</display-name>
-    <display-name>Latin: ESPN 6 4K HD</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png" />
   </channel>
   <channel id="Latin: ESPN 7 4K">
-    <display-name>Latin: ESPN 7 4K UHD 4K</display-name>
-    <display-name>Latin: ESPN 7 4K ESPAÑA FHD</display-name>
-    <display-name>Latin: ESPN 7 4K FHD</display-name>
-    <display-name>Latin: ESPN 7 4K HD</display-name>
     <icon src="http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png" />
   </channel>
   <channel id="ESPN 2">
-    <display-name>ESPN 2 UHD 4K</display-name>
-    <display-name>ESPN 2 ESPAÑA FHD</display-name>
-    <display-name>ESPN 2 FHD</display-name>
-    <display-name>ESPN 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3">
-    <display-name>ESPN 3 UHD 4K</display-name>
-    <display-name>ESPN 3 ESPAÑA FHD</display-name>
-    <display-name>ESPN 3 FHD</display-name>
-    <display-name>ESPN 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="Eurosport 1">
-    <display-name>Eurosport 1 UHD 4K</display-name>
-    <display-name>Eurosport 1 ESPAÑA FHD</display-name>
-    <display-name>Eurosport 1 FHD</display-name>
-    <display-name>Eurosport 1 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
   </channel>
   <channel id="Eurosport 2">
-    <display-name>Eurosport 2 UHD 4K</display-name>
-    <display-name>Eurosport 2 ESPAÑA FHD</display-name>
-    <display-name>Eurosport 2 FHD</display-name>
-    <display-name>Eurosport 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
   </channel>
   <channel id="FOX SPORTS 2">
-    <display-name>FOX SPORTS 2 UHD 4K</display-name>
-    <display-name>FOX SPORTS 2 ESPAÑA FHD</display-name>
-    <display-name>FOX SPORTS 2 FHD</display-name>
-    <display-name>FOX SPORTS 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" />
   </channel>
   <channel id="FOX SPORTS 3">
-    <display-name>FOX SPORTS 3 UHD 4K</display-name>
-    <display-name>FOX SPORTS 3 ESPAÑA FHD</display-name>
-    <display-name>FOX SPORTS 3 FHD</display-name>
-    <display-name>FOX SPORTS 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png" />
   </channel>
   <channel id="FOX SPORTS">
-    <display-name>FOX SPORTS UHD 4K</display-name>
-    <display-name>FOX SPORTS ESPAÑA FHD</display-name>
-    <display-name>FOX SPORTS FHD</display-name>
-    <display-name>FOX SPORTS HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" />
   </channel>
   <channel id="GolStadium BAR">
-    <display-name>GolStadium BAR UHD 4K</display-name>
-    <display-name>GolStadium BAR ESPAÑA FHD</display-name>
-    <display-name>GolStadium BAR FHD</display-name>
-    <display-name>GolStadium BAR HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png" />
   </channel>
   <channel id="Iberalia TV">
-    <display-name>Iberalia TV UHD 4K</display-name>
-    <display-name>Iberalia TV ESPAÑA FHD</display-name>
-    <display-name>Iberalia TV FHD</display-name>
-    <display-name>Iberalia TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" />
   </channel>
   <channel id="Iberalia caza">
-    <display-name>Iberalia caza UHD 4K</display-name>
-    <display-name>Iberalia caza ESPAÑA FHD</display-name>
-    <display-name>Iberalia caza FHD</display-name>
-    <display-name>Iberalia caza HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion 2">
-    <display-name>LaLiga TV Hypermotion 2 UHD 4K</display-name>
-    <display-name>LaLiga TV Hypermotion 2 ESPAÑA FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion 3">
-    <display-name>LaLiga TV Hypermotion 3 UHD 4K</display-name>
-    <display-name>LaLiga TV Hypermotion 3 ESPAÑA FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 FHD</display-name>
-    <display-name>LaLiga TV Hypermotion 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion">
-    <display-name>LaLiga TV Hypermotion UHD 4K</display-name>
-    <display-name>LaLiga TV Hypermotion ESPAÑA FHD</display-name>
-    <display-name>LaLiga TV Hypermotion FHD</display-name>
-    <display-name>LaLiga TV Hypermotion HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
   </channel>
   <channel id="M+ Acción">
-    <display-name>M+ Acción UHD 4K</display-name>
-    <display-name>M+ Acción ESPAÑA FHD</display-name>
-    <display-name>M+ Acción FHD</display-name>
-    <display-name>M+ Acción HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" />
   </channel>
   <channel id="M+ Baloncesto">
-    <display-name>M+ Baloncesto UHD 4K</display-name>
-    <display-name>M+ Baloncesto ESPAÑA FHD</display-name>
-    <display-name>M+ Baloncesto FHD</display-name>
-    <display-name>M+ Baloncesto HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png" />
   </channel>
   <channel id="M+ Baloncesto 2">
-    <display-name>M+ Baloncesto 2 UHD 4K</display-name>
-    <display-name>M+ Baloncesto 2 ESPAÑA FHD</display-name>
-    <display-name>M+ Baloncesto 2 FHD</display-name>
-    <display-name>M+ Baloncesto 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png" />
   </channel>
   <channel id="M+ Baloncesto 3">
-    <display-name>M+ Baloncesto 3 UHD 4K</display-name>
-    <display-name>M+ Baloncesto 3 ESPAÑA FHD</display-name>
-    <display-name>M+ Baloncesto 3 FHD</display-name>
-    <display-name>M+ Baloncesto 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png" />
   </channel>
   <channel id="M+ Cine Español">
-    <display-name>M+ Cine Español UHD 4K</display-name>
-    <display-name>M+ Cine Español ESPAÑA FHD</display-name>
-    <display-name>M+ Cine Español FHD</display-name>
-    <display-name>M+ Cine Español HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="M+ Clásicos">
-    <display-name>M+ Clásicos UHD 4K</display-name>
-    <display-name>M+ Clásicos ESPAÑA FHD</display-name>
-    <display-name>M+ Clásicos FHD</display-name>
-    <display-name>M+ Clásicos HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="M+ Comedia">
-    <display-name>M+ Comedia UHD 4K</display-name>
-    <display-name>M+ Comedia ESPAÑA FHD</display-name>
-    <display-name>M+ Comedia FHD</display-name>
-    <display-name>M+ Comedia HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" />
   </channel>
   <channel id="M+ Deportes 2">
-    <display-name>M+ Deportes 2 UHD 4K</display-name>
-    <display-name>M+ Deportes 2 ESPAÑA FHD</display-name>
-    <display-name>M+ Deportes 2 FHD</display-name>
-    <display-name>M+ Deportes 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" />
   </channel>
   <channel id="M+ Deportes 3">
-    <display-name>M+ Deportes 3 UHD 4K</display-name>
-    <display-name>M+ Deportes 3 ESPAÑA FHD</display-name>
-    <display-name>M+ Deportes 3 FHD</display-name>
-    <display-name>M+ Deportes 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" />
   </channel>
   <channel id="M+ Deportes 4">
-    <display-name>M+ Deportes 4 UHD 4K</display-name>
-    <display-name>M+ Deportes 4 ESPAÑA FHD</display-name>
-    <display-name>M+ Deportes 4 FHD</display-name>
-    <display-name>M+ Deportes 4 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" />
   </channel>
   <channel id="M+ Deportes 5">
-    <display-name>M+ Deportes 5 UHD 4K</display-name>
-    <display-name>M+ Deportes 5 ESPAÑA FHD</display-name>
-    <display-name>M+ Deportes 5 FHD</display-name>
-    <display-name>M+ Deportes 5 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" />
   </channel>
   <channel id="M+ Deportes 6">
-    <display-name>M+ Deportes 6 UHD 4K</display-name>
-    <display-name>M+ Deportes 6 ESPAÑA FHD</display-name>
-    <display-name>M+ Deportes 6 FHD</display-name>
-    <display-name>M+ Deportes 6 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" />
   </channel>
   <channel id="M+ Deportes">
-    <display-name>M+ Deportes UHD 4K</display-name>
-    <display-name>M+ Deportes ESPAÑA FHD</display-name>
-    <display-name>M+ Deportes FHD</display-name>
-    <display-name>M+ Deportes HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" />
   </channel>
   <channel id="M+ Documentales">
-    <display-name>M+ Documentales UHD 4K</display-name>
-    <display-name>M+ Documentales ESPAÑA FHD</display-name>
-    <display-name>M+ Documentales FHD</display-name>
-    <display-name>M+ Documentales HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
   <channel id="M+ Drama">
-    <display-name>M+ Drama UHD 4K</display-name>
-    <display-name>M+ Drama ESPAÑA FHD</display-name>
-    <display-name>M+ Drama FHD</display-name>
-    <display-name>M+ Drama HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" />
   </channel>
   <channel id="M+ Estrenos">
-    <display-name>M+ Estrenos UHD 4K</display-name>
-    <display-name>M+ Estrenos ESPAÑA FHD</display-name>
-    <display-name>M+ Estrenos FHD</display-name>
-    <display-name>M+ Estrenos HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" />
   </channel>
   <channel id="M+ Golf 2">
-    <display-name>M+ Golf 2 UHD 4K</display-name>
-    <display-name>M+ Golf 2 ESPAÑA FHD</display-name>
-    <display-name>M+ Golf 2 FHD</display-name>
-    <display-name>M+ Golf 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" />
   </channel>
   <channel id="M+ Golf">
-    <display-name>M+ Golf UHD 4K</display-name>
-    <display-name>M+ Golf ESPAÑA FHD</display-name>
-    <display-name>M+ Golf FHD</display-name>
-    <display-name>M+ Golf HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" />
   </channel>
   <channel id="M+ Hits">
-    <display-name>M+ Hits UHD 4K</display-name>
-    <display-name>M+ Hits ESPAÑA FHD</display-name>
-    <display-name>M+ Hits FHD</display-name>
-    <display-name>M+ Hits HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" />
   </channel>
   <channel id="M+ Indie">
-    <display-name>M+ Indie UHD 4K</display-name>
-    <display-name>M+ Indie ESPAÑA FHD</display-name>
-    <display-name>M+ Indie FHD</display-name>
-    <display-name>M+ Indie HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" />
   </channel>
   <channel id="M+ LaLiga 2">
-    <display-name>M+ LaLiga 2 UHD 4K</display-name>
-    <display-name>M+ LaLiga 2 ESPAÑA FHD</display-name>
-    <display-name>M+ LaLiga 2 FHD</display-name>
-    <display-name>M+ LaLiga 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" />
   </channel>
   <channel id="M+ LaLiga 2 HDR">
-    <display-name>M+ LaLiga 2 HDR UHD 4K</display-name>
-    <display-name>M+ LaLiga 2 HDR ESPAÑA FHD</display-name>
-    <display-name>M+ LaLiga 2 HDR FHD</display-name>
-    <display-name>M+ LaLiga 2 HDR HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png" />
   </channel>
   <channel id="M+ LaLiga 3">
-    <display-name>M+ LaLiga 3 UHD 4K</display-name>
-    <display-name>M+ LaLiga 3 ESPAÑA FHD</display-name>
-    <display-name>M+ LaLiga 3 FHD</display-name>
-    <display-name>M+ LaLiga 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png" />
   </channel>
   <channel id="M+ LaLiga 4">
-    <display-name>M+ LaLiga 4 UHD 4K</display-name>
-    <display-name>M+ LaLiga 4 ESPAÑA FHD</display-name>
-    <display-name>M+ LaLiga 4 FHD</display-name>
-    <display-name>M+ LaLiga 4 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png" />
   </channel>
   <channel id="M+ LaLiga">
-    <display-name>M+ LaLiga UHD 4K</display-name>
-    <display-name>M+ LaLiga ESPAÑA FHD</display-name>
-    <display-name>M+ LaLiga FHD</display-name>
-    <display-name>M+ LaLiga HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" />
   </channel>
   <channel id="M+ LaLiga HDR">
-    <display-name>M+ LaLiga HDR UHD 4K</display-name>
-    <display-name>M+ LaLiga HDR ESPAÑA FHD</display-name>
-    <display-name>M+ LaLiga HDR FHD</display-name>
-    <display-name>M+ LaLiga HDR HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png" />
   </channel>
   <channel id="M+ Liga de Campeones 10">
-    <display-name>M+ Liga de Campeones 10 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 10 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 10 FHD</display-name>
-    <display-name>M+ Liga de Campeones 10 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" />
   </channel>
   <channel id="M+ Liga de Campeones 11">
-    <display-name>M+ Liga de Campeones 11 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 11 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 11 FHD</display-name>
-    <display-name>M+ Liga de Campeones 11 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" />
   </channel>
   <channel id="M+ Liga de Campeones 12">
-    <display-name>M+ Liga de Campeones 12 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 12 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 12 FHD</display-name>
-    <display-name>M+ Liga de Campeones 12 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" />
   </channel>
   <channel id="M+ Liga de Campeones 13">
-    <display-name>M+ Liga de Campeones 13 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 13 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 13 FHD</display-name>
-    <display-name>M+ Liga de Campeones 13 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" />
   </channel>
   <channel id="M+ Liga de Campeones 2">
-    <display-name>M+ Liga de Campeones 2 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 2 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 2 FHD</display-name>
-    <display-name>M+ Liga de Campeones 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" />
   </channel>
   <channel id="M+ Liga de Campeones 3">
-    <display-name>M+ Liga de Campeones 3 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 3 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 3 FHD</display-name>
-    <display-name>M+ Liga de Campeones 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" />
   </channel>
   <channel id="M+ Liga de Campeones 4">
-    <display-name>M+ Liga de Campeones 4 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 4 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 4 FHD</display-name>
-    <display-name>M+ Liga de Campeones 4 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" />
   </channel>
   <channel id="M+ Liga de Campeones 5">
-    <display-name>M+ Liga de Campeones 5 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 5 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 5 FHD</display-name>
-    <display-name>M+ Liga de Campeones 5 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" />
   </channel>
   <channel id="M+ Liga de Campeones 6">
-    <display-name>M+ Liga de Campeones 6 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 6 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 6 FHD</display-name>
-    <display-name>M+ Liga de Campeones 6 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" />
   </channel>
   <channel id="M+ Liga de Campeones 7">
-    <display-name>M+ Liga de Campeones 7 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 7 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 7 FHD</display-name>
-    <display-name>M+ Liga de Campeones 7 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" />
   </channel>
   <channel id="M+ Liga de Campeones 8">
-    <display-name>M+ Liga de Campeones 8 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 8 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 8 FHD</display-name>
-    <display-name>M+ Liga de Campeones 8 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" />
   </channel>
   <channel id="M+ Liga de Campeones 9">
-    <display-name>M+ Liga de Campeones 9 UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones 9 ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones 9 FHD</display-name>
-    <display-name>M+ Liga de Campeones 9 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" />
   </channel>
   <channel id="M+ Liga de Campeones">
-    <display-name>M+ Liga de Campeones UHD 4K</display-name>
-    <display-name>M+ Liga de Campeones ESPAÑA FHD</display-name>
-    <display-name>M+ Liga de Campeones FHD</display-name>
-    <display-name>M+ Liga de Campeones HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" />
   </channel>
   <channel id="M+ Originales">
-    <display-name>M+ Originales UHD 4K</display-name>
-    <display-name>M+ Originales ESPAÑA FHD</display-name>
-    <display-name>M+ Originales FHD</display-name>
-    <display-name>M+ Originales HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
   <channel id="M+ Vamos 2">
-    <display-name>M+ Vamos 2 UHD 4K</display-name>
-    <display-name>M+ Vamos 2 ESPAÑA FHD</display-name>
-    <display-name>M+ Vamos 2 FHD</display-name>
-    <display-name>M+ Vamos 2 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" />
   </channel>
   <channel id="M+ Vamos 3">
-    <display-name>M+ Vamos 3 UHD 4K</display-name>
-    <display-name>M+ Vamos 3 ESPAÑA FHD</display-name>
-    <display-name>M+ Vamos 3 FHD</display-name>
-    <display-name>M+ Vamos 3 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" />
   </channel>
   <channel id="M+ Vamos">
-    <display-name>M+ Vamos UHD 4K</display-name>
-    <display-name>M+ Vamos ESPAÑA FHD</display-name>
-    <display-name>M+ Vamos FHD</display-name>
-    <display-name>M+ Vamos HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" />
   </channel>
   <channel id="Movistar Plus">
-    <display-name>Movistar Plus UHD 4K</display-name>
-    <display-name>Movistar Plus ESPAÑA FHD</display-name>
-    <display-name>Movistar Plus FHD</display-name>
-    <display-name>Movistar Plus HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" />
   </channel>
   <channel id="Onetoro">
-    <display-name>Onetoro UHD 4K</display-name>
-    <display-name>Onetoro ESPAÑA FHD</display-name>
-    <display-name>Onetoro FHD</display-name>
-    <display-name>Onetoro HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
   </channel>
   <channel id="PT | Sport TV 6">
-    <display-name>PT | Sport TV 6 UHD 4K</display-name>
-    <display-name>PT | Sport TV 6 ESPAÑA FHD</display-name>
-    <display-name>PT | Sport TV 6 FHD</display-name>
-    <display-name>PT | Sport TV 6 HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%206.png" />
   </channel>
   <channel id="PT | Sport TV 7">
-    <display-name>PT | Sport TV 7 UHD 4K</display-name>
-    <display-name>PT | Sport TV 7 ESPAÑA FHD</display-name>
-    <display-name>PT | Sport TV 7 FHD</display-name>
-    <display-name>PT | Sport TV 7 HD</display-name>
     <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_7HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png" />
   </channel>
   <channel id="Primera Federación">
-    <display-name>Primera Federación UHD 4K</display-name>
-    <display-name>Primera Federación ESPAÑA FHD</display-name>
-    <display-name>Primera Federación FHD</display-name>
-    <display-name>Primera Federación HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" />
   </channel>
   <channel id="RunTime Clásicos">
-    <display-name>RunTime Clásicos UHD 4K</display-name>
-    <display-name>RunTime Clásicos ESPAÑA FHD</display-name>
-    <display-name>RunTime Clásicos FHD</display-name>
-    <display-name>RunTime Clásicos HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="Runtime Thriller-Terror">
-    <display-name>Runtime Thriller-Terror UHD 4K</display-name>
-    <display-name>Runtime Thriller-Terror ESPAÑA FHD</display-name>
-    <display-name>Runtime Thriller-Terror FHD</display-name>
-    <display-name>Runtime Thriller-Terror HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" />
   </channel>
   <channel id="SkyShowtime">
-    <display-name>SkyShowtime UHD 4K</display-name>
-    <display-name>SkyShowtime ESPAÑA FHD</display-name>
-    <display-name>SkyShowtime FHD</display-name>
-    <display-name>SkyShowtime HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" />
   </channel>
   <channel id="STAR Channel">
-    <display-name>STAR Channel UHD 4K</display-name>
-    <display-name>STAR Channel ESPAÑA FHD</display-name>
-    <display-name>STAR Channel FHD</display-name>
-    <display-name>STAR Channel HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" />
   </channel>
   <channel id="Telecinco">
-    <display-name>Telecinco UHD 4K</display-name>
-    <display-name>Telecinco ESPAÑA FHD</display-name>
-    <display-name>Telecinco FHD</display-name>
-    <display-name>Telecinco HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" />
   </channel>
   <channel id="UK | Sky Sports Main Event">
-    <display-name>UK | Sky Sports Main Event UHD 4K</display-name>
-    <display-name>UK | Sky Sports Main Event ESPAÑA FHD</display-name>
-    <display-name>UK | Sky Sports Main Event FHD</display-name>
-    <display-name>UK | Sky Sports Main Event HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/18efe60b-b0e4-5e7a-a303-ab7a9590f5fa.png" />
   </channel>
   <channel id="UK | Sky Sports Mix">
-    <display-name>UK | Sky Sports Mix UHD 4K</display-name>
-    <display-name>UK | Sky Sports Mix ESPAÑA FHD</display-name>
-    <display-name>UK | Sky Sports Mix FHD</display-name>
-    <display-name>UK | Sky Sports Mix HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/97670117-a834-59bf-ade9-28a6436aa59e.png" />
   </channel>
   <channel id="UK | Sky Sports Tennis">
-    <display-name>UK | Sky Sports Tennis UHD 4K</display-name>
-    <display-name>UK | Sky Sports Tennis ESPAÑA FHD</display-name>
-    <display-name>UK | Sky Sports Tennis FHD</display-name>
-    <display-name>UK | Sky Sports Tennis HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/5f1e9503-f984-5938-b55c-7650054d31fd.png" />
   </channel>
   <channel id="UK | TNT Sports 1">
-    <display-name>UK | TNT Sports 1 UHD 4K</display-name>
-    <display-name>UK | TNT Sports 1 ESPAÑA FHD</display-name>
-    <display-name>UK | TNT Sports 1 FHD</display-name>
-    <display-name>UK | TNT Sports 1 HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" />
   </channel>
   <channel id="UK | TNT Sports 2">
-    <display-name>UK | TNT Sports 2 UHD 4K</display-name>
-    <display-name>UK | TNT Sports 2 ESPAÑA FHD</display-name>
-    <display-name>UK | TNT Sports 2 FHD</display-name>
-    <display-name>UK | TNT Sports 2 HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" />
   </channel>
   <channel id="UK | TNT Sports 3">
-    <display-name>UK | TNT Sports 3 UHD 4K</display-name>
-    <display-name>UK | TNT Sports 3 ESPAÑA FHD</display-name>
-    <display-name>UK | TNT Sports 3 FHD</display-name>
-    <display-name>UK | TNT Sports 3 HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" />
   </channel>
   <channel id="UK | TNT Sports 4">
-    <display-name>UK | TNT Sports 4 UHD 4K</display-name>
-    <display-name>UK | TNT Sports 4 ESPAÑA FHD</display-name>
-    <display-name>UK | TNT Sports 4 FHD</display-name>
-    <display-name>UK | TNT Sports 4 HD</display-name>
     <icon src="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" />
   </channel>
   <channel id="Warner TV">
-    <display-name>Warner TV UHD 4K</display-name>
-    <display-name>Warner TV ESPAÑA FHD</display-name>
-    <display-name>Warner TV FHD</display-name>
-    <display-name>Warner TV HD</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" />
   </channel>
 	<programme start="20261030013300 +0100" stop="20261030021500 +0100" channel="AMC Crime">
@@ -11863,6 +11455,39 @@
     <title>Disfruta de DAZN en Movistar Plus</title>
     <desc>Programa por determinar...</desc>
 	</programme>
+  <programme start="20261029170000 +0000" stop="20261029193000 +0000" channel="Latin: ESPN 4K">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <date>1979</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029214000 +0000" channel="Latin: ESPN 4K">
+    <title lang="es">Fútbol Inglés Copa de la Liga</title>
+    <sub-title lang="es">Everton vs. Newcastle United</sub-title>
+    <desc lang="es">Acción del partido de la cuarta ronda de la EFL Cup 2026-27. Desde el Hill Dickinson Stadium, en Liverpool.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029214000 +0000" stop="20261029230000 +0000" channel="Latin: ESPN 4K">
+    <title lang="es">Balón dividido</title>
+    <desc lang="es">El análisis y la actualidad del fútbol de Colombia, a cargo de grandes especialistas. Además, los informes con la última información de cada equipo y la palabra de los protagonistas.</desc>
+    <date>2010</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261030000000 +0000" channel="Latin: ESPN 4K">
+    <title lang="es">ESPN F360</title>
+    <desc lang="es">Análisis, debate y comentarios de las noticias más relevantes del fútbol nacional, así como a nivel mundial.</desc>
+    <date>2025</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
   <programme start="20261030000000 +0000" stop="20261030020000 +0000" channel="Latin: ESPN 4K">
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
@@ -12285,6 +11910,59 @@
     <title lang="es">SportsCenter</title>
     <desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
     <date>1979</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029162000 +0000" stop="20261029172000 +0000" channel="Latin: ESPN 2 4K">
+    <title lang="es">ESPN Compact</title>
+    <sub-title lang="es">Serie A Italia: Venezia vs. Inter</sub-title>
+    <desc lang="es">Los mejores momentos de la fecha 9 de la Serie A de Italia 2025-26. Venezia se enfrenta a Inter. Disputado el 28 de octubre del 2026.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E390</episode-num>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029172000 +0000" stop="20261029193000 +0000" channel="Latin: ESPN 2 4K">
+    <title lang="es">Fútbol Serie A</title>
+    <sub-title lang="es">Frosinone vs. Lecce</sub-title>
+    <desc lang="es">Acción de la fecha 9. Frosinone enfrenta a Lecce. Desde el Stadio Benito Stirpe. Los locales buscan defender su posición en la zona de clasificación a competiciones europeas.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029193000 +0000" stop="20261029214500 +0000" channel="Latin: ESPN 2 4K">
+    <title lang="es">Fútbol Serie A</title>
+    <sub-title lang="es">Fiorentina vs. Atalanta</sub-title>
+    <desc lang="es">Acción de la jornada 38 de la Serie A 2025-26. Fiorentina busca su segunda victoria al hilo y Atalanta mantenerse en puestos europeos.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029214500 +0000" stop="20261029220000 +0000" channel="Latin: ESPN 2 4K">
+    <title lang="es">Fútbol</title>
+    <sub-title lang="es">CONMEBOL Libertadores: Flamengo campeón 2025</sub-title>
+    <desc lang="es">Los partidos del club brasileño Flamengo están rumbo a ganar la cuarta Copa Libertadores de su historia ante Palmeiras.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029220000 +0000" stop="20261029233000 +0000" channel="Latin: ESPN 2 4K">
+    <title lang="es">SportsCenter</title>
+    <desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+    <date>1979</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029233000 +0000" stop="20261030003000 +0000" channel="Latin: ESPN 2 4K">
+    <title lang="es">El Show de la F1</title>
+    <desc lang="es">Transmisión en vivo con el equipo Sky Sports F1 del Gran Premio.</desc>
+    <date>2012</date>
     <rating system="MJColombia">
       <value>TE</value>
     </rating>
@@ -12777,6 +12455,58 @@
       <value>AGE228</value>
     </rating>
   </programme>
+  <programme start="20261029153000 +0000" stop="20261029173000 +0000" channel="Latin: ESPN 3 4K">
+    <title lang="es">Fútbol LaLiga</title>
+    <sub-title lang="es">Sevilla vs. Osasuna</sub-title>
+    <desc lang="es">Jornada 10 de la temporada 2026-27 de LaLiga. Sevilla se enfrenta a Osasuna. Desde el estadio Ramón Sánchez Pizjuán.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029173000 +0000" stop="20261029194000 +0000" channel="Latin: ESPN 3 4K">
+    <title lang="es">Fútbol Femenino UEFA Champions League</title>
+    <sub-title lang="es">Paris FC vs. BK Häcken FF</sub-title>
+    <desc lang="es">Acción de la jornada 3 de la fase de liga de la UWCL 2026-27. Paris FC busca su primera victoria y Hacken sus primeros puntos.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029194000 +0000" stop="20261029220000 +0000" channel="Latin: ESPN 3 4K">
+    <title lang="es">Fútbol Femenino UEFA Champions League</title>
+    <sub-title lang="es">Manchester City vs. Paris Saint-Germain</sub-title>
+    <desc lang="es">Acción de la jornada 3 de la fase de liga de la UWCL 2026-27. Las Citizens buscan ganar tras empatar y PSG su segunda victoria al hilo.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029220000 +0000" stop="20261029223000 +0000" channel="Latin: ESPN 3 4K">
+    <title lang="es">ATP Tour Uncovered</title>
+    <sub-title lang="es">ATP Tour: This Week</sub-title>
+    <desc lang="es">Los momentos más destacados de semana.</desc>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029223000 +0000" stop="20261029230000 +0000" channel="Latin: ESPN 3 4K">
+    <title lang="es">FIM Road Racing World Championship Highlights</title>
+    <desc lang="es">Recopilación de los momentos más emocionantes de las carreras del campeonato mundial de motociclismo.</desc>
+    <date>2005</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261030010000 +0000" channel="Latin: ESPN 3 4K">
+    <title lang="es">Fútbol Serie A</title>
+    <sub-title lang="es">Frosinone vs. Lecce</sub-title>
+    <desc lang="es">Acción de la fecha 9. Frosinone enfrenta a Lecce. Desde el Stadio Benito Stirpe. Los locales buscan defender su posición en la zona de clasificación a competiciones europeas.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
   <programme start="20261030010000 +0000" stop="20261030040000 +0000" channel="Latin: ESPN 3 4K">
     <title lang="es">Golf</title>
     <sub-title lang="es">Asia-Pacific Amateur Championship, Segunda Ronda</sub-title>
@@ -13246,6 +12976,59 @@
       <value>AGE228</value>
     </rating>
   </programme>
+  <programme start="20261029160000 +0000" stop="20261029190000 +0000" channel="Latin: ESPN 4 4K">
+    <title lang="es">Serie Mundial MLB 2026</title>
+    <sub-title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</sub-title>
+    <desc lang="es">Milwaukee Brewers se enfrenta a Tampa Bay Rays en el quinto partido de la Serie Mundial en el Tropicana Field. Milwaukee lidera la serie 3-1, pero Tampa Bay se mantuvo con vida tras ganar 4-3 en el cuarto partido.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029210000 +0000" channel="Latin: ESPN 4 4K">
+    <title lang="es">ESPN KnockOut</title>
+    <sub-title lang="es">Dalton Smith vs. Alberto Puello</sub-title>
+    <desc lang="es">Pelea por el título CMB de peso superligero. Dalton Smith cruza puños con Alberto Puello. Desde el Utilita Arena, en Sheffield, Inglaterra.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029210000 +0000" stop="20261029220000 +0000" channel="Latin: ESPN 4 4K">
+    <title lang="es">NFL Semanal</title>
+    <desc lang="es">La mejor cobertura y toda la acción del fútbol americano.</desc>
+    <date>2002</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029220000 +0000" stop="20261029223000 +0000" channel="Latin: ESPN 4 4K">
+    <title lang="es">ESPN Polo</title>
+    <desc lang="es">Lo más destacado y la mejor cobertura de los torneos más importantes de polo del mundo, con el análisis de los especialistas.</desc>
+    <date>2018</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029223000 +0000" stop="20261029233000 +0000" channel="Latin: ESPN 4 4K">
+    <title lang="es">ESPN Compact</title>
+    <sub-title lang="es">EFL Cup: Liverpool vs. Chelsea</sub-title>
+    <desc lang="es">Compacto del partido de la cuarta ronda de la EFL Cup 2026-27. Disputado el 28 de octubre de 2026 en Anfield.</desc>
+    <date>2026</date>
+    <episode-num system="onscreen">E391</episode-num>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029233000 +0000" stop="20261030020000 +0000" channel="Latin: ESPN 4 4K">
+    <title lang="es">Hockey NHL</title>
+    <sub-title lang="es">Chicago Blackhawks vs. Detroit Red Wings</sub-title>
+    <desc lang="es">Duelo interconferencia de la NHL. Temporada 2026-27. Blackhawks enfrentan a Red Wings. Desde el Little Caesars Arena.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
   <programme start="20261030020000 +0000" stop="20261030030000 +0000" channel="Latin: ESPN 4 4K">
     <title lang="es">El Show de la F1</title>
     <desc lang="es">Transmisión en vivo con el equipo Sky Sports F1 del Gran Premio.</desc>
@@ -13665,6 +13448,58 @@
     <title lang="es">NFL RedZone</title>
     <desc lang="es">Se recapitulan todos los juegos de la NFL con las mejores anotaciones dentro de las 20 yardas.</desc>
     <date>2009</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029173000 +0000" channel="Latin: ESPN 5 4K">
+    <title lang="es">Messi Cup 2026</title>
+    <sub-title lang="es">Copa Oro - Quarterfinal: River Plate Sub-16 vs. Flamengo U16</sub-title>
+    <desc lang="es">Cuartos de final de la Copa Oro de la Messi Cup 2026. River Plate se enfrenta a Flamengo. Desde el Chase Stadium, en Fort Lauderdale, Florida.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029173000 +0000" stop="20261029190000 +0000" channel="Latin: ESPN 5 4K">
+    <title lang="es">Messi Cup 2026</title>
+    <sub-title lang="es">Copa Oro - Quarterfinal: Atlético de Madrid Sub-16 vs. Barcelona Sub-16</sub-title>
+    <desc lang="es">Cuartos de final de la Copa Oro de la Messi Cup 2026. Atlético de Madrid se enfrenta a Barcelona. Desde el Chase Stadium, en Fort Lauderdale, Florida.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029203000 +0000" channel="Latin: ESPN 5 4K">
+    <title lang="es">Messi Cup 2026</title>
+    <sub-title lang="es">Copa Oro - Quarterfinal: Palmeiras U16 vs. Benfica U16</sub-title>
+    <desc lang="es">Cuartos de final de la Copa Oro de la Messi Cup 2026. Palmeiras se enfrenta a Benfica. Desde el Chase Stadium, en Fort Lauderdale, Florida.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029203000 +0000" stop="20261029220000 +0000" channel="Latin: ESPN 5 4K">
+    <title lang="es">Messi Cup 2026</title>
+    <sub-title lang="es">Copa Oro - Quarterfinal: Boca Juniors U16 vs. Ajax U16</sub-title>
+    <desc lang="es">Segunda edición del torneo sub 16, con la participación de 16 clubes alrededor del mundo. Desde Miami, Florida.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029220000 +0000" stop="20261029230000 +0000" channel="Latin: ESPN 5 4K">
+    <title lang="es">NFL Semanal</title>
+    <desc lang="es">La mejor cobertura y toda la acción del fútbol americano.</desc>
+    <date>2002</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261030000000 +0000" channel="Latin: ESPN 5 4K">
+    <title lang="es">NFL Live desde México</title>
+    <desc lang="es">Cobertura deportiva con toda la información, resultados y análisis del fútbol americano, la NFL.</desc>
+    <date>2023</date>
     <rating system="MJColombia">
       <value>AGE228</value>
     </rating>
@@ -14103,6 +13938,42 @@
       <value>AGE228</value>
     </rating>
   </programme>
+  <programme start="20261029170000 +0000" stop="20261029180000 +0000" channel="Latin: ESPN 6 4K">
+    <title lang="es">Premier Padel</title>
+    <sub-title lang="es">Málaga P1: Finales</sub-title>
+    <desc lang="es">Cobertura de la final del Premier Pádel Málaga 2026. Desde el Palacio de Deportes José María Martín Carpena.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029200000 +0000" channel="Latin: ESPN 6 4K">
+    <title lang="es">Fútbol CONMEBOL Copa Libertadores</title>
+    <sub-title lang="es">Flamengo vs. Estudiantes</sub-title>
+    <desc lang="es">Flamengo se enfrenta al Estudiantes de La Plata en el Estadio de Maracaná por la semifinal de vuelta de la Copa Libertadores 2026. Se define el finalista tras el 0-0 en la ida, con el Mengão buscando el bicampeonato.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029200000 +0000" stop="20261029230000 +0000" channel="Latin: ESPN 6 4K">
+    <title lang="es">Serie Mundial MLB 2026</title>
+    <sub-title lang="es">Milwaukee Brewers vs. Tampa Bay Rays</sub-title>
+    <desc lang="es">Milwaukee Brewers se enfrenta a Tampa Bay Rays en el quinto partido de la Serie Mundial en el Tropicana Field. Milwaukee lidera la serie 3-1, pero Tampa Bay se mantuvo con vida tras ganar 4-3 en el cuarto partido.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261030010000 +0000" channel="Latin: ESPN 6 4K">
+    <title lang="es">Fútbol Femenino UEFA Champions League</title>
+    <sub-title lang="es">Paris FC vs. BK Häcken FF</sub-title>
+    <desc lang="es">Acción de la jornada 3 de la fase de liga de la UWCL 2026-27. Paris FC busca su primera victoria y Hacken sus primeros puntos.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
   <programme start="20261030010000 +0000" stop="20261030030000 +0000" channel="Latin: ESPN 6 4K">
     <title lang="es">Fútbol UEFA Champions League</title>
     <sub-title lang="es">Paris Saint-Germain vs. Barcelona</sub-title>
@@ -14468,6 +14339,58 @@
     <date>2026</date>
     <rating system="MJColombia">
       <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029160000 +0000" stop="20261029180000 +0000" channel="Latin: ESPN 7 4K">
+    <title lang="es">Golf</title>
+    <sub-title lang="es">Asia-Pacific Amateur Championship, Primera Ronda</sub-title>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029180000 +0000" stop="20261029183000 +0000" channel="Latin: ESPN 7 4K">
+    <title lang="es">EFL Highlights</title>
+    <desc lang="es">Noticias y momentos estelares de la English Football League.</desc>
+    <date>2017</date>
+    <rating system="MJColombia">
+      <value>TE</value>
+    </rating>
+  </programme>
+  <programme start="20261029183000 +0000" stop="20261029190000 +0000" channel="Latin: ESPN 7 4K">
+    <title lang="es">Rugby de Francia</title>
+    <sub-title lang="es">Highlights del Campeonato de Francia</sub-title>
+    <desc lang="es">Los momentos más destacados del Campeonato de Francia.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029190000 +0000" stop="20261029210000 +0000" channel="Latin: ESPN 7 4K">
+    <title lang="es">Fútbol Turco Superliga</title>
+    <sub-title lang="es">Galatasaray vs. Fenerbahçe</sub-title>
+    <desc lang="es">Novena jornada de la Superliga de Turquía 2026-27. Galatasaray se enfrenta a Fenerbahce. Desde el Rams Park, en Estambul.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029210000 +0000" stop="20261029230000 +0000" channel="Latin: ESPN 7 4K">
+    <title lang="es">Fútbol UEFA Europa League</title>
+    <sub-title lang="es">Juventus vs. Stade Rennais</sub-title>
+    <desc lang="es">Tercera jornada de la UEFA Europa League 2026-27. Juventus se mide a Rennes. Desde el Allianz Stadium, en Turín, Italia.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
+    </rating>
+  </programme>
+  <programme start="20261029230000 +0000" stop="20261030010000 +0000" channel="Latin: ESPN 7 4K">
+    <title lang="es">ESPN KnockOut</title>
+    <sub-title lang="es">Emmanuel Navarrete vs. O'Shaquie Foster</sub-title>
+    <desc lang="es">Combate por la unificación de los títulos superligeros del WBO, IBF y WBC. Emmanuel Navarrete en trifulca con O'Shaquie Foster. Disputado el 24 de octubre de 2026 en el Frost Bank Center, en San Antonio, Texas.</desc>
+    <date>2026</date>
+    <rating system="MJColombia">
+      <value>AGE228</value>
     </rating>
   </programme>
   <programme start="20261030010000 +0000" stop="20261030020000 +0000" channel="Latin: ESPN 7 4K">
