@@ -42,13 +42,13 @@ DAZN LaLiga HD,DAZN LaLiga
 DAZN MotoGP,DAZN MotoGP
 DAZN Mundial 2 HD,DAZN Mundial 2
 DAZN Mundial HD,DAZN Mundial
-ESPN.co,Latin: ESPN 4K
-ESPN.2.co,Latin: ESPN 2 4K
-ESPN.3.co,Latin: ESPN 3 4K
-ESPN.4.co,Latin: ESPN 4 4K
-ESPN.5.co,Latin: ESPN 5 4K
-ESPN.6.HD.co,Latin: ESPN 6 4K
-ESPN.7.HD.co,Latin: ESPN 7 4K
+ESPN.co,Latin: ESPN 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png
+ESPN.2.co,Latin: ESPN 2 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png
+ESPN.3.co,Latin: ESPN 3 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png
+ESPN.4.co,Latin: ESPN 4 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png
+ESPN.5.co,Latin: ESPN 5 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%205.png
+ESPN.6.HD.co,Latin: ESPN 6 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%206.png
+ESPN.7.HD.co,Latin: ESPN 7 4K,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%207.png
 ESPN 2,ESPN 2
 ESPN 3,ESPN 3
 # ESPN 4,ESPN 4
