@@ -1,3 +1,2 @@
-display-name= UHD 4K, ESPAÑA FHD, FHD, HD
-dias-pasados=0
+dias-pasados=1
 dias-futuros=3
