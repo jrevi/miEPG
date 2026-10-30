@@ -1,0 +1,139 @@
+# Fuente: https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz
+AdultSwim.co,AdultSwim,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/17/23/17237718_B1A70FD338292FD7.png
+A&amp;E.co,A&amp;E,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519097_DE3A1635092C0904.png
+AMC.co,AMC,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png
+AMC.HD.co,AMC HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515474_CAE1CCA6A8584D97.png
+Animal.Planet.co,Animal Planet,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523540_26F81A3F46EA5552.png
+ATRES.SERIES.HD.co,ATRES SERIES HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/26/7265848_80A656F053F25772.png
+AXN.co,AXN,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6518947_CDE896912C494ADE.png
+BABY.TV.co,BABY TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523295_B3CDC74D14D25D9D.png
+BBC.World.News.co,BBC World News,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/84/15847199_AF8754416D1FD691.png
+CableNoticias.co,CableNoticias,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737705_3275EC62B4CD9DFE.png
+Canal.1.co,Canal 1,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735849_E3E120BD5125A1BB.png
+Canal.Capital.co,Canal Capital,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840718_06DF1DE82185646C.png
+CANAL.CONGRESO.co,CANAL CONGRESO,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/87/6872963_B9A89B733937ACFE.png
+Canal.Institucional.co,Canal Institucional,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6735845_B030513D3A93A004.png
+Canal.Trece.co,Canal Trece,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766259_EF1557DB7D3B4F8E.png
+Canal.TRO.co,Canal TRO,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766257_49048E2F6B098025.png
+Canal.Zoom.co,Canal Zoom,
+Caracol.co,Caracol,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777674_523AE0ED0219820E.png
+CARTOONITO.co,CARTOONITO,
+Cartoon.Network.co,Cartoon Network,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523297_AC1C9C4372225AAB.png
+Cinecanal.co,Cinecanal,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512486_A3E2583BEF3E7D10.png
+Cinemax.co,Cinemax,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512485_54EA3938DE90CEEE.png
+City.TV.co,City TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766261_1A203E4D298185B0.png
+CNN.Español.co,CNN Español,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6552916_2077BEC98CF63BD7.png
+Comedy.Central.co,Comedy Central,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519091_39917200288AD4FD.png
+DAYSTAR.co,DAYSTAR,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/37/18379888_E38CBE94D50CAFF3.png
+DHE.HD.co,DHE HD,
+Discovery.Channel.co,Discovery Channel,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523534_45AEC952162CBFB0.png
+DISCOVERY.HD.THEATER.co,DISCOVERY HD THEATER,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523537_4F688A020028689F.png
+Discovery.H&amp;H.co,Discovery H&amp;H,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/47/11470350_2B54A1C94E8999B4.png
+Discovery.Kids.co,Discovery Kids,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523293_350A81601DFB7D0D.png
+Discovery.Theater.co,Discovery Theater,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523537_4F688A020028689F.png
+Discovery.Turbo.co,Discovery Turbo,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512491_2CE2F46FEA087030.png
+DISNEY.+.co,DISNEY +,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/19/22/19223558_3545652D077D2779.png
+Disney.Channel.co,Disney Channel,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523290_AD350A44EE3C7F22.png
+DISNEY.JUNIOR.co,DISNEY JUNIOR,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523291_F6DF039E3B8E8BB1.png
+E!.Entertainment.TV.co,E! Entertainment TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551426_5546C17CCDC9C9C7.png
+El.Gourmet.co,El Gourmet,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/15/73/15731698_5F75F0BA0E527A7E.png
+El.Tiempo.Televisión.co,El Tiempo Televisión,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777670_C679F246B55CB21E.png
+ENLACE.co,ENLACE,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726444_D21DDB643F3506E9.png
+Época.co,Época,
+ESPN.co,ESPN,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198140_99108D7568AA9AAE.png
+ESPN.2.co,ESPN 2,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6512316_AA8FA81542C172F3.png
+ESPN.3.co,ESPN 3,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/04/19/4198159_B5DE0073541D8808.png
+ESPN.4.co,ESPN 4,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120553_3F72D79C84E760F5.png
+ESPN.5.co,ESPN 5,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120539_C879B6958D9AC767.png
+ESPN.6.HD.co,ESPN 6 HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120541_B7604BB1E7F6FE82.png
+ESPN.7.HD.co,ESPN 7 HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/18/12/18120543_D5E98ACC166EE489.png
+EUROPA.EUROPA.co,EUROPA EUROPA,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515397_BC24839BB3009970.png
+EWTN.co,EWTN,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726450_4EBE76F722C3BA5D.png
+FILM.&amp;.ARTS.co,FILM &amp; ARTS,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523543_31B3B8B0D0453776.png
+Food.Network.co,Food Network,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551512_B3F3A42DB87F57A4.png
+FX.co,FX,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515473_45AD48727E7ED8C8.png
+GOLDEN.HD.co,GOLDEN HD,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/88/7881365_5A454C03C7E85861.png
+HBO.co,HBO,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519370_43816C0D37A55C34.png
+HBO.2.co,HBO 2,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519371_95895B596B5C8566.png
+HBO.Family.co,HBO Family,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png
+HBO.FAMILY.ESTE.co,HBO FAMILY ESTE,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/55/8553112_DD5F4931A18250EE.png
+HBO.POP.co,HBO POP,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576554_D50CDAAE95539E82.png
+HBO.XTREME.co,HBO XTREME,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/57/6576354_680306081B40EE38.png
+HGTV.co,HGTV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502146_B26126E65BFB4AE2.png
+History.2.co,History 2,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556455_1534264D9C0B8BFC.png
+History.Channel.co,History Channel,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png
+HISTORY.CHANNEL.co,HISTORY CHANNEL,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/55/10556450_C3E849D2CEA2997D.png
+¡Hola!.TV.co,¡Hola! TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551607_D4F6C6A08179E093.png
+HTV.co,HTV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551636_BB2F922E6C894C1C.png
+ID.-.Investigation.Discovery.co,ID - Investigation Discovery,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/52/7522973_D23BD84A0800ADB3.png
+Love.Nature.co,Love Nature,
+Mas.Chic.co,Mas Chic,
+Milenio.Tv.co,Milenio Tv,
+MTV.co,MTV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/55/6551565_C12AECCD0D7A425E.png
+MTV.00S.co,MTV 00S,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/09/21/9218492_DEE35A9C254DCFD3.png
+MTV.Live.co,MTV Live,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/71/6718047_776EFC6B2E7FD09F.png
+NAT.GEO.co,NAT GEO,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png
+National.Geographic.co,National Geographic,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523538_ED18BE0D9CB65652.png
+NETFLIX.co,NETFLIX,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515475_A299F962D4D3C995.png
+Nick.co,Nick,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523298_5E05A48FF212BDA3.png
+Nick.Jr.co,Nick Jr,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523299_3D2D15D8014926D6.png
+NTN24.co,NTN24,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/76/6766263_EF18A52021D069F6.png
+NUESTRA.TELE.co,NUESTRA TELE,
+Paramount.Channel.co,Paramount Channel,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/84/6840721_AEB0D89DD5B9FA4C.png
+PASIONES.co,PASIONES,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/69/6693700_03BC91674A4C6D72.png
+PRIME.VIDEO.co,PRIME VIDEO,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/73/11738760_949FC69CDA649B38.png
+RCN.co,RCN,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/72/6726442_FFF4DE2DAA79BEBE.png
+RCN.Novelas.co,RCN Novelas,
+Señal.Colombia.co,Señal Colombia,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777668_306F5814B8C4F4D0.png
+Sony.co,Sony,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519094_D25BA55CD778E9BC.png
+Space.co,Space,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515394_45E57EEB6C610D30.png
+STAR.+.co,STAR +,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/11/73/11738777_CC0BC50937D7D60C.png
+STAR.CHANNEL.co,STAR CHANNEL,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/35/8355168_71322F74BDD910DD.png
+Star.TVE.HD.co,Star TVE HD,
+Studio.Universal.co,Studio Universal,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/08/6088301_9018F0C267867285.png
+Teen.Nick.co,Teen Nick,
+Teleantioquia.co,Teleantioquia,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737703_74477722C5CA4FB8.png
+Telecafé.co,Telecafé,
+Telecaribe.co,Telecaribe,
+Teleislas.co,Teleislas,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777666_C276C345F6941321.png
+TELEMEDELLIN.co,TELEMEDELLIN,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/08/21/8215975_267320FD9179DB06.png
+Telemundo.co,Telemundo,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523670_1160A8714A70955D.png
+Telepacifico.co,Telepacifico,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/77/6777672_498DFB24EDD741CF.png
+TELEVID.co,TELEVID,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/10/18/10189014_0740990E2E9153FB.png
+TLC.co,TLC,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/52/6523672_50C8A6C8B9DD42A3.png
+TNT.co,TNT,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515391_CB25EB7CDA76FB24.png
+TNT.Novelas.co,TNT Novelas,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/16/30/16305195_BB6976196426344E.png
+TNT.Series.co,TNT Series,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515476_805DDBBB18788395.png
+Universal.TV.co,Universal TV,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6519095_678CDFE242981C69.png
+Warner.Channel.co,Warner Channel,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/51/6515477_3BB7C82967F46BD5.png
+Win.Sports.co,Win Sports,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/73/6737707_F9A7AE02A016370E.png
+Win.Sports+.co,Win Sports+,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/06/50/6502118_A3D837B2E9C01F60.png
+YOUTUBE.co,YOUTUBE,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/37/7379405_8771658B2A1288CD.png
+YOUTUBE.KIDS.co,YOUTUBE KIDS,http://media.gvp.telefonica.com/storagearea0/IMAGES/00/07/37/7379404_75239663FF85A1F6.png
+RCN.HDTV.2.(RCNHD2).co,RCN HDTV 2 (RCNHD2),
+Portal.DIRECTV.Sports(DTVS).co,Portal DIRECTV Sports(DTVS),
+DSPORTS.(COL).(DTSC).co,DSPORTS (COL) (DTSC),
+DSPORTS.2.(DTS2).co,DSPORTS 2 (DTS2),
+DSPORTS.+(DTS+).co,DSPORTS +(DTS+),
+DSports.Motor(DSPM).co,DSports Motor(DSPM),
+DIRECTV.Sports.5(DTS6).co,DIRECTV Sports 5(DTS6),
+DIRECTV.SPORTS(DTS7).co,DIRECTV SPORTS(DTS7),
+DIRECTV.SPORTS(DTS9).co,DIRECTV SPORTS(DTS9),
+DSPORTS.Fight(DTSF).co,DSPORTS Fight(DTSF),
+TyC.Sports.International(TYCS).co,TyC Sports International(TYCS),
+Win.Sports.(WIN).co,Win Sports (WIN),
+Win.Sports.Premium(Win+).co,Win Sports Premium(Win+),
+DSPORTS.Radio(DTSR).co,DSPORTS Radio(DTSR),
+FOX.Sports.2.HD(FSP2HD).co,FOX Sports 2 HD(FSP2HD),
+FOX.Sports.3.HD(FXS3HD).co,FOX Sports 3 HD(FXS3HD),
+DSPORTS.HD.(COL)(DTSCHD).co,DSPORTS HD (COL)(DTSCHD),
+DSPORTS.2.HD(DTV2HD).co,DSPORTS 2 HD(DTV2HD),
+DSPORTS.+.HD(DTS+HD).co,DSPORTS + HD(DTS+HD),
+DSports.Motor(DSPMHD).co,DSports Motor(DSPMHD),
+DIRECTV.SPORTS.HD(DTVSHD).co,DIRECTV SPORTS HD(DTVSHD),
+DIRECTV.SPORTS.HD(DTSHD9).co,DIRECTV SPORTS HD(DTSHD9),
+DSPORTS.Fight(DTSFHD).co,DSPORTS Fight(DTSFHD),
+DSports.Radio(DTSR).co,DSports Radio(DTSR),
+Win.Sports.HD.(COL)(WINHD).co,Win Sports HD (COL)(WINHD),
+Win.Sports.Premium.HD(Win+HD).co,Win Sports Premium HD(Win+HD),
+PX.Sports.HD(PXSHD).co,PX Sports HD(PXSHD),
