@@ -90,10 +90,8 @@ if [ -f variables.txt ]; then
         etiq_clean=$(echo "$etiq" | xargs) # Limpia espacios
         if [ -n "$etiq_clean" ]; then
             etiquetas_sed="${etiquetas_sed}${linea_ins}i\  <display-name>${new} ${etiq_clean}</display-name>\n"
-        else
-            etiquetas_sed="${etiquetas_sed}${linea_ins}i\  <display-name>${new}</display-name>\n"
+            ((linea_ins++))
         fi
-        ((linea_ins++))
     done
 fi
 
@@ -117,6 +115,8 @@ for linea in "${canales[@]}"; do
         echo "  <channel id=\"${new}\">" > EPG_temp01.xml
         
         # 4. Insertar los nombres basados en variables.txt
+        # SIEMPRE ponemos el nombre base (haya o no variables.txt)
+        echo "    <display-name>${new}</display-name>" >> EPG_temp01.xml
         if [ -f variables.txt ]; then
             sufijos=$(grep "display-name=" variables.txt | cut -d'=' -f2 | sed 's/, /,/g')
             IFS=',' read -r -a array_etiquetas <<< "$sufijos"
@@ -127,9 +127,9 @@ for linea in "${canales[@]}"; do
                     echo "    <display-name>${new} ${etiq_clean}</display-name>" >> EPG_temp01.xml
                 fi
             done
-        else
-            # Si no hay variables.txt, ponemos al menos el nombre base
-            echo "    <display-name>${new}</display-name>" >> EPG_temp01.xml
+#        else
+#            # Si no hay variables.txt, ponemos al menos el nombre base
+#            echo "    <display-name>${new}</display-name>" >> EPG_temp01.xml
         fi
 
         # 5. Insertar el logo al final
