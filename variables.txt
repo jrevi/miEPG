@@ -1,3 +1,2 @@
-display-name=HD,FHD,SD
-dias-pasados=0
-dias-futuros=4
+dias-pasados=1
+dias-futuros=7
