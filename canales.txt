@@ -28,7 +28,7 @@ DAZN Baloncesto,DAZN Baloncesto
 DAZN Baloncesto 2,DAZN Baloncesto 2
 DAZN Baloncesto 3,DAZN Baloncesto 3
 # DAZN F1 BAR,DAZN F1 BAR
-DAZN F1 HD,ES: DAZN F1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png
+DAZN F1 HD,DAZN F1
 # DAZN LALIGA EA SPORTS 2,DAZN LALIGA EA SPORTS 2
 # DAZN LALIGA EA SPORTS,DAZN LALIGA EA SPORTS
 DAZN LaLiga 2 HD,DAZN LaLiga 2
