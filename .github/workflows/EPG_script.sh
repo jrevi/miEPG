@@ -87,11 +87,11 @@ if [ -f variables.txt ]; then
     # Creamos una lista de comandos para sed (se insertarán en la línea 3 en adelante)
     linea_ins=3
     for etiq in "${array_etiquetas[@]}"; do
-        etiq_clean=$(echo "$etiq") # | xargs) # Limpia espacios
-        if [ -n "$etiq_clean" ]; then
+        etiq_clean=$(echo "$etiq" | xargs) # Limpia espacios
+#        if [ -n "$etiq_clean" ]; then
             etiquetas_sed="${etiquetas_sed}${linea_ins}i\  <display-name>${new} ${etiq_clean}</display-name>\n"
             ((linea_ins++))
-        fi
+#        fi
     done
 fi
 
