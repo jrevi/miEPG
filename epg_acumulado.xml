@@ -1,411 +1,309 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="miEPG v3.6" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="AMC Crime">
-    <display-name>AMC Crime</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AMC%20Crime.png" />
   </channel>
   <channel id="AXN">
-    <display-name>AXN</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN.png" />
   </channel>
   <channel id="AXN Movies">
-    <display-name>AXN Movies</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/AXN%20Movies.png" />
   </channel>
   <channel id="Canal FlixOlé 1">
-    <display-name>Canal FlixOlé 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%201.png" />
   </channel>
   <channel id="Canal FlixOlé 2">
-    <display-name>Canal FlixOlé 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20FlixOl%C3%A9%202.png" />
   </channel>
   <channel id="Caza y Pesca">
-    <display-name>Caza y Pesca</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" />
   </channel>
   <channel id="Cine Feel Good">
-    <display-name>Cine Feel Good</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cine%20Feel%20Good.png" />
   </channel>
   <channel id="Cines Verdi TV">
-    <display-name>Cines Verdi TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cines%20Verdi%20TV.png" />
   </channel>
   <channel id="DAZN 1 BAR">
-    <display-name>DAZN 1 BAR</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" />
   </channel>
   <channel id="DAZN 1">
-    <display-name>DAZN 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" />
   </channel>
   <channel id="DAZN 2 BAR">
-    <display-name>DAZN 2 BAR</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" />
   </channel>
   <channel id="DAZN 2">
-    <display-name>DAZN 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" />
   </channel>
   <channel id="DAZN 3">
-    <display-name>DAZN 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" />
   </channel>
   <channel id="DAZN 4">
-    <display-name>DAZN 4</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" />
   </channel>
   <channel id="DAZN Baloncesto">
-    <display-name>DAZN Baloncesto</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto.png" />
   </channel>
   <channel id="DAZN Baloncesto 2">
-    <display-name>DAZN Baloncesto 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%202.png" />
   </channel>
   <channel id="DAZN Baloncesto 3">
-    <display-name>DAZN Baloncesto 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Baloncesto%203.png" />
   </channel>
   <channel id="DAZN F1">
-    <display-name>DAZN F1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" />
   </channel>
   <channel id="DAZN LaLiga 2">
-    <display-name>DAZN LaLiga 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" />
   </channel>
   <channel id="DAZN LaLiga">
-    <display-name>DAZN LaLiga</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" />
   </channel>
   <channel id="DAZN MotoGP">
-    <display-name>DAZN MotoGP</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20MotoGP.png" />
   </channel>
   <channel id="Latin: ESPN 4K">
-    <display-name>Latin: ESPN 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" />
   </channel>
   <channel id="Latin: ESPN 2 4K">
-    <display-name>Latin: ESPN 2 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="Latin: ESPN 3 4K">
-    <display-name>Latin: ESPN 3 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="Latin: ESPN 4 4K">
-    <display-name>Latin: ESPN 4 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%204.png" />
   </channel>
   <channel id="Latin: ESPN 5 4K">
-    <display-name>Latin: ESPN 5 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%205.png" />
   </channel>
   <channel id="Latin: ESPN 6 4K">
-    <display-name>Latin: ESPN 6 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%206.png" />
   </channel>
   <channel id="Latin: ESPN 7 4K">
-    <display-name>Latin: ESPN 7 4K</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%207.png" />
   </channel>
   <channel id="ESPN 2">
-    <display-name>ESPN 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" />
   </channel>
   <channel id="ESPN 3">
-    <display-name>ESPN 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%203.png" />
   </channel>
   <channel id="Eurosport 1">
-    <display-name>Eurosport 1</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" />
   </channel>
   <channel id="Eurosport 2">
-    <display-name>Eurosport 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" />
   </channel>
   <channel id="FOX SPORTS 2">
-    <display-name>FOX SPORTS 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%202.png" />
   </channel>
   <channel id="FOX SPORTS 3">
-    <display-name>FOX SPORTS 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS%203.png" />
   </channel>
   <channel id="FOX SPORTS">
-    <display-name>FOX SPORTS</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/FOX%20SPORTS.png" />
   </channel>
   <channel id="GolStadium BAR">
-    <display-name>GolStadium BAR</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GolStadium%20BAR.png" />
   </channel>
   <channel id="Iberalia TV">
-    <display-name>Iberalia TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" />
   </channel>
   <channel id="Iberalia caza">
-    <display-name>Iberalia caza</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion 2">
-    <display-name>LaLiga TV Hypermotion 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion 3">
-    <display-name>LaLiga TV Hypermotion 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" />
   </channel>
   <channel id="LaLiga TV Hypermotion">
-    <display-name>LaLiga TV Hypermotion</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" />
   </channel>
   <channel id="M+ Acción">
-    <display-name>M+ Acción</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Acci%C3%B3n.png" />
   </channel>
   <channel id="M+ Baloncesto">
-    <display-name>M+ Baloncesto</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto.png" />
   </channel>
   <channel id="M+ Baloncesto 2">
-    <display-name>M+ Baloncesto 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%202.png" />
   </channel>
   <channel id="M+ Baloncesto 3">
-    <display-name>M+ Baloncesto 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Baloncesto%203.png" />
   </channel>
   <channel id="M+ Cine Español">
-    <display-name>M+ Cine Español</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cine%20Espa%C3%B1ol.png" />
   </channel>
   <channel id="M+ Clásicos">
-    <display-name>M+ Clásicos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="M+ Comedia">
-    <display-name>M+ Comedia</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Comedia.png" />
   </channel>
   <channel id="M+ Deportes 2">
-    <display-name>M+ Deportes 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" />
   </channel>
   <channel id="M+ Deportes 3">
-    <display-name>M+ Deportes 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" />
   </channel>
   <channel id="M+ Deportes 4">
-    <display-name>M+ Deportes 4</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" />
   </channel>
   <channel id="M+ Deportes 5">
-    <display-name>M+ Deportes 5</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" />
   </channel>
   <channel id="M+ Deportes 6">
-    <display-name>M+ Deportes 6</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" />
   </channel>
   <channel id="M+ Deportes">
-    <display-name>M+ Deportes</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" />
   </channel>
   <channel id="M+ Documentales">
-    <display-name>M+ Documentales</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" />
   </channel>
   <channel id="M+ Drama">
-    <display-name>M+ Drama</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Drama.png" />
   </channel>
   <channel id="M+ Estrenos">
-    <display-name>M+ Estrenos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png" />
   </channel>
   <channel id="M+ Golf 2">
-    <display-name>M+ Golf 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" />
   </channel>
   <channel id="M+ Golf">
-    <display-name>M+ Golf</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" />
   </channel>
   <channel id="M+ Hits">
-    <display-name>M+ Hits</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png" />
   </channel>
   <channel id="M+ Indie">
-    <display-name>M+ Indie</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Indie.png" />
   </channel>
   <channel id="M+ LaLiga 2">
-    <display-name>M+ LaLiga 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" />
   </channel>
   <channel id="M+ LaLiga 2 HDR">
-    <display-name>M+ LaLiga 2 HDR</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202%20HDR.png" />
   </channel>
   <channel id="M+ LaLiga 3">
-    <display-name>M+ LaLiga 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%203.png" />
   </channel>
   <channel id="M+ LaLiga 4">
-    <display-name>M+ LaLiga 4</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%204.png" />
   </channel>
   <channel id="M+ LaLiga">
-    <display-name>M+ LaLiga</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga.png" />
   </channel>
   <channel id="M+ LaLiga HDR">
-    <display-name>M+ LaLiga HDR</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20HDR.png" />
   </channel>
   <channel id="M+ Liga de Campeones 10">
-    <display-name>M+ Liga de Campeones 10</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2010.png" />
   </channel>
   <channel id="M+ Liga de Campeones 11">
-    <display-name>M+ Liga de Campeones 11</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2011.png" />
   </channel>
   <channel id="M+ Liga de Campeones 12">
-    <display-name>M+ Liga de Campeones 12</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2012.png" />
   </channel>
   <channel id="M+ Liga de Campeones 13">
-    <display-name>M+ Liga de Campeones 13</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" />
   </channel>
   <channel id="M+ Liga de Campeones 2">
-    <display-name>M+ Liga de Campeones 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" />
   </channel>
   <channel id="M+ Liga de Campeones 3">
-    <display-name>M+ Liga de Campeones 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" />
   </channel>
   <channel id="M+ Liga de Campeones 4">
-    <display-name>M+ Liga de Campeones 4</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" />
   </channel>
   <channel id="M+ Liga de Campeones 5">
-    <display-name>M+ Liga de Campeones 5</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" />
   </channel>
   <channel id="M+ Liga de Campeones 6">
-    <display-name>M+ Liga de Campeones 6</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" />
   </channel>
   <channel id="M+ Liga de Campeones 7">
-    <display-name>M+ Liga de Campeones 7</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" />
   </channel>
   <channel id="M+ Liga de Campeones 8">
-    <display-name>M+ Liga de Campeones 8</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" />
   </channel>
   <channel id="M+ Liga de Campeones 9">
-    <display-name>M+ Liga de Campeones 9</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%209.png" />
   </channel>
   <channel id="M+ Liga de Campeones">
-    <display-name>M+ Liga de Campeones</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" />
   </channel>
   <channel id="M+ Originales">
-    <display-name>M+ Originales</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png" />
   </channel>
   <channel id="M+ Vamos 2">
-    <display-name>M+ Vamos 2</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%202.png" />
   </channel>
   <channel id="M+ Vamos 3">
-    <display-name>M+ Vamos 3</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos%203.png" />
   </channel>
   <channel id="M+ Vamos">
-    <display-name>M+ Vamos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" />
   </channel>
   <channel id="Movistar Plus">
-    <display-name>Movistar Plus</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus.png" />
   </channel>
   <channel id="Onetoro">
-    <display-name>Onetoro</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Onetoro.png" />
   </channel>
   <channel id="PT | Sport TV 6">
-    <display-name>PT | Sport TV 6</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sport%20TV%206.png" />
   </channel>
   <channel id="PT | Sport TV 7">
-    <display-name>PT | Sport TV 7</display-name>
     <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_7HD.png&amp;profile=ott_16_220x64&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI&amp;format=image/png" />
   </channel>
   <channel id="Primera Federación">
-    <display-name>Primera Federación</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Primera%20Federaci%C3%B3n.png" />
   </channel>
   <channel id="RunTime Clásicos">
-    <display-name>RunTime Clásicos</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/RunTime%20Cl%C3%A1sicos.png" />
   </channel>
   <channel id="Runtime Thriller-Terror">
-    <display-name>Runtime Thriller-Terror</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Runtime%20Thriller-Terror.png" />
   </channel>
   <channel id="SkyShowtime">
-    <display-name>SkyShowtime</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/SkyShowtime.png" />
   </channel>
   <channel id="STAR Channel">
-    <display-name>STAR Channel</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/STAR%20Channel.png" />
   </channel>
   <channel id="Telecinco">
-    <display-name>Telecinco</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png" />
   </channel>
   <channel id="UK | Sky Sports Main Event">
-    <display-name>UK | Sky Sports Main Event</display-name>
     <icon src="https://tv.assets.pressassociation.io/18efe60b-b0e4-5e7a-a303-ab7a9590f5fa.png" />
   </channel>
   <channel id="UK | Sky Sports Mix">
-    <display-name>UK | Sky Sports Mix</display-name>
     <icon src="https://tv.assets.pressassociation.io/97670117-a834-59bf-ade9-28a6436aa59e.png" />
   </channel>
   <channel id="UK | Sky Sports Tennis">
-    <display-name>UK | Sky Sports Tennis</display-name>
     <icon src="https://tv.assets.pressassociation.io/5f1e9503-f984-5938-b55c-7650054d31fd.png" />
   </channel>
   <channel id="UK | TNT Sports 1">
-    <display-name>UK | TNT Sports 1</display-name>
     <icon src="https://tv.assets.pressassociation.io/d45290f3-96f2-53d3-b83f-bd875c745f83.png" />
   </channel>
   <channel id="UK | TNT Sports 2">
-    <display-name>UK | TNT Sports 2</display-name>
     <icon src="https://tv.assets.pressassociation.io/1fda8663-f68a-5cc4-afd0-0e846e2ba265.png" />
   </channel>
   <channel id="UK | TNT Sports 3">
-    <display-name>UK | TNT Sports 3</display-name>
     <icon src="https://tv.assets.pressassociation.io/04f0dc31-ed4e-5a13-98cc-32e612a3fcc6.png" />
   </channel>
   <channel id="UK | TNT Sports 4">
-    <display-name>UK | TNT Sports 4</display-name>
     <icon src="https://tv.assets.pressassociation.io/e98a3304-0e26-5eed-bc55-071e69a15bf8.png" />
   </channel>
   <channel id="Warner TV">
-    <display-name>Warner TV</display-name>
     <icon src="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" />
   </channel>
 	<programme start="20261030013300 +0100" stop="20261030021500 +0100" channel="AMC Crime">
