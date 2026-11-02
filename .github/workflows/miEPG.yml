@@ -1,18 +1,22 @@
 name: miEPG
 
 on:
-  schedule:
-    - cron: '59 7,19 * * * ' # Ejecutar a las 7:59 y 19:59 UTC
+  # schedule:
+  #   - cron: '59 7,19 * * * ' # Ejecutar a las 7:59 y 19:59 UTC
+  repository_dispatch:
+    types: [trigger-desde-GAS] # Se activará instantáneamente cuando Google envíe este evento
   workflow_dispatch:
+
 permissions:
-   contents: write
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout del repositorio
-      uses: actions/checkout@v2
+      uses: actions/checkout@v4 # ACTUALIZADO desde v2: Evita fallos de Node.js y rendimiento
 
     - name: Comprobar e Instalar xmllint
       run: |
