@@ -86,6 +86,8 @@ M+ Acción HD,M+ Acción
 M+ Baloncesto,M+ Baloncesto
 M+ Baloncesto 2,M+ Baloncesto 2
 M+ Baloncesto 3,M+ Baloncesto 3
+M+ Baloncesto 4,M+ Baloncesto 4
+M+ Baloncesto 5,M+ Baloncesto 5
 M+ Cine Español,M+ Cine Español
 M+ Clásicos HD,M+ Clásicos
 M+ Comedia HD,M+ Comedia
