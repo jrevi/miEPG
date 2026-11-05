@@ -37,7 +37,7 @@ jobs:
     - name: Subir archivos 
       run: |
         git add .
-        git commit -m "Nuevo miEPG.xml"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        git diff --cached --quiet || (
+            git commit -m "Nuevo miEPG.xml" &&
+            git push
+        )
