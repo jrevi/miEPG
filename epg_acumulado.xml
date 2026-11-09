@@ -13886,8 +13886,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109185000 +0100" stop="20261109210400 +0100" channel="DAZN 1">
-    <title>DIRECTO Jornada 10: Atlético de Madrid - Badalona Women T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 10: Atlético de Madrid - Badalona Women</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -13895,9 +13895,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109210400 +0100" stop="20261109214300 +0100" channel="DAZN 1">
     <title>Decoded T2025 · Álex Márquez</title>
@@ -14145,7 +14142,7 @@
 	</programme>
 	<programme start="20261111145000 +0100" stop="20261111175000 +0100" channel="DAZN 1">
     <title>Iberian Supercars T2026 · Jerez - Carrera 1</title>
-    <sub-title>2026 | TP | ★9.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Automovilismo) Disfruta de las carreras de Iberian Supercars en el Circuito de Jerez.</desc>
     <category>Deportes, Automovilismo</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -14153,7 +14150,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>9.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111175000 +0100" stop="20261111180000 +0100" channel="DAZN 1">
@@ -14254,8 +14251,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261112130000 +0100" stop="20261112150200 +0100" channel="DAZN 1">
-    <title>Jornada 10: Atlético de Madrid - Badalona Women T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 10: Atlético de Madrid - Badalona Women</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -14263,9 +14260,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112150200 +0100" stop="20261112162300 +0100" channel="DAZN 1">
     <title>Moto4 Asia Cup T2026 · Malasia - Carrera 1</title>
@@ -15285,7 +15279,7 @@
 	</programme>
 	<programme start="20261113155300 +0100" stop="20261113182600 +0100" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 8: Manresa - Obradoiro T26/27 · Liga U</title>
-    <sub-title>2026 | TP | ★4.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15294,7 +15288,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113182600 +0100" stop="20261113222600 +0100" channel="DAZN Baloncesto">
@@ -15429,7 +15423,7 @@
 	</programme>
 	<programme start="20261113182300 +0100" stop="20261113205600 +0100" channel="DAZN Baloncesto 2">
     <title>DIRECTO Jornada 8: Bàsquet Girona - Fundación CB Canarias T26/27 · Liga U</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15437,6 +15431,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113205600 +0100" stop="20261114005600 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
@@ -15556,7 +15553,7 @@
 	</programme>
 	<programme start="20261113200700 +0100" stop="20261113224000 +0100" channel="DAZN Baloncesto 3">
     <title>DIRECTO Jornada 8: Joventut - Bilbao Basket T26/27 · Liga U</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15565,7 +15562,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113224000 +0100" stop="20261114024000 +0100" channel="DAZN Baloncesto 3">
@@ -15660,16 +15657,13 @@
 	</programme>
 	<programme start="20261109200200 +0100" stop="20261109220300 +0100" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Miami: Carrera</title>
-    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <sub-title>2023 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4098484" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109220300 +0100" stop="20261110001700 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Brasil T2026 · Carrera</title>
@@ -16316,13 +16310,16 @@
 	</programme>
 	<programme start="20261113140000 +0100" stop="20261113163000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Mónaco T2026 · Carrera</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4478778" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113163000 +0100" stop="20261113165000 +0100" channel="DAZN F1">
     <title>Código F1 T2026 · Mónaco</title>
@@ -16647,7 +16644,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109170000 +0100" stop="20261109183000 +0100" channel="DAZN LaLiga">
-    <title>DIRECTO Programa 13 T2 · La Dazoneta</title>
+    <title>La Dazoneta T2 · Programa 13</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio abierto para el debate, la información.
 · País: España</desc>
@@ -16761,7 +16758,7 @@
 		</rating>
 	</programme>
 	<programme start="20261109230000 +0100" stop="20261110003000 +0100" channel="DAZN LaLiga">
-    <title>Programa 13 T2 · La Dazoneta</title>
+    <title>La Dazoneta T2 · Programa 13</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio abierto para el debate, la información.
 · País: España</desc>
@@ -20801,7 +20798,7 @@
       <value>AGE228</value>
     </rating>
   </programme>
-	<programme start="20261109083000 +0100" stop="20261109110000 +0100" channel="Eurosport 1">
+	<programme start="20261109083400 +0100" stop="20261109110000 +0100" channel="Eurosport 1">
     <title>International Championship de snooker T26/27 · Final</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
@@ -20812,7 +20809,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109110000 +0100" stop="20261109120000 +0100" channel="Eurosport 1">
+	<programme start="20261109110000 +0100" stop="20261109120100 +0100" channel="Eurosport 1">
     <title>Juegos Olímpicos</title>
     <sub-title>2018 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un espacio que analiza la actualidad y recuerda el pasado del movimiento olímpico.</desc>
@@ -20825,7 +20822,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109120000 +0100" stop="20261109134500 +0100" channel="Eurosport 1">
+	<programme start="20261109120100 +0100" stop="20261109134900 +0100" channel="Eurosport 1">
     <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
@@ -20836,7 +20833,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109134500 +0100" stop="20261109143000 +0100" channel="Eurosport 1">
+	<programme start="20261109134900 +0100" stop="20261109143300 +0100" channel="Eurosport 1">
     <title>Europeo de Ciclocrós T2026 · Carrera élite F</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
@@ -20847,7 +20844,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109143000 +0100" stop="20261109153000 +0100" channel="Eurosport 1">
+	<programme start="20261109143300 +0100" stop="20261109153300 +0100" channel="Eurosport 1">
     <title>Europeo de Ciclocrós T2026 · Carrera élite M</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
@@ -20858,7 +20855,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109153000 +0100" stop="20261109173000 +0100" channel="Eurosport 1">
+	<programme start="20261109153300 +0100" stop="20261109173000 +0100" channel="Eurosport 1">
     <title>International Championship de snooker T26/27 · Final</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
@@ -20869,7 +20866,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109173000 +0100" stop="20261109183000 +0100" channel="Eurosport 1">
+	<programme start="20261109173000 +0100" stop="20261109183400 +0100" channel="Eurosport 1">
     <title>Juegos Olímpicos</title>
     <sub-title>2018 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un espacio que analiza la actualidad y recuerda el pasado del movimiento olímpico.</desc>
@@ -20882,7 +20879,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109183000 +0100" stop="20261109191500 +0100" channel="Eurosport 1">
+	<programme start="20261109183400 +0100" stop="20261109191800 +0100" channel="Eurosport 1">
     <title>Europeo de Ciclocrós T2026 · Carrera élite F</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
@@ -20893,7 +20890,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109191500 +0100" stop="20261109200000 +0100" channel="Eurosport 1">
+	<programme start="20261109191800 +0100" stop="20261109195900 +0100" channel="Eurosport 1">
     <title>Europeo de Ciclocrós T2026 · Carrera élite M</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
@@ -20904,7 +20901,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109200000 +0100" stop="20261109220000 +0100" channel="Eurosport 1">
+	<programme start="20261109195900 +0100" stop="20261109215900 +0100" channel="Eurosport 1">
     <title>International Championship de snooker T26/27 · Final</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
@@ -20915,7 +20912,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109220000 +0100" stop="20261110000000 +0100" channel="Eurosport 1">
+	<programme start="20261109215900 +0100" stop="20261110000300 +0100" channel="Eurosport 1">
     <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
@@ -20926,7 +20923,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110000000 +0100" stop="20261110013000 +0100" channel="Eurosport 1">
+	<programme start="20261110000300 +0100" stop="20261110013000 +0100" channel="Eurosport 1">
     <title>6 Horas de Imola - Mundial de resistencia de la FIA T2026 · Carrera</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Automovilismo) El FIA WEC regresa a la acción con las 6 Horas de Imola 2026. El legendario Autodromo Enzo e Dino Ferrari acoge una batalla de resistencia entre Hypercars y LMGT3, con Ferrari defendiendo su reinado ante Toyota, Cadillac y BMW.
@@ -21667,7 +21664,7 @@
 	</programme>
 	<programme start="20261112210000 +0100" stop="20261112220000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de salto ecuestre T26/27 · Verona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Hípica) Del 5 al 8 de noviembre llega la tercera parada de la Liga de Europa Occidental indoor a Verona. Los mejores binomios del planeta asumen el exigente CSI5-W en el Pala Range Rover en busca de puntos vitales hacia la gran final de 2027.
 · País: Italia</desc>
     <category>Deportes, Hípica</category>
@@ -21676,7 +21673,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112220000 +0100" stop="20261112233000 +0100" channel="Eurosport 1">
@@ -21932,7 +21929,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109083000 +0100" stop="20261109110000 +0100" channel="Eurosport 2">
+	<programme start="20261109083000 +0100" stop="20261109105900 +0100" channel="Eurosport 2">
     <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
@@ -21943,7 +21940,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109110000 +0100" stop="20261109120000 +0100" channel="Eurosport 2">
+	<programme start="20261109105900 +0100" stop="20261109115900 +0100" channel="Eurosport 2">
     <title>Europeo de Ciclocrós T2026 · Carrera élite M</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
@@ -21954,7 +21951,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109120000 +0100" stop="20261109143000 +0100" channel="Eurosport 2">
+	<programme start="20261109115900 +0100" stop="20261109142900 +0100" channel="Eurosport 2">
     <title>International Championship de snooker T26/27 · Final</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
@@ -21965,7 +21962,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109143000 +0100" stop="20261109164500 +0100" channel="Eurosport 2">
+	<programme start="20261109142900 +0100" stop="20261109164500 +0100" channel="Eurosport 2">
     <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
@@ -21998,7 +21995,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109183000 +0100" stop="20261109193000 +0100" channel="Eurosport 2">
+	<programme start="20261109183000 +0100" stop="20261109192600 +0100" channel="Eurosport 2">
     <title>Juegos Olímpicos</title>
     <sub-title>2018 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un espacio que analiza la actualidad y recuerda el pasado del movimiento olímpico.</desc>
@@ -22011,7 +22008,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109193000 +0100" stop="20261109220000 +0100" channel="Eurosport 2">
+	<programme start="20261109192600 +0100" stop="20261109220000 +0100" channel="Eurosport 2">
     <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
@@ -22022,7 +22019,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109220000 +0100" stop="20261109230000 +0100" channel="Eurosport 2">
+	<programme start="20261109220000 +0100" stop="20261109224700 +0100" channel="Eurosport 2">
     <title>Juegos Olímpicos</title>
     <sub-title>2018 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un espacio que analiza la actualidad y recuerda el pasado del movimiento olímpico.</desc>
@@ -22035,7 +22032,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109230000 +0100" stop="20261110000000 +0100" channel="Eurosport 2">
+	<programme start="20261109224700 +0100" stop="20261109234400 +0100" channel="Eurosport 2">
     <title>Tour de Francia - Resumen final 2026</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Un repaso a todo lo vivido en las carreteras galas durante el Tour de Francia de 2026. La gran cita del pelotón internacional volvió a atraer a los mejores ciclistas del planeta.
@@ -22049,7 +22046,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110000000 +0100" stop="20261110013000 +0100" channel="Eurosport 2">
+	<programme start="20261109234400 +0100" stop="20261110013000 +0100" channel="Eurosport 2">
     <title>Mundial de snooker T25/26 · Final: Shaun Murphy - Wu Yize</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Snooker) El Mundial, el torneo profesional más importante en términos de puntos y de ranking, pone el colofón a la temporada de snooker. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2025, el vencedor fue Zhao Xintong.
@@ -22181,20 +22178,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110173000 +0100" stop="20261110180000 +0100" channel="Eurosport 2">
-    <title>All Sports</title>
-    <sub-title>2019 | TP | ★5.2/10</sub-title>
-    <desc>(Deportes,Programa deportes) Un magazine en el que tiene cabida la información de cualquier tipo de deporte. Por supuesto, sin desestimar las competiciones menos conocidas por el gran público o las que son practicadas un poca gente.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P1630210" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>5.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261110180000 +0100" stop="20261110185500 +0100" channel="Eurosport 2">
+	<programme start="20261110173000 +0100" stop="20261110183000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
@@ -22205,7 +22189,33 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110185500 +0100" stop="20261110204500 +0100" channel="Eurosport 2">
+	<programme start="20261110183000 +0100" stop="20261110192500 +0100" channel="Eurosport 2">
+    <title>Copa del mundo de bicicleta de montaña - Resumen T2026 · Resumen de la temporada de descenso</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un repaso a los mejores momentos de la Copa del mundo de bicicleta de montaña.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4438233" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110192500 +0100" stop="20261110195500 +0100" channel="Eurosport 2">
+    <title>Her Voice, Her Game T2026 · 26/10/2026</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Puesta en valor de las trayectorias, las voces y las actuaciones de deportistas y figuras clave del mundo del deporte femenino.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4434292" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110195500 +0100" stop="20261110211500 +0100" channel="Eurosport 2">
     <title>DIRECTO Jornada 3: Barcelona - Ciudad Real T26/27 · ASOBAL</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
@@ -22219,18 +22229,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110204500 +0100" stop="20261110211500 +0100" channel="Eurosport 2">
-    <title>Europeo de Ciclocrós T2026 · Carrera élite F</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
-· País: Países Bajos</desc>
-    <category>Deportes, Ciclismo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441469" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261110211500 +0100" stop="20261110220000 +0100" channel="Eurosport 2">
+	<programme start="20261110211500 +0100" stop="20261110214500 +0100" channel="Eurosport 2">
     <title>Ciclismo T2026 · Criterium de Singapur</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Ciclismo) Esta carrera urbana reúne a grandes estrellas y velocistas del Tour de Francia en un circuito cerrado de 2.45 km, llevando la adrenalina y el espectáculo del ciclismo de élite al Sudeste Asiático. El italiano Jonathan Milan se impuso en 2025.
@@ -22241,18 +22240,27 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110220000 +0100" stop="20261110230000 +0100" channel="Eurosport 2">
-    <title>Juegos Olímpicos</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) Un espacio que analiza la actualidad y recuerda el pasado del movimiento olímpico.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P1383897" />
+	<programme start="20261110214500 +0100" stop="20261110221500 +0100" channel="Eurosport 2">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite F</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441469" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
+	</programme>
+	<programme start="20261110221500 +0100" stop="20261110230000 +0100" channel="Eurosport 2">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite M</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441471" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 	</programme>
 	<programme start="20261110230000 +0100" stop="20261111000000 +0100" channel="Eurosport 2">
     <title>Mundial de Resistencia de la FIA - Resumen T2026 · 6 Horas de Monza</title>
@@ -22650,7 +22658,7 @@
 	</programme>
 	<programme start="20261112220000 +0100" stop="20261112230000 +0100" channel="Eurosport 2">
     <title>UFC Countdown T2026 · Previa UFC 334</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) El auge de las artes marciales mixtas viene de la mano del UFC, un campeonato que aglutina a la mayoría de las estrellas de este deporte. Este espacio ofrece toda la información previa de los combates que están por venir.
 · País: Estados Unidos</desc>
     <category>Deportes, Programa deportes</category>
@@ -22658,6 +22666,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261112230000 +0100" stop="20261113003000 +0100" channel="Eurosport 2">
     <title>UFC Fight Night: Cortés-Acosta vs Walker T2026 · Main Card</title>
@@ -22799,9 +22810,9 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113180000 +0100" stop="20261113185500 +0100" channel="Eurosport 2">
+	<programme start="20261113180000 +0100" stop="20261113195500 +0100" channel="Eurosport 2">
     <title>Copa del mundo de salto ecuestre T26/27 · Verona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Hípica) Del 5 al 8 de noviembre llega la tercera parada de la Liga de Europa Occidental indoor a Verona. Los mejores binomios del planeta asumen el exigente CSI5-W en el Pala Range Rover en busca de puntos vitales hacia la gran final de 2027.
 · País: Italia</desc>
     <category>Deportes, Hípica</category>
@@ -22810,10 +22821,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113185500 +0100" stop="20261113204500 +0100" channel="Eurosport 2">
+	<programme start="20261113195500 +0100" stop="20261113214500 +0100" channel="Eurosport 2">
     <title>DIRECTO Jornada 9: Barcelona - Triana T26/27 · ASOBAL</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
@@ -22827,21 +22838,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113204500 +0100" stop="20261113220000 +0100" channel="Eurosport 2">
-    <title>Abierto de Inglaterra de snooker T26/27 · Ali Carter vs Mark Williams</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
-    <desc>(Deportes,Snooker) Las grandes estrellas del paño se miden en el Brentwood Centre de Essex. Todas ellas buscan relevar al ausente Mark Allen. Judd Trump y Kyren Wilson parten como favoritos, pero en el snooker nada está escrito.
-· País: Reino Unido</desc>
-    <category>Deportes, Snooker</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4399120" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261113220000 +0100" stop="20261113233000 +0100" channel="Eurosport 2">
+	<programme start="20261113214500 +0100" stop="20261113231500 +0100" channel="Eurosport 2">
     <title>Lo mejor de la UFC T2026 · 13/11/2026</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) El auge de las artes marciales mixtas viene de la mano del UFC, un campeonato que aglutina a la mayoría de las estrellas de este deporte. Este espacio repasa los mejores momentos de esta exigente competición.
@@ -22852,7 +22849,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113233000 +0100" stop="20261114000000 +0100" channel="Eurosport 2">
+	<programme start="20261113231500 +0100" stop="20261114000000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Crans Montana T25/26 · Descenso</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La estación suiza de Crans Montana acoge una nueva cita de la Copa del mundo esquí alpino. En la competición masculina, el evento cuenta con una prueba de descenso.
@@ -27271,8 +27268,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261109203000 +0100" stop="20261109223000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>Jornada 13: UD Las Palmas - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Las Palmas recibe al Eldense después de ganar 2-3 en el campo del Oviedo, un triunfo de mérito que evidencia su capacidad para resolver partidos abiertos. El Eldense necesita una respuesta tras perder 0-2 contra el Granada.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -27280,9 +27277,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109223000 +0100" stop="20261110010000 +0100" channel="LaLiga TV Hypermotion 2">
     <title>LALIGA TV HYPERMOTION 2</title>
@@ -27509,8 +27503,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261109180000 +0100" stop="20261109200000 +0100" channel="LaLiga TV Hypermotion">
-    <title>DIRECTO Jornada 13: UD Las Palmas - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Las Palmas recibe al Eldense después de ganar 2-3 en el campo del Oviedo, un triunfo de mérito que evidencia su capacidad para resolver partidos abiertos. El Eldense necesita una respuesta tras perder 0-2 contra el Granada.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -27518,9 +27512,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109200000 +0100" stop="20261109203000 +0100" channel="LaLiga TV Hypermotion">
     <title>Tiempo de revisión T26/27 E9</title>
@@ -27537,8 +27528,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109203000 +0100" stop="20261109223000 +0100" channel="LaLiga TV Hypermotion">
-    <title>DIRECTO Jornada 13: CE Sabadell - Real Sociedad B T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 13: CE Sabadell - Real Sociedad B</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Sabadell cierra la jornada ante su afición después de caer 2-1 en Albacete y buscará convertir la Nova Creu Alta en un impulso para reaccionar. La Real Sociedad B llega tras superar 1-0 al Girona y quiere dar continuidad a una victoria de valor.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -27546,9 +27537,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109223000 +0100" stop="20261109230000 +0100" channel="LaLiga TV Hypermotion">
     <title>Inside - El gran derbi</title>
@@ -27668,8 +27656,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261113183000 +0100" stop="20261113203000 +0100" channel="LaLiga TV Hypermotion">
-    <title>Jornada 13: CE Sabadell - Real Sociedad B T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LALIGA HYPERMOTION T26/27 · Jornada 13: CE Sabadell - Real Sociedad B</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Sabadell cierra la jornada ante su afición después de caer 2-1 en Albacete y buscará convertir la Nova Creu Alta en un impulso para reaccionar. La Real Sociedad B llega tras superar 1-0 al Girona y quiere dar continuidad a una victoria de valor.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -27677,9 +27665,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261113203000 +0100" stop="20261113223000 +0100" channel="LaLiga TV Hypermotion">
     <title>DIRECTO Jornada 14: CD Leganés - Burgos T26/27 · LALIGA HYPERMOTION</title>
@@ -27697,7 +27682,7 @@
 	</programme>
 	<programme start="20261113223000 +0100" stop="20261113230000 +0100" channel="LaLiga TV Hypermotion">
     <title>Tiempo de revisión T26/27 E10</title>
-    <sub-title>2026 | TP | ★3.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Análisis de jugadas de Primera y Segunda División por parte del Comité Técnico de Árbitros.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -27706,7 +27691,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>3.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113230000 +0100" stop="20261114010000 +0100" channel="LaLiga TV Hypermotion">
@@ -32545,7 +32530,7 @@
     <desc>(Entretenimiento,Humor) El cómico y actor Druski debuta como presentador en SNL. Su nueva comedia de ficción. La banda de rock neoyorquina, The Strokes, hacen su quinta aparición como invitados musicales.
 · País: Estados Unidos</desc>
     <category>Entretenimiento, Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504245" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4517085" />
 		<rating system="ES">
 			<value>7</value>
 		</rating>
@@ -32713,7 +32698,7 @@
     <desc>(Entretenimiento,Humor) El cómico y actor Druski debuta como presentador en SNL. Su nueva comedia de ficción. La banda de rock neoyorquina, The Strokes, hacen su quinta aparición como invitados musicales.
 · País: Estados Unidos</desc>
     <category>Entretenimiento, Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504245" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4517085" />
 		<rating system="ES">
 			<value>7</value>
 		</rating>
@@ -35466,7 +35451,7 @@
     <desc>(Entretenimiento,Humor) El cómico y actor Druski debuta como presentador en SNL. Su nueva comedia de ficción. La banda de rock neoyorquina, The Strokes, hacen su quinta aparición como invitados musicales.
 · País: Estados Unidos</desc>
     <category>Entretenimiento, Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504245" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4517085" />
 		<rating system="ES">
 			<value>7</value>
 		</rating>
@@ -38157,7 +38142,7 @@
 	</programme>
 	<programme start="20261109210000 +0100" stop="20261109222500 +0100" channel="M+ Estrenos">
     <title>Hermanos</title>
-    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
     <desc>(Cine,Comedia dramática) Ayman, junto a sus amigos Eric y Rober, inicia un viaje hacia la zona alta de Barcelona para asistir a una fiesta. En el camino, los tres afrontan tensiones sociales, dudas personales y desafíos que amenazan tanto sus metas como su amistad.
 · País: Bélgica, España y México
 · Dirección: Carol Rodríguez Colás, Marina Rodríguez Colás.
@@ -38168,7 +38153,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.6/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261109222500 +0100" stop="20261110000400 +0100" channel="M+ Estrenos">
@@ -39762,7 +39747,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110215500 +0100" stop="20261111005500 +0100" channel="M+ Golf">
+	<programme start="20261110215500 +0100" stop="20261111001500 +0100" channel="M+ Golf">
     <title>PGA Tour T2026 · World Wide Technology Championship. Jornada 4</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) El primer campo diseñado por Tiger Woods, El Cardonal en Diamante Resort, en Los Cabos (Mexico) acoge un previsible festival de birdies con calles anchas y gigantescos greenes de paspalum. Ben Griffin defiende título ante jóvenes como Koivun.</desc>
@@ -39772,7 +39757,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261111005500 +0100" stop="20261111080000 +0100" channel="M+ Golf">
+	<programme start="20261111001500 +0100" stop="20261111080000 +0100" channel="M+ Golf">
     <title>M+ Golf</title>
     <sub-title>★6.0/10</sub-title>
     <desc>(Sin clasificar,SIN CLASIFICAR) M+ Golf.</desc>
@@ -40138,7 +40123,7 @@
 	</programme>
 	<programme start="20261113200000 +0100" stop="20261113230000 +0100" channel="M+ Golf">
     <title>DIRECTO Austin Championship. Jornada 2 T2026 · PGA Tour</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Golf) Los mejores jugadores del mundo afrontan una jornada más en el PGA TOUR rumbo a los playoffs de la FedEx Cup, donde espera un bonus de 10 millones de dólares para el profesional más regular de la temporada.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515944" />
@@ -40146,7 +40131,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113230000 +0100" stop="20261113233000 +0100" channel="M+ Golf">
@@ -42906,7 +42891,7 @@
 	</programme>
 	<programme start="20261109115700 +0100" stop="20261109120900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -42914,13 +42899,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109120900 +0100" stop="20261109122100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -42928,13 +42910,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109122100 +0100" stop="20261109123400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -42942,9 +42921,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109123400 +0100" stop="20261109124600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -42981,7 +42957,7 @@
 	</programme>
 	<programme start="20261109131100 +0100" stop="20261109132300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -42989,9 +42965,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109132300 +0100" stop="20261109133500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -43017,7 +42990,7 @@
 	</programme>
 	<programme start="20261109134800 +0100" stop="20261109140300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43025,9 +42998,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109140300 +0100" stop="20261109155300 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
@@ -43082,7 +43052,7 @@
 	</programme>
 	<programme start="20261109195700 +0100" stop="20261109201000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43090,13 +43060,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109201000 +0100" stop="20261109202200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43104,13 +43071,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109202200 +0100" stop="20261109203400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43118,9 +43082,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109203400 +0100" stop="20261109204600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -43157,7 +43118,7 @@
 	</programme>
 	<programme start="20261109211100 +0100" stop="20261109212300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43165,9 +43126,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109212300 +0100" stop="20261109213600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -43193,7 +43151,7 @@
 	</programme>
 	<programme start="20261109214800 +0100" stop="20261109220300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43201,9 +43159,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109220300 +0100" stop="20261109232000 +0100" channel="M+ LaLiga">
     <title>DeportePlus con Juanma Castaño T26/27 · 08/11/2026</title>
@@ -43277,7 +43232,7 @@
 	</programme>
 	<programme start="20261110050500 +0100" stop="20261110051700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43285,13 +43240,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110051700 +0100" stop="20261110053000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43299,13 +43251,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110053000 +0100" stop="20261110054200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43313,9 +43262,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110054200 +0100" stop="20261110055400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -43352,7 +43298,7 @@
 	</programme>
 	<programme start="20261110061900 +0100" stop="20261110063100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43360,9 +43306,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110063100 +0100" stop="20261110064300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -43388,7 +43331,7 @@
 	</programme>
 	<programme start="20261110065600 +0100" stop="20261110070900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43396,9 +43339,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110070900 +0100" stop="20261110080000 +0100" channel="M+ LaLiga">
     <title>Soy Leyenda T1 · Roberto Carlos</title>
@@ -43597,7 +43537,7 @@
 	</programme>
 	<programme start="20261110155500 +0100" stop="20261110160700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43605,13 +43545,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110160700 +0100" stop="20261110161900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43619,13 +43556,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110161900 +0100" stop="20261110163100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43633,9 +43567,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110163100 +0100" stop="20261110164300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -43672,7 +43603,7 @@
 	</programme>
 	<programme start="20261110170700 +0100" stop="20261110171900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43680,9 +43611,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110171900 +0100" stop="20261110173100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -43708,7 +43636,7 @@
 	</programme>
 	<programme start="20261110174300 +0100" stop="20261110180000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43716,9 +43644,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110180000 +0100" stop="20261110185000 +0100" channel="M+ LaLiga">
     <title>Los Otros T5 · 13 Puntos</title>
@@ -43750,7 +43675,7 @@
 	</programme>
 	<programme start="20261110205000 +0100" stop="20261110225000 +0100" channel="M+ LaLiga">
     <title>DIRECTO Primera Ronda: Tavernes - Valencia T26/27 · Copa del Rey Mapfre</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El UE Tavernes de la Valldigna recibe al Valencia CF en el Camp Municipal por los 1/64 de final de la Copa del Rey. El club de la Safor pertenece a la Lliga Comunitat FFCV y está en la primera ronda copera tras vencer a la UD Maracena en la ronda previa.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43759,7 +43684,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110225000 +0100" stop="20261111000500 +0100" channel="M+ LaLiga">
@@ -43817,7 +43742,7 @@
 	</programme>
 	<programme start="20261111030000 +0100" stop="20261111031200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43825,13 +43750,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111031200 +0100" stop="20261111032400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43839,13 +43761,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111032400 +0100" stop="20261111033600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43853,9 +43772,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111033600 +0100" stop="20261111034800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -43892,7 +43808,7 @@
 	</programme>
 	<programme start="20261111041200 +0100" stop="20261111042400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43900,9 +43816,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111042400 +0100" stop="20261111043600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -43928,7 +43841,7 @@
 	</programme>
 	<programme start="20261111044800 +0100" stop="20261111050500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43936,9 +43849,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111050500 +0100" stop="20261111065500 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
@@ -43992,7 +43902,7 @@
 	</programme>
 	<programme start="20261111100000 +0100" stop="20261111101200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44000,13 +43910,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111101200 +0100" stop="20261111102400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44014,13 +43921,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111102400 +0100" stop="20261111103600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44028,9 +43932,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111103600 +0100" stop="20261111104800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -44067,7 +43968,7 @@
 	</programme>
 	<programme start="20261111111200 +0100" stop="20261111112400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44075,9 +43976,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111112400 +0100" stop="20261111113600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -44103,7 +44001,7 @@
 	</programme>
 	<programme start="20261111114800 +0100" stop="20261111120500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44111,9 +44009,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111120500 +0100" stop="20261111132000 +0100" channel="M+ LaLiga">
     <title>DeportePlus con Juanma Castaño T26/27 · 08/11/2026</title>
@@ -44610,7 +44505,7 @@
 	</programme>
 	<programme start="20261112164500 +0100" stop="20261112165700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44618,13 +44513,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112165700 +0100" stop="20261112170900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44632,13 +44524,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112170900 +0100" stop="20261112172100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44646,9 +44535,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112172100 +0100" stop="20261112173300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -44685,7 +44571,7 @@
 	</programme>
 	<programme start="20261112175700 +0100" stop="20261112180900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44693,9 +44579,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112180900 +0100" stop="20261112182100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -44721,7 +44604,7 @@
 	</programme>
 	<programme start="20261112183300 +0100" stop="20261112185000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44729,9 +44612,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112185000 +0100" stop="20261112205000 +0100" channel="M+ LaLiga">
     <title>DIRECTO Primera Ronda: Navalcarnero - Betis T26/27 · Copa del Rey Mapfre</title>
@@ -44774,7 +44654,7 @@
 	</programme>
 	<programme start="20261112231000 +0100" stop="20261112232200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44782,13 +44662,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112232200 +0100" stop="20261112233400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44796,13 +44673,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112233400 +0100" stop="20261112234600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44810,9 +44684,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112234600 +0100" stop="20261112235800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
@@ -44849,7 +44720,7 @@
 	</programme>
 	<programme start="20261113002200 +0100" stop="20261113003400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44857,9 +44728,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261113003400 +0100" stop="20261113004600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
@@ -44885,7 +44753,7 @@
 	</programme>
 	<programme start="20261113005800 +0100" stop="20261113011500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44893,9 +44761,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261113011500 +0100" stop="20261113030500 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
@@ -44995,7 +44860,7 @@
 	</programme>
 	<programme start="20261113105500 +0100" stop="20261113125000 +0100" channel="M+ LaLiga">
     <title>Primera Ronda: Tavernes - Valencia T26/27 · Copa del Rey Mapfre</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El UE Tavernes de la Valldigna recibe al Valencia CF en el Camp Municipal por los 1/64 de final de la Copa del Rey. El club de la Safor pertenece a la Lliga Comunitat FFCV y está en la primera ronda copera tras vencer a la UD Maracena en la ronda previa.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45004,7 +44869,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113125000 +0100" stop="20261113131000 +0100" channel="M+ LaLiga">
@@ -45727,8 +45592,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109183000 +0100" stop="20261109200000 +0100" channel="M+ Liga de Campeones">
-    <title>DIRECTO T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -45738,7 +45603,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261109200000 +0100" stop="20261109220000 +0100" channel="M+ Liga de Campeones">
@@ -45767,8 +45632,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109223000 +0100" stop="20261110000000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -45778,7 +45643,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110000000 +0100" stop="20261110020000 +0100" channel="M+ Liga de Campeones">
@@ -45818,8 +45683,8 @@
 		</rating>
 	</programme>
 	<programme start="20261110043000 +0100" stop="20261110060000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -45829,7 +45694,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110060000 +0100" stop="20261110063000 +0100" channel="M+ Liga de Campeones">
@@ -45872,8 +45737,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261110085000 +0100" stop="20261110102000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -45883,7 +45748,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110102000 +0100" stop="20261110121000 +0100" channel="M+ Liga de Campeones">
@@ -45934,8 +45799,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261110162000 +0100" stop="20261110175000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -45945,7 +45810,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110175000 +0100" stop="20261110194000 +0100" channel="M+ Liga de Campeones">
@@ -46010,8 +45875,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261111012000 +0100" stop="20261111025000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -46021,7 +45886,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111025000 +0100" stop="20261111044000 +0100" channel="M+ Liga de Campeones">
@@ -46103,8 +45968,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261111123000 +0100" stop="20261111140000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -46114,7 +45979,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111140000 +0100" stop="20261111143000 +0100" channel="M+ Liga de Campeones">
@@ -46295,8 +46160,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261112110000 +0100" stop="20261112123000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -46306,7 +46171,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112123000 +0100" stop="20261112143000 +0100" channel="M+ Liga de Campeones">
@@ -46418,8 +46283,8 @@
 		</rating>
 	</programme>
 	<programme start="20261113030000 +0100" stop="20261113043000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -46429,7 +46294,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113043000 +0100" stop="20261113063000 +0100" channel="M+ Liga de Campeones">
@@ -46516,8 +46381,8 @@
 		</rating>
 	</programme>
 	<programme start="20261113140000 +0100" stop="20261113153000 +0100" channel="M+ Liga de Campeones">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -46527,7 +46392,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113153000 +0100" stop="20261113160000 +0100" channel="M+ Liga de Campeones">
@@ -46927,7 +46792,7 @@
 	</programme>
 	<programme start="20261109233000 +0100" stop="20261110000000 +0100" channel="M+ Originales">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -46937,12 +46802,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110000000 +0100" stop="20261110013000 +0100" channel="M+ Originales">
-    <title>DIRECTO T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -46952,7 +46817,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110013000 +0100" stop="20261110022800 +0100" channel="M+ Originales">
@@ -47313,8 +47178,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261110165200 +0100" stop="20261110182700 +0100" channel="M+ Originales">
-    <title>DIRECTO T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -47324,7 +47189,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110182700 +0100" stop="20261110193200 +0100" channel="M+ Originales">
@@ -47409,7 +47274,7 @@
 	</programme>
 	<programme start="20261110230200 +0100" stop="20261110233000 +0100" channel="M+ Originales">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -47419,7 +47284,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110233000 +0100" stop="20261111000000 +0100" channel="M+ Originales">
@@ -47485,7 +47350,7 @@
 	</programme>
 	<programme start="20261111023100 +0100" stop="20261111023500 +0100" channel="M+ Originales">
     <title>Bakalá express T26/27 E9</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
 · País: España
 · Presenta: Raúl Pérez.</desc>
@@ -47495,7 +47360,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111023500 +0100" stop="20261111030500 +0100" channel="M+ Originales">
@@ -49060,8 +48925,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109185000 +0100" stop="20261109210000 +0100" channel="M+ Vamos 2">
-    <title>DIRECTO Jornada 10: Atlético de Madrid - Badalona Women T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 10: Atlético de Madrid - Badalona Women</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -49069,9 +48934,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109210000 +0100" stop="20261110070000 +0100" channel="M+ Vamos 2">
     <title>M+ Vamos 2</title>
@@ -49678,8 +49540,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109183000 +0100" stop="20261109200000 +0100" channel="M+ Vamos">
-    <title>DIRECTO T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -49689,7 +49551,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261109200000 +0100" stop="20261109210000 +0100" channel="M+ Vamos">
@@ -49849,8 +49711,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261110094500 +0100" stop="20261110111500 +0100" channel="M+ Vamos">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -49860,7 +49722,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110111500 +0100" stop="20261110121500 +0100" channel="M+ Vamos">
@@ -51188,7 +51050,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109210000 +0100" stop="20261109220700 +0100" channel="Movistar Plus">
-    <title>T26/27 E10 · El día después</title>
+    <title>DIRECTO T26/27 E10 · El día después</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) 'El Día Después', uno de nuestros grandes clásicos, que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
 · País: España
@@ -51204,7 +51066,7 @@
 	</programme>
 	<programme start="20261109220700 +0100" stop="20261109223500 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -51214,12 +51076,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261109223500 +0100" stop="20261110001500 +0100" channel="Movistar Plus">
     <title>9 lunas</title>
-    <sub-title>2026 | ⑫ | ★6.8/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Cine,Comedia dramática) Ángel es un atractivo entrenador personal al que la vida le da un vuelco cuando descubre que está embarazado. Es un hombre trans al que sólo le faltaba un último paso para completar su transición. Ahora se pone a prueba su identidad y sus sueños.
 · País: Bélgica y España
 · Dirección: Patricia Ortega.
@@ -51230,7 +51092,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110001500 +0100" stop="20261110014300 +0100" channel="Movistar Plus">
@@ -51254,8 +51116,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261110014300 +0100" stop="20261110031800 +0100" channel="Movistar Plus">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -51265,7 +51127,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110031800 +0100" stop="20261110034800 +0100" channel="Movistar Plus">
@@ -51340,8 +51202,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261110080000 +0100" stop="20261110093200 +0100" channel="Movistar Plus">
-    <title>T26/27 E10 · El tercer tiempo</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>El tercer tiempo T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa de análisis de toda la jornada liguera, dirigido por José Sanchis, que echa un vistazo a lo mejor del fútbol internacional de la mano de Axel Torres.
 · País: España
 · Presenta: Julio Maldonado, Axel Torres, José Sanchís, Joaquín Ramos Marcos.</desc>
@@ -51351,7 +51213,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110093200 +0100" stop="20261110112000 +0100" channel="Movistar Plus">
@@ -51481,7 +51343,7 @@
 	</programme>
 	<programme start="20261110210200 +0100" stop="20261110213000 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -51491,7 +51353,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110213000 +0100" stop="20261110220200 +0100" channel="Movistar Plus">
@@ -51563,7 +51425,7 @@
 	</programme>
 	<programme start="20261111015200 +0100" stop="20261111024700 +0100" channel="Movistar Plus">
     <title>Negocios turbios T1 E3 · El denunciante</title>
-    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.6/10</sub-title>
     <desc>(Series,Drama) La investigación alcanza un punto decisivo cuando las evidencias acumuladas sacan a la luz años de negligencias y encubrimientos. Mientras las víctimas buscan justicia, los responsables tratan de protegerse.
 · País: Reino Unido
 · Reparto: David Thewlis, Jason Watkins, Posy Sterling, Tom McKay, Alex Jennings, Asim Chaudhry, Alice Lowe, Chanel Cresswell.</desc>
@@ -51573,7 +51435,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111024700 +0100" stop="20261111040800 +0100" channel="Movistar Plus">
@@ -52494,7 +52356,7 @@
 	</programme>
 	<programme start="20261113201500 +0100" stop="20261113221500 +0100" channel="Movistar Plus">
     <title>Jornada 11: Panathinaikos - FC Barcelona T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -52503,7 +52365,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113221500 +0100" stop="20261114001500 +0100" channel="Movistar Plus">
@@ -56628,7 +56490,7 @@
 	</programme>
 	<programme start="20261109190000 +0100" stop="20261109211500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Teruel - Ibiza</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -56636,9 +56498,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109211500 +0100" stop="20261109230000 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Villarreal B - Juventud Torremolinos</title>
@@ -59994,7 +59853,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110053600 +0100" stop="20261110060000 +0100" channel="SkyShowtime">
+	<programme start="20261110053600 +0100" stop="20261110060200 +0100" channel="SkyShowtime">
     <title>The Office T9 E15 · Descuento para parejas</title>
     <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Todos intentan conseguir descuentos de parejas en el centro comercial. Erin quiere cortar con Andy.
@@ -60010,7 +59869,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110060000 +0100" stop="20261110062000 +0100" channel="SkyShowtime">
+	<programme start="20261110060200 +0100" stop="20261110062700 +0100" channel="SkyShowtime">
     <title>La Patrulla Canina T1 E2 · La Patrulla Salva a las Tortugas Marinas; La Patrulla y el Bebé de Ballena</title>
     <sub-title>2013 | TP | ★6.4/10</sub-title>
     <desc>(Infantil,Dibujos animados) Ryder, Chase y Rubble ayudan a unas crías de tortugas marinas. La patrulla ayuda a una ballena bebé.
@@ -60028,13 +59887,13 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110062000 +0100" stop="20261110064000 +0100" channel="SkyShowtime">
+	<programme start="20261110062700 +0100" stop="20261110065000 +0100" channel="SkyShowtime">
     <title>La Patrulla Canina T1 E3 · Una Catástrofe Gatuna; La Patrulla Salva un Tren</title>
     <sub-title>2013 | TP | ★6.2/10</sub-title>
     <desc>(Infantil,Dibujos animados) Ryder y el equipo rescatan a una gatita perdida. Ryder, Rubble y Rocky ayudan a liberar un tren.
 · País: Canadá y Estados Unidos
 · Dirección: Jamie Whitney.
-· Reparto: Gabriela Milani, Ítalo Luiz, Christian Distefano, Drew Davis, Ron Pardo, Devan Cohen, Kallan Holley, Owen Mason, Peter Cugno, Alex Thorne.
+· Reparto: Gabriela Milani, Ítalo Luiz, Tristan Samuel, Christian Distefano, Drew Davis, Ron Pardo, Devan Cohen, Kallan Holley, Owen Mason, Peter Cugno, Alex Thorne.
 · Guion: Kim Duran, Ursula Ziegler-Sullivan, Franklin Young.
 · Productora: Nickelodeon Productions, Guru Studio, Ronnen Harary, Spin Master Entertainment, Viacom, TVOntario, Keith Chapman, Spin Master Studios.</desc>
     <category>Infantil, Dibujos animados</category>
@@ -60046,7 +59905,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110064000 +0100" stop="20261110070500 +0100" channel="SkyShowtime">
+	<programme start="20261110065000 +0100" stop="20261110071200 +0100" channel="SkyShowtime">
     <title>Abby Hatcher T1 E7 · Curly y la muñeca de trapo; En el parque</title>
     <sub-title>2018 | TP | ★5.8/10</sub-title>
     <desc>(Infantil,Dibujos animados) Algo deja un mal olor; la princesa Flug no quiere ensuciarse en el parque.
@@ -60062,7 +59921,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110070500 +0100" stop="20261110073000 +0100" channel="SkyShowtime">
+	<programme start="20261110071200 +0100" stop="20261110073500 +0100" channel="SkyShowtime">
     <title>Abby Hatcher T1 E8 · Cuando Abby conoció a Bozzly; ¡A cortar!</title>
     <sub-title>2018 | TP | ★6.0/10</sub-title>
     <desc>(Infantil,Dibujos animados) Abby conoce a la mejor amiga perfecta; Harriet no sabe qué hacer cuando cierra el salón.
@@ -60078,7 +59937,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110073000 +0100" stop="20261110075500 +0100" channel="SkyShowtime">
+	<programme start="20261110073500 +0100" stop="20261110075900 +0100" channel="SkyShowtime">
     <title>Bubble Guppies T2 E20 · Los Geniales Gambinis</title>
     <sub-title>2012 | TP | ★6.0/10</sub-title>
     <desc>(Infantil,Dibujos animados) Gil quiere cortarse el pelo para estar guapo el día de la foto del colegio, exactamente igual que todos los demás.
@@ -60096,7 +59955,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110075500 +0100" stop="20261110082000 +0100" channel="SkyShowtime">
+	<programme start="20261110075900 +0100" stop="20261110082600 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T3 E16 · Los ratones domésticos</title>
     <sub-title>2015 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) Hitchcock y Scully intentan demostrar su valía entrometiéndose en uno de los casos más importantes de Jake.
@@ -60113,7 +59972,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110082000 +0100" stop="20261110084500 +0100" channel="SkyShowtime">
+	<programme start="20261110082600 +0100" stop="20261110084700 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T3 E17 · Adrian Pimento</title>
     <sub-title>2015 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Un detective psicológicamente inestable regresa a la comisaría tras haber pasado años trabajando de incógnito.
@@ -60130,7 +59989,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110084500 +0100" stop="20261110091000 +0100" channel="SkyShowtime">
+	<programme start="20261110084700 +0100" stop="20261110091300 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T3 E18 · Cheddar</title>
     <sub-title>2015 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) El perro de Holt desaparece mientras Amy y Jake están al cuidado de su casa durante el viaje de Holt a París.
@@ -60147,7 +60006,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110091000 +0100" stop="20261110095500 +0100" channel="SkyShowtime">
+	<programme start="20261110091300 +0100" stop="20261110095800 +0100" channel="SkyShowtime">
     <title>Impostores T1 E2 · Mis huevos, capullo</title>
     <sub-title>2017 | ⑦ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Maddie, en su intento de seducir a su última víctima, se siente atraída por el misterioso Patrick.
@@ -60165,7 +60024,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110095500 +0100" stop="20261110102000 +0100" channel="SkyShowtime">
+	<programme start="20261110095800 +0100" stop="20261110102200 +0100" channel="SkyShowtime">
     <title>Young Rock T1 E3 · Juntos hacia adelante</title>
     <sub-title>2021 | ⑫ | ★6.6/10</sub-title>
     <desc>(Series,Comedia) Lia empieza a sospechar de un promotor rival cuando algunos luchadores se retiran del Battle Royal.
@@ -60179,7 +60038,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110102000 +0100" stop="20261110105000 +0100" channel="SkyShowtime">
+	<programme start="20261110102200 +0100" stop="20261110105300 +0100" channel="SkyShowtime">
     <title>Young Rock T1 E4 · Piénsalo bien</title>
     <sub-title>2021 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) Dwayne aspira a entrar en la alineación titular como debutante en un famoso equipo de fútbol americano universitario.
@@ -60193,7 +60052,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110105000 +0100" stop="20261110111500 +0100" channel="SkyShowtime">
+	<programme start="20261110105300 +0100" stop="20261110112000 +0100" channel="SkyShowtime">
     <title>The Office T9 E13 · Auxiliar de ventas</title>
     <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Dwight obliga a Clark a competir por el puesto de Jim. Erin busca a sus padres biológicos.
@@ -60209,7 +60068,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110111500 +0100" stop="20261110114000 +0100" channel="SkyShowtime">
+	<programme start="20261110112000 +0100" stop="20261110114400 +0100" channel="SkyShowtime">
     <title>The Office T9 E14 · Vandalismo</title>
     <sub-title>2013 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) El mural del almacén de Pam aparece pintarrajeado. Darryl tiene problemas con las manías de Jim.
@@ -60225,7 +60084,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110114000 +0100" stop="20261110120500 +0100" channel="SkyShowtime">
+	<programme start="20261110114400 +0100" stop="20261110120800 +0100" channel="SkyShowtime">
     <title>The Office T9 E15 · Descuento para parejas</title>
     <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Todos intentan conseguir descuentos de parejas en el centro comercial. Erin quiere cortar con Andy.
@@ -60241,7 +60100,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110120500 +0100" stop="20261110123000 +0100" channel="SkyShowtime">
+	<programme start="20261110120800 +0100" stop="20261110123100 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T3 E16 · Los ratones domésticos</title>
     <sub-title>2015 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) Hitchcock y Scully intentan demostrar su valía entrometiéndose en uno de los casos más importantes de Jake.
@@ -60258,7 +60117,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110123000 +0100" stop="20261110125500 +0100" channel="SkyShowtime">
+	<programme start="20261110123100 +0100" stop="20261110125700 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T3 E17 · Adrian Pimento</title>
     <sub-title>2015 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Un detective psicológicamente inestable regresa a la comisaría tras haber pasado años trabajando de incógnito.
@@ -60275,7 +60134,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110125500 +0100" stop="20261110132000 +0100" channel="SkyShowtime">
+	<programme start="20261110125700 +0100" stop="20261110132300 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T3 E18 · Cheddar</title>
     <sub-title>2015 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) El perro de Holt desaparece mientras Amy y Jake están al cuidado de su casa durante el viaje de Holt a París.
@@ -60292,7 +60151,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110132000 +0100" stop="20261110141000 +0100" channel="SkyShowtime">
+	<programme start="20261110132300 +0100" stop="20261110141200 +0100" channel="SkyShowtime">
     <title>Impostores T1 E2 · Mis huevos, capullo</title>
     <sub-title>2017 | ⑦ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Maddie, en su intento de seducir a su última víctima, se siente atraída por el misterioso Patrick.
@@ -60310,7 +60169,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110141000 +0100" stop="20261110143500 +0100" channel="SkyShowtime">
+	<programme start="20261110141200 +0100" stop="20261110143900 +0100" channel="SkyShowtime">
     <title>Young Rock T1 E3 · Juntos hacia adelante</title>
     <sub-title>2021 | ⑫ | ★6.6/10</sub-title>
     <desc>(Series,Comedia) Lia empieza a sospechar de un promotor rival cuando algunos luchadores se retiran del Battle Royal.
@@ -60324,7 +60183,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110143500 +0100" stop="20261110150500 +0100" channel="SkyShowtime">
+	<programme start="20261110143900 +0100" stop="20261110150800 +0100" channel="SkyShowtime">
     <title>Young Rock T1 E4 · Piénsalo bien</title>
     <sub-title>2021 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) Dwayne aspira a entrar en la alineación titular como debutante en un famoso equipo de fútbol americano universitario.
@@ -60338,7 +60197,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110150500 +0100" stop="20261110170500 +0100" channel="SkyShowtime">
+	<programme start="20261110150800 +0100" stop="20261110170900 +0100" channel="SkyShowtime">
     <title>A pesar de ti</title>
     <sub-title>2025 | ⑫ | ★6.2/10</sub-title>
     <desc>(Cine,Drama) Una madre y su hija se enfrentan a las consecuencias de un accidente que revela una traición.
@@ -60358,7 +60217,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110170500 +0100" stop="20261110173500 +0100" channel="SkyShowtime">
+	<programme start="20261110170900 +0100" stop="20261110173800 +0100" channel="SkyShowtime">
     <title>The Office T9 E16 · Hay que superarlo 1ª Parte</title>
     <sub-title>2013 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) Wallace descubre que Andy estuvo fuera varios meses. Dwight le pide a Angela ayuda con su tía.
@@ -60374,7 +60233,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110173500 +0100" stop="20261110180000 +0100" channel="SkyShowtime">
+	<programme start="20261110173800 +0100" stop="20261110180400 +0100" channel="SkyShowtime">
     <title>The Office T9 E17 · Hay que superarlo 2a Parte</title>
     <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Una entrevista hace que Pam se acuerde de Michael y Nellie lleva a Toby a visitar al estrangulador de Scranton.
@@ -60390,7 +60249,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110180000 +0100" stop="20261110182500 +0100" channel="SkyShowtime">
+	<programme start="20261110180400 +0100" stop="20261110182800 +0100" channel="SkyShowtime">
     <title>The Office T9 E18 · La granja</title>
     <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Dwight lleva a Oscar a un funeral de la familia. Pam desconfía de los gestos amables de Todd Packer.
@@ -60406,7 +60265,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110182500 +0100" stop="20261110191000 +0100" channel="SkyShowtime">
+	<programme start="20261110182800 +0100" stop="20261110191200 +0100" channel="SkyShowtime">
     <title>Suits T6 E4 · Giro</title>
     <sub-title>2016 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Mike contempla un trato que podría ayudar a reducir su condena.
@@ -60422,7 +60281,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110191000 +0100" stop="20261110201500 +0100" channel="SkyShowtime">
+	<programme start="20261110191200 +0100" stop="20261110201700 +0100" channel="SkyShowtime">
     <title>Star Trek: Academia de la Flota Estelar T1 E8 · La vida de las estrellas</title>
     <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Ciencia ficción) Un instructor externo ayuda a los cadetes a controlar sus emociones para convertirse en oficiales de la Flota Estelar.
@@ -60441,7 +60300,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110201500 +0100" stop="20261110210000 +0100" channel="SkyShowtime">
+	<programme start="20261110201700 +0100" stop="20261110210100 +0100" channel="SkyShowtime">
     <title>Un caballero en Moscú T1 E6 · La caída</title>
     <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) El Conde arriesga su vida para salvar a un ser querido; Anna debe enfrentarse a sus verdaderos sentimientos.
@@ -60458,7 +60317,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110210000 +0100" stop="20261110215000 +0100" channel="SkyShowtime">
+	<programme start="20261110210100 +0100" stop="20261110215300 +0100" channel="SkyShowtime">
     <title>Tulsa King T4 E3 · Cese y desistimiento</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Dwight contraataca cuando el gobernador Clark le pone en el punto de mira a él y a su banda.
@@ -60472,7 +60331,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110215000 +0100" stop="20261110233500 +0100" channel="SkyShowtime">
+	<programme start="20261110215300 +0100" stop="20261110233700 +0100" channel="SkyShowtime">
     <title>La trama fenicia</title>
     <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Cine,Acción) Un empresario y su hija se convierten en el blanco de magnates, terroristas y asesinos.
@@ -60492,7 +60351,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110233500 +0100" stop="20261111002500 +0100" channel="SkyShowtime">
+	<programme start="20261110233700 +0100" stop="20261111002700 +0100" channel="SkyShowtime">
     <title>Lazos mortales Temporada 2 T2 E5</title>
     <sub-title>2026 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Drama) Bastian encuentra una pista que pone en tela de juicio las conclusiones de la policía; Anka hace nuevas averiguaciones.
@@ -60506,7 +60365,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111002500 +0100" stop="20261111011000 +0100" channel="SkyShowtime">
+	<programme start="20261111002700 +0100" stop="20261111011300 +0100" channel="SkyShowtime">
     <title>Suits T6 E4 · Giro</title>
     <sub-title>2016 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Mike contempla un trato que podría ayudar a reducir su condena.
@@ -60522,7 +60381,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111011000 +0100" stop="20261111021500 +0100" channel="SkyShowtime">
+	<programme start="20261111011300 +0100" stop="20261111021700 +0100" channel="SkyShowtime">
     <title>Star Trek: Academia de la Flota Estelar T1 E8 · La vida de las estrellas</title>
     <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Ciencia ficción) Un instructor externo ayuda a los cadetes a controlar sus emociones para convertirse en oficiales de la Flota Estelar.
@@ -60541,7 +60400,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111021500 +0100" stop="20261111030500 +0100" channel="SkyShowtime">
+	<programme start="20261111021700 +0100" stop="20261111030700 +0100" channel="SkyShowtime">
     <title>Un caballero en Moscú T1 E3 · El último Rostov</title>
     <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Mientras su vida se desmorona, el conde recibe unas devastadoras noticias que acarrean peligrosas consecuencias.
@@ -60558,7 +60417,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111030500 +0100" stop="20261111035500 +0100" channel="SkyShowtime">
+	<programme start="20261111030700 +0100" stop="20261111035700 +0100" channel="SkyShowtime">
     <title>Un caballero en Moscú T1 E4 · Tiempos de prosperidad</title>
     <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) El conde debe embarcarse en una misión política peligrosa para salvar a su amigo y a su alma.
@@ -60575,7 +60434,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111035500 +0100" stop="20261111044500 +0100" channel="SkyShowtime">
+	<programme start="20261111035700 +0100" stop="20261111044600 +0100" channel="SkyShowtime">
     <title>David Frost vs.: David Frost vs. los Beatles</title>
     <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
     <desc>(Documentales,Política) David y los Beatles surgen en el Londres de los años 60, precursores de una revolución cultural.
@@ -60592,7 +60451,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111044500 +0100" stop="20261111051000 +0100" channel="SkyShowtime">
+	<programme start="20261111044600 +0100" stop="20261111051300 +0100" channel="SkyShowtime">
     <title>The Office T9 E16 · Hay que superarlo 1ª Parte</title>
     <sub-title>2013 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) Wallace descubre que Andy estuvo fuera varios meses. Dwight le pide a Angela ayuda con su tía.
@@ -60608,7 +60467,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111051000 +0100" stop="20261111053500 +0100" channel="SkyShowtime">
+	<programme start="20261111051300 +0100" stop="20261111053700 +0100" channel="SkyShowtime">
     <title>The Office T9 E17 · Hay que superarlo 2a Parte</title>
     <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Una entrevista hace que Pam se acuerde de Michael y Nellie lleva a Toby a visitar al estrangulador de Scranton.
@@ -60624,7 +60483,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111053500 +0100" stop="20261111060000 +0100" channel="SkyShowtime">
+	<programme start="20261111053700 +0100" stop="20261111060000 +0100" channel="SkyShowtime">
     <title>The Office T9 E18 · La granja</title>
     <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Dwight lleva a Oscar a un funeral de la familia. Pam desconfía de los gestos amables de Todd Packer.
@@ -64474,7 +64333,7 @@
 	</programme>
 	<programme start="20261113220000 +0100" stop="20261113224600 +0100" channel="STAR Channel">
     <title>Boston Blue T2 E2</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Series,Policíaca) El exdetective Danny Reagan se une al Departamento de Policía de Boston.
 · País: Estados Unidos
 · Dirección: Sherwin Shilati.
@@ -64486,7 +64345,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113224600 +0100" stop="20261114010000 +0100" channel="STAR Channel">
@@ -64566,7 +64425,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109153400 +0100" stop="20261109154500 +0100" channel="Telecinco">
+	<programme start="20261109153400 +0100" stop="20261109154700 +0100" channel="Telecinco">
     <title>El Desmarque Telecinco</title>
     <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
@@ -64578,7 +64437,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109154500 +0100" stop="20261109155000 +0100" channel="Telecinco">
+	<programme start="20261109154700 +0100" stop="20261109155800 +0100" channel="Telecinco">
     <title>El tiempo</title>
     <sub-title>2017 | ★6.0/10</sub-title>
     <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
@@ -64590,7 +64449,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109155000 +0100" stop="20261109175500 +0100" channel="Telecinco">
+	<programme start="20261109155800 +0100" stop="20261109175500 +0100" channel="Telecinco">
     <title>La tarde se mueve T1 E94</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Entretenimiento,Magacín) La tarde se mueve.
@@ -64601,7 +64460,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261109175500 +0100" stop="20261109190000 +0100" channel="Telecinco">
+	<programme start="20261109175500 +0100" stop="20261109185500 +0100" channel="Telecinco">
     <title>El Diario de Jorge T7 E24</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
@@ -64612,7 +64471,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261109190000 +0100" stop="20261109200000 +0100" channel="Telecinco">
+	<programme start="20261109185500 +0100" stop="20261109200000 +0100" channel="Telecinco">
     <title>Rueda la Letra T1 E60</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
@@ -65133,7 +64992,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111150000 +0100" stop="20261111152500 +0100" channel="Telecinco">
+	<programme start="20261111150000 +0100" stop="20261111153000 +0100" channel="Telecinco">
     <title>Informativos Telecinco</title>
     <sub-title>2025 | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
@@ -65146,7 +65005,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111152500 +0100" stop="20261111154000 +0100" channel="Telecinco">
+	<programme start="20261111153000 +0100" stop="20261111154000 +0100" channel="Telecinco">
     <title>El Desmarque Telecinco</title>
     <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
@@ -74125,6 +73984,979 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109083000 +0100" stop="20261109110000 +0100" channel="Eurosport 1">
+    <title>International Championship de snooker T26/27 · Final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
+· País: China</desc>
+    <category>Deportes, Snooker</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4436161" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109120000 +0100" stop="20261109134500 +0100" channel="Eurosport 1">
+    <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
+· País: Italia</desc>
+    <category>Deportes, Automovilismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109134500 +0100" stop="20261109143000 +0100" channel="Eurosport 1">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite F</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441469" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109143000 +0100" stop="20261109153000 +0100" channel="Eurosport 1">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite M</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441471" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109153000 +0100" stop="20261109173000 +0100" channel="Eurosport 1">
+    <title>International Championship de snooker T26/27 · Final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
+· País: China</desc>
+    <category>Deportes, Snooker</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4436161" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109183000 +0100" stop="20261109191500 +0100" channel="Eurosport 1">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite F</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441469" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109191500 +0100" stop="20261109200000 +0100" channel="Eurosport 1">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite M</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441471" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109200000 +0100" stop="20261109220000 +0100" channel="Eurosport 1">
+    <title>International Championship de snooker T26/27 · Final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
+· País: China</desc>
+    <category>Deportes, Snooker</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4436161" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109220000 +0100" stop="20261110000000 +0100" channel="Eurosport 1">
+    <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
+· País: Italia</desc>
+    <category>Deportes, Automovilismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110000000 +0100" stop="20261110013000 +0100" channel="Eurosport 1">
+    <title>6 Horas de Imola - Mundial de resistencia de la FIA T2026 · Carrera</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Automovilismo) El FIA WEC regresa a la acción con las 6 Horas de Imola 2026. El legendario Autodromo Enzo e Dino Ferrari acoge una batalla de resistencia entre Hypercars y LMGT3, con Ferrari defendiendo su reinado ante Toyota, Cadillac y BMW.
+· País: Italia</desc>
+    <category>Deportes, Automovilismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4285509" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109110000 +0100" stop="20261109120000 +0100" channel="Eurosport 2">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite M</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441471" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109120000 +0100" stop="20261109143000 +0100" channel="Eurosport 2">
+    <title>International Championship de snooker T26/27 · Final</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Snooker) El International Championship de snooker se celebra del 31 de octubre al 7 de noviembre.
+· País: China</desc>
+    <category>Deportes, Snooker</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4436161" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109143000 +0100" stop="20261109164500 +0100" channel="Eurosport 2">
+    <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
+· País: Italia</desc>
+    <category>Deportes, Automovilismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109193000 +0100" stop="20261109220000 +0100" channel="Eurosport 2">
+    <title>6 Horas de Monza - Mundial de Resistencia de la FIA T2026 · Carrera</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Automovilismo) Esta emblemática carrera es la emocionante cita final de la temporada del Mundial de Resistencia de la FIA (WEC), coronando a los campeones mundiales de las categorías Hypercar y LMGT3. Las 6 Horas de Monza se celebran del 6 al 8 de noviembre.
+· País: Italia</desc>
+    <category>Deportes, Automovilismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109230000 +0100" stop="20261110000000 +0100" channel="Eurosport 2">
+    <title>Tour de Francia - Resumen final 2026</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un repaso a todo lo vivido en las carreteras galas durante el Tour de Francia de 2026. La gran cita del pelotón internacional volvió a atraer a los mejores ciclistas del planeta.
+· País: Francia</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4358224" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110000000 +0100" stop="20261110013000 +0100" channel="Eurosport 2">
+    <title>Mundial de snooker T25/26 · Final: Shaun Murphy - Wu Yize</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Snooker) El Mundial, el torneo profesional más importante en términos de puntos y de ranking, pone el colofón a la temporada de snooker. Desde 1977, se celebra en el Crucible Theatre de la localidad inglesa de Sheffield. En 2025, el vencedor fue Zhao Xintong.
+· País: Reino Unido</desc>
+    <category>Deportes, Snooker</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4295808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110180000 +0100" stop="20261110185500 +0100" channel="Eurosport 2">
+    <title>Copa del mundo de esquí alpino M - Sölden T26/27 · Eslalon gigante - 2ª manga</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Esquí alpino) Como suele ser tradicional, la cita de Sölden inaugura la Copa del mundo de esquí alpino.
+· País: Austria</desc>
+    <category>Deportes, Esquí alpino</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4432190" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110185500 +0100" stop="20261110204500 +0100" channel="Eurosport 2">
+    <title>DIRECTO Jornada 3: Barcelona - Ciudad Real T26/27 · ASOBAL</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
+· País: España</desc>
+    <category>Deportes, Balonmano</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4442033" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110204500 +0100" stop="20261110211500 +0100" channel="Eurosport 2">
+    <title>Europeo de Ciclocrós T2026 · Carrera élite F</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Ciclismo) El Campeonato Europeo de Ciclocrós se celebra el 7 y 8 de noviembre en Zeddam, Países Bajos. Esta 24ª edición reúne a los mejores especialistas del continente en un exigente circuito de 3km diseñado por Erwin Vervecken.
+· País: Países Bajos</desc>
+    <category>Deportes, Ciclismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4441469" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110220000 +0100" stop="20261110230000 +0100" channel="Eurosport 2">
+    <title>Juegos Olímpicos</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un espacio que analiza la actualidad y recuerda el pasado del movimiento olímpico.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P1383897" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113185500 +0100" stop="20261113204500 +0100" channel="Eurosport 2">
+    <title>DIRECTO Jornada 9: Barcelona - Triana T26/27 · ASOBAL</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
+· País: España</desc>
+    <category>Deportes, Balonmano</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4443243" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113204500 +0100" stop="20261113220000 +0100" channel="Eurosport 2">
+    <title>Abierto de Inglaterra de snooker T26/27 · Ali Carter vs Mark Williams</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Snooker) Las grandes estrellas del paño se miden en el Brentwood Centre de Essex. Todas ellas buscan relevar al ausente Mark Allen. Judd Trump y Kyren Wilson parten como favoritos, pero en el snooker nada está escrito.
+· País: Reino Unido</desc>
+    <category>Deportes, Snooker</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4399120" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113220000 +0100" stop="20261113233000 +0100" channel="Eurosport 2">
+    <title>Lo mejor de la UFC T2026 · 13/11/2026</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) El auge de las artes marciales mixtas viene de la mano del UFC, un campeonato que aglutina a la mayoría de las estrellas de este deporte. Este espacio repasa los mejores momentos de esta exigente competición.
+· País: Estados Unidos</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4443251" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113233000 +0100" stop="20261114000000 +0100" channel="Eurosport 2">
+    <title>Copa del mundo de esquí alpino M - Crans Montana T25/26 · Descenso</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Esquí alpino) La estación suiza de Crans Montana acoge una nueva cita de la Copa del mundo esquí alpino. En la competición masculina, el evento cuenta con una prueba de descenso.
+· País: Suiza</desc>
+    <category>Deportes, Esquí alpino</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4443087" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111005500 +0100" stop="20261111080000 +0100" channel="M+ Golf">
+    <title>M+ Golf</title>
+    <sub-title>★6.0/10</sub-title>
+    <desc>(Sin clasificar,SIN CLASIFICAR) M+ Golf.</desc>
+    <category>Sin clasificar, SIN CLASIFICAR</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1857850V3157130" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110060000 +0100" stop="20261110062000 +0100" channel="SkyShowtime">
+    <title>La Patrulla Canina T1 E2 · La Patrulla Salva a las Tortugas Marinas; La Patrulla y el Bebé de Ballena</title>
+    <sub-title>2013 | TP | ★6.4/10</sub-title>
+    <desc>(Infantil,Dibujos animados) Ryder, Chase y Rubble ayudan a unas crías de tortugas marinas. La patrulla ayuda a una ballena bebé.
+· País: Canadá y Estados Unidos
+· Dirección: Jamie Whitney.
+· Reparto: Ítalo Luiz, Gabriela Milani, Christian Distefano, Drew Davis, Ron Pardo, Devan Cohen, Kallan Holley, Owen Mason, Peter Cugno, Alex Thorne.
+· Guion: Kim Duran, Ursula Ziegler-Sullivan.
+· Productora: Nickelodeon Productions, Guru Studio, Spin Master Studios, Spin Master Entertainment, TVOntario.</desc>
+    <category>Infantil, Dibujos animados</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4327580" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110062000 +0100" stop="20261110064000 +0100" channel="SkyShowtime">
+    <title>La Patrulla Canina T1 E3 · Una Catástrofe Gatuna; La Patrulla Salva un Tren</title>
+    <sub-title>2013 | TP | ★6.2/10</sub-title>
+    <desc>(Infantil,Dibujos animados) Ryder y el equipo rescatan a una gatita perdida. Ryder, Rubble y Rocky ayudan a liberar un tren.
+· País: Canadá y Estados Unidos
+· Dirección: Jamie Whitney.
+· Reparto: Gabriela Milani, Ítalo Luiz, Christian Distefano, Drew Davis, Ron Pardo, Devan Cohen, Kallan Holley, Owen Mason, Peter Cugno, Alex Thorne.
+· Guion: Kim Duran, Ursula Ziegler-Sullivan, Franklin Young.
+· Productora: Nickelodeon Productions, Guru Studio, Ronnen Harary, Spin Master Entertainment, Viacom, TVOntario, Keith Chapman, Spin Master Studios.</desc>
+    <category>Infantil, Dibujos animados</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4327580" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110064000 +0100" stop="20261110070500 +0100" channel="SkyShowtime">
+    <title>Abby Hatcher T1 E7 · Curly y la muñeca de trapo; En el parque</title>
+    <sub-title>2018 | TP | ★5.8/10</sub-title>
+    <desc>(Infantil,Dibujos animados) Algo deja un mal olor; la princesa Flug no quiere ensuciarse en el parque.
+· País: Canadá y Estados Unidos
+· Dirección: Kyran Kelly.
+· Productora: Spin Master Studios.</desc>
+    <category>Infantil, Dibujos animados</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155387" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110070500 +0100" stop="20261110073000 +0100" channel="SkyShowtime">
+    <title>Abby Hatcher T1 E8 · Cuando Abby conoció a Bozzly; ¡A cortar!</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Infantil,Dibujos animados) Abby conoce a la mejor amiga perfecta; Harriet no sabe qué hacer cuando cierra el salón.
+· País: Canadá y Estados Unidos
+· Dirección: Kyran Kelly.
+· Productora: Spin Master Studios.</desc>
+    <category>Infantil, Dibujos animados</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155387" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110073000 +0100" stop="20261110075500 +0100" channel="SkyShowtime">
+    <title>Bubble Guppies T2 E20 · Los Geniales Gambinis</title>
+    <sub-title>2012 | TP | ★6.0/10</sub-title>
+    <desc>(Infantil,Dibujos animados) Gil quiere cortarse el pelo para estar guapo el día de la foto del colegio, exactamente igual que todos los demás.
+· País: Canadá y Estados Unidos
+· Dirección: Mark Salisbury.
+· Reparto: Zachary Gordon, Gentilella Brianna, Tino Insana, Jelani Imani.
+· Guion: Jonny Belt, Robert Scull.
+· Productora: Nickelodeon Animation Studios, WildBrain Animation Studios.</desc>
+    <category>Infantil, Dibujos animados</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4348130" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110075500 +0100" stop="20261110082000 +0100" channel="SkyShowtime">
+    <title>Brooklyn Nine-Nine T3 E16 · Los ratones domésticos</title>
+    <sub-title>2015 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Comedia) Hitchcock y Scully intentan demostrar su valía entrometiéndose en uno de los casos más importantes de Jake.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.
+· Productora: 3 Arts Entertainment, Fremulon, Dr. Goor Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4468227" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110082000 +0100" stop="20261110084500 +0100" channel="SkyShowtime">
+    <title>Brooklyn Nine-Nine T3 E17 · Adrian Pimento</title>
+    <sub-title>2015 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Comedia) Un detective psicológicamente inestable regresa a la comisaría tras haber pasado años trabajando de incógnito.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.
+· Productora: 3 Arts Entertainment, Fremulon, Dr. Goor Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4468227" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110084500 +0100" stop="20261110091000 +0100" channel="SkyShowtime">
+    <title>Brooklyn Nine-Nine T3 E18 · Cheddar</title>
+    <sub-title>2015 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) El perro de Holt desaparece mientras Amy y Jake están al cuidado de su casa durante el viaje de Holt a París.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.
+· Productora: 3 Arts Entertainment, Fremulon, Dr. Goor Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4468227" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110091000 +0100" stop="20261110095500 +0100" channel="SkyShowtime">
+    <title>Impostores T1 E2 · Mis huevos, capullo</title>
+    <sub-title>2017 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Maddie, en su intento de seducir a su última víctima, se siente atraída por el misterioso Patrick.
+· País: Estados Unidos
+· Dirección: Adam Brooks.
+· Reparto: Brian Benben, Marianne Rendón, Sherilyn Allen, Parker Young, Jy Harris, Ray Proscia.
+· Guion: Emily Cook, Kathy Greenberg.
+· Productora: Universal Cable Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4419254" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110095500 +0100" stop="20261110102000 +0100" channel="SkyShowtime">
+    <title>Young Rock T1 E3 · Juntos hacia adelante</title>
+    <sub-title>2021 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Series,Comedia) Lia empieza a sospechar de un promotor rival cuando algunos luchadores se retiran del Battle Royal.
+· País: Estados Unidos</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488536" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110102000 +0100" stop="20261110105000 +0100" channel="SkyShowtime">
+    <title>Young Rock T1 E4 · Piénsalo bien</title>
+    <sub-title>2021 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Comedia) Dwayne aspira a entrar en la alineación titular como debutante en un famoso equipo de fútbol americano universitario.
+· País: Estados Unidos</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488577" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110105000 +0100" stop="20261110111500 +0100" channel="SkyShowtime">
+    <title>The Office T9 E13 · Auxiliar de ventas</title>
+    <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Dwight obliga a Clark a competir por el puesto de Jim. Erin busca a sus padres biológicos.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110111500 +0100" stop="20261110114000 +0100" channel="SkyShowtime">
+    <title>The Office T9 E14 · Vandalismo</title>
+    <sub-title>2013 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Comedia) El mural del almacén de Pam aparece pintarrajeado. Darryl tiene problemas con las manías de Jim.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110114000 +0100" stop="20261110120500 +0100" channel="SkyShowtime">
+    <title>The Office T9 E15 · Descuento para parejas</title>
+    <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Todos intentan conseguir descuentos de parejas en el centro comercial. Erin quiere cortar con Andy.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110120500 +0100" stop="20261110123000 +0100" channel="SkyShowtime">
+    <title>Brooklyn Nine-Nine T3 E16 · Los ratones domésticos</title>
+    <sub-title>2015 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Comedia) Hitchcock y Scully intentan demostrar su valía entrometiéndose en uno de los casos más importantes de Jake.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.
+· Productora: 3 Arts Entertainment, Fremulon, Dr. Goor Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4468227" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110123000 +0100" stop="20261110125500 +0100" channel="SkyShowtime">
+    <title>Brooklyn Nine-Nine T3 E17 · Adrian Pimento</title>
+    <sub-title>2015 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Comedia) Un detective psicológicamente inestable regresa a la comisaría tras haber pasado años trabajando de incógnito.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.
+· Productora: 3 Arts Entertainment, Fremulon, Dr. Goor Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4468227" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110125500 +0100" stop="20261110132000 +0100" channel="SkyShowtime">
+    <title>Brooklyn Nine-Nine T3 E18 · Cheddar</title>
+    <sub-title>2015 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) El perro de Holt desaparece mientras Amy y Jake están al cuidado de su casa durante el viaje de Holt a París.
+· País: Estados Unidos
+· Dirección: Pamela Fryman, Robert Greenberg, Linda Mendoza, Michael McDonald.
+· Reparto: Andre Braugher, Terry Crews, Joel McKinnon Miller, Andy Samberg, Stephanie Beatriz, Melissa Fumero, Joe Lo Truglio, Dirk Blocker, Chelsea Peretti.
+· Productora: 3 Arts Entertainment, Fremulon, Dr. Goor Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4468227" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110132000 +0100" stop="20261110141000 +0100" channel="SkyShowtime">
+    <title>Impostores T1 E2 · Mis huevos, capullo</title>
+    <sub-title>2017 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Maddie, en su intento de seducir a su última víctima, se siente atraída por el misterioso Patrick.
+· País: Estados Unidos
+· Dirección: Adam Brooks.
+· Reparto: Brian Benben, Marianne Rendón, Sherilyn Allen, Parker Young, Jy Harris, Ray Proscia.
+· Guion: Emily Cook, Kathy Greenberg.
+· Productora: Universal Cable Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4419254" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110141000 +0100" stop="20261110143500 +0100" channel="SkyShowtime">
+    <title>Young Rock T1 E3 · Juntos hacia adelante</title>
+    <sub-title>2021 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Series,Comedia) Lia empieza a sospechar de un promotor rival cuando algunos luchadores se retiran del Battle Royal.
+· País: Estados Unidos</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488536" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110143500 +0100" stop="20261110150500 +0100" channel="SkyShowtime">
+    <title>Young Rock T1 E4 · Piénsalo bien</title>
+    <sub-title>2021 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Comedia) Dwayne aspira a entrar en la alineación titular como debutante en un famoso equipo de fútbol americano universitario.
+· País: Estados Unidos</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488577" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110150500 +0100" stop="20261110170500 +0100" channel="SkyShowtime">
+    <title>A pesar de ti</title>
+    <sub-title>2025 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Cine,Drama) Una madre y su hija se enfrentan a las consecuencias de un accidente que revela una traición.
+· País: Alemania y Estados Unidos
+· Dirección: Josh Boone.
+· Reparto: Allison Williams, Mckenna Grace, Dave Franco, Mason Thames, Scott Eastwood, Willa Fitzgerald.
+· Guion: Susan McMartin.
+· Música: Nate Walcott.
+· Producción: Brunson Green, Flavia Viotti.
+· Productora: Frayed Pages Entertainment, FVR Entertainment.</desc>
+    <category>Cine, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4471324" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110170500 +0100" stop="20261110173500 +0100" channel="SkyShowtime">
+    <title>The Office T9 E16 · Hay que superarlo 1ª Parte</title>
+    <sub-title>2013 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Comedia) Wallace descubre que Andy estuvo fuera varios meses. Dwight le pide a Angela ayuda con su tía.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110173500 +0100" stop="20261110180000 +0100" channel="SkyShowtime">
+    <title>The Office T9 E17 · Hay que superarlo 2a Parte</title>
+    <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Una entrevista hace que Pam se acuerde de Michael y Nellie lleva a Toby a visitar al estrangulador de Scranton.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110180000 +0100" stop="20261110182500 +0100" channel="SkyShowtime">
+    <title>The Office T9 E18 · La granja</title>
+    <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Dwight lleva a Oscar a un funeral de la familia. Pam desconfía de los gestos amables de Todd Packer.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110182500 +0100" stop="20261110191000 +0100" channel="SkyShowtime">
+    <title>Suits T6 E4 · Giro</title>
+    <sub-title>2016 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Drama) Mike contempla un trato que podría ayudar a reducir su condena.
+· País: Estados Unidos
+· Reparto: Gabriel Macht, Patrick J. Adams, Rick Hoffman, Meghan Markle, Sarah Rafferty, Gina Torres, David Costabile.
+· Productora: Dutch Oven.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4385620" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110191000 +0100" stop="20261110201500 +0100" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E8 · La vida de las estrellas</title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Ciencia ficción) Un instructor externo ayuda a los cadetes a controlar sus emociones para convertirse en oficiales de la Flota Estelar.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+    <category>Series, Ciencia ficción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4456262" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110201500 +0100" stop="20261110210000 +0100" channel="SkyShowtime">
+    <title>Un caballero en Moscú T1 E6 · La caída</title>
+    <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Drama) El Conde arriesga su vida para salvar a un ser querido; Anna debe enfrentarse a sus verdaderos sentimientos.
+· País: Estados Unidos y Reino Unido
+· Dirección: Sarah O'Gorman, Sam Miller.
+· Reparto: Ewan McGregor, Leah Harvey, Johnny Harris, Daniel Cerqueira, Fehinti Balogun, Mary Elizabeth Winstead, Anastasia Hille, Lyès Salem, John Heffernan, Paul Ready, Björn Hlynur Haraldsson, Beau Gadsdon, Alexa Goodall, Dee Ahluwalia.
+· Productora: Entertainment One, Paramount, Moonriver Content.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4225454" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110210000 +0100" stop="20261110215000 +0100" channel="SkyShowtime">
+    <title>Tulsa King T4 E3 · Cese y desistimiento</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Drama) Dwight contraataca cuando el gobernador Clark le pone en el punto de mira a él y a su banda.
+· País: Estados Unidos</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514988" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110215000 +0100" stop="20261110233500 +0100" channel="SkyShowtime">
+    <title>La trama fenicia</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Cine,Acción) Un empresario y su hija se convierten en el blanco de magnates, terroristas y asesinos.
+· País: Alemania, Estados Unidos y Reino Unido
+· Dirección: Wes Anderson.
+· Reparto: Benicio Del Toro, Mia Threapleton, Michael Cera, Riz Ahmed, Tom Hanks, Charlotte Gainsbourg.
+· Guion: Wes Anderson, Roman Coppola.
+· Música: Alexandre Desplat.
+· Producción: Wes Anderson, Steven Rales, Jeremy Dawson.
+· Productora: Indian Paintbrush, Studio Babelsberg, American Empirical Pictures, Focus Features.</desc>
+    <category>Cine, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464369" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110233500 +0100" stop="20261111002500 +0100" channel="SkyShowtime">
+    <title>Lazos mortales Temporada 2 T2 E5</title>
+    <sub-title>2026 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Drama) Bastian encuentra una pista que pone en tela de juicio las conclusiones de la policía; Anka hace nuevas averiguaciones.
+· País: Polonia</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4510927" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111002500 +0100" stop="20261111011000 +0100" channel="SkyShowtime">
+    <title>Suits T6 E4 · Giro</title>
+    <sub-title>2016 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Drama) Mike contempla un trato que podría ayudar a reducir su condena.
+· País: Estados Unidos
+· Reparto: Gabriel Macht, Patrick J. Adams, Rick Hoffman, Meghan Markle, Sarah Rafferty, Gina Torres, David Costabile.
+· Productora: Dutch Oven.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4385620" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111011000 +0100" stop="20261111021500 +0100" channel="SkyShowtime">
+    <title>Star Trek: Academia de la Flota Estelar T1 E8 · La vida de las estrellas</title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Ciencia ficción) Un instructor externo ayuda a los cadetes a controlar sus emociones para convertirse en oficiales de la Flota Estelar.
+· País: Estados Unidos
+· Dirección: Andi Armaganian, Alex Kurtzman, Douglas Aarniokoski, Jonathan Frakes.
+· Reparto: Brit Marling, Stephen Colbert, Holly Hunter, Gina Yashere, Oded Fehr, Tig Notaro, Robert Picardo, Raoul Bhaneja, Tatiana Maslany, Paul Giamatti, Rebecca Quin, Dale Whibley, Ken Barnett, Avaah Blackwell, Piotr Michael, Kether Donohue, Troy James.
+· Guion: Gene Roddenberry, Gaia Violo, Kirsten Beyer, Jane Maggs, Alex Kurtzman, Tawny Newsome.
+· Música: Jeff Russo.
+· Productora: CBS Studios, CBS Television Studios.</desc>
+    <category>Series, Ciencia ficción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4456262" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111021500 +0100" stop="20261111030500 +0100" channel="SkyShowtime">
+    <title>Un caballero en Moscú T1 E3 · El último Rostov</title>
+    <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Drama) Mientras su vida se desmorona, el conde recibe unas devastadoras noticias que acarrean peligrosas consecuencias.
+· País: Estados Unidos y Reino Unido
+· Dirección: Sarah O'Gorman, Sam Miller.
+· Reparto: Ewan McGregor, Leah Harvey, Johnny Harris, Daniel Cerqueira, Fehinti Balogun.
+· Productora: Entertainment One, Paramount, Moonriver Content.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4225454" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111030500 +0100" stop="20261111035500 +0100" channel="SkyShowtime">
+    <title>Un caballero en Moscú T1 E4 · Tiempos de prosperidad</title>
+    <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Drama) El conde debe embarcarse en una misión política peligrosa para salvar a su amigo y a su alma.
+· País: Estados Unidos y Reino Unido
+· Dirección: Sarah O'Gorman, Sam Miller.
+· Reparto: Ewan McGregor, Leah Harvey, Johnny Harris, Daniel Cerqueira, Fehinti Balogun.
+· Productora: Entertainment One, Paramount, Moonriver Content.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4225454" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111035500 +0100" stop="20261111044500 +0100" channel="SkyShowtime">
+    <title>David Frost vs.: David Frost vs. los Beatles</title>
+    <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
+    <desc>(Documentales,Política) David y los Beatles surgen en el Londres de los años 60, precursores de una revolución cultural.
+· País: Reino Unido
+· Dirección: Matt Hill.
+· Música: Thomas Farnon.
+· Productora: SKY Studios.</desc>
+    <category>Documentales, Política</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4366723" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111044500 +0100" stop="20261111051000 +0100" channel="SkyShowtime">
+    <title>The Office T9 E16 · Hay que superarlo 1ª Parte</title>
+    <sub-title>2013 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Comedia) Wallace descubre que Andy estuvo fuera varios meses. Dwight le pide a Angela ayuda con su tía.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111051000 +0100" stop="20261111053500 +0100" channel="SkyShowtime">
+    <title>The Office T9 E17 · Hay que superarlo 2a Parte</title>
+    <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Una entrevista hace que Pam se acuerde de Michael y Nellie lleva a Toby a visitar al estrangulador de Scranton.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111053500 +0100" stop="20261111060000 +0100" channel="SkyShowtime">
+    <title>The Office T9 E18 · La granja</title>
+    <sub-title>2013 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Dwight lleva a Oscar a un funeral de la familia. Pam desconfía de los gestos amables de Todd Packer.
+· País: Estados Unidos
+· Reparto: Rainn Wilson, John Krasinski, Jenna Fischer, B.J. Novak, Steve Carell.
+· Productora: Reveille Productions.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4155754" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109154500 +0100" stop="20261109155000 +0100" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109155000 +0100" stop="20261109175500 +0100" channel="Telecinco">
+    <title>La tarde se mueve T1 E94</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Entretenimiento,Magacín) La tarde se mueve.
+· País: España</desc>
+    <category>Entretenimiento, Magacín</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4446780" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261109190000 +0100" stop="20261109200000 +0100" channel="Telecinco">
+    <title>Rueda la Letra T1 E60</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
+· País: España</desc>
+    <category>Entretenimiento, Concurso</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4446784" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261111152500 +0100" stop="20261111154000 +0100" channel="Telecinco">
+    <title>El Desmarque Telecinco</title>
+    <sub-title>2026 | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261109070000 +0100" stop="20261109090000 +0100" channel="LaLiga TV Hypermotion 2">
