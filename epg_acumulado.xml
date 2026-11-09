@@ -3538,9 +3538,9 @@
     <desc>(Series,Acción) El equipo da la bienvenida a Casey para celebrar el gran día de la boda. Además, los planes de Emma para reemplazar a Violet llegan a un final impactante.
 · País: Estados Unidos
 · Dirección: Reza Tabrizi.
-· Reparto: Taylor Kinney, Jesse Spencer, David Eigenberg, Eamonn Walker, Kristen Gutoskie, John D Milinac.
+· Reparto: Taylor Kinney, Jesse Spencer, David Eigenberg, Troy Winbush, Eamonn Walker, Kristen Gutoskie.
 · Guion: Andrea Newman, Michael Gilvary.
-· Productora: Wolf Films, Universal Television, Craig Jackson, Arthur W. Forney, Wolf Entertainment, Demetra Diamantopoulos.</desc>
+· Productora: Wolf Films, Universal Television, Craig Jackson, Steve Chikerotis, Arthur W. Forney, Wolf Entertainment.</desc>
     <category>Series, Acción</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4091391" />
 		<rating system="ES">
@@ -3767,9 +3767,9 @@
     <desc>(Series,Acción) El equipo da la bienvenida a Casey para celebrar el gran día de la boda. Además, los planes de Emma para reemplazar a Violet llegan a un final impactante.
 · País: Estados Unidos
 · Dirección: Reza Tabrizi.
-· Reparto: Taylor Kinney, Jesse Spencer, David Eigenberg, Eamonn Walker, Kristen Gutoskie, John D Milinac.
+· Reparto: Taylor Kinney, Jesse Spencer, David Eigenberg, Troy Winbush, Eamonn Walker, Kristen Gutoskie.
 · Guion: Andrea Newman, Michael Gilvary.
-· Productora: Wolf Films, Universal Television, Craig Jackson, Arthur W. Forney, Wolf Entertainment, Demetra Diamantopoulos.</desc>
+· Productora: Wolf Films, Universal Television, Craig Jackson, Steve Chikerotis, Arthur W. Forney, Wolf Entertainment.</desc>
     <category>Series, Acción</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4091391" />
 		<rating system="ES">
@@ -4457,7 +4457,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109060600 +0100" stop="20261109061400 +0100" channel="AXN Movies">
-    <title>Zoom In: Kung Fu Panda 4 T1Ep 135</title>
+    <title>Zoom In T1 · Kung Fu Panda 4</title>
     <sub-title>2024 | ⑦ | ★6.2/10</sub-title>
     <desc>(Cine,Programa de cine) Actores y directores dan su visión de la película que han hecho.
 · País: Estados Unidos</desc>
@@ -15306,7 +15306,7 @@
 	</programme>
 	<programme start="20261113155300 +0100" stop="20261113182600 +0100" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 8: Manresa - Obradoiro T26/27 · Liga U</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.6/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15315,7 +15315,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>4.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113182600 +0100" stop="20261113222600 +0100" channel="DAZN Baloncesto">
@@ -15577,7 +15577,7 @@
 	</programme>
 	<programme start="20261113200700 +0100" stop="20261113224000 +0100" channel="DAZN Baloncesto 3">
     <title>DIRECTO Jornada 8: Joventut - Bilbao Basket T26/27 · Liga U</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15585,6 +15585,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113224000 +0100" stop="20261114024000 +0100" channel="DAZN Baloncesto 3">
     <title>DAZN Baloncesto 3</title>
@@ -15612,16 +15615,13 @@
 	</programme>
 	<programme start="20261109104000 +0100" stop="20261109123500 +0100" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Arabia Saudi: Carrera</title>
-    <sub-title>2023 | TP | ★6.4/10</sub-title>
+    <sub-title>2023 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4084511" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109123500 +0100" stop="20261109144800 +0100" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de México: Carrera</title>
@@ -17445,7 +17445,7 @@
 	</programme>
 	<programme start="20261113150000 +0100" stop="20261113163000 +0100" channel="DAZN LaLiga">
     <title>DIRECTO Programa 35 T26/27 · Trending</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17454,7 +17454,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113163000 +0100" stop="20261113164500 +0100" channel="DAZN LaLiga">
@@ -17506,7 +17506,7 @@
 	</programme>
 	<programme start="20261113210000 +0100" stop="20261113223000 +0100" channel="DAZN LaLiga">
     <title>Programa 35 T26/27 · Trending</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17515,7 +17515,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113223000 +0100" stop="20261114003000 +0100" channel="DAZN LaLiga">
@@ -21700,7 +21700,7 @@
 	</programme>
 	<programme start="20261112210000 +0100" stop="20261112220000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de salto ecuestre T26/27 · Verona</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Hípica) Del 5 al 8 de noviembre llega la tercera parada de la Liga de Europa Occidental indoor a Verona. Los mejores binomios del planeta asumen el exigente CSI5-W en el Pala Range Rover en busca de puntos vitales hacia la gran final de 2027.
 · País: Italia</desc>
     <category>Deportes, Hípica</category>
@@ -21708,6 +21708,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261112220000 +0100" stop="20261112233000 +0100" channel="Eurosport 1">
     <title>Resumen de la temporada ciclista M</title>
@@ -21777,7 +21780,7 @@
 	</programme>
 	<programme start="20261113060000 +0100" stop="20261113070000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de esquí alpino M - Crans Montana T25/26 · Descenso</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La estación suiza de Crans Montana acoge una nueva cita de la Copa del mundo esquí alpino. En la competición masculina, el evento cuenta con una prueba de descenso.
 · País: Suiza</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21785,6 +21788,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113070000 +0100" stop="20261113083000 +0100" channel="Eurosport 1">
     <title>6 Horas de Sao Paulo - Mundial de resistencia de la FIA T2026 · Carrera</title>
@@ -21840,7 +21846,7 @@
 	</programme>
 	<programme start="20261113130000 +0100" stop="20261113140000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de esquí alpino M - Crans Montana T25/26 · Descenso</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La estación suiza de Crans Montana acoge una nueva cita de la Copa del mundo esquí alpino. En la competición masculina, el evento cuenta con una prueba de descenso.
 · País: Suiza</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21848,6 +21854,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113140000 +0100" stop="20261113151500 +0100" channel="Eurosport 1">
     <title>Resumen de la temporada ciclista F</title>
@@ -21917,7 +21926,7 @@
 	</programme>
 	<programme start="20261113191500 +0100" stop="20261113200000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de esquí alpino M - Crans Montana T25/26 · Descenso</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La estación suiza de Crans Montana acoge una nueva cita de la Copa del mundo esquí alpino. En la competición masculina, el evento cuenta con una prueba de descenso.
 · País: Suiza</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21925,6 +21934,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113200000 +0100" stop="20261113230000 +0100" channel="Eurosport 1">
     <title>Día 5 - Sesión 1 T2026 · Mundial de Powerlifting Equipado</title>
@@ -22822,7 +22834,7 @@
 	</programme>
 	<programme start="20261113180000 +0100" stop="20261113185500 +0100" channel="Eurosport 2">
     <title>Copa del mundo de salto ecuestre T26/27 · Verona</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Hípica) Del 5 al 8 de noviembre llega la tercera parada de la Liga de Europa Occidental indoor a Verona. Los mejores binomios del planeta asumen el exigente CSI5-W en el Pala Range Rover en busca de puntos vitales hacia la gran final de 2027.
 · País: Italia</desc>
     <category>Deportes, Hípica</category>
@@ -22830,6 +22842,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113185500 +0100" stop="20261113204500 +0100" channel="Eurosport 2">
     <title>DIRECTO Jornada 9: Barcelona - Triana T26/27 · ASOBAL</title>
@@ -22872,7 +22887,7 @@
 	</programme>
 	<programme start="20261113233000 +0100" stop="20261114000000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Crans Montana T25/26 · Descenso</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La estación suiza de Crans Montana acoge una nueva cita de la Copa del mundo esquí alpino. En la competición masculina, el evento cuenta con una prueba de descenso.
 · País: Suiza</desc>
     <category>Deportes, Esquí alpino</category>
@@ -22880,6 +22895,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261109013000 +0100" stop="20261109020000 +0100" channel="FOX SPORTS 2">
     <title>FIBA Highlights</title>
@@ -27290,7 +27308,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261109203000 +0100" stop="20261109223000 +0100" channel="LaLiga TV Hypermotion 2">
-    <title>DIRECTO Jornada 13: UD Las Palmas - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
+    <title>Jornada 13: UD Las Palmas - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) Las Palmas recibe al Eldense después de ganar 2-3 en el campo del Oviedo, un triunfo de mérito que evidencia su capacidad para resolver partidos abiertos. El Eldense necesita una respuesta tras perder 0-2 contra el Granada.
 · País: España</desc>
@@ -27523,9 +27541,23 @@
     <title>LALIGA TV HYPERMOTION</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261109170000 +0100" stop="20261109200000 +0100" channel="LaLiga TV Hypermotion">
+	<programme start="20261109170000 +0100" stop="20261109180000 +0100" channel="LaLiga TV Hypermotion">
     <title>LALIGA TV HYPERMOTION</title>
     <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20261109180000 +0100" stop="20261109200000 +0100" channel="LaLiga TV Hypermotion">
+    <title>DIRECTO Jornada 13: UD Las Palmas - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) Las Palmas recibe al Eldense después de ganar 2-3 en el campo del Oviedo, un triunfo de mérito que evidencia su capacidad para resolver partidos abiertos. El Eldense necesita una respuesta tras perder 0-2 contra el Granada.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4505509" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261109200000 +0100" stop="20261109203000 +0100" channel="LaLiga TV Hypermotion">
     <title>Tiempo de revisión T26/27 E9</title>
@@ -27702,7 +27734,7 @@
 	</programme>
 	<programme start="20261113223000 +0100" stop="20261113230000 +0100" channel="LaLiga TV Hypermotion">
     <title>Tiempo de revisión T26/27 E10</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★3.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Análisis de jugadas de Primera y Segunda División por parte del Comité Técnico de Árbitros.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -27711,7 +27743,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>3.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113230000 +0100" stop="20261114010000 +0100" channel="LaLiga TV Hypermotion">
@@ -38377,7 +38409,6 @@
 · Producción: Valérie Delpierre.
 · Productora: Institut Català de les Empreses Culturals (ICEC), Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA), Radio Televisión Española (RTVE), Umedia, Inicia Films, Movistar Plus+, 3Cat.</desc>
     <category>Cine, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4493521" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -39540,7 +39571,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109150000 +0100" stop="20261109180000 +0100" channel="M+ Golf">
+	<programme start="20261109150000 +0100" stop="20261109171900 +0100" channel="M+ Golf">
     <title>PGA Tour T2026 · World Wide Technology Championship. Jornada 4</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) El primer campo diseñado por Tiger Woods, El Cardonal en Diamante Resort, en Los Cabos (Mexico) acoge un previsible festival de birdies con calles anchas y gigantescos greenes de paspalum. Ben Griffin defiende título ante jóvenes como Koivun.</desc>
@@ -39549,6 +39580,20 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+	</programme>
+	<programme start="20261109171900 +0100" stop="20261109180000 +0100" channel="M+ Golf">
+    <title>Sueños de Golf T2026 · Camino Real, la batalla por la Ryder Cup 2031</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) El camino entre la Ryder Cup de Valderrama en 1997 y la de Camiral en 2031 ha sido largo y plagado de obstáculos. Este reportaje trata de ir un poco más allá de la historia conocida y analiza los retos que tiene por delante el equipo de Camiral.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4482066" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261109180000 +0100" stop="20261109181700 +0100" channel="M+ Golf">
     <title>Torneos Profesionales T2026 · Hulencourt Grand Final</title>
@@ -39564,14 +39609,18 @@
 		</star-rating>
 	</programme>
 	<programme start="20261109181700 +0100" stop="20261109184500 +0100" channel="M+ Golf">
-    <title>Let Access Series T2026 · Iberdrola Calatayud Ladies Open 2026</title>
-    <sub-title>2022 | TP</sub-title>
-    <desc>(Deportes,Golf) Let Access Series (2026): Iberdrola Calatayud Ladies Open 2026 -.</desc>
+    <title>Campus M+ Golf T2026 · Clase de Drive</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Golf) ¿Tienes problemas con el drive? Tranquilo, en este episodio de Campus M+ Golf te damos las claves para manejar este palo. Postura, grip, material... Y con ejercicios prácticos para sacar el máximo provecho a tus salidas desde el tee.
+· País: España</desc>
     <category>Deportes, Golf</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2701587V4439050" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4476530" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261109184500 +0100" stop="20261109214500 +0100" channel="M+ Golf">
     <title>Ladies European Tour T2026 · Aramco China Championship. Jornada 4</title>
@@ -40139,13 +40188,16 @@
 	</programme>
 	<programme start="20261113200000 +0100" stop="20261113230000 +0100" channel="M+ Golf">
     <title>DIRECTO Austin Championship. Jornada 2 T2026 · PGA Tour</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Golf) Los mejores jugadores del mundo afrontan una jornada más en el PGA TOUR rumbo a los playoffs de la FedEx Cup, donde espera un bonus de 10 millones de dólares para el profesional más regular de la temporada.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515944" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113230000 +0100" stop="20261113233000 +0100" channel="M+ Golf">
     <title>Locos por el golf T2026 E37</title>
@@ -42875,7 +42927,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109091600 +0100" stop="20261109110600 +0100" channel="M+ LaLiga">
+	<programme start="20261109091600 +0100" stop="20261109110400 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
@@ -42886,7 +42938,23 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109110600 +0100" stop="20261109111800 +0100" channel="M+ LaLiga">
+	<programme start="20261109110400 +0100" stop="20261109115700 +0100" channel="M+ LaLiga">
+    <title>Universo Valdano T9 · Filipe Luís</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Jorge Valdano visitó a Filipe Luis en Brasil días antes de su repentino despido como entrenador del Flamengo. El exfutbolista del Deportivo de la Coruña, Atlético de Madrid, Chelsea y Flamengo analiza su primera experiencia en los banquillos.
+· País: España
+· Presenta: Jorge Valdano.
+· Productora: Mediapro.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4463863" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109115700 +0100" stop="20261109120900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42900,7 +42968,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109111800 +0100" stop="20261109113000 +0100" channel="M+ LaLiga">
+	<programme start="20261109120900 +0100" stop="20261109122100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42914,7 +42982,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109113000 +0100" stop="20261109114200 +0100" channel="M+ LaLiga">
+	<programme start="20261109122100 +0100" stop="20261109123400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42928,7 +42996,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109114200 +0100" stop="20261109115500 +0100" channel="M+ LaLiga">
+	<programme start="20261109123400 +0100" stop="20261109124600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42939,7 +43007,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109115500 +0100" stop="20261109120700 +0100" channel="M+ LaLiga">
+	<programme start="20261109124600 +0100" stop="20261109125800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42950,7 +43018,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109120700 +0100" stop="20261109121900 +0100" channel="M+ LaLiga">
+	<programme start="20261109125800 +0100" stop="20261109131100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42961,7 +43029,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109121900 +0100" stop="20261109123200 +0100" channel="M+ LaLiga">
+	<programme start="20261109131100 +0100" stop="20261109132300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42975,7 +43043,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109123200 +0100" stop="20261109124400 +0100" channel="M+ LaLiga">
+	<programme start="20261109132300 +0100" stop="20261109133500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42986,7 +43054,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109124400 +0100" stop="20261109125600 +0100" channel="M+ LaLiga">
+	<programme start="20261109133500 +0100" stop="20261109134800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -42997,7 +43065,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109125600 +0100" stop="20261109131200 +0100" channel="M+ LaLiga">
+	<programme start="20261109134800 +0100" stop="20261109140300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43011,7 +43079,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109131200 +0100" stop="20261109150200 +0100" channel="M+ LaLiga">
+	<programme start="20261109140300 +0100" stop="20261109155300 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
@@ -43022,7 +43090,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109150200 +0100" stop="20261109161700 +0100" channel="M+ LaLiga">
+	<programme start="20261109155300 +0100" stop="20261109170900 +0100" channel="M+ LaLiga">
     <title>DeportePlus con Juanma Castaño T26/27 · 08/11/2026</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
@@ -43037,7 +43105,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109161700 +0100" stop="20261109170200 +0100" channel="M+ LaLiga">
+	<programme start="20261109170900 +0100" stop="20261109175400 +0100" channel="M+ LaLiga">
     <title>90 años de historias T2019 · Messi</title>
     <sub-title>2019 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Lionel Andrés Messi Cuccittini conocido como Leo Messi, es el primer futbolista en la historia que ha ganado, entre otras distinciones, cinco veces el Balón de Oro, los cuatro primeros de forma consecutiva y cinco Botas de Oro.
@@ -43051,7 +43119,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109170200 +0100" stop="20261109190600 +0100" channel="M+ LaLiga">
+	<programme start="20261109175400 +0100" stop="20261109195700 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Osasuna, necesitado de puntos tras sumar una victoria en ocho encuentros, recibe a un Athlétic que se ha aupado a la séptima plaza tras dos triunfos consecutivos.
@@ -43062,7 +43130,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109190600 +0100" stop="20261109191800 +0100" channel="M+ LaLiga">
+	<programme start="20261109195700 +0100" stop="20261109201000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43076,7 +43144,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109191800 +0100" stop="20261109193100 +0100" channel="M+ LaLiga">
+	<programme start="20261109201000 +0100" stop="20261109202200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43090,7 +43158,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109193100 +0100" stop="20261109194300 +0100" channel="M+ LaLiga">
+	<programme start="20261109202200 +0100" stop="20261109203400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43104,7 +43172,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109194300 +0100" stop="20261109195500 +0100" channel="M+ LaLiga">
+	<programme start="20261109203400 +0100" stop="20261109204600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43115,7 +43183,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109195500 +0100" stop="20261109200700 +0100" channel="M+ LaLiga">
+	<programme start="20261109204600 +0100" stop="20261109205900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43126,7 +43194,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109200700 +0100" stop="20261109202000 +0100" channel="M+ LaLiga">
+	<programme start="20261109205900 +0100" stop="20261109211100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43137,7 +43205,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109202000 +0100" stop="20261109203200 +0100" channel="M+ LaLiga">
+	<programme start="20261109211100 +0100" stop="20261109212300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43151,7 +43219,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109203200 +0100" stop="20261109204400 +0100" channel="M+ LaLiga">
+	<programme start="20261109212300 +0100" stop="20261109213600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43162,7 +43230,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109204400 +0100" stop="20261109205700 +0100" channel="M+ LaLiga">
+	<programme start="20261109213600 +0100" stop="20261109214800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43173,7 +43241,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261109205700 +0100" stop="20261109211200 +0100" channel="M+ LaLiga">
+	<programme start="20261109214800 +0100" stop="20261109220300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43187,7 +43255,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109211200 +0100" stop="20261109222900 +0100" channel="M+ LaLiga">
+	<programme start="20261109220300 +0100" stop="20261109232000 +0100" channel="M+ LaLiga">
     <title>DeportePlus con Juanma Castaño T26/27 · 08/11/2026</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
@@ -43202,7 +43270,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261109222900 +0100" stop="20261110001600 +0100" channel="M+ LaLiga">
+	<programme start="20261109232000 +0100" stop="20261110010700 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: RC Celta - Levante UD</title>
     <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Deportes,Fútbol) Los dos equipos perdieron en la última jornada y ambos siguen sin dar el salto necesario; los celestes para acercarse a puestos europeos y los granotas para alejarse del descenso. Giráldez tendrá que volver a gestionar al milímetro sus recursos tras UEL.
@@ -43216,7 +43284,7 @@
 			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110001600 +0100" stop="20261110011600 +0100" channel="M+ LaLiga">
+	<programme start="20261110010700 +0100" stop="20261110020700 +0100" channel="M+ LaLiga">
     <title>Universo Valdano T10 · Lamine Yamal</title>
     <sub-title>2026 | TP | ★7.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Lamine Yamal es el primer invitado de la décima temporada de Universo Valdano. Tras conseguir el Mundial 2026 con la Selección Española, el extremo de Barça nos recibe para hablar sobre su meteórico ascenso, el Balón de Oro, la obsesión por la Champions.
@@ -43232,7 +43300,7 @@
 			<value>7.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110011600 +0100" stop="20261110031000 +0100" channel="M+ LaLiga">
+	<programme start="20261110020700 +0100" stop="20261110040100 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
@@ -43243,7 +43311,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110031000 +0100" stop="20261110041400 +0100" channel="M+ LaLiga">
+	<programme start="20261110040100 +0100" stop="20261110050500 +0100" channel="M+ LaLiga">
     <title>Los Otros T3 · Fútbol y racismo</title>
     <sub-title>2020 | ⑫ | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) En los últimos meses se han multiplicado los episodios racistas en el fútbol en países como Italia o Inglaterra. En España, los primeros años de la década del 2000 registraron el mayor número de incidentes de la historia de nuestro fútbol.
@@ -43257,7 +43325,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110041400 +0100" stop="20261110042600 +0100" channel="M+ LaLiga">
+	<programme start="20261110050500 +0100" stop="20261110051700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43271,7 +43339,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110042600 +0100" stop="20261110043800 +0100" channel="M+ LaLiga">
+	<programme start="20261110051700 +0100" stop="20261110053000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43285,7 +43353,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110043800 +0100" stop="20261110045100 +0100" channel="M+ LaLiga">
+	<programme start="20261110053000 +0100" stop="20261110054200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43299,7 +43367,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110045100 +0100" stop="20261110050300 +0100" channel="M+ LaLiga">
+	<programme start="20261110054200 +0100" stop="20261110055400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43310,7 +43378,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110050300 +0100" stop="20261110051500 +0100" channel="M+ LaLiga">
+	<programme start="20261110055400 +0100" stop="20261110060600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43321,7 +43389,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110051500 +0100" stop="20261110052800 +0100" channel="M+ LaLiga">
+	<programme start="20261110060600 +0100" stop="20261110061900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43332,7 +43400,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110052800 +0100" stop="20261110054000 +0100" channel="M+ LaLiga">
+	<programme start="20261110061900 +0100" stop="20261110063100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43346,7 +43414,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110054000 +0100" stop="20261110055200 +0100" channel="M+ LaLiga">
+	<programme start="20261110063100 +0100" stop="20261110064300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43357,7 +43425,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110055200 +0100" stop="20261110060500 +0100" channel="M+ LaLiga">
+	<programme start="20261110064300 +0100" stop="20261110065600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43368,7 +43436,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261110060500 +0100" stop="20261110061700 +0100" channel="M+ LaLiga">
+	<programme start="20261110065600 +0100" stop="20261110070900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -43382,7 +43450,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261110061700 +0100" stop="20261110070700 +0100" channel="M+ LaLiga">
+	<programme start="20261110070900 +0100" stop="20261110080000 +0100" channel="M+ LaLiga">
     <title>Soy Leyenda T1 · Roberto Carlos</title>
     <sub-title>2021 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Roberto Carlos no sólo es uno de los madridistas más laureados, su figura también es clave en la evolución del juego en la posición de lateral. El brasileño repasa la carrera del que para muchos es el mejor jugador de la historia en su demarcación.
@@ -43394,22 +43462,6 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261110070700 +0100" stop="20261110080000 +0100" channel="M+ LaLiga">
-    <title>Universo Valdano T9 · Filipe Luís</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) Jorge Valdano visitó a Filipe Luis en Brasil días antes de su repentino despido como entrenador del Flamengo. El exfutbolista del Deportivo de la Coruña, Atlético de Madrid, Chelsea y Flamengo analiza su primera experiencia en los banquillos.
-· País: España
-· Presenta: Jorge Valdano.
-· Productora: Mediapro.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4463863" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110080000 +0100" stop="20261110100000 +0100" channel="M+ LaLiga">
@@ -44758,7 +44810,7 @@
 	</programme>
 	<programme start="20261112224000 +0100" stop="20261112231000 +0100" channel="M+ LaLiga">
     <title>90 años de historias T2019 · Luis Suárez</title>
-    <sub-title>2019 | TP | ★6.0/10</sub-title>
+    <sub-title>2019 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Luis Suárez, jugador del FC Barcelona durante siete temporadas, conquistó seis títulos en dos Ligas, dos Copas y dos Copas de Ferias. Su traspaso al Inter de Milán le convirtió en el primer futbolista español en ser fichado por un club italiano.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -44767,7 +44819,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112231000 +0100" stop="20261112232200 +0100" channel="M+ LaLiga">
@@ -47483,7 +47535,7 @@
 	</programme>
 	<programme start="20261111023100 +0100" stop="20261111023500 +0100" channel="M+ Originales">
     <title>Bakalá express T26/27 E9</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
 · País: España
 · Presenta: Raúl Pérez.</desc>
@@ -47492,6 +47544,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261111023500 +0100" stop="20261111030500 +0100" channel="M+ Originales">
     <title>Ilustres ignorantes T19 · Malos hábitos</title>
@@ -56576,7 +56631,7 @@
 	</programme>
 	<programme start="20261109092000 +0100" stop="20261109114000 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Barakaldo - Real Unión</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -56584,13 +56639,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109114000 +0100" stop="20261109134500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Pontevedra - Ourense</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -56598,9 +56650,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261109134500 +0100" stop="20261109161500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Antequera - Rayo Majadahonda</title>
@@ -56934,7 +56983,7 @@
 	</programme>
 	<programme start="20261112130500 +0100" stop="20261112152500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Pontevedra - Ourense</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -56942,9 +56991,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112152500 +0100" stop="20261112174500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Avilés - Extremadura</title>
@@ -56987,7 +57033,7 @@
 	</programme>
 	<programme start="20261112210500 +0100" stop="20261112232500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Barakaldo - Real Unión</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -56995,9 +57041,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112232500 +0100" stop="20261113012500 +0100" channel="Primera Federación">
     <title>Resúmenes Primera Federación T26/27 · Jornada 11</title>
@@ -64694,7 +64737,7 @@
 	</programme>
 	<programme start="20261109230000 +0100" stop="20261110020000 +0100" channel="Telecinco">
     <title>La isla de las tentaciones T11 E18</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★3.0/10</sub-title>
     <desc>(Entretenimiento,Telerrealidad) Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras.
 · País: España</desc>
     <category>Entretenimiento, Telerrealidad</category>
@@ -64702,6 +64745,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>3.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261110020000 +0100" stop="20261110022500 +0100" channel="Telecinco">
     <title>Gran Madrid Show</title>
@@ -64806,7 +64852,7 @@
     <desc>(Información,Informativo) Espacio de tertulia y opinión, presentado por Ana Terradillos, que cuenta con personajes del ámbito político, económico, social y cultural para analizar los acontecimientos que marcan la actualidad nacional e internacional.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389847" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447168" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -64817,7 +64863,7 @@
     <desc>(Información,Informativo) Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389849" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447170" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -64828,7 +64874,7 @@
     <desc>(Información,Informativo) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4406159" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447172" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -64839,7 +64885,7 @@
     <desc>(Información,Informativo) Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389851" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447174" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -64887,7 +64933,7 @@
     <desc>(Entretenimiento,Magacín) La tarde se mueve.
 · País: España</desc>
     <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417518" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447176" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -64898,7 +64944,7 @@
     <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
 · País: España</desc>
     <category>Entretenimiento, Tertulia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417516" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447178" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -64909,7 +64955,7 @@
     <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
 · País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4394000" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447180" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -64920,7 +64966,7 @@
     <desc>(Entretenimiento,Concurso) Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
 · País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417941" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447182" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -64968,7 +65014,7 @@
     <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.
 · País: España</desc>
     <category>Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4312041" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447184" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -64979,7 +65025,7 @@
     <desc>(Entretenimiento,Telerrealidad) Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras.
 · País: España</desc>
     <category>Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4393998" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447186" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -74134,6 +74180,532 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
+	<programme start="20261109110600 +0100" stop="20261109111800 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109111800 +0100" stop="20261109113000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109113000 +0100" stop="20261109114200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109114200 +0100" stop="20261109115500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109115500 +0100" stop="20261109120700 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109120700 +0100" stop="20261109121900 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109121900 +0100" stop="20261109123200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109123200 +0100" stop="20261109124400 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109124400 +0100" stop="20261109125600 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109125600 +0100" stop="20261109131200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109131200 +0100" stop="20261109150200 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490944" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109150200 +0100" stop="20261109161700 +0100" channel="M+ LaLiga">
+    <title>DeportePlus con Juanma Castaño T26/27 · 08/11/2026</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488241" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109161700 +0100" stop="20261109170200 +0100" channel="M+ LaLiga">
+    <title>90 años de historias T2019 · Messi</title>
+    <sub-title>2019 | TP | ★6.6/10</sub-title>
+    <desc>(Deportes,Programa deportes) Lionel Andrés Messi Cuccittini conocido como Leo Messi, es el primer futbolista en la historia que ha ganado, entre otras distinciones, cinco veces el Balón de Oro, los cuatro primeros de forma consecutiva y cinco Botas de Oro.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3802219" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109170200 +0100" stop="20261109190600 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El Osasuna, necesitado de puntos tras sumar una victoria en ocho encuentros, recibe a un Athlétic que se ha aupado a la séptima plaza tras dos triunfos consecutivos.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490934" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109190600 +0100" stop="20261109191800 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109191800 +0100" stop="20261109193100 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109193100 +0100" stop="20261109194300 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109194300 +0100" stop="20261109195500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109195500 +0100" stop="20261109200700 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109200700 +0100" stop="20261109202000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109202000 +0100" stop="20261109203200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109203200 +0100" stop="20261109204400 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109204400 +0100" stop="20261109205700 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261109205700 +0100" stop="20261109211200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109211200 +0100" stop="20261109222900 +0100" channel="M+ LaLiga">
+    <title>DeportePlus con Juanma Castaño T26/27 · 08/11/2026</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
+· País: España
+· Presenta: Juanma Castaño.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488241" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261109222900 +0100" stop="20261110001600 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: RC Celta - Levante UD</title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
+    <desc>(Deportes,Fútbol) Los dos equipos perdieron en la última jornada y ambos siguen sin dar el salto necesario; los celestes para acercarse a puestos europeos y los granotas para alejarse del descenso. Giráldez tendrá que volver a gestionar al milímetro sus recursos tras UEL.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490942" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110001600 +0100" stop="20261110011600 +0100" channel="M+ LaLiga">
+    <title>Universo Valdano T10 · Lamine Yamal</title>
+    <sub-title>2026 | TP | ★7.6/10</sub-title>
+    <desc>(Deportes,Programa deportes) Lamine Yamal es el primer invitado de la décima temporada de Universo Valdano. Tras conseguir el Mundial 2026 con la Selección Española, el extremo de Barça nos recibe para hablar sobre su meteórico ascenso, el Balón de Oro, la obsesión por la Champions.
+· País: España
+· Presenta: Jorge Valdano.
+· Productora: Mediapro.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4503290" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110011600 +0100" stop="20261110031000 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490936" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110031000 +0100" stop="20261110041400 +0100" channel="M+ LaLiga">
+    <title>Los Otros T3 · Fútbol y racismo</title>
+    <sub-title>2020 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) En los últimos meses se han multiplicado los episodios racistas en el fútbol en países como Italia o Inglaterra. En España, los primeros años de la década del 2000 registraron el mayor número de incidentes de la historia de nuestro fútbol.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3804742" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110041400 +0100" stop="20261110042600 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110042600 +0100" stop="20261110043800 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110043800 +0100" stop="20261110045100 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110045100 +0100" stop="20261110050300 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110050300 +0100" stop="20261110051500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110051500 +0100" stop="20261110052800 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110052800 +0100" stop="20261110054000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110054000 +0100" stop="20261110055200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110055200 +0100" stop="20261110060500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261110060500 +0100" stop="20261110061700 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110061700 +0100" stop="20261110070700 +0100" channel="M+ LaLiga">
+    <title>Soy Leyenda T1 · Roberto Carlos</title>
+    <sub-title>2021 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Roberto Carlos no sólo es uno de los madridistas más laureados, su figura también es clave en la evolución del juego en la posición de lateral. El brasileño repasa la carrera del que para muchos es el mejor jugador de la historia en su demarcación.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3910162" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110070700 +0100" stop="20261110080000 +0100" channel="M+ LaLiga">
+    <title>Universo Valdano T9 · Filipe Luís</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Jorge Valdano visitó a Filipe Luis en Brasil días antes de su repentino despido como entrenador del Flamengo. El exfutbolista del Deportivo de la Coruña, Atlético de Madrid, Chelsea y Flamengo analiza su primera experiencia en los banquillos.
+· País: España
+· Presenta: Jorge Valdano.
+· Productora: Mediapro.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4463863" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
 	<programme start="20261109003000 +0100" stop="20261109011900 +0100" channel="AMC Crime">
     <title>Asesinados antes del amanecer T1 E10 · La súplica de un padre</title>
     <sub-title>2020 | ⑯ | ★6.9/10</sub-title>
@@ -78402,20 +78974,6 @@
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4306941" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261109180000 +0100" stop="20261109200000 +0100" channel="LaLiga TV Hypermotion">
-    <title>Jornada 13: UD Las Palmas - CD Eldense T26/27 · LALIGA HYPERMOTION</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Fútbol) Las Palmas recibe al Eldense después de ganar 2-3 en el campo del Oviedo, un triunfo de mérito que evidencia su capacidad para resolver partidos abiertos. El Eldense necesita una respuesta tras perder 0-2 contra el Granada.
-· País: España</desc>
-    <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4505509" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
