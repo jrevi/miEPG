@@ -4629,7 +4629,7 @@
 	</programme>
 	<programme start="20261111011700 +0100" stop="20261111031700 +0100" channel="AXN Movies">
     <title>Tiburón</title>
-    <sub-title>1975 | ⑯ | ★7.6/10</sub-title>
+    <sub-title>1975 | ⑯ | ★7.8/10</sub-title>
     <desc>(Cine,Thriller) Un jefe de la policía de Nueva Inglaterra, un cazador de tiburones y un científico se enfrentan a un enorme tiburón blanco.
 · País: Estados Unidos
 · Dirección: Steven Spielberg.
@@ -4644,7 +4644,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.6/10</value>
+			<value>7.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111031700 +0100" stop="20261111050200 +0100" channel="AXN Movies">
@@ -14670,7 +14670,7 @@
 	</programme>
 	<programme start="20261113020500 +0100" stop="20261113053400 +0100" channel="DAZN 2">
     <title>DIRECTO Jornada 10: Washington Commanders @ New York Giants T26/27 · NFL</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol americano) Los Washington Commanders visitan a los New York Giants en un apasionante duelo divisional de la NFC Este. Dos históricos rivales se enfrentan en un partido marcado por la intensidad, la rivalidad y la lucha por una victoria importante en la NFL.
 · País: Estados Unidos</desc>
     <category>Deportes, Fútbol americano</category>
@@ -14679,7 +14679,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113053400 +0100" stop="20261113093400 +0100" channel="DAZN 2">
@@ -15434,7 +15434,7 @@
 	</programme>
 	<programme start="20261114205100 +0100" stop="20261114232400 +0100" channel="DAZN Baloncesto 3">
     <title>DIRECTO Jornada 8: Joventut - Basket Zaragoza T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15443,7 +15443,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114232400 +0100" stop="20261115032400 +0100" channel="DAZN Baloncesto 3">
@@ -16471,7 +16471,7 @@
 	</programme>
 	<programme start="20261110141500 +0100" stop="20261110143000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16480,7 +16480,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110143000 +0100" stop="20261110144500 +0100" channel="DAZN LaLiga">
@@ -16496,7 +16496,7 @@
 	</programme>
 	<programme start="20261110144500 +0100" stop="20261110150000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: CE Sabadell - Real Sociedad B</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16504,12 +16504,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110150000 +0100" stop="20261110163000 +0100" channel="DAZN LaLiga">
-    <title>DIRECTO Programa 32 T26/27 · Trending</title>
+    <title>Trending T26/27 · Programa 32</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
@@ -16581,7 +16578,7 @@
 		</rating>
 	</programme>
 	<programme start="20261110210000 +0100" stop="20261110223000 +0100" channel="DAZN LaLiga">
-    <title>Programa 32 T26/27 · Trending</title>
+    <title>Trending T26/27 · Programa 32</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
@@ -16596,7 +16593,7 @@
 	</programme>
 	<programme start="20261110223000 +0100" stop="20261111003000 +0100" channel="DAZN LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Valencia - Real Madrid</title>
-    <sub-title>2026 | TP | ★7.6/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16604,13 +16601,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>7.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111003000 +0100" stop="20261111004500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16619,7 +16613,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111004500 +0100" stop="20261111010000 +0100" channel="DAZN LaLiga">
@@ -16661,7 +16655,7 @@
 	</programme>
 	<programme start="20261111134500 +0100" stop="20261111140000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16670,7 +16664,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111140000 +0100" stop="20261111150000 +0100" channel="DAZN LaLiga">
@@ -16808,7 +16802,7 @@
 	</programme>
 	<programme start="20261112120000 +0100" stop="20261112140000 +0100" channel="DAZN LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Valencia - Real Madrid</title>
-    <sub-title>2026 | TP | ★7.6/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16816,9 +16810,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>7.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112140000 +0100" stop="20261112141500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 12: Osasuna - Athletic</title>
@@ -16880,7 +16871,7 @@
 	</programme>
 	<programme start="20261112163000 +0100" stop="20261112164500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16889,7 +16880,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112164500 +0100" stop="20261112170000 +0100" channel="DAZN LaLiga">
@@ -16989,7 +16980,7 @@
 	</programme>
 	<programme start="20261113140000 +0100" stop="20261113141500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16998,7 +16989,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113141500 +0100" stop="20261113143000 +0100" channel="DAZN LaLiga">
@@ -17072,7 +17063,7 @@
 	</programme>
 	<programme start="20261113170000 +0100" stop="20261113190000 +0100" channel="DAZN LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Valencia - Real Madrid</title>
-    <sub-title>2026 | TP | ★7.6/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17080,9 +17071,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>7.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261113190000 +0100" stop="20261113210000 +0100" channel="DAZN LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Sevilla - Alavés</title>
@@ -17158,7 +17146,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261114120000 +0100" stop="20261114121500 +0100" channel="DAZN LaLiga">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Leganés - Burgos</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
@@ -17225,7 +17213,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261114173000 +0100" stop="20261114174500 +0100" channel="DAZN LaLiga">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Leganés - Burgos</title>
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Leganés - Burgos</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
@@ -17236,7 +17224,7 @@
 		</rating>
 	</programme>
 	<programme start="20261114174500 +0100" stop="20261114180000 +0100" channel="DAZN LaLiga">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Valladolid - Castellón</title>
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Valladolid CF - CD Castellón</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
@@ -17291,7 +17279,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261114220000 +0100" stop="20261114221500 +0100" channel="DAZN LaLiga">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Sporting</title>
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Real Sporting</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
@@ -17302,7 +17290,7 @@
 		</rating>
 	</programme>
 	<programme start="20261114221500 +0100" stop="20261114223000 +0100" channel="DAZN LaLiga">
-    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Almería - Andorra</title>
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
@@ -20745,7 +20733,7 @@
 	</programme>
 	<programme start="20261110230000 +0100" stop="20261111000000 +0100" channel="Eurosport 1">
     <title>Anatomía del G.O.A.T.</title>
-    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Documentales,Deportes) Este documental explora el talento, la mentalidad y la ciencia detrás del extraordinario dominio de Tadej Pogacar en el ciclismo.
 · País: Francia
 · Dirección: Antoine Magnan.
@@ -20756,7 +20744,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111000000 +0100" stop="20261111013000 +0100" channel="Eurosport 1">
@@ -20929,7 +20917,7 @@
 	</programme>
 	<programme start="20261111161500 +0100" stop="20261111171500 +0100" channel="Eurosport 1">
     <title>Anatomía del G.O.A.T.</title>
-    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Documentales,Deportes) Este documental explora el talento, la mentalidad y la ciencia detrás del extraordinario dominio de Tadej Pogacar en el ciclismo.
 · País: Francia
 · Dirección: Antoine Magnan.
@@ -20940,7 +20928,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111171500 +0100" stop="20261111183000 +0100" channel="Eurosport 1">
@@ -22369,7 +22357,7 @@
 	</programme>
 	<programme start="20261113040000 +0100" stop="20261113050000 +0100" channel="Eurosport 2">
     <title>UCI World Tour T2026 · París - Roubaix M</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) La París-Roubaix es una de las clásicas más duras del calendario ciclista. No en vano, es conocida como el infierno del norte por su recorrido adoquinado. Tras 122 ediciones, nunca la ha ganado un español. Mathieu van der Poel encadena tres triunfos.
 · País: Francia</desc>
     <category>Deportes, Ciclismo</category>
@@ -22377,6 +22365,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113050000 +0100" stop="20261113060000 +0100" channel="Eurosport 2">
     <title>Juegos Olímpicos</title>
@@ -22418,7 +22409,7 @@
 	</programme>
 	<programme start="20261113110000 +0100" stop="20261113120000 +0100" channel="Eurosport 2">
     <title>UCI World Tour T2026 · París - Roubaix M</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Ciclismo) La París-Roubaix es una de las clásicas más duras del calendario ciclista. No en vano, es conocida como el infierno del norte por su recorrido adoquinado. Tras 122 ediciones, nunca la ha ganado un español. Mathieu van der Poel encadena tres triunfos.
 · País: Francia</desc>
     <category>Deportes, Ciclismo</category>
@@ -22426,6 +22417,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113120000 +0100" stop="20261113143000 +0100" channel="Eurosport 2">
     <title>Abierto de Inglaterra de snooker T26/27 · Ali Carter vs Mark Williams</title>
@@ -22499,7 +22493,7 @@
 	</programme>
 	<programme start="20261113214500 +0100" stop="20261113231500 +0100" channel="Eurosport 2">
     <title>Lo mejor de la UFC T2026 · 13/11/2026</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★3.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El auge de las artes marciales mixtas viene de la mano del UFC, un campeonato que aglutina a la mayoría de las estrellas de este deporte. Este espacio repasa los mejores momentos de esta exigente competición.
 · País: Estados Unidos</desc>
     <category>Deportes, Programa deportes</category>
@@ -22508,7 +22502,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>3.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113231500 +0100" stop="20261114000000 +0100" channel="Eurosport 2">
@@ -22550,7 +22544,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261114040000 +0100" stop="20261114050000 +0100" channel="Eurosport 2">
+	<programme start="20261114040000 +0100" stop="20261114060000 +0100" channel="Eurosport 2">
     <title>Abierto de Shenzhen de snooker T26/27 · Yuan Sijun vs Wu Yize</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Snooker) El Abierto de Shenzhen de snooker es la sexta cita de ranking de la temporada.
@@ -22562,19 +22556,6 @@
 		</rating>
 		<star-rating system="ES">
 			<value>5.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261114050000 +0100" stop="20261114060000 +0100" channel="Eurosport 2">
-    <title>Hall Of Fame Tokio 2020</title>
-    <sub-title>2021 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) Los Juegos Olímpicos de Tokio se pudieron celebrar a pesar de el aplazamiento de un año que sufrieron a causa de la pandemia. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita japonesa.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P1928733" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114060000 +0100" stop="20261114070000 +0100" channel="Eurosport 2">
@@ -24079,7 +24060,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111233600 +0100" stop="20261112000000 +0100" channel="Iberalia TV">
+	<programme start="20261111233600 +0100" stop="20261112003200 +0100" channel="Iberalia TV">
     <title>Cazadores sin fonteras - Cuando la niebla amenaza, barrunta un gran día de caza</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) Cuando la niebla amenaza, barrunta un gran día de caza.
@@ -24093,12 +24074,18 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112000000 +0100" stop="20261112040000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112003200 +0100" stop="20261112010400 +0100" channel="Iberalia TV">
+    <title>A vueltas con los corzos</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112010400 +0100" stop="20261112014200 +0100" channel="Iberalia TV">
+    <title>Feeder en santa amalia</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Después de dos meses de borrascas continuadas, las aguas de los embalses y ríos están muy crecidas amenazando las poblaciones circundantes. Nos desplazamos hasta Santa Amalia, donde poder desempeñar la pesca a feeder.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4251443" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24106,12 +24093,37 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112040000 +0100" stop="20261112080000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112014200 +0100" stop="20261112021500 +0100" channel="Iberalia TV">
+    <title>Gestión de corzas en tierras burgalesas</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Antonio Baeza va a tratar de hacer gestión de corzas en un coto.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3917688" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112021500 +0100" stop="20261112025000 +0100" channel="Iberalia TV">
+    <title>El desafío del zorzal en tierras de Jaén</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112025000 +0100" stop="20261112033600 +0100" channel="Iberalia TV">
+    <title>Aguas prohibidas ep 2 El secreto de Little Andamán</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112033600 +0100" stop="20261112041500 +0100" channel="Iberalia TV">
+    <title>Los fogones de la caza con San Tierno</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este programa disfrutamos de la cocina de Santiago González Moreno, un joven emprendedor apasionado por la gastronomía, los productos tradicionales y la conexión con la vida rural.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4192331" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24119,12 +24131,13 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112080000 +0100" stop="20261112120000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112041500 +0100" stop="20261112044900 +0100" channel="Iberalia TV">
+    <title>La pasa del zorzal, historia de una migración</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este documental sentirás la emoción que nuestros tres protagonistas viven día a día durante la pasa de uno de los pájaros cinegéticos más astutos, el zorzal.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4309417" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24132,12 +24145,27 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112120000 +0100" stop="20261112160000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112044900 +0100" stop="20261112051800 +0100" channel="Iberalia TV">
+    <title>Carpfishing cuando despierta la tormenta</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Acompaña a Fran en una sesión invernal de carpfishing. Entre la calma de la espera y el desafío de una tormenta, la experiencia será clave para capturar grandes ejemplares y conectar con la naturaleza antes de que el tiempo empeore finalmente.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4197530" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112051800 +0100" stop="20261112055300 +0100" channel="Iberalia TV">
+    <title>Jabalís a la espera en la traviesa</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) "Jabalíes a la espera en La Traviesa" es un documental que, como bien anticipa su título, nos sumerge en una jornada donde la estrategia y el conocimiento del terreno marcan la diferencia.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4288930" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24145,12 +24173,32 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112160000 +0100" stop="20261112200000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112055300 +0100" stop="20261112063500 +0100" channel="Iberalia TV">
+    <title>Silencio se caza</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Silencio se caza -.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4345080" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112063500 +0100" stop="20261112070900 +0100" channel="Iberalia TV">
+    <title>Surfcasting en Sancti Petri</title>
+    <desc>(Documentales) Sin detalles...</desc>
+    <category>Documentales</category>
+	</programme>
+	<programme start="20261112070900 +0100" stop="20261112072900 +0100" channel="Iberalia TV">
+    <title>La conservación del cazador Ep 2 Con Alberto Monje Luna (?) Ep 2 · La conservación del cazador Con Alberto Monje Luna</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En el segundo episodio, la tensión en las orillas del río Zambeze se intensifica cuando la convivencia entre humanos y depredadores alcanza un punto crítico.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4298495" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24158,12 +24206,41 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112200000 +0100" stop="20261113000000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112072900 +0100" stop="20261112081200 +0100" channel="Iberalia TV">
+    <title>La apertura del corzo con blaser</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En primavera es tiempo de corzo, tiempo de espera y rececho, tiempo de campear sobre la carcasia florida con las estacionarias aguas de abril. Es este momento del año en la que la caza se transforma en una inspiración.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4236607" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112081200 +0100" stop="20261112084200 +0100" channel="Iberalia TV">
+    <title>Andalusian bass</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Rafael y Antonio se embarcan en la aventura de ir a un pantano desconocido y probar distintas técnicas para hacerse con buenas capturas de bases.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4021756" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112084200 +0100" stop="20261112092000 +0100" channel="Iberalia TV">
+    <title>Human &amp; wildlife conflict</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Exploramos la compleja relación entre la humanidad y la vida salvaje. Desde la caza sostenible hasta la importancia de los recursos naturales en la educación y el bienestar comunitario.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4439455" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24171,12 +24248,37 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113000000 +0100" stop="20261113040000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112092000 +0100" stop="20261112095700 +0100" channel="Iberalia TV">
+    <title>Proyecto zorzal en cataluña</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112095700 +0100" stop="20261112103600 +0100" channel="Iberalia TV">
+    <title>Secretos del delta del ebro - costa vol.2</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112103600 +0100" stop="20261112111300 +0100" channel="Iberalia TV">
+    <title>Human &amp; wildlife conflict Ep.2 Cuando la naturaleza se desborda (?) E2 · Human &amp; wildlife conflict Cuando la naturaleza se desborda</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En un ecosistema desbordado por la sequía, la sobrepoblación y la presión humana, comunidades enfrentan las consecuencias del conflicto entre hombres y animales.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4279494" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112111300 +0100" stop="20261112115700 +0100" channel="Iberalia TV">
+    <title>Black Bass en Rules</title>
+    <sub-title>2024 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Nos trasladamos hasta el embalse de Rules en busca de Black Bass. En esta aventura, Manuel Romero y David Martín pondrán a prueba los señuelos que han fabricado este invierno, confiando en su ingenio para atraer a los depredadores.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3225230" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24184,12 +24286,18 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113040000 +0100" stop="20261113080000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112115700 +0100" stop="20261112123300 +0100" channel="Iberalia TV">
+    <title>Doble pulso. La precisión del instinto</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112123300 +0100" stop="20261112130400 +0100" channel="Iberalia TV">
+    <title>Bautismo de sal, surfcasting</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Documentales,Caza y pesca) Bautismo de Sal es un documental de pesca urbana que nos adentra en un escenario tan cercano como exigente: la costa, los puertos y los entornos marinos donde la ciudad se encuentra con el mar.
+· País: España</desc>
+    <category>Documentales, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4321480" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24197,12 +24305,32 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113080000 +0100" stop="20261113120000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112130400 +0100" stop="20261112133100 +0100" channel="Iberalia TV">
+    <title>La conservación del cazador Con Alberto Monje Luna Ep 3</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112133100 +0100" stop="20261112140000 +0100" channel="Iberalia TV">
+    <title>Expedición Guadiana</title>
+    <sub-title>2024 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Hoy afrontamos, junto a Felix Valero, el segundo día de esta apasionante expedición por las aguas del Guadiana en busca de las imponentes carpas. Con cada lance, la emoción se mezcla con el desafío de capturar a estos cyprinidos.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4313779" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112140000 +0100" stop="20261112143500 +0100" channel="Iberalia TV">
+    <title>Human &amp; wildlife conflict Ep3 el valor de la vida salvaje</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En el centro de Extremadura, en un lago a rebosar de carpas, nuestro protagonista se dispone a pasar una jornada a carpfishing.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4303440" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24210,12 +24338,27 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113120000 +0100" stop="20261113160000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112143500 +0100" stop="20261112151100 +0100" channel="Iberalia TV">
+    <title>Atún rojo pesca y marcaje electronico</title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Una jornada marcada por el esfuerzo y la incertidumbre del océano.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4063418" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112151100 +0100" stop="20261112154700 +0100" channel="Iberalia TV">
+    <title>Entre perdices y jabalíes</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Como vimos en el primer episodio de esta temporada, los nervios se templaban con los primeros lances, aunque esta vez a las ya veloces patirrojas se ha añadido la siempre incierta caza nocturna a los jabalíes.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4019475" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24223,12 +24366,18 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113160000 +0100" stop="20261113200000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112154700 +0100" stop="20261112162000 +0100" channel="Iberalia TV">
+    <title>A vueltas con los corzos</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112162000 +0100" stop="20261112165800 +0100" channel="Iberalia TV">
+    <title>Feeder en santa amalia</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Después de dos meses de borrascas continuadas, las aguas de los embalses y ríos están muy crecidas amenazando las poblaciones circundantes. Nos desplazamos hasta Santa Amalia, donde poder desempeñar la pesca a feeder.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4251443" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24236,18 +24385,534 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113200000 +0100" stop="20261114000000 +0100" channel="Iberalia TV">
-    <title>Iberalia TV</title>
-    <sub-title>2018 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento) Iberalia TV -.</desc>
-    <category>Entretenimiento</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+	<programme start="20261112165800 +0100" stop="20261112173100 +0100" channel="Iberalia TV">
+    <title>Gestión de corzas en tierras burgalesas</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Antonio Baeza va a tratar de hacer gestión de corzas en un coto.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3917688" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112173100 +0100" stop="20261112180500 +0100" channel="Iberalia TV">
+    <title>El desafío del zorzal en tierras de Jaén</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112180500 +0100" stop="20261112185200 +0100" channel="Iberalia TV">
+    <title>Aguas prohibidas ep 2 El secreto de Little Andamán</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112185200 +0100" stop="20261112193000 +0100" channel="Iberalia TV">
+    <title>Los fogones de la caza con San Tierno</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este programa disfrutamos de la cocina de Santiago González Moreno, un joven emprendedor apasionado por la gastronomía, los productos tradicionales y la conexión con la vida rural.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4192331" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
+	</programme>
+	<programme start="20261112193000 +0100" stop="20261112200500 +0100" channel="Iberalia TV">
+    <title>La pasa del zorzal, historia de una migración</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este documental sentirás la emoción que nuestros tres protagonistas viven día a día durante la pasa de uno de los pájaros cinegéticos más astutos, el zorzal.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4309417" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112200500 +0100" stop="20261112203400 +0100" channel="Iberalia TV">
+    <title>Carpfishing cuando despierta la tormenta</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Acompaña a Fran en una sesión invernal de carpfishing. Entre la calma de la espera y el desafío de una tormenta, la experiencia será clave para capturar grandes ejemplares y conectar con la naturaleza antes de que el tiempo empeore finalmente.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4197530" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112203400 +0100" stop="20261112211400 +0100" channel="Iberalia TV">
+    <title>Los fogones de la caza: Alejandra Rojas Palacios</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261112211400 +0100" stop="20261112214800 +0100" channel="Iberalia TV">
+    <title>Jabalís a la espera en la traviesa</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) "Jabalíes a la espera en La Traviesa" es un documental que, como bien anticipa su título, nos sumerge en una jornada donde la estrategia y el conocimiento del terreno marcan la diferencia.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4288930" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112214800 +0100" stop="20261112223000 +0100" channel="Iberalia TV">
+    <title>Silencio se caza</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Silencio se caza -.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4345080" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112223000 +0100" stop="20261112230400 +0100" channel="Iberalia TV">
+    <title>Surfcasting en Sancti Petri</title>
+    <desc>(Documentales) Sin detalles...</desc>
+    <category>Documentales</category>
+	</programme>
+	<programme start="20261112230400 +0100" stop="20261112232400 +0100" channel="Iberalia TV">
+    <title>La conservación del cazador Ep 2 Con Alberto Monje Luna (?) Ep 2 · La conservación del cazador Con Alberto Monje Luna</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En el segundo episodio, la tensión en las orillas del río Zambeze se intensifica cuando la convivencia entre humanos y depredadores alcanza un punto crítico.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4298495" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112232400 +0100" stop="20261113004600 +0100" channel="Iberalia TV">
+    <title>La apertura del corzo con blaser</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En primavera es tiempo de corzo, tiempo de espera y rececho, tiempo de campear sobre la carcasia florida con las estacionarias aguas de abril. Es este momento del año en la que la caza se transforma en una inspiración.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4236607" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113004600 +0100" stop="20261113011600 +0100" channel="Iberalia TV">
+    <title>The Hunter Dreams Safari ganador sorteo 2024 E1</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113011600 +0100" stop="20261113014600 +0100" channel="Iberalia TV">
+    <title>Tras el bass, raspando fondo</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Iván se enfrenta al frío del invierno en busca del Black Bass. En un embalse silencioso y profundo, la técnica del jig y la paciencia son esenciales para arrancar picadas a ras de fondo, transformando la lentitud en capturas memorables.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4204172" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113014600 +0100" stop="20261113022800 +0100" channel="Iberalia TV">
+    <title>Los fogones de la caza con Elena Lucas</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En el programa disfrutaremos de la compañía de Elena Lucas, una chef que de niña soñaba con ser pintora y hoy asegura que sigue pintando pero con ingredientes.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4062251" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113022800 +0100" stop="20261113031100 +0100" channel="Iberalia TV">
+    <title>Zorzales entre jaras y monte</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113031100 +0100" stop="20261113034000 +0100" channel="Iberalia TV">
+    <title>Mar Rojo Expedition</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113034000 +0100" stop="20261113040900 +0100" channel="Iberalia TV">
+    <title>Tras los machos monteses en Sierra Mágina</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este documental, nos adentramos en la Sierra Mágina en busca de los machos monteses, un desafío de rececho en un terreno montañoso y salvaje, donde la paciencia, estrategia y conocimiento del terreno serán clave.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3921416" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113040900 +0100" stop="20261113045000 +0100" channel="Iberalia TV">
+    <title>La pasa del zorzal, historia de una migración</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este documental sentirás la emoción que nuestros tres protagonistas viven día a día durante la pasa de uno de los pájaros cinegéticos más astutos, el zorzal.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4309417" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113045000 +0100" stop="20261113052100 +0100" channel="Iberalia TV">
+    <title>Barbos de canal a mosca</title>
+    <sub-title>2024 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Nos encontramos en Valencia, en un canal de aguas cristalinas, donde acompañamos a David Calo en una jornada de pesca a mosca. Nuestro objetivo: dar con los esquivos barbos y las astutas asecas.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3428773" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113052100 +0100" stop="20261113055500 +0100" channel="Iberalia TV">
+    <title>México con Jesús Riquelme Ep. 1 Cacerías de otro continente</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Acompaña a Jesús Riquelme en su inolvidable aventura de caza en México, donde enfrenta el emocionante reto de cazar el ciervo de cola blanca.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4253078" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113055500 +0100" stop="20261113065400 +0100" channel="Iberalia TV">
+    <title>Setters: Los Guardianes Del Báltico</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En los bosques otoñales de Estonia comienza la temporada de la becada.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4293652" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113065400 +0100" stop="20261113073300 +0100" channel="Iberalia TV">
+    <title>San Nicolau fishing II</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113073300 +0100" stop="20261113080200 +0100" channel="Iberalia TV">
+    <title>Montería la ribera "el bosque" con Saúl Bravo</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) De la mano de Saúl Bravo, 20 cazadores vivirán una jornada de lances y agarres a una de las especies más deseadas de nuestro territorio nacional, el jabalí.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4236625" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113080200 +0100" stop="20261113083700 +0100" channel="Iberalia TV">
+    <title>Palomas tras la ciclogénesis</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113083700 +0100" stop="20261113090700 +0100" channel="Iberalia TV">
+    <title>Ecos del jarama black bass</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) El black bass se convierte en el hilo conductor de este recorrido, mostrando su capacidad de adaptación en un entorno cambiante.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4047453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113090700 +0100" stop="20261113103100 +0100" channel="Iberalia TV">
+    <title>Setters, los guardianes del Báltico</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113103100 +0100" stop="20261113110100 +0100" channel="Iberalia TV">
+    <title>Depredadores con pescasur</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113110100 +0100" stop="20261113113800 +0100" channel="Iberalia TV">
+    <title>Pulsar master T.2 Ep.3 Daños por jabalíes en la huerta valenciana (?) E3 · Pulsar master T.2 Daños por jabalíes en la huerta valenciana</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este tercer episodio abordamos un grave problema con los jabalíes.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3930849" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113113800 +0100" stop="20261113121200 +0100" channel="Iberalia TV">
+    <title>Zorzales y tormentas en la bonita Extremadura</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113121200 +0100" stop="20261113124100 +0100" channel="Iberalia TV">
+    <title>Feeder en santa amalia</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Después de dos meses de borrascas continuadas, las aguas de los embalses y ríos están muy crecidas amenazando las poblaciones circundantes. Nos desplazamos hasta Santa Amalia, donde poder desempeñar la pesca a feeder.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4251443" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113124100 +0100" stop="20261113131200 +0100" channel="Iberalia TV">
+    <title>Huétor Santillán recorrido con arco</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113131200 +0100" stop="20261113134300 +0100" channel="Iberalia TV">
+    <title>Loritos en Altea</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Nos introducimos en una modalidad cercana, dinámica y llena de ritmo.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4236603" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113134300 +0100" stop="20261113142100 +0100" channel="Iberalia TV">
+    <title>Original bass - Desafío en la Serena</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Desafío en la Serena -.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4418501" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113142100 +0100" stop="20261113145500 +0100" channel="Iberalia TV">
+    <title>A treinta metros del fondo</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113145500 +0100" stop="20261113153100 +0100" channel="Iberalia TV">
+    <title>Colosos de Ruidera</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Acompañaremos en una sesión de carpfishing a Alex y David por estas preciosas lagunas que esconden unos peces de ensueño. En el mes de diciembre en pleno invierno, estos dos amigos, van a tentar a los grandes barbos.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4227550" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113153100 +0100" stop="20261113162000 +0100" channel="Iberalia TV">
+    <title>Tras las huellas del gamo blanco - El fantasma de la dehesa</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) El fantasma de la dehesa.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4420774" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113162000 +0100" stop="20261113165000 +0100" channel="Iberalia TV">
+    <title>The Hunter Dreams Safari ganador sorteo 2024 E1</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113165000 +0100" stop="20261113172100 +0100" channel="Iberalia TV">
+    <title>Tras el bass, raspando fondo</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Iván se enfrenta al frío del invierno en busca del Black Bass. En un embalse silencioso y profundo, la técnica del jig y la paciencia son esenciales para arrancar picadas a ras de fondo, transformando la lentitud en capturas memorables.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4204172" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113172100 +0100" stop="20261113180200 +0100" channel="Iberalia TV">
+    <title>Los fogones de la caza con Elena Lucas</title>
+    <sub-title>2025 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En el programa disfrutaremos de la compañía de Elena Lucas, una chef que de niña soñaba con ser pintora y hoy asegura que sigue pintando pero con ingredientes.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4062251" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113180200 +0100" stop="20261113184500 +0100" channel="Iberalia TV">
+    <title>Zorzales entre jaras y monte</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113184500 +0100" stop="20261113191500 +0100" channel="Iberalia TV">
+    <title>Mar Rojo Expedition</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113191500 +0100" stop="20261113194300 +0100" channel="Iberalia TV">
+    <title>Tras los machos monteses en Sierra Mágina</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este documental, nos adentramos en la Sierra Mágina en busca de los machos monteses, un desafío de rececho en un terreno montañoso y salvaje, donde la paciencia, estrategia y conocimiento del terreno serán clave.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3921416" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113194300 +0100" stop="20261113202500 +0100" channel="Iberalia TV">
+    <title>La pasa del zorzal, historia de una migración</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En este documental sentirás la emoción que nuestros tres protagonistas viven día a día durante la pasa de uno de los pájaros cinegéticos más astutos, el zorzal.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4309417" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113202500 +0100" stop="20261113205500 +0100" channel="Iberalia TV">
+    <title>Barbos de canal a mosca</title>
+    <sub-title>2024 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Nos encontramos en Valencia, en un canal de aguas cristalinas, donde acompañamos a David Calo en una jornada de pesca a mosca. Nuestro objetivo: dar con los esquivos barbos y las astutas asecas.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP3428773" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113205500 +0100" stop="20261113213000 +0100" channel="Iberalia TV">
+    <title>México con Jesús Riquelme Ep. 1 Cacerías de otro continente</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) Acompaña a Jesús Riquelme en su inolvidable aventura de caza en México, donde enfrenta el emocionante reto de cazar el ciervo de cola blanca.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4253078" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113213000 +0100" stop="20261113222900 +0100" channel="Iberalia TV">
+    <title>Setters: Los Guardianes Del Báltico</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) En los bosques otoñales de Estonia comienza la temporada de la becada.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4293652" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113222900 +0100" stop="20261113230700 +0100" channel="Iberalia TV">
+    <title>San Nicolau fishing II</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
+	</programme>
+	<programme start="20261113230700 +0100" stop="20261113233600 +0100" channel="Iberalia TV">
+    <title>Montería la ribera "el bosque" con Saúl Bravo</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Ocio y Aficiones,Caza y pesca) De la mano de Saúl Bravo, 20 cazadores vivirán una jornada de lances y agarres a una de las especies más deseadas de nuestro territorio nacional, el jabalí.
+· País: España</desc>
+    <category>Ocio y Aficiones, Caza y pesca</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP4236625" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113233600 +0100" stop="20261114000000 +0100" channel="Iberalia TV">
+    <title>Palomas tras la ciclogénesis</title>
+    <desc>(Ocio y Aficiones) Sin detalles...</desc>
+    <category>Ocio y Aficiones</category>
 	</programme>
 	<programme start="20261114000000 +0100" stop="20261114040000 +0100" channel="Iberalia TV">
     <title>Iberalia TV</title>
@@ -27095,7 +27760,7 @@
 	</programme>
 	<programme start="20261114230000 +0100" stop="20261114233000 +0100" channel="LaLiga TV Hypermotion">
     <title>Post LaLiga HyperMotion T26/27 · Oviedo - Girona</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Sin clasificar,SIN CLASIFICAR) Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.
 · País: España</desc>
     <category>Sin clasificar, SIN CLASIFICAR</category>
@@ -27104,7 +27769,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114233000 +0100" stop="20261115013000 +0100" channel="LaLiga TV Hypermotion">
@@ -28519,7 +29184,7 @@
 	<programme start="20261112204000 +0100" stop="20261112210000 +0100" channel="M+ Baloncesto">
     <title>DIRECTO Jornada 11: Real Madrid - Estrella Roja T26/27 · Previa Euroliga de baloncesto</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
+    <desc>(Deportes,Programa deportes) El Real Madrid recibe al Estrella Roja en la jornada 11 de la Euroliga. Aunque el equipo serbio llega en gran forma, con 7 victorias en sus ocho últimos partidos, el conjunto blanco espera hacer valer su condición de local en el Movistar Arena.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
@@ -28597,7 +29262,7 @@
 	</programme>
 	<programme start="20261113190000 +0100" stop="20261113195500 +0100" channel="M+ Baloncesto">
     <title>DIRECTO T26/27 E8 · Eurofighters Live</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters Live llega a Movistar Plus para acompañarte durante el tramo final de cada jornada. Todos los viernes, lo más destacado de cada semana y las imágenes más espectaculares del mejor baloncesto masculino y femenino de Europa.
 · País: España
 · Presenta: Sara Giménez.</desc>
@@ -28607,7 +29272,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>4.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113195500 +0100" stop="20261113201500 +0100" channel="M+ Baloncesto">
@@ -31020,7 +31685,7 @@
 	</programme>
 	<programme start="20261111145600 +0100" stop="20261111163400 +0100" channel="M+ Clásicos">
     <title>El séptimo sello</title>
-    <sub-title>1957 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>1957 | ⑫ | ★7.4/10</sub-title>
     <desc>(Cine,Drama) Suecia, mediados del siglo XIV. La peste negra está asolando toda Europa y el caballero Antonius Blovk y su escudero Jöns regresan de las Cruzadas tras diez años de batalla a su ansiado hogar.
 · País: Suecia
 · Dirección: Ingmar Bergman.
@@ -31035,7 +31700,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111163400 +0100" stop="20261111181300 +0100" channel="M+ Clásicos">
@@ -32487,7 +33152,7 @@
 	</programme>
 	<programme start="20261111235000 +0100" stop="20261112002200 +0100" channel="M+ Comedia">
     <title>Ilustres ignorantes T20 · Los finales</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) La actriz Nikki García y el humorista Xavi Puig son los invitados de este capítulo de Ilustres en el que debaten sobre “Los finales” ¿Qué final les hubiera gustado cambiar en su vida: de una relación, una actuación, una comida…?
 · País: España
 · Presenta: Javier Coronas.
@@ -32499,7 +33164,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112002200 +0100" stop="20261112015400 +0100" channel="M+ Comedia">
@@ -34650,7 +35315,7 @@
 	</programme>
 	<programme start="20261113113000 +0100" stop="20261113133000 +0100" channel="M+ Deportes">
     <title>DIRECTO Cuartos de Final Femenino 2 T2026 · Premier Padel. Dubai</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458975" />
@@ -34658,7 +35323,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113133000 +0100" stop="20261113160000 +0100" channel="M+ Deportes">
@@ -34686,7 +35351,7 @@
 	</programme>
 	<programme start="20261113180000 +0100" stop="20261113203000 +0100" channel="M+ Deportes">
     <title>DIRECTO Cuartos de Final Masculino 2 T2026 · Premier Padel. Dubai</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458981" />
@@ -34694,7 +35359,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113203000 +0100" stop="20261113210000 +0100" channel="M+ Deportes">
@@ -34867,7 +35532,7 @@
 	</programme>
 	<programme start="20261114102500 +0100" stop="20261114104500 +0100" channel="M+ Deportes">
     <title>Evasión TV T2026 · Mallorca by UTMB</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que trata de descubrir los destinos más inhóspitos del país, los mejores spots donde realizar actividad al aire libre y disfrutar de todos los deportes outdoor.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -34876,7 +35541,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114104500 +0100" stop="20261114124000 +0100" channel="M+ Deportes">
@@ -38000,7 +38665,7 @@
 	</programme>
 	<programme start="20261110210000 +0100" stop="20261110230200 +0100" channel="M+ Estrenos">
     <title>El chivato</title>
-    <sub-title>2025 | ⑱ | ★6.4/10</sub-title>
+    <sub-title>2025 | ⑱ | ★6.0/10</sub-title>
     <desc>(Cine,Thriller) Kang-su, un informante traicionado y encarcelado tras sobrevivir a un intento de asesinato, se une a un detective desilusionado para enfrentar la corrupción que destruyó su vida, mientras lucha entre el deseo de venganza y la búsqueda de justicia.
 · País: Corea del Sur
 · Dirección: Hwang Byeng-Gug.
@@ -38011,7 +38676,7 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110230200 +0100" stop="20261111005300 +0100" channel="M+ Estrenos">
@@ -39833,7 +40498,7 @@
 	<programme start="20261113100000 +0100" stop="20261113140000 +0100" channel="M+ Golf">
     <title>DIRECTO DP World Tour Championship Dubai. Jornada 2. Parte 2 T25/26</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Golf) Con un mínimo de 39 torneos en 26 países diferentes, el DP World Tour refuerza su posición como primer tour global del mundo. Las grandes citas serán los cinco Rolex Series y la gran final de Dubai.</desc>
+    <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515920" />
 		<rating system="ES">
@@ -39859,7 +40524,7 @@
 	<programme start="20261113150000 +0100" stop="20261113170000 +0100" channel="M+ Golf">
     <title>DP World Tour Championship Dubai. Jornada 2. Parte 2 T25/26</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Golf) Con un mínimo de 39 torneos en 26 países diferentes, el DP World Tour refuerza su posición como primer tour global del mundo. Las grandes citas serán los cinco Rolex Series y la gran final de Dubai.</desc>
+    <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515920" />
 		<rating system="ES">
@@ -40067,7 +40732,7 @@
 	<programme start="20261114080000 +0100" stop="20261114100000 +0100" channel="M+ Golf">
     <title>DIRECTO DP World Tour Championship Dubai (VO). Jornada 3. Parte 1 T25/26</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Golf) Con un mínimo de 39 torneos en 26 países diferentes, el DP World Tour refuerza su posición como primer tour global del mundo. Las grandes citas serán los cinco Rolex Series y la gran final de Dubai.</desc>
+    <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515922" />
 		<rating system="ES">
@@ -40080,7 +40745,7 @@
 	<programme start="20261114100000 +0100" stop="20261114140000 +0100" channel="M+ Golf">
     <title>DIRECTO DP World Tour Championship Dubai. Jornada 3. Parte 2 T25/26</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Golf) Con un mínimo de 39 torneos en 26 países diferentes, el DP World Tour refuerza su posición como primer tour global del mundo. Las grandes citas serán los cinco Rolex Series y la gran final de Dubai.</desc>
+    <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515922" />
 		<rating system="ES">
@@ -40116,7 +40781,7 @@
 	<programme start="20261114145500 +0100" stop="20261114165500 +0100" channel="M+ Golf">
     <title>DP World Tour Championship Dubai. Jornada 3. Parte 2 T25/26</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Golf) Con un mínimo de 39 torneos en 26 países diferentes, el DP World Tour refuerza su posición como primer tour global del mundo. Las grandes citas serán los cinco Rolex Series y la gran final de Dubai.</desc>
+    <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515922" />
 		<rating system="ES">
@@ -43374,7 +44039,7 @@
 	<programme start="20261110205000 +0100" stop="20261110225000 +0100" channel="M+ LaLiga">
     <title>DIRECTO Primera Ronda: Tavernes - Valencia T26/27 · Copa del Rey Mapfre</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
-    <desc>(Deportes,Fútbol) El UE Tavernes de la Valldigna recibe al Valencia CF en el Camp Municipal por los 1/64 de final de la Copa del Rey. El club de la Safor pertenece a la Lliga Comunitat FFCV y está en la primera ronda copera tras vencer a la UD Maracena en la ronda previa.
+    <desc>(Deportes,Fútbol) El UE Tavernes recibe como local en Mestalla al Valencia CF en la primera ronda de la Copa tras superar al Maracena. El Valencia, ocho veces campeón, busca su segundo triunfo con Aguirre.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4512413" />
@@ -43842,7 +44507,7 @@
 	</programme>
 	<programme start="20261111233100 +0100" stop="20261111233700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43851,7 +44516,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111233700 +0100" stop="20261111234200 +0100" channel="M+ LaLiga">
@@ -43867,7 +44532,7 @@
 	</programme>
 	<programme start="20261111234200 +0100" stop="20261111234800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: CE Sabadell - Real Sociedad B</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43875,9 +44540,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111234800 +0100" stop="20261111235300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Real Sporting - Real Valladolid CF</title>
@@ -44061,7 +44723,7 @@
 	</programme>
 	<programme start="20261112131000 +0100" stop="20261112131500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44070,7 +44732,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112131500 +0100" stop="20261112132000 +0100" channel="M+ LaLiga">
@@ -44086,7 +44748,7 @@
 	</programme>
 	<programme start="20261112132000 +0100" stop="20261112132500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: CE Sabadell - Real Sociedad B</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44094,9 +44756,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112132500 +0100" stop="20261112133500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Real Sporting - Real Valladolid CF</title>
@@ -44283,7 +44942,7 @@
 	</programme>
 	<programme start="20261112185000 +0100" stop="20261112205000 +0100" channel="M+ LaLiga">
     <title>DIRECTO Primera Ronda: Navalcarnero - Betis T26/27 · Copa del Rey Mapfre</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) El Estadio Sto. Domingo de Alcorcón acoge el partido de Primer Ronda de Copa del Rey entre el CDA Navalcarnero (2ª RFEF, Grupo 5) y Real Betis (equipo Champions y 4º en liga). Los locales abandonan el Estadio Mariano González para buscar más aforo.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44292,7 +44951,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112205000 +0100" stop="20261112224000 +0100" channel="M+ LaLiga">
@@ -44499,7 +45158,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261113080000 +0100" stop="20261113095500 +0100" channel="M+ LaLiga">
-    <title>Copa del Rey Mapfre T26/27 · Primera Ronda: Anaitasuna - Alavés</title>
+    <title>Primera Ronda: Anaitasuna - Alavés T26/27 · Copa del Rey Mapfre</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Copa del Rey es el torneo con más historia del fútbol español.
 · País: España</desc>
@@ -44529,7 +45188,7 @@
 	<programme start="20261113105500 +0100" stop="20261113125000 +0100" channel="M+ LaLiga">
     <title>Primera Ronda: Tavernes - Valencia T26/27 · Copa del Rey Mapfre</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
-    <desc>(Deportes,Fútbol) El UE Tavernes de la Valldigna recibe al Valencia CF en el Camp Municipal por los 1/64 de final de la Copa del Rey. El club de la Safor pertenece a la Lliga Comunitat FFCV y está en la primera ronda copera tras vencer a la UD Maracena en la ronda previa.
+    <desc>(Deportes,Fútbol) El UE Tavernes recibe como local en Mestalla al Valencia CF en la primera ronda de la Copa tras superar al Maracena. El Valencia, ocho veces campeón, busca su segundo triunfo con Aguirre.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4512413" />
@@ -44557,7 +45216,7 @@
 	</programme>
 	<programme start="20261113131000 +0100" stop="20261113150500 +0100" channel="M+ LaLiga">
     <title>Primera Ronda: Navalcarnero - Betis T26/27 · Copa del Rey Mapfre</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) El Estadio Sto. Domingo de Alcorcón acoge el partido de Primer Ronda de Copa del Rey entre el CDA Navalcarnero (2ª RFEF, Grupo 5) y Real Betis (equipo Champions y 4º en liga). Los locales abandonan el Estadio Mariano González para buscar más aforo.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44566,7 +45225,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113150500 +0100" stop="20261113160000 +0100" channel="M+ LaLiga">
@@ -45831,7 +46490,7 @@
 	</programme>
 	<programme start="20261112063000 +0100" stop="20261112083000 +0100" channel="M+ Liga de Campeones">
     <title>UEFA Youth League T26/27 · Jornada 4: Villarreal - PSG</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) Las futuras estrellas del fútbol continental protagonizan la Youth League. El torneo de la UEFA da la oportunidad a los juveniles de los clubes que participan en Champions de mostrar su talento más allá de sus países. El Barcelona se impuso en 2025.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45839,6 +46498,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261112083000 +0100" stop="20261112103000 +0100" channel="M+ Liga de Campeones">
     <title>UEFA Youth League T26/27 · Jornada 4: At. Madrid - Bayern Munich</title>
@@ -46795,7 +47457,7 @@
 	</programme>
 	<programme start="20261110230200 +0100" stop="20261110233000 +0100" channel="M+ Originales">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -46805,12 +47467,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110233000 +0100" stop="20261111000000 +0100" channel="M+ Originales">
     <title>Ilustres ignorantes T20 · Los finales</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) La actriz Nikki García y el humorista Xavi Puig son los invitados de este capítulo de Ilustres en el que debaten sobre “Los finales” ¿Qué final les hubiera gustado cambiar en su vida: de una relación, una actuación, una comida…?
 · País: España
 · Presenta: Javier Coronas.
@@ -46822,7 +47484,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111000000 +0100" stop="20261111004000 +0100" channel="M+ Originales">
@@ -47292,7 +47954,7 @@
 	</programme>
 	<programme start="20261111205900 +0100" stop="20261111212800 +0100" channel="M+ Originales">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -47302,12 +47964,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111212800 +0100" stop="20261111220000 +0100" channel="M+ Originales">
     <title>Ilustres ignorantes T20 · Los finales</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) La actriz Nikki García y el humorista Xavi Puig son los invitados de este capítulo de Ilustres en el que debaten sobre “Los finales” ¿Qué final les hubiera gustado cambiar en su vida: de una relación, una actuación, una comida…?
 · País: España
 · Presenta: Javier Coronas.
@@ -47319,7 +47981,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111220000 +0100" stop="20261111223000 +0100" channel="M+ Originales">
@@ -49073,7 +49735,7 @@
 	</programme>
 	<programme start="20261113141500 +0100" stop="20261113160500 +0100" channel="M+ Vamos 2">
     <title>Liga Argentina. Torneo Clausura T2026 · Jornada 16: San Lorenzo - Platense</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El Torneo Clausura cierra la Primera División argentina. Se trata de una competición independiente del Apertura, con su propia clasificación, playoffs y campeón, aunque los puntos de ambas.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -49082,7 +49744,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113160500 +0100" stop="20261113163500 +0100" channel="M+ Vamos 2">
@@ -49569,7 +50231,7 @@
 	</programme>
 	<programme start="20261113224000 +0100" stop="20261114004000 +0100" channel="M+ Vamos 3">
     <title>Cuartos de Final Femenino 2 T2026 · Premier Padel. Dubai</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458975" />
@@ -49577,7 +50239,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114004000 +0100" stop="20261114010000 +0100" channel="M+ Vamos 3">
@@ -51006,7 +51668,7 @@
 	</programme>
 	<programme start="20261114045500 +0100" stop="20261114064500 +0100" channel="M+ Vamos">
     <title>Cuartos de Final Masculino 2 T2026 · Premier Padel. Dubai</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458981" />
@@ -51014,7 +51676,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114064500 +0100" stop="20261114083000 +0100" channel="M+ Vamos">
@@ -51354,7 +52016,7 @@
 	</programme>
 	<programme start="20261110210200 +0100" stop="20261110213000 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -51364,12 +52026,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110213000 +0100" stop="20261110220200 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · Los finales</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) La actriz Nikki García y el humorista Xavi Puig son los invitados de este capítulo de Ilustres en el que debaten sobre “Los finales” ¿Qué final les hubiera gustado cambiar en su vida: de una relación, una actuación, una comida…?
 · País: España
 · Presenta: Javier Coronas.
@@ -51381,7 +52043,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110220200 +0100" stop="20261111001200 +0100" channel="Movistar Plus">
@@ -51523,7 +52185,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111082000 +0100" stop="20261111085000 +0100" channel="Movistar Plus">
+	<programme start="20261111082000 +0100" stop="20261111084900 +0100" channel="Movistar Plus">
     <title>Planeta Tenis T2026 E27</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
@@ -51538,7 +52200,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111085000 +0100" stop="20261111102000 +0100" channel="Movistar Plus">
+	<programme start="20261111084900 +0100" stop="20261111101900 +0100" channel="Movistar Plus">
     <title>Mercenario</title>
     <sub-title>2024 | ⑯ | ★6.6/10</sub-title>
     <desc>(Documentales,Actualidad) Mercenario es la historia de Espinosa, un combatiente español en el frente de Ucrania. Un joven que soñaba con ser militar y acaba descubriendo el horror, el dolor y las mentiras de la guerra. Su verdadera batalla comienza cuando decide volver a casa.
@@ -51555,7 +52217,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111102000 +0100" stop="20261111122100 +0100" channel="Movistar Plus">
+	<programme start="20261111101900 +0100" stop="20261111122100 +0100" channel="Movistar Plus">
     <title>Los niños del Brasil</title>
     <sub-title>1978 | ⑱ | ★6.4/10</sub-title>
     <desc>(Cine,Thriller) El Doctor Josef Mengele se refugia en Brasil tras la caída del III Reich. Una vez allí, con la colaboración de un grupo de jóvenes militantes nazis, decide proseguir con sus aberrantes experimentos.
@@ -51575,7 +52237,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111122100 +0100" stop="20261111131600 +0100" channel="Movistar Plus">
+	<programme start="20261111122100 +0100" stop="20261111131800 +0100" channel="Movistar Plus">
     <title>Cómo la IIGM se convirtió en global</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Historia) La Segunda Guerra Mundial ha sido considerada históricamente una guerra europea que acabó convirtiéndose en un conflicto global y cambió el mundo para siempre. Pero otros países como Japón, China, Estados Unidos y Oriente Medio no lo vieron así.
@@ -51591,7 +52253,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111131600 +0100" stop="20261111140600 +0100" channel="Movistar Plus">
+	<programme start="20261111131800 +0100" stop="20261111140800 +0100" channel="Movistar Plus">
     <title>Los nazis y la carrera espacial</title>
     <sub-title>2025 | ⑦ | ★6.6/10</sub-title>
     <desc>(Documentales,Historia) Cuando el Apolo 11 aterrizó en la Luna, fue visto por una audiencia de 650 millones de personas y se consideró instantáneamente el mayor logro del ser humano. Pero los secretos detrás de esta hazaña han permanecido ocultos en la historia, hasta ahora.
@@ -51607,7 +52269,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111140600 +0100" stop="20261111153000 +0100" channel="Movistar Plus">
+	<programme start="20261111140800 +0100" stop="20261111152800 +0100" channel="Movistar Plus">
     <title>La película de nazis que nunca existió</title>
     <sub-title>2026 | ⑦ | ★6.0/10</sub-title>
     <desc>(Documentales,Sociedad) Herman J. Mankiewicz, guionista de "Ciudadano Kane", escribió en 1932 "The Mad Dog of Europe", un guion antinazi que retrataba la desintegración de una familia judío-alemana en los inicios de Hitler en el poder. Este visionario guion nunca se rodó.
@@ -51622,7 +52284,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111153000 +0100" stop="20261111183500 +0100" channel="Movistar Plus">
+	<programme start="20261111152800 +0100" stop="20261111183300 +0100" channel="Movistar Plus">
     <title>La lista de Schindler</title>
     <sub-title>1993 | ⑫ | ★7.4/10</sub-title>
     <desc>(Cine,Drama) Aunque la política no le interesa lo más mínimo, Oskar Schindler, un hombre de negocios y jugador empedernido, hace fortuna aprovechando la invasión de Polonia por la Alemania nazi.
@@ -51642,7 +52304,7 @@
 			<value>7.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111183500 +0100" stop="20261111192200 +0100" channel="Movistar Plus">
+	<programme start="20261111183300 +0100" stop="20261111192200 +0100" channel="Movistar Plus">
     <title>Descifrando a Hitler: Populista</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Biografía) Tras la derrota en la Primera Guerra Mundial, Alemania está hundida. Hitler exige una renovación nacional. Putzi Hanfstaengl, un rico alemán protagonista del ascenso del dictador, y su esposa Helene quedan impresionados por su carisma y convicción.
@@ -51672,7 +52334,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111200900 +0100" stop="20261111205900 +0100" channel="Movistar Plus">
+	<programme start="20261111200900 +0100" stop="20261111210000 +0100" channel="Movistar Plus">
     <title>Descifrando a Hitler: Fanático</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Biografía) En el verano de 1940, Hitler va camino de hacer realidad sus sueños de conquista mundial. Sus ejércitos han arrasado Europa, invadiendo un país tras otro. Antes de que alguien le detenga, muchas de sus fanáticas ideas se harán realidad.
@@ -51687,7 +52349,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111205900 +0100" stop="20261111213000 +0100" channel="Movistar Plus">
+	<programme start="20261111210000 +0100" stop="20261111213000 +0100" channel="Movistar Plus">
     <title>Bakalá T26/27 E10</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
@@ -51704,7 +52366,7 @@
 	</programme>
 	<programme start="20261111213000 +0100" stop="20261111220000 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -51714,12 +52376,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111220000 +0100" stop="20261111223000 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · Los finales</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) La actriz Nikki García y el humorista Xavi Puig son los invitados de este capítulo de Ilustres en el que debaten sobre “Los finales” ¿Qué final les hubiera gustado cambiar en su vida: de una relación, una actuación, una comida…?
 · País: España
 · Presenta: Javier Coronas.
@@ -51731,7 +52393,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111223000 +0100" stop="20261111231600 +0100" channel="Movistar Plus">
@@ -51748,7 +52410,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111231600 +0100" stop="20261112001000 +0100" channel="Movistar Plus">
+	<programme start="20261111231600 +0100" stop="20261112000700 +0100" channel="Movistar Plus">
     <title>Marihuana E2</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,Sociedad) Granada, finales de marzo de 2026. En un chalé de la urbanización de Los Tablazos, las fuerzas de seguridad se encuentran una espectacular plantación de marihuana con la última tecnología custodiada por un solo jardinero a sueldo de la Mafia Albanesa.
@@ -51762,7 +52424,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112001000 +0100" stop="20261112003900 +0100" channel="Movistar Plus">
+	<programme start="20261112000700 +0100" stop="20261112003600 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E1 · Sexualmente activo</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Tres años después de una desafortunada propuesta de matrimonio, Gordon y Ashley han seguido caminos separados. Un encuentro inesperado en el trabajo de Ashley vuelve a remover sentimientos que ambos creían superados.
@@ -51779,7 +52441,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112003900 +0100" stop="20261112010700 +0100" channel="Movistar Plus">
+	<programme start="20261112003600 +0100" stop="20261112010400 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E2 · Un amor limpio, sincero y transparente</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley se reencuentra con Colin y recibe una invitación para asistir al cumpleaños de Gordon, organizado por su nueva novia. La celebración promete convertirse en una situación incómoda para todos los implicados.
@@ -51796,7 +52458,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112010700 +0100" stop="20261112013700 +0100" channel="Movistar Plus">
+	<programme start="20261112010400 +0100" stop="20261112013200 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E3 · Monstera</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Gordon y Ashley acuerdan cenar juntos para aclarar sus sentimientos, mientras sus respectivas parejas parecen tener planes muy definidos para el futuro. Entretanto, una situación familiar inesperada reclama la atención de Ashley.
@@ -51813,7 +52475,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112013700 +0100" stop="20261112020900 +0100" channel="Movistar Plus">
+	<programme start="20261112013200 +0100" stop="20261112020500 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E4 · Desayuno con champán para nuevos comienzos</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley y Gordon intentan poner en orden sus sentimientos y sus respectivas relaciones después de una cena que ha complicado las cosas. Mientras tanto, Brett atraviesa una crisis de amistad con Gordon.
@@ -51830,7 +52492,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112020900 +0100" stop="20261112023900 +0100" channel="Movistar Plus">
+	<programme start="20261112020500 +0100" stop="20261112023500 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E5 · Fiesta sexual con drogas</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley intenta abrirse a nuevas posibilidades sentimentales, pero su relación con Gordon sigue generando incertidumbre. Una noche de juegos en el piso que comparte con sus amigos promete convertirse en una velada de lo más peculiar.
@@ -51847,7 +52509,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112023900 +0100" stop="20261112031100 +0100" channel="Movistar Plus">
+	<programme start="20261112023500 +0100" stop="20261112030700 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E6 · A juego</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley se ilusiona cuando Gordon la invita a pasar un fin de semana fuera, hasta que descubre que Brett y Chiara también participarán en la escapada. Lo que parecía una oportunidad para acercarse se convierte en un viaje lleno de situaciones incómodas.
@@ -51864,7 +52526,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112031100 +0100" stop="20261112034000 +0100" channel="Movistar Plus">
+	<programme start="20261112030700 +0100" stop="20261112033600 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E7 · ¿Eso es todo?</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley y Gordon afrontan nuevos desafíos familiares que los obligan a reflexionar sobre sus relaciones y responsabilidades. Mientras Ashley se reencuentra con personas de su pasado, Gordon debe tomar decisiones importantes sobre el cuidado de su madre.
@@ -51881,7 +52543,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112034000 +0100" stop="20261112041800 +0100" channel="Movistar Plus">
+	<programme start="20261112033600 +0100" stop="20261112041600 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E8 · Ron con pasas</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Final de serie. La Navidad llega a Sídney, pero Ashley no comparte el entusiasmo festivo de Gordon. Entre tensiones familiares, situaciones incómodas y sentimientos sin resolver, ambos afrontan unas fiestas que podrían marcar su futuro.
@@ -51898,11 +52560,82 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112041800 +0100" stop="20261112080500 +0100" channel="Movistar Plus">
-    <title>Documentales</title>
-    <desc>Programa por determinar...</desc>
+	<programme start="20261112041600 +0100" stop="20261112045400 +0100" channel="Movistar Plus">
+    <title>Paga o muere E1</title>
+    <sub-title>2026 | ⑫ | ★8.4/10</sub-title>
+    <desc>(Documentales,Sociedad) El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507361" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.4/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261112080500 +0100" stop="20261112093300 +0100" channel="Movistar Plus">
+	<programme start="20261112045400 +0100" stop="20261112053200 +0100" channel="Movistar Plus">
+    <title>Paga o muere E2</title>
+    <sub-title>2026 | ⑫ | ★7.4/10</sub-title>
+    <desc>(Documentales,Sociedad) ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507361" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112053200 +0100" stop="20261112062100 +0100" channel="Movistar Plus">
+    <title>Paga o muere E3</title>
+    <sub-title>2026 | ⑫ | ★8.2/10</sub-title>
+    <desc>(Documentales,Sociedad) El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507361" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112062100 +0100" stop="20261112072100 +0100" channel="Movistar Plus">
+    <title>Triana. El faro que no cesa</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <desc>(Documentales,Música) A través de la mirada de Eduardo Rodriguez y de voces de músicos de distintas generaciones, el título recorre la trayectoria de una banda que abrió nuevos caminos en la música española y transformó para siempre la relación entre el flamenco y el rock.
+· País: España
+· Dirección: Javier Reboredo, Luis Miguel Fernández Rodríguez.</desc>
+    <category>Documentales, Música</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4503565" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112072100 +0100" stop="20261112081000 +0100" channel="Movistar Plus">
+    <title>Informe Plus+. El espíritu de San Marino</title>
+    <sub-title>2024 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) De las 210 selecciones que forman parte de la FIFA hay una que no ha ganado nunca un partido oficial. El equipo nacional de San Marino echó a andar en 1990. Desde entonces ha encajado más de 800 goles y ha marcado 32.
+· País: España
+· Productora: Movistar+.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4331381" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112081000 +0100" stop="20261112093800 +0100" channel="Movistar Plus">
     <title>Derecho a boxear</title>
     <sub-title>2021 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Deportes) Dos boxeadoras desafiaron el sexismo y el racismo para luchar por su lugar en el ring.
@@ -51918,7 +52651,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112093300 +0100" stop="20261112111500 +0100" channel="Movistar Plus">
+	<programme start="20261112093800 +0100" stop="20261112112000 +0100" channel="Movistar Plus">
     <title>Soy Carl Lewis</title>
     <sub-title>2025 | ⑦ | ★6.0/10</sub-title>
     <desc>(Documentales,Biografía) El documental explora la vida del legendario nueve veces campeón olímpico. Revela su lucha por profesionalizar el atletismo y exigir un pago justo para los atletas, transformando un deporte ‘amateur’ en un negocio millonario.
@@ -51934,7 +52667,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112111500 +0100" stop="20261112125900 +0100" channel="Movistar Plus">
+	<programme start="20261112112000 +0100" stop="20261112130400 +0100" channel="Movistar Plus">
     <title>Primera plana</title>
     <sub-title>1974 | ⑱ | ★6.8/10</sub-title>
     <desc>(Cine,Comedia) En vísperas de su boda, el periodista Hildy Johnson es presionado por su editor para que cubra la ejecución de un asesino.
@@ -51954,9 +52687,9 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112125900 +0100" stop="20261112142700 +0100" channel="Movistar Plus">
+	<programme start="20261112130400 +0100" stop="20261112143200 +0100" channel="Movistar Plus">
     <title>E. Jean contra Trump</title>
-    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2025 | ⑫ | ★7.2/10</sub-title>
     <desc>(Documentales,Sociedad) La historia de E. Jean Carroll, periodista, escritora y consultora de la revista Elle. Y la de la mujer que se enfrentó al poder derrotando a Donald Trump en los tribunales por abuso sexual y difamación.
 · País: Estados Unidos
 · Dirección: Ivy Meeropol.
@@ -51968,12 +52701,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112142700 +0100" stop="20261112145400 +0100" channel="Movistar Plus">
+	<programme start="20261112143200 +0100" stop="20261112145900 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
 · País: España
 · Presenta: Leo Harlem.</desc>
@@ -51983,12 +52716,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112145400 +0100" stop="20261112153000 +0100" channel="Movistar Plus">
+	<programme start="20261112145900 +0100" stop="20261112153000 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · Los finales</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) La actriz Nikki García y el humorista Xavi Puig son los invitados de este capítulo de Ilustres en el que debaten sobre “Los finales” ¿Qué final les hubiera gustado cambiar en su vida: de una relación, una actuación, una comida…?
 · País: España
 · Presenta: Javier Coronas.
@@ -52000,7 +52733,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112153000 +0100" stop="20261112170500 +0100" channel="Movistar Plus">
@@ -52041,7 +52774,7 @@
 	</programme>
 	<programme start="20261112185000 +0100" stop="20261112210000 +0100" channel="Movistar Plus">
     <title>DIRECTO Primera Ronda: Navalcarnero - Betis T26/27 · Copa del Rey Mapfre</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) El Estadio Sto. Domingo de Alcorcón acoge el partido de Primer Ronda de Copa del Rey entre el CDA Navalcarnero (2ª RFEF, Grupo 5) y Real Betis (equipo Champions y 4º en liga). Los locales abandonan el Estadio Mariano González para buscar más aforo.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -52050,7 +52783,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112210000 +0100" stop="20261112214600 +0100" channel="Movistar Plus">
@@ -52649,22 +53382,18 @@
 		</star-rating>
 	</programme>
 	<programme start="20261114203000 +0100" stop="20261114210000 +0100" channel="Movistar Plus">
-    <title>DeportePlus Sábado</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <title>DeportePlus Sábado T26/27 · 14/11/2026</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) De la mano de Iñaki Aguirregabiria, el programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4488156" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261114210000 +0100" stop="20261114230000 +0100" channel="Movistar Plus">
     <title>Jornada 8: Joventut - Basket Zaragoza T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -52673,7 +53402,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114230000 +0100" stop="20261114232500 +0100" channel="Movistar Plus">
@@ -56718,7 +57447,7 @@
 	</programme>
 	<programme start="20261110130500 +0100" stop="20261110152500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Mirandés - Coria</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -56726,9 +57455,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261110152500 +0100" stop="20261110174500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Cacereño - Lugo</title>
@@ -56925,7 +57651,7 @@
 	</programme>
 	<programme start="20261112104500 +0100" stop="20261112130500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Mirandés - Coria</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -56933,9 +57659,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261112130500 +0100" stop="20261112152500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 11: Pontevedra - Ourense</title>
@@ -57141,7 +57864,7 @@
 	</programme>
 	<programme start="20261114130000 +0100" stop="20261114152000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 12: Bilbao Athletic - Racing Ferrol T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -57150,7 +57873,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114152000 +0100" stop="20261114163000 +0100" channel="Primera Federación">
@@ -57211,7 +57934,7 @@
 	</programme>
 	<programme start="20261114232000 +0100" stop="20261115014000 +0100" channel="Primera Federación">
     <title>Jornada 12: Bilbao Athletic - Racing Ferrol T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -57220,7 +57943,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110020000 +0100" stop="20261110031500 +0100" channel="RunTime Clásicos">
@@ -59899,7 +60622,8 @@
     <title>Tulsa King T4 E3 · Cese y desistimiento</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Dwight contraataca cuando el gobernador Clark le pone en el punto de mira a él y a su banda.
-· País: Estados Unidos</desc>
+· País: Estados Unidos
+· Reparto: Sylvester Stallone, Andrea Savage, Leon Jay Williams, Max Casella, Domenick Lombardozzi.</desc>
     <category>Series, Drama</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514988" />
 		<rating system="ES">
@@ -60565,7 +61289,8 @@
     <title>Tulsa King T4 E3 · Cese y desistimiento</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Dwight contraataca cuando el gobernador Clark le pone en el punto de mira a él y a su banda.
-· País: Estados Unidos</desc>
+· País: Estados Unidos
+· Reparto: Sylvester Stallone, Andrea Savage, Leon Jay Williams, Max Casella, Domenick Lombardozzi.</desc>
     <category>Series, Drama</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514988" />
 		<rating system="ES">
@@ -62232,7 +62957,8 @@
     <title>Tulsa King T4 E3 · Cese y desistimiento</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Dwight contraataca cuando el gobernador Clark le pone en el punto de mira a él y a su banda.
-· País: Estados Unidos</desc>
+· País: Estados Unidos
+· Reparto: Sylvester Stallone, Andrea Savage, Leon Jay Williams, Max Casella, Domenick Lombardozzi.</desc>
     <category>Series, Drama</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514988" />
 		<rating system="ES">
@@ -64308,7 +65034,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261110134500 +0100" stop="20261110150000 +0100" channel="Telecinco">
+	<programme start="20261110134500 +0100" stop="20261110145700 +0100" channel="Telecinco">
     <title>Vamos a ver T6 E51</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Información,Informativo) Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.
@@ -64319,7 +65045,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261110150000 +0100" stop="20261110153000 +0100" channel="Telecinco">
+	<programme start="20261110145700 +0100" stop="20261110153000 +0100" channel="Telecinco">
     <title>Informativos Telecinco</title>
     <sub-title>2025 | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
@@ -73634,6 +74360,547 @@
 		</rating>
 		<star-rating system="ES">
 			<value>7.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261114050000 +0100" stop="20261114060000 +0100" channel="Eurosport 2">
+    <title>Hall Of Fame Tokio 2020</title>
+    <sub-title>2021 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Los Juegos Olímpicos de Tokio se pudieron celebrar a pesar de el aplazamiento de un año que sufrieron a causa de la pandemia. Este espacio recuerda los mejores momentos protagonizados por los deportistas en la cita japonesa.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P1928733" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112000000 +0100" stop="20261112040000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112040000 +0100" stop="20261112080000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112080000 +0100" stop="20261112120000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112120000 +0100" stop="20261112160000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112160000 +0100" stop="20261112200000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112200000 +0100" stop="20261113000000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113000000 +0100" stop="20261113040000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113040000 +0100" stop="20261113080000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113080000 +0100" stop="20261113120000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113120000 +0100" stop="20261113160000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113160000 +0100" stop="20261113200000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113200000 +0100" stop="20261114000000 +0100" channel="Iberalia TV">
+    <title>Iberalia TV</title>
+    <sub-title>2018 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento) Iberalia TV -.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MIBERALP1460148" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111085000 +0100" stop="20261111102000 +0100" channel="Movistar Plus">
+    <title>Mercenario</title>
+    <sub-title>2024 | ⑯ | ★6.6/10</sub-title>
+    <desc>(Documentales,Actualidad) Mercenario es la historia de Espinosa, un combatiente español en el frente de Ucrania. Un joven que soñaba con ser militar y acaba descubriendo el horror, el dolor y las mentiras de la guerra. Su verdadera batalla comienza cuando decide volver a casa.
+· País: España
+· Dirección: Juanma Arizmendi.
+· Guion: Anna Surinyach.
+· Producción: Movistar+, Isabel Guerrero Martínez.</desc>
+    <category>Documentales, Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4357610" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111102000 +0100" stop="20261111122100 +0100" channel="Movistar Plus">
+    <title>Los niños del Brasil</title>
+    <sub-title>1978 | ⑱ | ★6.4/10</sub-title>
+    <desc>(Cine,Thriller) El Doctor Josef Mengele se refugia en Brasil tras la caída del III Reich. Una vez allí, con la colaboración de un grupo de jóvenes militantes nazis, decide proseguir con sus aberrantes experimentos.
+· País: Estados Unidos y Reino Unido
+· Dirección: Franklin J. Schaffner.
+· Reparto: Gregory Peck, Laurence Olivier, Steve Guttenberg, James Mason, Uta Hagen, Denholm Elliott, Lilli Palmer, Rosemary Harris.
+· Guion: Heywood Gould.
+· Música: Jerry Goldsmith.
+· Producción: Stanley O'Toole, Martin Richards.
+· Productora: Sir Lew Grade, ITC Entertainment.</desc>
+    <category>Cine, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3960886" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111131600 +0100" stop="20261111140600 +0100" channel="Movistar Plus">
+    <title>Los nazis y la carrera espacial</title>
+    <sub-title>2025 | ⑦ | ★6.6/10</sub-title>
+    <desc>(Documentales,Historia) Cuando el Apolo 11 aterrizó en la Luna, fue visto por una audiencia de 650 millones de personas y se consideró instantáneamente el mayor logro del ser humano. Pero los secretos detrás de esta hazaña han permanecido ocultos en la historia, hasta ahora.
+· País: Reino Unido
+· Dirección: Richard Shaw.
+· Reparto: Adrian Rawlins.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490338" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111140600 +0100" stop="20261111153000 +0100" channel="Movistar Plus">
+    <title>La película de nazis que nunca existió</title>
+    <sub-title>2026 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Documentales,Sociedad) Herman J. Mankiewicz, guionista de "Ciudadano Kane", escribió en 1932 "The Mad Dog of Europe", un guion antinazi que retrataba la desintegración de una familia judío-alemana en los inicios de Hitler en el poder. Este visionario guion nunca se rodó.
+· País: Francia
+· Dirección: Rubika Shah.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508651" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111153000 +0100" stop="20261111183500 +0100" channel="Movistar Plus">
+    <title>La lista de Schindler</title>
+    <sub-title>1993 | ⑫ | ★7.4/10</sub-title>
+    <desc>(Cine,Drama) Aunque la política no le interesa lo más mínimo, Oskar Schindler, un hombre de negocios y jugador empedernido, hace fortuna aprovechando la invasión de Polonia por la Alemania nazi.
+· País: Estados Unidos
+· Dirección: Steven Spielberg.
+· Reparto: Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall, Embeth Davidtz, Mark Ivanir, Shmulik Levy, Malgoscha Gebel, Jonathan Sagalle, Piotr Kadlcik, Stanislaw Brejdygant.
+· Guion: Steven Zaillian.
+· Música: John Williams.
+· Producción: Branko Lustig, Gerald R. Molen, Steven Spielberg.
+· Productora: Universal Pictures, Amblin Entertainment.</desc>
+    <category>Cine, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4364960" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111183500 +0100" stop="20261111192200 +0100" channel="Movistar Plus">
+    <title>Descifrando a Hitler: Populista</title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Documentales,Biografía) Tras la derrota en la Primera Guerra Mundial, Alemania está hundida. Hitler exige una renovación nacional. Putzi Hanfstaengl, un rico alemán protagonista del ascenso del dictador, y su esposa Helene quedan impresionados por su carisma y convicción.
+· País: Reino Unido
+· Productora: 72 Films.</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4371119" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111205900 +0100" stop="20261111213000 +0100" channel="Movistar Plus">
+    <title>Bakalá T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4414957" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112001000 +0100" stop="20261112003900 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E1 · Sexualmente activo</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Tres años después de una desafortunada propuesta de matrimonio, Gordon y Ashley han seguido caminos separados. Un encuentro inesperado en el trabajo de Ashley vuelve a remover sentimientos que ambos creían superados.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514410" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112003900 +0100" stop="20261112010700 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E2 · Un amor limpio, sincero y transparente</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley se reencuentra con Colin y recibe una invitación para asistir al cumpleaños de Gordon, organizado por su nueva novia. La celebración promete convertirse en una situación incómoda para todos los implicados.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514385" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112010700 +0100" stop="20261112013700 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E3 · Monstera</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Gordon y Ashley acuerdan cenar juntos para aclarar sus sentimientos, mientras sus respectivas parejas parecen tener planes muy definidos para el futuro. Entretanto, una situación familiar inesperada reclama la atención de Ashley.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514390" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112013700 +0100" stop="20261112020900 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E4 · Desayuno con champán para nuevos comienzos</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley y Gordon intentan poner en orden sus sentimientos y sus respectivas relaciones después de una cena que ha complicado las cosas. Mientras tanto, Brett atraviesa una crisis de amistad con Gordon.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514392" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112020900 +0100" stop="20261112023900 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E5 · Fiesta sexual con drogas</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley intenta abrirse a nuevas posibilidades sentimentales, pero su relación con Gordon sigue generando incertidumbre. Una noche de juegos en el piso que comparte con sus amigos promete convertirse en una velada de lo más peculiar.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514396" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112023900 +0100" stop="20261112031100 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E6 · A juego</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley se ilusiona cuando Gordon la invita a pasar un fin de semana fuera, hasta que descubre que Brett y Chiara también participarán en la escapada. Lo que parecía una oportunidad para acercarse se convierte en un viaje lleno de situaciones incómodas.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514398" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112031100 +0100" stop="20261112034000 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E7 · ¿Eso es todo?</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley y Gordon afrontan nuevos desafíos familiares que los obligan a reflexionar sobre sus relaciones y responsabilidades. Mientras Ashley se reencuentra con personas de su pasado, Gordon debe tomar decisiones importantes sobre el cuidado de su madre.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514401" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112034000 +0100" stop="20261112041800 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E8 · Ron con pasas</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Final de serie. La Navidad llega a Sídney, pero Ashley no comparte el entusiasmo festivo de Gordon. Entre tensiones familiares, situaciones incómodas y sentimientos sin resolver, ambos afrontan unas fiestas que podrían marcar su futuro.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514406" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112041800 +0100" stop="20261112080500 +0100" channel="Movistar Plus">
+    <title>Documentales</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20261112080500 +0100" stop="20261112093300 +0100" channel="Movistar Plus">
+    <title>Derecho a boxear</title>
+    <sub-title>2021 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Documentales,Deportes) Dos boxeadoras desafiaron el sexismo y el racismo para luchar por su lugar en el ring.
+· País: Reino Unido
+· Dirección: Georgina Cammalleri.
+· Productora: RAW.</desc>
+    <category>Documentales, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4497506" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112093300 +0100" stop="20261112111500 +0100" channel="Movistar Plus">
+    <title>Soy Carl Lewis</title>
+    <sub-title>2025 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Documentales,Biografía) El documental explora la vida del legendario nueve veces campeón olímpico. Revela su lucha por profesionalizar el atletismo y exigir un pago justo para los atletas, transformando un deporte ‘amateur’ en un negocio millonario.
+· País: Estados Unidos y Reino Unido
+· Dirección: Julie Anderson, Chris Hay.
+· Producción: Claudia Corbisiero, Torquil Jones, John McKenna.</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4512884" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112111500 +0100" stop="20261112125900 +0100" channel="Movistar Plus">
+    <title>Primera plana</title>
+    <sub-title>1974 | ⑱ | ★6.8/10</sub-title>
+    <desc>(Cine,Comedia) En vísperas de su boda, el periodista Hildy Johnson es presionado por su editor para que cubra la ejecución de un asesino.
+· País: Estados Unidos
+· Dirección: Billy Wilder.
+· Reparto: Jack Lemmon, Walter Matthau, Vincent Gardenia, Herbert Edelman, Allen Garfield, Susan Sarandon.
+· Guion: Charles MacArthur, Ben Hecht, Billy Wilder, I.A.L. Diamond.
+· Música: Billy May.
+· Producción: Paul Monash.
+· Productora: Universal Pictures, Paul Monash, Jennings Lang.</desc>
+    <category>Cine, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F1156298" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112125900 +0100" stop="20261112142700 +0100" channel="Movistar Plus">
+    <title>E. Jean contra Trump</title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Documentales,Sociedad) La historia de E. Jean Carroll, periodista, escritora y consultora de la revista Elle. Y la de la mujer que se enfrentó al poder derrotando a Donald Trump en los tribunales por abuso sexual y difamación.
+· País: Estados Unidos
+· Dirección: Ivy Meeropol.
+· Guion: Ivy Meeropol.
+· Producción: Laura Bickford, Ivy Meeropol.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4511319" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112142700 +0100" stop="20261112145400 +0100" channel="Movistar Plus">
+    <title>Leo Talks T7 · Minicadena perpetua</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
+· País: España
+· Presenta: Leo Harlem.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515709" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112145400 +0100" stop="20261112153000 +0100" channel="Movistar Plus">
+    <title>Ilustres ignorantes T20 · Los finales</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) La actriz Nikki García y el humorista Xavi Puig son los invitados de este capítulo de Ilustres en el que debaten sobre “Los finales” ¿Qué final les hubiera gustado cambiar en su vida: de una relación, una actuación, una comida…?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514676" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261110150000 +0100" stop="20261110153000 +0100" channel="Telecinco">
+    <title>Informativos Telecinco</title>
+    <sub-title>2025 | ★6.0/10</sub-title>
+    <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3899147" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261110120000 +0100" stop="20261111000000 +0100" channel="M+ LaLiga 2">
