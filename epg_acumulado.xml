@@ -8417,7 +8417,7 @@
 	</programme>
 	<programme start="20261111121000 +0100" stop="20261111124500 +0100" channel="Caza y Pesca">
     <title>Con arco al límite T1 · Arco y hurón</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) Intentamos cazar conejos con arco tradicional, enfrentándonos a animales rápidos, lances inesperados y oportunidades que duran apenas unos segundos. Una modalidad donde los reflejos y la precisión son fundamentales.
 · País: España</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -8426,7 +8426,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111124500 +0100" stop="20261111131500 +0100" channel="Caza y Pesca">
@@ -9319,7 +9319,7 @@
 	</programme>
 	<programme start="20261112210500 +0100" stop="20261112214000 +0100" channel="Caza y Pesca">
     <title>Con arco al límite T1 · Arco y hurón</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
     <desc>(Ocio y Aficiones,Caza y pesca) Intentamos cazar conejos con arco tradicional, enfrentándonos a animales rápidos, lances inesperados y oportunidades que duran apenas unos segundos. Una modalidad donde los reflejos y la precisión son fundamentales.
 · País: España</desc>
     <category>Ocio y Aficiones, Caza y pesca</category>
@@ -9328,7 +9328,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112214000 +0100" stop="20261112221000 +0100" channel="Caza y Pesca">
@@ -13665,7 +13665,7 @@
 	</programme>
 	<programme start="20261111145200 +0100" stop="20261111174800 +0100" channel="DAZN 1">
     <title>Goodwood Road Racing Club T2026 · Día 4</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) El circuito británico de Goodwood acoge una de las pruebas de vehículos históricos con más renombre del panorama internacional.
 · País: Reino Unido</desc>
     <category>Deportes, Motor</category>
@@ -13673,6 +13673,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261111174800 +0100" stop="20261111180200 +0100" channel="DAZN 1">
     <title>Premier Corner by Guiness 0,0 · Mikel Arteta</title>
@@ -14094,8 +14097,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261114115000 +0100" stop="20261114140500 +0100" channel="DAZN 1">
-    <title>Liga F T26/27 · Jornada 11: Espanyol - Costa Adeje Tenerife</title>
-    <sub-title>2026 | TP</sub-title>
+    <title>DIRECTO Jornada 11: Espanyol - Costa Adeje Tenerife T26/27 · Liga F</title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -14103,9 +14106,12 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261114140500 +0100" stop="20261114175000 +0100" channel="DAZN 1">
-    <title>NFL T26/27 · Jornada 9: Atlanta Falcons - Cincinnati Bengals</title>
+    <title>NFL T26/27 · Jornada 9: Cincinnati Bengals @ Atlanta Falcons</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol americano) La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero.
 · País: Estados Unidos</desc>
@@ -14130,7 +14136,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261114202000 +0100" stop="20261114223500 +0100" channel="DAZN 1">
-    <title>Liga F T26/27 · Jornada 11: Real Madrid Femenino - FC Badalona</title>
+    <title>DIRECTO Jornada 11: Real Madrid Femenino - FC Badalona T26/27 · Liga F</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
@@ -14195,7 +14201,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261115114500 +0100" stop="20261115140500 +0100" channel="DAZN 1">
-    <title>Liga F T26/27 · Jornada 11: Real Sociedad - Athletic Bilbao</title>
+    <title>DIRECTO Jornada 11: Real Sociedad - Athletic Bilbao T26/27 · Liga F</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
@@ -14294,7 +14300,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115222500 +0100" stop="20261116015500 +0100" channel="DAZN 1">
-    <title>DIRECTO Jornada 10: Arizona Cardinals - Los Angeles Rams T26/27 · NFL</title>
+    <title>DIRECTO Jornada 10: Los Angeles Rams @ Arizona Cardinals T26/27 · NFL</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol americano) Los Cardinals reciben a los Rams en la décima semana de la temporada regular de la NFL.
 · País: Estados Unidos</desc>
@@ -14415,7 +14421,7 @@
 		</rating>
 	</programme>
 	<programme start="20261112230200 +0100" stop="20261113030200 +0100" channel="DAZN 2 BAR">
-    <title>DAZN · DAZN 2 BAR</title>
+    <title>DAZN 2 BAR</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Programas De Entretenimiento) DAZN es una plataforma dedicada al deporte. De entre sus contenidos, destacan competiciones como la Premier League, la Euroliga, el Mundial de motociclismo, la Fórmula 1, los torneos del circuito WTA o la UFC.</desc>
     <category>Programas De Entretenimiento</category>
@@ -14425,7 +14431,7 @@
 		</rating>
 	</programme>
 	<programme start="20261113030200 +0100" stop="20261113070200 +0100" channel="DAZN 2 BAR">
-    <title>DAZN</title>
+    <title>DAZN 2 BAR</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Programas De Entretenimiento) DAZN es una plataforma dedicada al deporte. De entre sus contenidos, destacan competiciones como la Premier League, la Euroliga, el Mundial de motociclismo, la Fórmula 1, los torneos del circuito WTA o la UFC.</desc>
     <category>Programas De Entretenimiento</category>
@@ -14435,7 +14441,7 @@
 		</rating>
 	</programme>
 	<programme start="20261113070200 +0100" stop="20261113110200 +0100" channel="DAZN 2 BAR">
-    <title>DAZN</title>
+    <title>DAZN 2 BAR</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Programas De Entretenimiento) DAZN es una plataforma dedicada al deporte. De entre sus contenidos, destacan competiciones como la Premier League, la Euroliga, el Mundial de motociclismo, la Fórmula 1, los torneos del circuito WTA o la UFC.</desc>
     <category>Programas De Entretenimiento</category>
@@ -14445,7 +14451,7 @@
 		</rating>
 	</programme>
 	<programme start="20261113110200 +0100" stop="20261113150200 +0100" channel="DAZN 2 BAR">
-    <title>DAZN</title>
+    <title>DAZN 2 BAR</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Programas De Entretenimiento) DAZN es una plataforma dedicada al deporte. De entre sus contenidos, destacan competiciones como la Premier League, la Euroliga, el Mundial de motociclismo, la Fórmula 1, los torneos del circuito WTA o la UFC.</desc>
     <category>Programas De Entretenimiento</category>
@@ -14455,7 +14461,7 @@
 		</rating>
 	</programme>
 	<programme start="20261113150200 +0100" stop="20261113190200 +0100" channel="DAZN 2 BAR">
-    <title>DAZN</title>
+    <title>DAZN 2 BAR</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Programas De Entretenimiento) DAZN es una plataforma dedicada al deporte. De entre sus contenidos, destacan competiciones como la Premier League, la Euroliga, el Mundial de motociclismo, la Fórmula 1, los torneos del circuito WTA o la UFC.</desc>
     <category>Programas De Entretenimiento</category>
@@ -14465,7 +14471,7 @@
 		</rating>
 	</programme>
 	<programme start="20261113190200 +0100" stop="20261113230200 +0100" channel="DAZN 2 BAR">
-    <title>DAZN</title>
+    <title>DAZN 2 BAR</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Programas De Entretenimiento) DAZN es una plataforma dedicada al deporte. De entre sus contenidos, destacan competiciones como la Premier League, la Euroliga, el Mundial de motociclismo, la Fórmula 1, los torneos del circuito WTA o la UFC.</desc>
     <category>Programas De Entretenimiento</category>
@@ -14755,7 +14761,7 @@
 	</programme>
 	<programme start="20261114200000 +0100" stop="20261115010000 +0100" channel="DAZN 2">
     <title>DIRECTO Riley vs. Coupe T2026 · Boxeo: velada</title>
-    <sub-title>2026 | ⑱</sub-title>
+    <sub-title>2026 | ⑱ | ★4.0/10</sub-title>
     <desc>(Deportes,Boxeo) Viddal Riley defiende su título europeo de peso crucero de la EBU frente al aspirante francés Seydi Coupe en Londres, Inglaterra.
 · País: Reino Unido</desc>
     <category>Deportes, Boxeo</category>
@@ -14763,6 +14769,9 @@
 		<rating system="ES">
 			<value>18</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261115010000 +0100" stop="20261115020000 +0100" channel="DAZN 2">
     <title>Disfruta de DAZN en Movistar Plus</title>
@@ -14770,7 +14779,7 @@
 	</programme>
 	<programme start="20261115020000 +0100" stop="20261115070000 +0100" channel="DAZN 2">
     <title>DIRECTO Pacheco vs. Fulghum T2026 · Boxeo: velada</title>
-    <sub-title>2026 | ⑱</sub-title>
+    <sub-title>2026 | ⑱ | ★9.0/10</sub-title>
     <desc>(Deportes,Boxeo) Diego Pacheco defiende su invicto y sus títulos WBC Silver y WBO International del supermedio ante el noqueador Darius Fulghum, en un combate clave para acercarse a una oportunidad mundialista.
 · País: Estados Unidos</desc>
     <category>Deportes, Boxeo</category>
@@ -14778,6 +14787,9 @@
 		<rating system="ES">
 			<value>18</value>
 		</rating>
+		<star-rating system="ES">
+			<value>9.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261115070000 +0100" stop="20261115110000 +0100" channel="DAZN 2">
     <title>Disfruta de DAZN en Movistar Plus</title>
@@ -14825,7 +14837,7 @@
 	</programme>
 	<programme start="20261115180500 +0100" stop="20261115201700 +0100" channel="DAZN 2">
     <title>DIRECTO Jornada 11: Valencia - Granada T26/27 · Liga F</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -14833,6 +14845,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261115201700 +0100" stop="20261116001700 +0100" channel="DAZN 2">
     <title>Disfruta de DAZN en Movistar Plus</title>
@@ -14944,7 +14959,7 @@
 	</programme>
 	<programme start="20261115153000 +0100" stop="20261115190000 +0100" channel="DAZN 3">
     <title>DIRECTO Jornada 10: New England Patriots @ Detroit Lions T26/27 · NFL</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Fútbol americano) New England y Detroit se verán las caras en Múnich, en el partido internacional de décima semana de la temporada regular de la NFL.
 · País: Estados Unidos</desc>
     <category>Deportes, Fútbol americano</category>
@@ -14952,10 +14967,13 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261115190000 +0100" stop="20261115223000 +0100" channel="DAZN 3">
     <title>DIRECTO Jornada 10: Minnesota Vikings @ Green Bay Packers T26/27 · NFL</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★3.0/10</sub-title>
     <desc>(Deportes,Fútbol americano) NFL.
 · País: Estados Unidos</desc>
     <category>Deportes, Fútbol americano</category>
@@ -14964,7 +14982,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>3.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115223000 +0100" stop="20261116020000 +0100" channel="DAZN 3">
@@ -15199,7 +15217,7 @@
 	</programme>
 	<programme start="20261114115300 +0100" stop="20261114142600 +0100" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 8: Valencia Basket - Real Madrid T26/27 · Liga U</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15208,7 +15226,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114142600 +0100" stop="20261114175100 +0100" channel="DAZN Baloncesto">
@@ -15279,7 +15297,7 @@
 	</programme>
 	<programme start="20261115183000 +0100" stop="20261115214500 +0100" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 8: Baskonia - Real Madrid T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15288,7 +15306,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115214500 +0100" stop="20261116010000 +0100" channel="DAZN Baloncesto">
@@ -15677,16 +15695,13 @@
 	</programme>
 	<programme start="20261111093500 +0100" stop="20261111114000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2025 · Carrera</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4440268" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111114000 +0100" stop="20261111131500 +0100" channel="DAZN F1">
     <title>Próxima Parada: Madring</title>
@@ -16675,7 +16690,7 @@
 	</programme>
 	<programme start="20261111134500 +0100" stop="20261111140000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16684,7 +16699,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111140000 +0100" stop="20261111150000 +0100" channel="DAZN LaLiga">
@@ -16866,7 +16881,7 @@
 	</programme>
 	<programme start="20261112163000 +0100" stop="20261112164500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16875,7 +16890,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112164500 +0100" stop="20261112170000 +0100" channel="DAZN LaLiga">
@@ -16975,7 +16990,7 @@
 	</programme>
 	<programme start="20261113140000 +0100" stop="20261113141500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -16984,7 +16999,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113141500 +0100" stop="20261113143000 +0100" channel="DAZN LaLiga">
@@ -17168,13 +17183,27 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261114123000 +0100" stop="20261114140000 +0100" channel="DAZN LaLiga">
+	<programme start="20261114123000 +0100" stop="20261114134500 +0100" channel="DAZN LaLiga">
     <title>Trending T26/27 · Programa 31</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498698" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261114134500 +0100" stop="20261114140000 +0100" channel="DAZN LaLiga">
+    <title>Premier Corner by Guiness 0,0: Pedrito T2026 · Pedro Rodríguez, la grandeza no entiende de escenarios</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Entrevista) Pedrito, campeón del Mundo en 2010 y leyenda del FC Barcelona, repasa su carrera deportiva tras anunciar la retirada.
+· País: España</desc>
+    <category>Entretenimiento, Entrevista</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4371802" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -17197,9 +17226,9 @@
 		</star-rating>
 	</programme>
 	<programme start="20261114160000 +0100" stop="20261114173000 +0100" channel="DAZN LaLiga">
-    <title>Programa 33 T26/27 · Trending</title>
+    <title>Trending T26/27 · Programa 32</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo m's actual del f'tbol internacional. De lunes a viernes a las 15:00.
+    <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498698" />
@@ -17250,9 +17279,9 @@
 		</star-rating>
 	</programme>
 	<programme start="20261114193000 +0100" stop="20261114210000 +0100" channel="DAZN LaLiga">
-    <title>Programa 34 T26/27 · Trending</title>
+    <title>Programa 33 T26/27 · Trending</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
+    <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo m's actual del f'tbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498698" />
@@ -17281,7 +17310,7 @@
 	</programme>
 	<programme start="20261114220000 +0100" stop="20261114221500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Real Sporting</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17289,6 +17318,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261114221500 +0100" stop="20261114223000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -17357,7 +17389,7 @@
 	</programme>
 	<programme start="20261115121500 +0100" stop="20261115123000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Sociedad B - Real Sporting</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17365,6 +17397,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261115123000 +0100" stop="20261115124500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -17382,7 +17417,7 @@
 	</programme>
 	<programme start="20261115124500 +0100" stop="20261115130000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: RCD Mallorca - Córdoba CF</title>
-    <sub-title>2026 | TP | ★4.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17391,12 +17426,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115130000 +0100" stop="20261115131500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Real Oviedo - Girona FC</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17405,7 +17440,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115131500 +0100" stop="20261115133000 +0100" channel="DAZN LaLiga">
@@ -17451,7 +17486,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115160000 +0100" stop="20261115173000 +0100" channel="DAZN LaLiga">
-    <title>Trending T26/27 · Programa 35</title>
+    <title>Programa 34 T26/27 · Trending</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Espacio diario para el repaso de lo más actual del fútbol internacional. De lunes a viernes a las 15:00.
 · País: España</desc>
@@ -17530,7 +17565,7 @@
 	</programme>
 	<programme start="20261115220000 +0100" stop="20261115221500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: RCD Mallorca - Córdoba CF</title>
-    <sub-title>2026 | TP | ★4.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17539,7 +17574,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115221500 +0100" stop="20261115223000 +0100" channel="DAZN LaLiga">
@@ -21888,7 +21923,7 @@
 	</programme>
 	<programme start="20261115201000 +0100" stop="20261115214000 +0100" channel="Eurosport 1">
     <title>DIRECTO Danza libre T2026 · Skate America - Grand Prix ISU</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Patinaje artístico) Este prestigioso evento reúne a la élite mundial del patinaje artístico sobre hielo.
 · País: Estados Unidos</desc>
     <category>Deportes, Patinaje artístico</category>
@@ -21897,7 +21932,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115214000 +0100" stop="20261115220500 +0100" channel="Eurosport 1">
@@ -22435,7 +22470,7 @@
 	</programme>
 	<programme start="20261113185500 +0100" stop="20261113204500 +0100" channel="Eurosport 2">
     <title>DIRECTO Jornada 9: Barcelona - Triana T26/27 · ASOBAL</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
 · País: España</desc>
     <category>Deportes, Balonmano</category>
@@ -22444,7 +22479,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113204500 +0100" stop="20261113220000 +0100" channel="Eurosport 2">
@@ -22663,7 +22698,7 @@
 	</programme>
 	<programme start="20261114180000 +0100" stop="20261114185500 +0100" channel="Eurosport 2">
     <title>Jornada 9: Barcelona - Triana T26/27 · ASOBAL</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
 · País: España</desc>
     <category>Deportes, Balonmano</category>
@@ -22672,12 +22707,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114185500 +0100" stop="20261114204500 +0100" channel="Eurosport 2">
     <title>DIRECTO Jornada 9: La Rioja - Granollers T26/27 · ASOBAL</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
 · País: España</desc>
     <category>Deportes, Balonmano</category>
@@ -22686,7 +22721,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114204500 +0100" stop="20261114213000 +0100" channel="Eurosport 2">
@@ -22919,7 +22954,7 @@
 	</programme>
 	<programme start="20261115200000 +0100" stop="20261115213000 +0100" channel="Eurosport 2">
     <title>Jornada 9: La Rioja - Granollers T26/27 · ASOBAL</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Balonmano) La máxima competición del balonmano español. Con el Barça defendiendo corona, 16 equipos se lanzan a por la gloria en 30 jornadas vibrantes. Todos intentarán plantar cara a la hegemonía culé.
 · País: España</desc>
     <category>Deportes, Balonmano</category>
@@ -22928,7 +22963,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115213000 +0100" stop="20261115220000 +0100" channel="Eurosport 2">
@@ -29662,7 +29697,7 @@
 	<programme start="20261112200500 +0100" stop="20261112222000 +0100" channel="M+ Baloncesto 3">
     <title>Jornada 11: Maccabi Tel Aviv - Hapoel Tel Aviv T26/27 · Euroliga de baloncesto</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
+    <desc>(Deportes,Baloncesto) Duelo entre los 2 equipos israelíes que no llegan en su mejor momento. Maccabi 18º con 4 derrotas seguidas y Hapoel 9º con 2 derrotas en ultimos partidos.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504482" />
@@ -34489,9 +34524,10 @@
 	<programme start="20261115160000 +0100" stop="20261115181000 +0100" channel="M+ Deportes 3">
     <title>DIRECTO Jornada 5: Escocia - Australia T2026 · Nations Championship</title>
     <sub-title>TP | ★10.0/10</sub-title>
-    <desc>(Deportes,Rugby) Atractivo duelo entre Escocia y Australia para cerrar la 5ª jornada del Nations Championship 2026 en el estadio de Murrayfield.</desc>
+    <desc>(Deportes,Rugby) Atractivo duelo entre Escocia y Australia para cerrar la 5ª jornada del Nations Championship 2026 en el estadio de Murrayfield.
+· País: &lt;span&gt;Selección de Escocia&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4482941" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4517699" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -34722,6 +34758,7 @@
     <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.</desc>
     <category>Deportes, Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M271668V4442929" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -35075,6 +35112,7 @@
     <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.</desc>
     <category>Deportes, Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M271668V4442927" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -35513,13 +35551,16 @@
 	</programme>
 	<programme start="20261114143000 +0100" stop="20261114160000 +0100" channel="M+ Deportes">
     <title>DIRECTO Semifinal Femenina 2 T2026 · Premier Padel. Dubai</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458979" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261114160000 +0100" stop="20261114180000 +0100" channel="M+ Deportes">
     <title>DIRECTO Semifinales: Semifinal Masculina 1 T2026 · Premier Padel. Dubai</title>
@@ -35792,6 +35833,7 @@
     <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Arranca la NCAA, la competición que nos hace disfrutar del mejor baloncesto universitario del mundo. 68 equipos luchan por llegar a la gran final de esta 80ª edición, donde North Carolina defiende título.</desc>
     <category>Deportes, Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M271668V4442928" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -36418,7 +36460,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261113005600 +0100" stop="20261113015600 +0100" channel="M+ Documentales">
-    <title>27ª edición de los Premios GRAMMY Latinos: alfombra roja</title>
+    <title>27ª edición de los Premios Latin Grammy: alfombra roja · 27ª edición de los Premios GRAMMY Latinos: alfombra roja</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Música,Evento musical) 27ª edición de los Premios GRAMMY Latinos: alfombra roja -.</desc>
     <category>Música, Evento musical</category>
@@ -36431,9 +36473,9 @@
 		</star-rating>
 	</programme>
 	<programme start="20261113015600 +0100" stop="20261113052600 +0100" channel="M+ Documentales">
-    <title>27ª entrega de los Latin Grammy: ceremonia</title>
+    <title>27ª edición de los Premios Latin Grammy: ceremonia</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Música,Evento musical) 27ª entrega de los Latin Grammy: ceremonia -.</desc>
+    <desc>(Música,Evento musical) 27ª edición de los Premios Latin Grammy: ceremonia -.</desc>
     <category>Música, Evento musical</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2703835V4443531" />
 		<rating system="ES">
@@ -36723,9 +36765,9 @@
 		</star-rating>
 	</programme>
 	<programme start="20261113192300 +0100" stop="20261113220000 +0100" channel="M+ Documentales">
-    <title>27ª entrega de los Latin Grammy: ceremonia</title>
+    <title>27ª edición de los Premios Latin Grammy: ceremonia</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Música,Evento musical) 27ª entrega de los Latin Grammy: ceremonia -.</desc>
+    <desc>(Música,Evento musical) 27ª edición de los Premios Latin Grammy: ceremonia -.</desc>
     <category>Música, Evento musical</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2703835V4443531" />
 		<rating system="ES">
@@ -37265,9 +37307,9 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115105700 +0100" stop="20261115132900 +0100" channel="M+ Documentales">
-    <title>27ª entrega de los Latin Grammy: ceremonia</title>
+    <title>27ª edición de los Premios Latin Grammy: ceremonia</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Música,Evento musical) 27ª entrega de los Latin Grammy: ceremonia -.</desc>
+    <desc>(Música,Evento musical) 27ª edición de los Premios Latin Grammy: ceremonia -.</desc>
     <category>Música, Evento musical</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2703835V4443531" />
 		<rating system="ES">
@@ -40283,7 +40325,7 @@
 	</programme>
 	<programme start="20261111213000 +0100" stop="20261111220000 +0100" channel="M+ Golf">
     <title>Locos por el golf T2026 E37</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
 · País: España
 · Presenta: Lidia Blanco, Carlos Palomo.</desc>
@@ -40293,7 +40335,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111220000 +0100" stop="20261112010000 +0100" channel="M+ Golf">
@@ -40344,7 +40386,7 @@
 	</programme>
 	<programme start="20261112140000 +0100" stop="20261112143000 +0100" channel="M+ Golf">
     <title>Locos por el golf T2026 E37</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
 · País: España
 · Presenta: Lidia Blanco, Carlos Palomo.</desc>
@@ -40354,7 +40396,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112143000 +0100" stop="20261112173000 +0100" channel="M+ Golf">
@@ -40421,7 +40463,7 @@
 	</programme>
 	<programme start="20261113000000 +0100" stop="20261113003000 +0100" channel="M+ Golf">
     <title>Locos por el golf T2026 E37</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
 · País: España
 · Presenta: Lidia Blanco, Carlos Palomo.</desc>
@@ -40431,7 +40473,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113003000 +0100" stop="20261113010000 +0100" channel="M+ Golf">
@@ -40560,7 +40602,7 @@
 	</programme>
 	<programme start="20261113230000 +0100" stop="20261113233000 +0100" channel="M+ Golf">
     <title>Locos por el golf T2026 E37</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
 · País: España
 · Presenta: Lidia Blanco, Carlos Palomo.</desc>
@@ -40570,7 +40612,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113233000 +0100" stop="20261114003000 +0100" channel="M+ Golf">
@@ -44051,7 +44093,7 @@
 	</programme>
 	<programme start="20261111233100 +0100" stop="20261111233700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44060,7 +44102,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261111233700 +0100" stop="20261111234200 +0100" channel="M+ LaLiga">
@@ -44187,7 +44229,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112080000 +0100" stop="20261112100000 +0100" channel="M+ LaLiga">
+	<programme start="20261112080000 +0100" stop="20261112095500 +0100" channel="M+ LaLiga">
     <title>LALIGA HYPERMOTION T26/27 · Jornada 13: Girona FC - UD Almería</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Girona regresa a Montilivi después de perder 1-0 ante la Real Sociedad B y necesita recuperar eficacia ofensiva. El Almería viene de empatar 1-1 en Ipurua ante el Eibar y afronta otra salida de exigencia.
@@ -44198,7 +44240,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112100000 +0100" stop="20261112110000 +0100" channel="M+ LaLiga">
+	<programme start="20261112095500 +0100" stop="20261112105200 +0100" channel="M+ LaLiga">
     <title>Informe Plus+. Cucu...Cucurella</title>
     <sub-title>2025 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Marc Cucurella, un jugador que no pasa desapercibido, ni dentro ni fuera del campo, en la plenitud de su carrera y mirando en el horizonte cercano el que puede ser su mayor sueño futbolístico: ganar el próximo Mundial con la Selección Española.
@@ -44213,7 +44255,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112110000 +0100" stop="20261112125000 +0100" channel="M+ LaLiga">
+	<programme start="20261112105200 +0100" stop="20261112124100 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: RC Celta - Levante UD</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los dos equipos perdieron en la última jornada y ambos siguen sin dar el salto necesario; los celestes para acercarse a puestos europeos y los granotas para alejarse del descenso. Giráldez tendrá que volver a gestionar al milímetro sus recursos tras UEL.
@@ -44224,7 +44266,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112125000 +0100" stop="20261112125500 +0100" channel="M+ LaLiga">
+	<programme start="20261112124100 +0100" stop="20261112124700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Burgos - RC Celta B</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44235,7 +44277,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112125500 +0100" stop="20261112130000 +0100" channel="M+ LaLiga">
+	<programme start="20261112124700 +0100" stop="20261112125200 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Cádiz CF - Real Oviedo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44246,7 +44288,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112130000 +0100" stop="20261112130500 +0100" channel="M+ LaLiga">
+	<programme start="20261112125200 +0100" stop="20261112125700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Córdoba CF - Ceuta FC</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44260,7 +44302,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112130500 +0100" stop="20261112131000 +0100" channel="M+ LaLiga">
+	<programme start="20261112125700 +0100" stop="20261112130300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Girona FC - UD Almería</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44271,9 +44313,9 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112131000 +0100" stop="20261112131500 +0100" channel="M+ LaLiga">
+	<programme start="20261112130300 +0100" stop="20261112130800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44282,10 +44324,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112131500 +0100" stop="20261112132000 +0100" channel="M+ LaLiga">
+	<programme start="20261112130800 +0100" stop="20261112131400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: CD Leganés - Albacete BP</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44296,7 +44338,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112132000 +0100" stop="20261112132500 +0100" channel="M+ LaLiga">
+	<programme start="20261112131400 +0100" stop="20261112131900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: CE Sabadell - Real Sociedad B</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44307,7 +44349,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112132500 +0100" stop="20261112133500 +0100" channel="M+ LaLiga">
+	<programme start="20261112131900 +0100" stop="20261112132400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Real Sporting - Real Valladolid CF</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44318,7 +44360,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112133500 +0100" stop="20261112134000 +0100" channel="M+ LaLiga">
+	<programme start="20261112132400 +0100" stop="20261112133000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Córdoba CF - Ceuta FC</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44332,7 +44374,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112134000 +0100" stop="20261112134500 +0100" channel="M+ LaLiga">
+	<programme start="20261112133000 +0100" stop="20261112134000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Girona FC - UD Almería</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
@@ -44343,7 +44385,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112134500 +0100" stop="20261112144500 +0100" channel="M+ LaLiga">
+	<programme start="20261112134000 +0100" stop="20261112144000 +0100" channel="M+ LaLiga">
     <title>Universo Valdano T8 · Fede Valverde</title>
     <sub-title>2024 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Fede Valverde, centrocampista del Real Madrid, se sienta junto a Jorge Valdano para hablar de su nominación al Balón de Oro, de la dura derrota contra el Barça, de su papel en la selección de Uruguy... Temas interesantes del Universo Valdano.
@@ -44359,7 +44401,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112144500 +0100" stop="20261112145500 +0100" channel="M+ LaLiga">
+	<programme start="20261112144000 +0100" stop="20261112145000 +0100" channel="M+ LaLiga">
     <title>42 Legados T1 · La Llamada: Betis</title>
     <sub-title>TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) 42 Legados.</desc>
@@ -44372,7 +44414,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112145500 +0100" stop="20261112164500 +0100" channel="M+ LaLiga">
+	<programme start="20261112145000 +0100" stop="20261112164100 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
@@ -44383,7 +44425,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112164500 +0100" stop="20261112165700 +0100" channel="M+ LaLiga">
+	<programme start="20261112164100 +0100" stop="20261112165400 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44394,7 +44436,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112165700 +0100" stop="20261112170900 +0100" channel="M+ LaLiga">
+	<programme start="20261112165400 +0100" stop="20261112170600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44405,7 +44447,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112170900 +0100" stop="20261112172100 +0100" channel="M+ LaLiga">
+	<programme start="20261112170600 +0100" stop="20261112171900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44416,7 +44458,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112172100 +0100" stop="20261112173300 +0100" channel="M+ LaLiga">
+	<programme start="20261112171900 +0100" stop="20261112173100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44427,7 +44469,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112173300 +0100" stop="20261112174500 +0100" channel="M+ LaLiga">
+	<programme start="20261112173100 +0100" stop="20261112174300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44438,7 +44480,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112174500 +0100" stop="20261112175700 +0100" channel="M+ LaLiga">
+	<programme start="20261112174300 +0100" stop="20261112175600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44449,7 +44491,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112175700 +0100" stop="20261112180900 +0100" channel="M+ LaLiga">
+	<programme start="20261112175600 +0100" stop="20261112180800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44460,7 +44502,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112180900 +0100" stop="20261112182100 +0100" channel="M+ LaLiga">
+	<programme start="20261112180800 +0100" stop="20261112182100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44493,7 +44535,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112185000 +0100" stop="20261112205000 +0100" channel="M+ LaLiga">
+	<programme start="20261112185000 +0100" stop="20261112205500 +0100" channel="M+ LaLiga">
     <title>DIRECTO Primera Ronda: Navalcarnero - Betis T26/27 · Copa del Rey Mapfre</title>
     <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) El Estadio Sto. Domingo de Alcorcón acoge el partido de Primer Ronda de Copa del Rey entre el CDA Navalcarnero (2ª RFEF, Grupo 5) y Real Betis (equipo Champions y 4º en liga). Los locales abandonan el Estadio Mariano González para buscar más aforo.
@@ -44507,7 +44549,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112205000 +0100" stop="20261112224000 +0100" channel="M+ LaLiga">
+	<programme start="20261112205500 +0100" stop="20261112225600 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Osasuna, necesitado de puntos tras sumar una victoria en ocho encuentros, recibe a un Athlétic que se ha aupado a la séptima plaza tras dos triunfos consecutivos.
@@ -44518,7 +44560,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112224000 +0100" stop="20261112231000 +0100" channel="M+ LaLiga">
+	<programme start="20261112225600 +0100" stop="20261112232400 +0100" channel="M+ LaLiga">
     <title>90 años de historias T2019 · Luis Suárez</title>
     <sub-title>2019 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Luis Suárez, jugador del FC Barcelona durante siete temporadas, conquistó seis títulos en dos Ligas, dos Copas y dos Copas de Ferias. Su traspaso al Inter de Milán le convirtió en el primer futbolista español en ser fichado por un club italiano.
@@ -44532,7 +44574,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112231000 +0100" stop="20261112232200 +0100" channel="M+ LaLiga">
+	<programme start="20261112232400 +0100" stop="20261112233600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44543,7 +44585,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112232200 +0100" stop="20261112233400 +0100" channel="M+ LaLiga">
+	<programme start="20261112233600 +0100" stop="20261112234900 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44554,7 +44596,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112233400 +0100" stop="20261112234600 +0100" channel="M+ LaLiga">
+	<programme start="20261112234900 +0100" stop="20261113000100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44565,7 +44607,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112234600 +0100" stop="20261112235800 +0100" channel="M+ LaLiga">
+	<programme start="20261113000100 +0100" stop="20261113001300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44576,7 +44618,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261112235800 +0100" stop="20261113001000 +0100" channel="M+ LaLiga">
+	<programme start="20261113001300 +0100" stop="20261113002600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44587,7 +44629,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113001000 +0100" stop="20261113002200 +0100" channel="M+ LaLiga">
+	<programme start="20261113002600 +0100" stop="20261113003800 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44598,7 +44640,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113002200 +0100" stop="20261113003400 +0100" channel="M+ LaLiga">
+	<programme start="20261113003800 +0100" stop="20261113005000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44609,7 +44651,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113003400 +0100" stop="20261113004600 +0100" channel="M+ LaLiga">
+	<programme start="20261113005000 +0100" stop="20261113010300 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44620,7 +44662,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113004600 +0100" stop="20261113005800 +0100" channel="M+ LaLiga">
+	<programme start="20261113010300 +0100" stop="20261113011500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44631,7 +44673,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113005800 +0100" stop="20261113011500 +0100" channel="M+ LaLiga">
+	<programme start="20261113011500 +0100" stop="20261113013000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
@@ -44642,7 +44684,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113011500 +0100" stop="20261113030500 +0100" channel="M+ LaLiga">
+	<programme start="20261113013000 +0100" stop="20261113032100 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
@@ -44653,7 +44695,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113030500 +0100" stop="20261113035500 +0100" channel="M+ LaLiga">
+	<programme start="20261113032100 +0100" stop="20261113040700 +0100" channel="M+ LaLiga">
     <title>Antoine Griezmann. Enamorado del Atleti</title>
     <sub-title>2026 | TP | ★7.2/10</sub-title>
     <desc>(Documentales,Deportes) Vivimos junto a Antoine Griezmann el día que se despide ante su afición. Un documental íntimo que repasa sus sensaciones y reflexiones tras convertirse en una de las leyendas del club.
@@ -44669,7 +44711,7 @@
 			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113035500 +0100" stop="20261113054500 +0100" channel="M+ LaLiga">
+	<programme start="20261113040700 +0100" stop="20261113055200 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
@@ -44680,7 +44722,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261113054500 +0100" stop="20261113070000 +0100" channel="M+ LaLiga">
+	<programme start="20261113055200 +0100" stop="20261113070000 +0100" channel="M+ LaLiga">
     <title>El fútbol según Raúl T1 · La Copa más blanca</title>
     <sub-title>2020 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Programa deportes) El 4 de junio de 1980 vivimos un partido histórico en el fútbol español, porque nunca se había disputado y nunca más se disputará. Esa noche saltaban al césped del Santiago Bernabéu los jugadores del Real Madrid y los once de su filial.
@@ -44826,7 +44868,6 @@
 · Presenta: Jorge Valdano.
 · Productora: Mediapro.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4503290" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -47182,7 +47223,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111182400 +0100" stop="20261111185600 +0100" channel="M+ Originales">
+	<programme start="20261111182400 +0100" stop="20261111185700 +0100" channel="M+ Originales">
     <title>Planeta Tenis T2026 E27</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
@@ -47197,7 +47238,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111185600 +0100" stop="20261111200100 +0100" channel="M+ Originales">
+	<programme start="20261111185700 +0100" stop="20261111200200 +0100" channel="M+ Originales">
     <title>Late Motiv T1 · Concha Velasco</title>
     <sub-title>2016 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Humor) 'Late night' presentado por Andreu Buenafuente. La actriz Concha Velasco visita el programa y el toque musical lo pone el grupo madrileño "Izal".
@@ -47213,7 +47254,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111200100 +0100" stop="20261111205900 +0100" channel="M+ Originales">
+	<programme start="20261111200200 +0100" stop="20261111210000 +0100" channel="M+ Originales">
     <title>Maraton Man T4 · Portugal, trail en tierras celtas</title>
     <sub-title>2018 | ⑦ | ★6.4/10</sub-title>
     <desc>(Entretenimiento) Maraton Man se va de acampada en caravana a través de Portugal. Junto a pescadores artesanales descubre la vida de los que viven de cara al mar para viajar hacia el interior y enfrentarse a un trail muy especial.
@@ -47231,7 +47272,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111205900 +0100" stop="20261111212800 +0100" channel="M+ Originales">
+	<programme start="20261111210000 +0100" stop="20261111212800 +0100" channel="M+ Originales">
     <title>Leo Talks T7 · Minicadena perpetua</title>
     <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
@@ -47263,7 +47304,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111220000 +0100" stop="20261111223000 +0100" channel="M+ Originales">
+	<programme start="20261111220000 +0100" stop="20261111222000 +0100" channel="M+ Originales">
     <title>Bakalá T26/27 E10</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
@@ -47278,7 +47319,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111223000 +0100" stop="20261111230000 +0100" channel="M+ Originales">
+	<programme start="20261111222000 +0100" stop="20261111225100 +0100" channel="M+ Originales">
     <title>Locos por el golf T2026 E37</title>
     <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
@@ -47293,7 +47334,7 @@
 			<value>5.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111230000 +0100" stop="20261111233100 +0100" channel="M+ Originales">
+	<programme start="20261111225100 +0100" stop="20261111232600 +0100" channel="M+ Originales">
     <title>Planeta Tenis T2026 E27</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
@@ -47308,7 +47349,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111233100 +0100" stop="20261112001700 +0100" channel="M+ Originales">
+	<programme start="20261111232600 +0100" stop="20261112001100 +0100" channel="M+ Originales">
     <title>Muerte en el hotel</title>
     <sub-title>2025 | ⑯ | ★6.4/10</sub-title>
     <desc>(Documentales,True crime) José Rosado visita Madrid por trabajo, donde se aloja en un lujoso hotel. En Chueca conoce a dos chicos con los que decide alargar un poco más la noche en su habitación. Las cámaras de seguridad del hotel serán claves para resolver el caso.
@@ -47323,7 +47364,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112001700 +0100" stop="20261112010500 +0100" channel="M+ Originales">
+	<programme start="20261112001100 +0100" stop="20261112005900 +0100" channel="M+ Originales">
     <title>¡Mátalo ya!</title>
     <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Documentales,True crime) La Guardia Civil encuentra a Juan apuñalado y en estado crítico, y a un joven que ha sido atropellado. El joven asegura que ha sido en defensa propia. Inma, la hijastra de Juan, lo ha visto todo y lo confirma. ¿Qué ha pasado en esta familia?
@@ -47338,7 +47379,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112010500 +0100" stop="20261112021000 +0100" channel="M+ Originales">
+	<programme start="20261112005900 +0100" stop="20261112020400 +0100" channel="M+ Originales">
     <title>Las voces de la radio T1 · Gracias por escucharnos</title>
     <sub-title>2024 | TP | ★6.2/10</sub-title>
     <desc>(Entretenimiento) La ciudad amanece y en las redacciones de las emisoras, las teclas hierven esperando a que el día abra. Una aproximación al mundo de la radio a través del testimonio de sus principales voces y de la sociedad que siempre se reflejó en ella.
@@ -47352,7 +47393,21 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112021000 +0100" stop="20261112024000 +0100" channel="M+ Originales">
+	<programme start="20261112020400 +0100" stop="20261112021400 +0100" channel="M+ Originales">
+    <title>Así se hizo la película dentro de ‘El ser querido’</title>
+    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Cine,Making of) 'El ser querido', de Rodrigo Sorogoyen, incluye el rodaje de una película dentro de la propia película. Sus creadores cuentan cómo afrontaron este reto en Fuerteventura.
+· País: España</desc>
+    <category>Cine, Making of</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4502829" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112021400 +0100" stop="20261112024300 +0100" channel="M+ Originales">
     <title>Ilustres ignorantes T19 · Fotografías</title>
     <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Humor) La actriz Clara Lago y el director Eduardo Casanova visitan el plató de Ilustres para hablar de “Fotografías”. Si solo pudieran salvar una foto de toda su vida, ¿cuál sería? ¿Qué filtro usarían para mejorar sus selfis?
@@ -47369,7 +47424,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112024000 +0100" stop="20261112030700 +0100" channel="M+ Originales">
+	<programme start="20261112024300 +0100" stop="20261112030800 +0100" channel="M+ Originales">
     <title>Expediente Pérez T1 · Vacunas</title>
     <sub-title>2021 | TP | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Humor) Año 2027. Cinco años sin covid. Gabilondo repasa cómo fueron los primeros tiempos de la vacunación hasta llegar a un presente ficticio donde las vacunas ya se fabrican en casa gracias a tutoriales como el de Juan Salazar, de los Chunguitos.
@@ -47384,7 +47439,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112030700 +0100" stop="20261112035700 +0100" channel="M+ Originales">
+	<programme start="20261112030800 +0100" stop="20261112035700 +0100" channel="M+ Originales">
     <title>Perejil E3</title>
     <sub-title>2025 | TP | ★6.4/10</sub-title>
     <desc>(Documentales,Historia) El 17 de julio de 2002, 28 militares españoles recuperan Perejil en una operación impecable. Marruecos reacciona con firmeza y EEUU, liderado por Colin Powell, interviene para evitar una escalada. La tensión cede tras lograr un acuerdo diplomático.
@@ -47417,7 +47472,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112041900 +0100" stop="20261112051500 +0100" channel="M+ Originales">
+	<programme start="20261112041900 +0100" stop="20261112051600 +0100" channel="M+ Originales">
     <title>Martínez y Hermanos T3 · Marta Díaz, María Becerra y Miriam Rodríguez</title>
     <sub-title>2023 | TP | ★6.2/10</sub-title>
     <desc>(Entretenimiento) Dani entrevista a tres invitadas llenas de juventud y buen rollo. Marta Díaz cuenta los secretos de una buena influencer. Maria Becerra sorprende a todos con su manejo de aspiradores y Miriam Rodríguez se declara fan total de las verbenas gallegas.
@@ -47433,7 +47488,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112051500 +0100" stop="20261112060900 +0100" channel="M+ Originales">
+	<programme start="20261112051600 +0100" stop="20261112060800 +0100" channel="M+ Originales">
     <title>Maraton Man T4 · Portugal, maratón solidaria en Lisboa</title>
     <sub-title>2018 | ⑦ | ★6.4/10</sub-title>
     <desc>(Entretenimiento) Maraton Man cruza Portugal hacia el sur para participar en un maratón solidario junto a tres personajes muy especiales: un ultra maratonista, una señora de 70 años con mucha energía y una mujer a la que un accidente le cambió la vida.
@@ -47451,7 +47506,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112060900 +0100" stop="20261112063500 +0100" channel="M+ Originales">
+	<programme start="20261112060800 +0100" stop="20261112063400 +0100" channel="M+ Originales">
     <title>Arde Madrid T1 E7 · Dios es Dios y yo soy yo</title>
     <sub-title>2018 | ⑱ | ★6.6/10</sub-title>
     <desc>(Series,Comedia) Manolo y Ana Mari campan a sus anchas por la casa, cuando reciben la llamada de Pilar diciendo que la señora adelanta su vuelta y que sabe que está embarazada. Manolo vuela para ir a recoger el collar y la réplica.
@@ -47467,7 +47522,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112063500 +0100" stop="20261112071600 +0100" channel="M+ Originales">
+	<programme start="20261112063400 +0100" stop="20261112071500 +0100" channel="M+ Originales">
     <title>La Peste T1 E5 · El hijo</title>
     <sub-title>2018 | ⑯ | ★6.8/10</sub-title>
     <desc>(Series,Thriller) Mateo está convencido de que Germán no se suicidó. Teresa accede a desenterrarle. Zúñiga aprovecha la peste, el hambre y las revueltas para conseguir que se abra el puerto y pueda llegar la flota de Indias.
@@ -47484,7 +47539,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112071600 +0100" stop="20261112080400 +0100" channel="M+ Originales">
+	<programme start="20261112071500 +0100" stop="20261112080200 +0100" channel="M+ Originales">
     <title>Making of "El Castillo"</title>
     <sub-title>2026 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Making of) Este making of nos acerca al proceso creativo detrás de la serie "El Castillo" a través de las voces de sus creadores, directoras, actrices y actores protagonistas, y principales responsables de los distintos departamentos técnicos.
@@ -47498,7 +47553,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112080400 +0100" stop="20261112082000 +0100" channel="M+ Originales">
+	<programme start="20261112080200 +0100" stop="20261112082000 +0100" channel="M+ Originales">
     <title>Lo mejor de El día después T26/27 E10</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) 'El Día Después', uno de nuestros grandes clásicos que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
@@ -47839,7 +47894,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112233800 +0100" stop="20261113000800 +0100" channel="M+ Originales">
+	<programme start="20261112233800 +0100" stop="20261112235800 +0100" channel="M+ Originales">
     <title>Bakalá T26/27 E10</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
@@ -47854,7 +47909,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113000800 +0100" stop="20261113003800 +0100" channel="M+ Originales">
+	<programme start="20261112235800 +0100" stop="20261113002800 +0100" channel="M+ Originales">
     <title>Locos por el golf T2026 E37</title>
     <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
@@ -47869,43 +47924,70 @@
 			<value>5.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113003800 +0100" stop="20261113011700 +0100" channel="M+ Originales">
+	<programme start="20261113002800 +0100" stop="20261113010700 +0100" channel="M+ Originales">
     <title>Sicarios: Los avisos</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.6/10</sub-title>
     <desc>(Documentales,True crime) Un tiroteo tiene lugar a la salida de una comunión en San Pedro de Alcántara, Marbella. La investigación destapa una peligrosa banda de sicarios asentada en la Costa del Sol. Disparos, explosiones, ajustes de cuentas y mucha violencia.
 · País: España
-· Presenta: Carles Porta.</desc>
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
     <category>Documentales, True crime</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261113011700 +0100" stop="20261113015300 +0100" channel="M+ Originales">
+	<programme start="20261113010700 +0100" stop="20261113014300 +0100" channel="M+ Originales">
     <title>Sicarios: Los suecos</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,True crime) Los sospechosos son profesionales, escurridizos y peligrosos. Las primeras investigaciones llevan el rastro hasta Malmö, Suecia. Las cámaras de seguridad serán claves para seguir avanzando en el caso. ¿Qué relación hay entre Marbella y Malmö?
 · País: España
-· Presenta: Carles Porta.</desc>
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
     <category>Documentales, True crime</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261113015300 +0100" stop="20261113023300 +0100" channel="M+ Originales">
+	<programme start="20261113014300 +0100" stop="20261113022300 +0100" channel="M+ Originales">
     <title>Sicarios: El puzzle</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,True crime) Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
 · País: España
-· Presenta: Carles Porta.</desc>
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
     <category>Documentales, True crime</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261113023300 +0100" stop="20261113030300 +0100" channel="M+ Originales">
+	<programme start="20261113022300 +0100" stop="20261113022800 +0100" channel="M+ Originales">
+    <title>20 temporadas de Ilustres ignorantes</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Entretenimiento) Invitados ilustres felicitan al programa por sus 20 temporadas.
+· País: España
+· Productora: Movistar Plus+.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4503536" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113022800 +0100" stop="20261113025800 +0100" channel="M+ Originales">
     <title>Ilustres ignorantes T19 · Solteros</title>
     <sub-title>2025 | ⑯ | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Humor) El guionista Arturo González-Campos y el director Rodrigo Cortés son los invitados de este programa en el que hablan sobre los “Solteros” ¿Qué es lo mejor y lo peor de estar soltero? ¿Cómo identifican a un “soltero o soltera de oro.
@@ -47922,7 +48004,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113030300 +0100" stop="20261113032800 +0100" channel="M+ Originales">
+	<programme start="20261113025800 +0100" stop="20261113032300 +0100" channel="M+ Originales">
     <title>Expediente Pérez T1 · Turismo</title>
     <sub-title>2021 | TP | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Humor) Bienvenidos al informativo más largo de la tele. Antonio García Ferreras informa, durante todo el verano y sin levantarse de la mesa, sobre el comportamiento de los turistas tras el fin del estado de alarma.
@@ -47937,7 +48019,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113032800 +0100" stop="20261113043300 +0100" channel="M+ Originales">
+	<programme start="20261113032300 +0100" stop="20261113042800 +0100" channel="M+ Originales">
     <title>La última llamada: Felipe González T1 E1 · Felipe González</title>
     <sub-title>2025 | ⑫ | ★6.2/10</sub-title>
     <desc>(Documentales,Docuserie) A pesar de su carisma, Felipe González, se revela como un gran tímido. El episodio muestra el desgaste del poder, la pérdida de aliados y la difícil decisión que debió tomar frente a ETA en un momento de creciente soledad política.
@@ -47951,7 +48033,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113043300 +0100" stop="20261113050000 +0100" channel="M+ Originales">
+	<programme start="20261113042800 +0100" stop="20261113045500 +0100" channel="M+ Originales">
     <title>LocoMundo T3 · República y Monarquía</title>
     <sub-title>2018 | ⑯ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Quequé y sus ecuánimes colaboradores de LOCOMUNDO debaten sobre "REPÚBLICA Y MONARQUÍA". ¿Qué sistema es mejor? ¿Cómo quedaría Quequé si jugara a la Ruleta de la República? ¿Es posible convertir una institución milenaria en milenial?
@@ -47968,7 +48050,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113050000 +0100" stop="20261113055500 +0100" channel="M+ Originales">
+	<programme start="20261113045500 +0100" stop="20261113055000 +0100" channel="M+ Originales">
     <title>Maraton Man T4 · Zimbabue, entre la tradición y la ilusión</title>
     <sub-title>2018 | ⑦ | ★6.2/10</sub-title>
     <desc>(Entretenimiento) Maraton Man viaja a África para conocer la realidad de Zimbabue, un país en pleno cambio después de 40 años del mismo gobierno. En su viaje conoce a un albino que lucha por su colectivo, perseguido en África. En Mutare corre una media maratón.
@@ -47986,7 +48068,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113055500 +0100" stop="20261113062900 +0100" channel="M+ Originales">
+	<programme start="20261113055000 +0100" stop="20261113062400 +0100" channel="M+ Originales">
     <title>Arde Madrid T1 E8 · What's autorización?</title>
     <sub-title>2018 | ⑱ | ★7.4/10</sub-title>
     <desc>(Series,Comedia) Ava se despierta eufórica y comunica al servicio que quiere hacer un pequeño homenaje a su amigo Hemingway. Durante los preparativos, Ava y Perón se encuentran en el jardín, éste le da el pésame y hacen las paces.
@@ -48002,7 +48084,7 @@
 			<value>7.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113062900 +0100" stop="20261113071700 +0100" channel="M+ Originales">
+	<programme start="20261113062400 +0100" stop="20261113071200 +0100" channel="M+ Originales">
     <title>La Peste T1 E6 · El nuevo mundo</title>
     <sub-title>2018 | ⑯ | ★7.2/10</sub-title>
     <desc>(Series,Thriller) El brote de peste comienza a remitir en la ciudad. El Gran Inquisidor entrega a Mateo su orden de libertad. Mateo ha resuelto el caso. Como consecuencia de la investigación, son detenidos por la Inquisición algunos protestantes.
@@ -48019,7 +48101,7 @@
 			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113071700 +0100" stop="20261113072500 +0100" channel="M+ Originales">
+	<programme start="20261113071200 +0100" stop="20261113072000 +0100" channel="M+ Originales">
     <title>20 temporadas de Ilustres ignorantes</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Entretenimiento) Invitados ilustres felicitan al programa por sus 20 temporadas.
@@ -48034,7 +48116,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113072500 +0100" stop="20261113075500 +0100" channel="M+ Originales">
+	<programme start="20261113072000 +0100" stop="20261113075000 +0100" channel="M+ Originales">
     <title>Planeta Tenis T2026 E27</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
@@ -48049,9 +48131,9 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261113075500 +0100" stop="20261113081000 +0100" channel="M+ Originales">
-    <title>Lo mejor de Bakalá T26/27 E10</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+	<programme start="20261113075000 +0100" stop="20261113081000 +0100" channel="M+ Originales">
+    <title>Bakalá T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
 · País: España
 · Presenta: Raúl Pérez.</desc>
@@ -48061,7 +48143,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261113081000 +0100" stop="20261113084400 +0100" channel="M+ Originales">
@@ -50441,13 +50523,16 @@
 	</programme>
 	<programme start="20261114230000 +0100" stop="20261115010000 +0100" channel="M+ Vamos 3">
     <title>Semifinal Femenina 2 T2026 · Premier Padel. Dubai</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458979" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261115010000 +0100" stop="20261115080000 +0100" channel="M+ Vamos 3">
     <title>M+ Vamos 3</title>
@@ -50656,7 +50741,7 @@
 	</programme>
 	<programme start="20261111084000 +0100" stop="20261111105700 +0100" channel="M+ Vamos">
     <title>EuroCup T26/27 · Jornada 7: Kids&amp;Us Manresa - Bosna Sarajevo</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Competición europea de baloncesto que reúne a destacados equipos del continente en la lucha por el título de la EuroCup.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -50664,9 +50749,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261111105700 +0100" stop="20261111113000 +0100" channel="M+ Vamos">
     <title>Planeta Tenis T2026 E27</title>
@@ -50826,7 +50908,6 @@
 · Presenta: Jorge Valdano.
 · Productora: Mediapro.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4503290" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -51004,7 +51085,7 @@
 	</programme>
 	<programme start="20261112083000 +0100" stop="20261112090000 +0100" channel="M+ Vamos">
     <title>Locos por el golf T2026 E37</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
 · País: España
 · Presenta: Lidia Blanco, Carlos Palomo.</desc>
@@ -51014,7 +51095,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112090000 +0100" stop="20261112091500 +0100" channel="M+ Vamos">
@@ -52003,7 +52084,22 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111122200 +0100" stop="20261111131900 +0100" channel="Movistar Plus">
+	<programme start="20261111122200 +0100" stop="20261111123300 +0100" channel="Movistar Plus">
+    <title>Cómo se hizo Parenthood: Cómo se hizo Parenthood (episodio 2) E2 · Cómo se hizo Parenthood</title>
+    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <desc>(Documentales,Naturaleza) La paternidad en el reino animal es un juego de alto riesgo. En un mundo lleno de peligros, algunos padres animales hacen todo lo posible para asegurar la supervivencia de sus crías.
+· País: Reino Unido
+· Productora: Silverback Production.</desc>
+    <category>Documentales, Naturaleza</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4436449" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111123300 +0100" stop="20261111133000 +0100" channel="Movistar Plus">
     <title>Cómo la IIGM se convirtió en global</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Historia) La Segunda Guerra Mundial ha sido considerada históricamente una guerra europea que acabó convirtiéndose en un conflicto global y cambió el mundo para siempre. Pero otros países como Japón, China, Estados Unidos y Oriente Medio no lo vieron así.
@@ -52019,7 +52115,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111131900 +0100" stop="20261111140800 +0100" channel="Movistar Plus">
+	<programme start="20261111133000 +0100" stop="20261111141900 +0100" channel="Movistar Plus">
     <title>Los nazis y la carrera espacial</title>
     <sub-title>2025 | ⑦ | ★6.6/10</sub-title>
     <desc>(Documentales,Historia) Cuando el Apolo 11 aterrizó en la Luna, fue visto por una audiencia de 650 millones de personas y se consideró instantáneamente el mayor logro del ser humano. Pero los secretos detrás de esta hazaña han permanecido ocultos en la historia, hasta ahora.
@@ -52035,7 +52131,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111140800 +0100" stop="20261111152900 +0100" channel="Movistar Plus">
+	<programme start="20261111141900 +0100" stop="20261111153900 +0100" channel="Movistar Plus">
     <title>La película de nazis que nunca existió</title>
     <sub-title>2026 | ⑦ | ★6.0/10</sub-title>
     <desc>(Documentales,Sociedad) Herman J. Mankiewicz, guionista de "Ciudadano Kane", escribió en 1932 "The Mad Dog of Europe", un guion antinazi que retrataba la desintegración de una familia judío-alemana en los inicios de Hitler en el poder. Este visionario guion nunca se rodó.
@@ -52050,7 +52146,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111152900 +0100" stop="20261111183400 +0100" channel="Movistar Plus">
+	<programme start="20261111153900 +0100" stop="20261111184400 +0100" channel="Movistar Plus">
     <title>La lista de Schindler</title>
     <sub-title>1993 | ⑫ | ★7.4/10</sub-title>
     <desc>(Cine,Drama) Aunque la política no le interesa lo más mínimo, Oskar Schindler, un hombre de negocios y jugador empedernido, hace fortuna aprovechando la invasión de Polonia por la Alemania nazi.
@@ -52070,7 +52166,7 @@
 			<value>7.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111183400 +0100" stop="20261111192200 +0100" channel="Movistar Plus">
+	<programme start="20261111184400 +0100" stop="20261111193200 +0100" channel="Movistar Plus">
     <title>Descifrando a Hitler: Populista</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Biografía) Tras la derrota en la Primera Guerra Mundial, Alemania está hundida. Hitler exige una renovación nacional. Putzi Hanfstaengl, un rico alemán protagonista del ascenso del dictador, y su esposa Helene quedan impresionados por su carisma y convicción.
@@ -52085,7 +52181,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111192200 +0100" stop="20261111200900 +0100" channel="Movistar Plus">
+	<programme start="20261111193200 +0100" stop="20261111201900 +0100" channel="Movistar Plus">
     <title>Descifrando a Hitler: Tirano</title>
     <sub-title>2025 | ⑫ | ★5.8/10</sub-title>
     <desc>(Documentales,Biografía) Una vez convertido en líder del gobierno alemán, Adolf Hitler trabaja para desmantelar la democracia que lo llevó al poder, colocando a sus acólitos en puestos clave y restringiendo la libertad de prensa.
@@ -52100,7 +52196,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111200900 +0100" stop="20261111210000 +0100" channel="Movistar Plus">
+	<programme start="20261111201900 +0100" stop="20261111211000 +0100" channel="Movistar Plus">
     <title>Descifrando a Hitler: Fanático</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Documentales,Biografía) En el verano de 1940, Hitler va camino de hacer realidad sus sueños de conquista mundial. Sus ejércitos han arrasado Europa, invadiendo un país tras otro. Antes de que alguien le detenga, muchas de sus fanáticas ideas se harán realidad.
@@ -52115,7 +52211,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111210000 +0100" stop="20261111213100 +0100" channel="Movistar Plus">
+	<programme start="20261111211000 +0100" stop="20261111213000 +0100" channel="Movistar Plus">
     <title>Bakalá T26/27 E10</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
@@ -52130,7 +52226,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111213100 +0100" stop="20261111220000 +0100" channel="Movistar Plus">
+	<programme start="20261111213000 +0100" stop="20261111220000 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Minicadena perpetua</title>
     <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
@@ -52162,7 +52258,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111223000 +0100" stop="20261111231700 +0100" channel="Movistar Plus">
+	<programme start="20261111223000 +0100" stop="20261111231600 +0100" channel="Movistar Plus">
     <title>Marihuana E1</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,Sociedad) Cataluña. Cuartel General de los Mossos d'Esquadra en Sabadell. Unos 600 agentes se preparan para ejecutar la mayor operación del año contra una organización criminal que está llegando a dominar un barrio entero de Girona a través de la violencia.
@@ -52176,7 +52272,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111231700 +0100" stop="20261112000700 +0100" channel="Movistar Plus">
+	<programme start="20261111231600 +0100" stop="20261112000600 +0100" channel="Movistar Plus">
     <title>Marihuana E2</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,Sociedad) Granada, finales de marzo de 2026. En un chalé de la urbanización de Los Tablazos, las fuerzas de seguridad se encuentran una espectacular plantación de marihuana con la última tecnología custodiada por un solo jardinero a sueldo de la Mafia Albanesa.
@@ -52190,7 +52286,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112000700 +0100" stop="20261112003600 +0100" channel="Movistar Plus">
+	<programme start="20261112000600 +0100" stop="20261112003500 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E1 · Sexualmente activo</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Tres años después de una desafortunada propuesta de matrimonio, Gordon y Ashley han seguido caminos separados. Un encuentro inesperado en el trabajo de Ashley vuelve a remover sentimientos que ambos creían superados.
@@ -52207,7 +52303,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112003600 +0100" stop="20261112010400 +0100" channel="Movistar Plus">
+	<programme start="20261112003500 +0100" stop="20261112010300 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E2 · Un amor limpio, sincero y transparente</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley se reencuentra con Colin y recibe una invitación para asistir al cumpleaños de Gordon, organizado por su nueva novia. La celebración promete convertirse en una situación incómoda para todos los implicados.
@@ -52224,7 +52320,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112010400 +0100" stop="20261112013200 +0100" channel="Movistar Plus">
+	<programme start="20261112010300 +0100" stop="20261112013100 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E3 · Monstera</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Gordon y Ashley acuerdan cenar juntos para aclarar sus sentimientos, mientras sus respectivas parejas parecen tener planes muy definidos para el futuro. Entretanto, una situación familiar inesperada reclama la atención de Ashley.
@@ -52241,7 +52337,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112013200 +0100" stop="20261112020500 +0100" channel="Movistar Plus">
+	<programme start="20261112013100 +0100" stop="20261112020400 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E4 · Desayuno con champán para nuevos comienzos</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley y Gordon intentan poner en orden sus sentimientos y sus respectivas relaciones después de una cena que ha complicado las cosas. Mientras tanto, Brett atraviesa una crisis de amistad con Gordon.
@@ -52258,7 +52354,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112020500 +0100" stop="20261112023500 +0100" channel="Movistar Plus">
+	<programme start="20261112020400 +0100" stop="20261112023400 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E5 · Fiesta sexual con drogas</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley intenta abrirse a nuevas posibilidades sentimentales, pero su relación con Gordon sigue generando incertidumbre. Una noche de juegos en el piso que comparte con sus amigos promete convertirse en una velada de lo más peculiar.
@@ -52275,7 +52371,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112023500 +0100" stop="20261112030700 +0100" channel="Movistar Plus">
+	<programme start="20261112023400 +0100" stop="20261112030600 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E6 · A juego</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley se ilusiona cuando Gordon la invita a pasar un fin de semana fuera, hasta que descubre que Brett y Chiara también participarán en la escapada. Lo que parecía una oportunidad para acercarse se convierte en un viaje lleno de situaciones incómodas.
@@ -52292,7 +52388,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112030700 +0100" stop="20261112033600 +0100" channel="Movistar Plus">
+	<programme start="20261112030600 +0100" stop="20261112033600 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E7 · ¿Eso es todo?</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ashley y Gordon afrontan nuevos desafíos familiares que los obligan a reflexionar sobre sus relaciones y responsabilidades. Mientras Ashley se reencuentra con personas de su pasado, Gordon debe tomar decisiones importantes sobre el cuidado de su madre.
@@ -52309,7 +52405,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112033600 +0100" stop="20261112041600 +0100" channel="Movistar Plus">
+	<programme start="20261112033600 +0100" stop="20261112041500 +0100" channel="Movistar Plus">
     <title>Colin de cuentas T3 E8 · Ron con pasas</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Final de serie. La Navidad llega a Sídney, pero Ashley no comparte el entusiasmo festivo de Gordon. Entre tensiones familiares, situaciones incómodas y sentimientos sin resolver, ambos afrontan unas fiestas que podrían marcar su futuro.
@@ -52326,7 +52422,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112041600 +0100" stop="20261112045400 +0100" channel="Movistar Plus">
+	<programme start="20261112041500 +0100" stop="20261112045300 +0100" channel="Movistar Plus">
     <title>Paga o muere E1</title>
     <sub-title>2026 | ⑫ | ★8.4/10</sub-title>
     <desc>(Documentales,Sociedad) El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
@@ -52341,7 +52437,7 @@
 			<value>8.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112045400 +0100" stop="20261112053200 +0100" channel="Movistar Plus">
+	<programme start="20261112045300 +0100" stop="20261112053100 +0100" channel="Movistar Plus">
     <title>Paga o muere E2</title>
     <sub-title>2026 | ⑫ | ★7.4/10</sub-title>
     <desc>(Documentales,Sociedad) ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
@@ -52356,7 +52452,7 @@
 			<value>7.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112053200 +0100" stop="20261112062100 +0100" channel="Movistar Plus">
+	<programme start="20261112053100 +0100" stop="20261112062100 +0100" channel="Movistar Plus">
     <title>Paga o muere E3</title>
     <sub-title>2026 | ⑫ | ★8.2/10</sub-title>
     <desc>(Documentales,Sociedad) El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
@@ -52371,7 +52467,7 @@
 			<value>8.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112062100 +0100" stop="20261112072100 +0100" channel="Movistar Plus">
+	<programme start="20261112062100 +0100" stop="20261112072000 +0100" channel="Movistar Plus">
     <title>Triana. El faro que no cesa</title>
     <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Documentales,Música) A través de la mirada de Eduardo Rodriguez y de voces de músicos de distintas generaciones, el título recorre la trayectoria de una banda que abrió nuevos caminos en la música española y transformó para siempre la relación entre el flamenco y el rock.
@@ -52386,7 +52482,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112072100 +0100" stop="20261112081000 +0100" channel="Movistar Plus">
+	<programme start="20261112072000 +0100" stop="20261112081000 +0100" channel="Movistar Plus">
     <title>Informe Plus+. El espíritu de San Marino</title>
     <sub-title>2024 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) De las 210 selecciones que forman parte de la FIFA hay una que no ha ganado nunca un partido oficial. El equipo nacional de San Marino echó a andar en 1990. Desde entonces ha encajado más de 800 goles y ha marcado 32.
@@ -52644,22 +52740,30 @@
 		</star-rating>
 	</programme>
 	<programme start="20261113010000 +0100" stop="20261113020000 +0100" channel="Movistar Plus">
-    <title>27ª edición de los Premios GRAMMY Latinos: alfombra roja</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Música,Evento musical) 27ª edición de los Premios GRAMMY Latinos: alfombra roja -.</desc>
+    <title>27ª edición de los Premios Latin Grammy: alfombra roja</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Música,Evento musical) 27ª edición de los Premios Latin Grammy: alfombra roja -.</desc>
     <category>Música, Evento musical</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2703834V4443532" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113020000 +0100" stop="20261113053000 +0100" channel="Movistar Plus">
-    <title>27ª entrega de los Latin Grammy: ceremonia</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Música,Evento musical) 27ª entrega de los Latin Grammy: ceremonia -.</desc>
+    <title>27ª edición de los Premios Latin Grammy: ceremonia</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Música,Evento musical) 27ª edición de los Premios Latin Grammy: ceremonia -.</desc>
     <category>Música, Evento musical</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2703835V4443531" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113053000 +0100" stop="20261113064000 +0100" channel="Movistar Plus">
     <title>Saturday Night Live T52 · Shane Gillis / Rosalía</title>
@@ -52755,9 +52859,9 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261113123200 +0100" stop="20261113132800 +0100" channel="Movistar Plus">
+	<programme start="20261113123200 +0100" stop="20261113132300 +0100" channel="Movistar Plus">
     <title>Marihuana E2</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,Sociedad) Granada, finales de marzo de 2026. En un chalé de la urbanización de Los Tablazos, las fuerzas de seguridad se encuentran una espectacular plantación de marihuana con la última tecnología custodiada por un solo jardinero a sueldo de la Mafia Albanesa.
 · País: España</desc>
     <category>Documentales, Sociedad</category>
@@ -52765,10 +52869,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261113132800 +0100" stop="20261113140700 +0100" channel="Movistar Plus">
+	<programme start="20261113132300 +0100" stop="20261113140200 +0100" channel="Movistar Plus">
     <title>Sicarios: Los avisos</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.6/10</sub-title>
     <desc>(Documentales,True crime) Un tiroteo tiene lugar a la salida de una comunión en San Pedro de Alcántara, Marbella. La investigación destapa una peligrosa banda de sicarios asentada en la Costa del Sol. Disparos, explosiones, ajustes de cuentas y mucha violencia.
 · País: España
 · Presenta: Carles Porta.
@@ -52778,10 +52885,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261113140700 +0100" stop="20261113144300 +0100" channel="Movistar Plus">
+	<programme start="20261113140200 +0100" stop="20261113143800 +0100" channel="Movistar Plus">
     <title>Sicarios: Los suecos</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,True crime) Los sospechosos son profesionales, escurridizos y peligrosos. Las primeras investigaciones llevan el rastro hasta Malmö, Suecia. Las cámaras de seguridad serán claves para seguir avanzando en el caso. ¿Qué relación hay entre Marbella y Malmö?
 · País: España
 · Presenta: Carles Porta.
@@ -52791,10 +52901,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261113144300 +0100" stop="20261113153000 +0100" channel="Movistar Plus">
+	<programme start="20261113143800 +0100" stop="20261113153000 +0100" channel="Movistar Plus">
     <title>Sicarios: El puzzle</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Documentales,True crime) Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
 · País: España
 · Presenta: Carles Porta.
@@ -52804,6 +52917,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261113153000 +0100" stop="20261113171700 +0100" channel="Movistar Plus">
     <title>The Gentlemen: Los señores de la mafia</title>
@@ -53048,14 +53164,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261114090200 +0100" stop="20261114113200 +0100" channel="Movistar Plus">
-    <title>27ª entrega de los Latin Grammy: ceremonia</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Música,Evento musical) 27ª entrega de los Latin Grammy: ceremonia -.</desc>
+    <title>27ª edición de los Premios Latin Grammy: ceremonia</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Música,Evento musical) 27ª edición de los Premios Latin Grammy: ceremonia -.</desc>
     <category>Música, Evento musical</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2703835V4443531" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261114113200 +0100" stop="20261114131700 +0100" channel="Movistar Plus">
     <title>Concierto homenaje Antonio Flores: Arriba los corazones</title>
@@ -53539,7 +53658,7 @@
 	</programme>
 	<programme start="20261115190000 +0100" stop="20261115210000 +0100" channel="Movistar Plus">
     <title>Jornada 8: Baskonia - Real Madrid T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -53548,7 +53667,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115210000 +0100" stop="20261115213000 +0100" channel="Movistar Plus">
@@ -58174,7 +58293,7 @@
 	</programme>
 	<programme start="20261114130000 +0100" stop="20261114152000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 12: Bilbao Athletic - Racing Ferrol T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -58183,7 +58302,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261114152000 +0100" stop="20261114163000 +0100" channel="Primera Federación">
@@ -58244,7 +58363,7 @@
 	</programme>
 	<programme start="20261114232000 +0100" stop="20261115014000 +0100" channel="Primera Federación">
     <title>Jornada 12: Bilbao Athletic - Racing Ferrol T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -58253,7 +58372,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115014000 +0100" stop="20261115040000 +0100" channel="Primera Federación">
@@ -63572,6 +63691,7 @@
 · Guion: Brittani Nichols.
 · Productora: Non Sequitur Productions, 20th Television, Josh Greene, Richie Edelson, Megan Scully.</desc>
     <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4310985" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -65138,7 +65258,7 @@
 			<value>8.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261111080000 +0100" stop="20261111090000 +0100" channel="Telecinco">
+	<programme start="20261111080400 +0100" stop="20261111090100 +0100" channel="Telecinco">
     <title>La mirada crítica T7 E53</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Información,Informativo) Espacio de tertulia y opinión, presentado por Ana Terradillos, que cuenta con personajes del ámbito político, económico, social y cultural para analizar los acontecimientos que marcan la actualidad nacional e internacional.
@@ -65149,9 +65269,9 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261111090000 +0100" stop="20261111120000 +0100" channel="Telecinco">
+	<programme start="20261111090100 +0100" stop="20261111120000 +0100" channel="Telecinco">
     <title>El programa de Ana Rosa T23 E53</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★10.0/10</sub-title>
     <desc>(Información,Informativo) Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.
 · País: España</desc>
     <category>Información, Informativo</category>
@@ -65159,6 +65279,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>10.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261111120000 +0100" stop="20261111134500 +0100" channel="Telecinco">
     <title>El tiempo justo T3 E13</title>
@@ -65313,7 +65436,7 @@
 	</programme>
 	<programme start="20261111230000 +0100" stop="20261112020000 +0100" channel="Telecinco">
     <title>La isla de las tentaciones T11 E20</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★4.6/10</sub-title>
     <desc>(Entretenimiento,Telerrealidad) Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras.
 · País: España</desc>
     <category>Entretenimiento, Telerrealidad</category>
@@ -65322,7 +65445,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261112020000 +0100" stop="20261112022500 +0100" channel="Telecinco">
@@ -74145,6 +74268,1286 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
+	<programme start="20261112100000 +0100" stop="20261112110000 +0100" channel="M+ LaLiga">
+    <title>Informe Plus+. Cucu...Cucurella</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Marc Cucurella, un jugador que no pasa desapercibido, ni dentro ni fuera del campo, en la plenitud de su carrera y mirando en el horizonte cercano el que puede ser su mayor sueño futbolístico: ganar el próximo Mundial con la Selección Española.
+· País: España
+· Productora: Movistar+.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4434335" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112110000 +0100" stop="20261112125000 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: RC Celta - Levante UD</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) Los dos equipos perdieron en la última jornada y ambos siguen sin dar el salto necesario; los celestes para acercarse a puestos europeos y los granotas para alejarse del descenso. Giráldez tendrá que volver a gestionar al milímetro sus recursos tras UEL.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490942" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112125000 +0100" stop="20261112125500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Burgos - RC Celta B</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112125500 +0100" stop="20261112130000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Cádiz CF - Real Oviedo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112130000 +0100" stop="20261112130500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Córdoba CF - Ceuta FC</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112130500 +0100" stop="20261112131000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Girona FC - UD Almería</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112131000 +0100" stop="20261112131500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: UD Las Palmas - CD Eldense</title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112131500 +0100" stop="20261112132000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: CD Leganés - Albacete BP</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112132000 +0100" stop="20261112132500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: CE Sabadell - Real Sociedad B</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112132500 +0100" stop="20261112133500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Real Sporting - Real Valladolid CF</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112133500 +0100" stop="20261112134000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 13: Córdoba CF - Ceuta FC</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4489807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112134500 +0100" stop="20261112144500 +0100" channel="M+ LaLiga">
+    <title>Universo Valdano T8 · Fede Valverde</title>
+    <sub-title>2024 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Fede Valverde, centrocampista del Real Madrid, se sienta junto a Jorge Valdano para hablar de su nominación al Balón de Oro, de la dura derrota contra el Barça, de su papel en la selección de Uruguy... Temas interesantes del Universo Valdano.
+· País: España
+· Presenta: Jorge Valdano.
+· Productora: Mediapro.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4318119" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112144500 +0100" stop="20261112145500 +0100" channel="M+ LaLiga">
+    <title>42 Legados T1 · La Llamada: Betis</title>
+    <sub-title>TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) 42 Legados.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2542158V4227098" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112145500 +0100" stop="20261112164500 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490944" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112164500 +0100" stop="20261112165700 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112165700 +0100" stop="20261112170900 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112170900 +0100" stop="20261112172100 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112172100 +0100" stop="20261112173300 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112173300 +0100" stop="20261112174500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112174500 +0100" stop="20261112175700 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112175700 +0100" stop="20261112180900 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112180900 +0100" stop="20261112182100 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112205000 +0100" stop="20261112224000 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El Osasuna, necesitado de puntos tras sumar una victoria en ocho encuentros, recibe a un Athlétic que se ha aupado a la séptima plaza tras dos triunfos consecutivos.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490934" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112224000 +0100" stop="20261112231000 +0100" channel="M+ LaLiga">
+    <title>90 años de historias T2019 · Luis Suárez</title>
+    <sub-title>2019 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) Luis Suárez, jugador del FC Barcelona durante siete temporadas, conquistó seis títulos en dos Ligas, dos Copas y dos Copas de Ferias. Su traspaso al Inter de Milán le convirtió en el primer futbolista español en ser fichado por un club italiano.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3817593" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112231000 +0100" stop="20261112232200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Atlético de Madrid - FC Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112232200 +0100" stop="20261112233400 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RC Celta - Levante UD</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112233400 +0100" stop="20261112234600 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Elche CF - Real Betis</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112234600 +0100" stop="20261112235800 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: RCD Espanyol de Barcelona - RC Deportivo</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261112235800 +0100" stop="20261113001000 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113001000 +0100" stop="20261113002200 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: CA Osasuna - Athletic Club</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113002200 +0100" stop="20261113003400 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113003400 +0100" stop="20261113004600 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Sevilla FC - Deportivo Alavés</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113004600 +0100" stop="20261113005800 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Valencia CF - Real Madrid</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113005800 +0100" stop="20261113011500 +0100" channel="M+ LaLiga">
+    <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 12: Villarreal CF - Getafe CF</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490083" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113030500 +0100" stop="20261113035500 +0100" channel="M+ LaLiga">
+    <title>Antoine Griezmann. Enamorado del Atleti</title>
+    <sub-title>2026 | TP | ★7.2/10</sub-title>
+    <desc>(Documentales,Deportes) Vivimos junto a Antoine Griezmann el día que se despide ante su afición. Un documental íntimo que repasa sus sensaciones y reflexiones tras convertirse en una de las leyendas del club.
+· País: España
+· Dirección: Javier Jiménez Vaquerizo.
+· Producción: Atleti Studios.</desc>
+    <category>Documentales, Deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4481573" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113035500 +0100" stop="20261113054500 +0100" channel="M+ LaLiga">
+    <title>LALIGA EA SPORTS T26/27 · Jornada 12: Real Sociedad - Rayo Vallecano</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
+· País: España</desc>
+    <category>Deportes, Fútbol</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490932" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261113054500 +0100" stop="20261113070000 +0100" channel="M+ LaLiga">
+    <title>El fútbol según Raúl T1 · La Copa más blanca</title>
+    <sub-title>2020 | TP | ★6.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) El 4 de junio de 1980 vivimos un partido histórico en el fútbol español, porque nunca se había disputado y nunca más se disputará. Esa noche saltaban al césped del Santiago Bernabéu los jugadores del Real Madrid y los once de su filial.
+· País: España
+· Presenta: Raúl González.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3829420" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111185600 +0100" stop="20261111200100 +0100" channel="M+ Originales">
+    <title>Late Motiv T1 · Concha Velasco</title>
+    <sub-title>2016 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) 'Late night' presentado por Andreu Buenafuente. La actriz Concha Velasco visita el programa y el toque musical lo pone el grupo madrileño "Izal".
+· País: España
+· Presenta: Andreu Buenafuente.
+· Productora: El Terrat, Movistar+.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3123323" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111200100 +0100" stop="20261111205900 +0100" channel="M+ Originales">
+    <title>Maraton Man T4 · Portugal, trail en tierras celtas</title>
+    <sub-title>2018 | ⑦ | ★6.4/10</sub-title>
+    <desc>(Entretenimiento) Maraton Man se va de acampada en caravana a través de Portugal. Junto a pescadores artesanales descubre la vida de los que viven de cara al mar para viajar hacia el interior y enfrentarse a un trail muy especial.
+· País: España
+· Presenta: Raúl Gómez.
+· Dirección: Esteban Peke, Josué Andavert.
+· Guion: Nerea Crespo.
+· Productora: Movistar+, Zanskar Producciones.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3528802" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111205900 +0100" stop="20261111212800 +0100" channel="M+ Originales">
+    <title>Leo Talks T7 · Minicadena perpetua</title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
+· País: España
+· Presenta: Leo Harlem.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515709" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111223000 +0100" stop="20261111230000 +0100" channel="M+ Originales">
+    <title>Locos por el golf T2026 E37</title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
+· País: España
+· Presenta: Lidia Blanco, Carlos Palomo.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4246210" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111230000 +0100" stop="20261111233100 +0100" channel="M+ Originales">
+    <title>Planeta Tenis T2026 E27</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464670" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111233100 +0100" stop="20261112001700 +0100" channel="M+ Originales">
+    <title>Muerte en el hotel</title>
+    <sub-title>2025 | ⑯ | ★6.4/10</sub-title>
+    <desc>(Documentales,True crime) José Rosado visita Madrid por trabajo, donde se aloja en un lujoso hotel. En Chueca conoce a dos chicos con los que decide alargar un poco más la noche en su habitación. Las cámaras de seguridad del hotel serán claves para resolver el caso.
+· País: España
+· Presenta: Carles Porta.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4427535" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112001700 +0100" stop="20261112010500 +0100" channel="M+ Originales">
+    <title>¡Mátalo ya!</title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
+    <desc>(Documentales,True crime) La Guardia Civil encuentra a Juan apuñalado y en estado crítico, y a un joven que ha sido atropellado. El joven asegura que ha sido en defensa propia. Inma, la hijastra de Juan, lo ha visto todo y lo confirma. ¿Qué ha pasado en esta familia?
+· País: España
+· Presenta: Carles Porta.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4472097" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112010500 +0100" stop="20261112021000 +0100" channel="M+ Originales">
+    <title>Las voces de la radio T1 · Gracias por escucharnos</title>
+    <sub-title>2024 | TP | ★6.2/10</sub-title>
+    <desc>(Entretenimiento) La ciudad amanece y en las redacciones de las emisoras, las teclas hierven esperando a que el día abra. Una aproximación al mundo de la radio a través del testimonio de sus principales voces y de la sociedad que siempre se reflejó en ella.
+· País: España</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4322352" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112021000 +0100" stop="20261112024000 +0100" channel="M+ Originales">
+    <title>Ilustres ignorantes T19 · Fotografías</title>
+    <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) La actriz Clara Lago y el director Eduardo Casanova visitan el plató de Ilustres para hablar de “Fotografías”. Si solo pudieran salvar una foto de toda su vida, ¿cuál sería? ¿Qué filtro usarían para mejorar sus selfis?
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448681" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112024000 +0100" stop="20261112030700 +0100" channel="M+ Originales">
+    <title>Expediente Pérez T1 · Vacunas</title>
+    <sub-title>2021 | TP | ★6.2/10</sub-title>
+    <desc>(Entretenimiento,Humor) Año 2027. Cinco años sin covid. Gabilondo repasa cómo fueron los primeros tiempos de la vacunación hasta llegar a un presente ficticio donde las vacunas ya se fabrican en casa gracias a tutoriales como el de Juan Salazar, de los Chunguitos.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3927467" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112030700 +0100" stop="20261112035700 +0100" channel="M+ Originales">
+    <title>Perejil E3</title>
+    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <desc>(Documentales,Historia) El 17 de julio de 2002, 28 militares españoles recuperan Perejil en una operación impecable. Marruecos reacciona con firmeza y EEUU, liderado por Colin Powell, interviene para evitar una escalada. La tensión cede tras lograr un acuerdo diplomático.
+· País: España
+· Dirección: Tian Riba.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4390966" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112051500 +0100" stop="20261112060900 +0100" channel="M+ Originales">
+    <title>Maraton Man T4 · Portugal, maratón solidaria en Lisboa</title>
+    <sub-title>2018 | ⑦ | ★6.4/10</sub-title>
+    <desc>(Entretenimiento) Maraton Man cruza Portugal hacia el sur para participar en un maratón solidario junto a tres personajes muy especiales: un ultra maratonista, una señora de 70 años con mucha energía y una mujer a la que un accidente le cambió la vida.
+· País: España
+· Presenta: Raúl Gómez.
+· Dirección: Esteban Peke, Josué Andavert.
+· Guion: Nerea Crespo.
+· Productora: Movistar+, Zanskar Producciones.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3528806" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112060900 +0100" stop="20261112063500 +0100" channel="M+ Originales">
+    <title>Arde Madrid T1 E7 · Dios es Dios y yo soy yo</title>
+    <sub-title>2018 | ⑱ | ★6.6/10</sub-title>
+    <desc>(Series,Comedia) Manolo y Ana Mari campan a sus anchas por la casa, cuando reciben la llamada de Pilar diciendo que la señora adelanta su vuelta y que sabe que está embarazada. Manolo vuela para ir a recoger el collar y la réplica.
+· País: España
+· Dirección: Paco León.
+· Reparto: Paco León, Inma Cuesta, Deborah Mazar, Anna Castillo, Ken Appledorn, Julián Villagrán, Osmar Núñez, Fabiana García.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3606175" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112063500 +0100" stop="20261112071600 +0100" channel="M+ Originales">
+    <title>La Peste T1 E5 · El hijo</title>
+    <sub-title>2018 | ⑯ | ★6.8/10</sub-title>
+    <desc>(Series,Thriller) Mateo está convencido de que Germán no se suicidó. Teresa accede a desenterrarle. Zúñiga aprovecha la peste, el hambre y las revueltas para conseguir que se abra el puerto y pueda llegar la flota de Indias.
+· País: España
+· Dirección: Paco R. Baños.
+· Reparto: Pablo Molinero, Sergio Castellanos, Paco León, Manolo Solo, Patricia López Arnaiz.
+· Guion: Rafael Cobos.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3443782" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112071600 +0100" stop="20261112080400 +0100" channel="M+ Originales">
+    <title>Making of "El Castillo"</title>
+    <sub-title>2026 | ⑯ | ★6.2/10</sub-title>
+    <desc>(Series,Making of) Este making of nos acerca al proceso creativo detrás de la serie "El Castillo" a través de las voces de sus creadores, directoras, actrices y actores protagonistas, y principales responsables de los distintos departamentos técnicos.
+· País: España</desc>
+    <category>Series, Making of</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4513448" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112080400 +0100" stop="20261112082000 +0100" channel="M+ Originales">
+    <title>Lo mejor de El día después T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) 'El Día Después', uno de nuestros grandes clásicos que una temporada más ofrece la visión más entretenida y original de la jornada liguera, y donde no va a faltar 'Lo que el ojo no ve'.
+· País: España
+· Productora: Movistar+.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4352027" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113000800 +0100" stop="20261113003800 +0100" channel="M+ Originales">
+    <title>Locos por el golf T2026 E37</title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) Lidia Blanco y Carlos Palomo ofrecen en este programa semanal múltiples argumentos para divertirse con el golf. Las situaciones más surrealistas, los fallos más inimaginables y las historias más curiosas siempre tienen un hueco en Locos por el Golf.
+· País: España
+· Presenta: Lidia Blanco, Carlos Palomo.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4246210" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113003800 +0100" stop="20261113011700 +0100" channel="M+ Originales">
+    <title>Sicarios: Los avisos</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Documentales,True crime) Un tiroteo tiene lugar a la salida de una comunión en San Pedro de Alcántara, Marbella. La investigación destapa una peligrosa banda de sicarios asentada en la Costa del Sol. Disparos, explosiones, ajustes de cuentas y mucha violencia.
+· País: España
+· Presenta: Carles Porta.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261113011700 +0100" stop="20261113015300 +0100" channel="M+ Originales">
+    <title>Sicarios: Los suecos</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Documentales,True crime) Los sospechosos son profesionales, escurridizos y peligrosos. Las primeras investigaciones llevan el rastro hasta Malmö, Suecia. Las cámaras de seguridad serán claves para seguir avanzando en el caso. ¿Qué relación hay entre Marbella y Malmö?
+· País: España
+· Presenta: Carles Porta.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261113015300 +0100" stop="20261113023300 +0100" channel="M+ Originales">
+    <title>Sicarios: El puzzle</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Documentales,True crime) Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
+· País: España
+· Presenta: Carles Porta.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261113023300 +0100" stop="20261113030300 +0100" channel="M+ Originales">
+    <title>Ilustres ignorantes T19 · Solteros</title>
+    <sub-title>2025 | ⑯ | ★6.2/10</sub-title>
+    <desc>(Entretenimiento,Humor) El guionista Arturo González-Campos y el director Rodrigo Cortés son los invitados de este programa en el que hablan sobre los “Solteros” ¿Qué es lo mejor y lo peor de estar soltero? ¿Cómo identifican a un “soltero o soltera de oro.
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4446976" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113030300 +0100" stop="20261113032800 +0100" channel="M+ Originales">
+    <title>Expediente Pérez T1 · Turismo</title>
+    <sub-title>2021 | TP | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) Bienvenidos al informativo más largo de la tele. Antonio García Ferreras informa, durante todo el verano y sin levantarse de la mesa, sobre el comportamiento de los turistas tras el fin del estado de alarma.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3928808" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113032800 +0100" stop="20261113043300 +0100" channel="M+ Originales">
+    <title>La última llamada: Felipe González T1 E1 · Felipe González</title>
+    <sub-title>2025 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Documentales,Docuserie) A pesar de su carisma, Felipe González, se revela como un gran tímido. El episodio muestra el desgaste del poder, la pérdida de aliados y la difícil decisión que debió tomar frente a ETA en un momento de creciente soledad política.
+· País: España</desc>
+    <category>Documentales, Docuserie</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4431868" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113043300 +0100" stop="20261113050000 +0100" channel="M+ Originales">
+    <title>LocoMundo T3 · República y Monarquía</title>
+    <sub-title>2018 | ⑯ | ★6.6/10</sub-title>
+    <desc>(Entretenimiento,Humor) Quequé y sus ecuánimes colaboradores de LOCOMUNDO debaten sobre "REPÚBLICA Y MONARQUÍA". ¿Qué sistema es mejor? ¿Cómo quedaría Quequé si jugara a la Ruleta de la República? ¿Es posible convertir una institución milenaria en milenial?
+· País: España
+· Presenta: Quequé.
+· Producción: Xen Subirats.
+· Productora: Movistar+.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3589973" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113050000 +0100" stop="20261113055500 +0100" channel="M+ Originales">
+    <title>Maraton Man T4 · Zimbabue, entre la tradición y la ilusión</title>
+    <sub-title>2018 | ⑦ | ★6.2/10</sub-title>
+    <desc>(Entretenimiento) Maraton Man viaja a África para conocer la realidad de Zimbabue, un país en pleno cambio después de 40 años del mismo gobierno. En su viaje conoce a un albino que lucha por su colectivo, perseguido en África. En Mutare corre una media maratón.
+· País: España
+· Presenta: Raúl Gómez.
+· Dirección: Esteban Peke, Josué Andavert.
+· Guion: Nerea Crespo.
+· Productora: Movistar+, Zanskar Producciones.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3616429" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113055500 +0100" stop="20261113062900 +0100" channel="M+ Originales">
+    <title>Arde Madrid T1 E8 · What's autorización?</title>
+    <sub-title>2018 | ⑱ | ★7.4/10</sub-title>
+    <desc>(Series,Comedia) Ava se despierta eufórica y comunica al servicio que quiere hacer un pequeño homenaje a su amigo Hemingway. Durante los preparativos, Ava y Perón se encuentran en el jardín, éste le da el pésame y hacen las paces.
+· País: España
+· Dirección: Paco León.
+· Reparto: Paco León, Inma Cuesta, Deborah Mazar, Anna Castillo, Ken Appledorn, Julián Villagrán, Osmar Núñez, Fabiana García.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3606182" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113062900 +0100" stop="20261113071700 +0100" channel="M+ Originales">
+    <title>La Peste T1 E6 · El nuevo mundo</title>
+    <sub-title>2018 | ⑯ | ★7.2/10</sub-title>
+    <desc>(Series,Thriller) El brote de peste comienza a remitir en la ciudad. El Gran Inquisidor entrega a Mateo su orden de libertad. Mateo ha resuelto el caso. Como consecuencia de la investigación, son detenidos por la Inquisición algunos protestantes.
+· País: España
+· Dirección: Alberto Rodríguez, Paco R. Baños.
+· Reparto: Pablo Molinero, Sergio Castellanos, Paco León, Manolo Solo, Patricia López Arnaiz.
+· Guion: Rafael Cobos.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3443785" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113071700 +0100" stop="20261113072500 +0100" channel="M+ Originales">
+    <title>20 temporadas de Ilustres ignorantes</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Entretenimiento) Invitados ilustres felicitan al programa por sus 20 temporadas.
+· País: España
+· Productora: Movistar Plus+.</desc>
+    <category>Entretenimiento</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4503536" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113072500 +0100" stop="20261113075500 +0100" channel="M+ Originales">
+    <title>Planeta Tenis T2026 E27</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Roberto Carretero e Iñaki Cano Martínez presentan este espacio dedicado al mundo del tenis, donde sus principales protagonistas y toda la información relacionada con los Grand Slam mantendrá viva la pasión por este deporte.
+· País: España
+· Presenta: Lidia Blanco, Roberto Carretero.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464670" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113075500 +0100" stop="20261113081000 +0100" channel="M+ Originales">
+    <title>Lo mejor de Bakalá T26/27 E10</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4414957" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111131900 +0100" stop="20261111140800 +0100" channel="Movistar Plus">
+    <title>Los nazis y la carrera espacial</title>
+    <sub-title>2025 | ⑦ | ★6.6/10</sub-title>
+    <desc>(Documentales,Historia) Cuando el Apolo 11 aterrizó en la Luna, fue visto por una audiencia de 650 millones de personas y se consideró instantáneamente el mayor logro del ser humano. Pero los secretos detrás de esta hazaña han permanecido ocultos en la historia, hasta ahora.
+· País: Reino Unido
+· Dirección: Richard Shaw.
+· Reparto: Adrian Rawlins.</desc>
+    <category>Documentales, Historia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4490338" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111140800 +0100" stop="20261111152900 +0100" channel="Movistar Plus">
+    <title>La película de nazis que nunca existió</title>
+    <sub-title>2026 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Documentales,Sociedad) Herman J. Mankiewicz, guionista de "Ciudadano Kane", escribió en 1932 "The Mad Dog of Europe", un guion antinazi que retrataba la desintegración de una familia judío-alemana en los inicios de Hitler en el poder. Este visionario guion nunca se rodó.
+· País: Francia
+· Dirección: Rubika Shah.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508651" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111152900 +0100" stop="20261111183400 +0100" channel="Movistar Plus">
+    <title>La lista de Schindler</title>
+    <sub-title>1993 | ⑫ | ★7.4/10</sub-title>
+    <desc>(Cine,Drama) Aunque la política no le interesa lo más mínimo, Oskar Schindler, un hombre de negocios y jugador empedernido, hace fortuna aprovechando la invasión de Polonia por la Alemania nazi.
+· País: Estados Unidos
+· Dirección: Steven Spielberg.
+· Reparto: Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall, Jonathan Sagall, Embeth Davidtz, Mark Ivanir, Shmulik Levy, Malgoscha Gebel, Jonathan Sagalle, Piotr Kadlcik, Stanislaw Brejdygant.
+· Guion: Steven Zaillian.
+· Música: John Williams.
+· Producción: Branko Lustig, Gerald R. Molen, Steven Spielberg.
+· Productora: Universal Pictures, Amblin Entertainment.</desc>
+    <category>Cine, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4364960" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111183400 +0100" stop="20261111192200 +0100" channel="Movistar Plus">
+    <title>Descifrando a Hitler: Populista</title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Documentales,Biografía) Tras la derrota en la Primera Guerra Mundial, Alemania está hundida. Hitler exige una renovación nacional. Putzi Hanfstaengl, un rico alemán protagonista del ascenso del dictador, y su esposa Helene quedan impresionados por su carisma y convicción.
+· País: Reino Unido
+· Productora: 72 Films.</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4371119" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111192200 +0100" stop="20261111200900 +0100" channel="Movistar Plus">
+    <title>Descifrando a Hitler: Tirano</title>
+    <sub-title>2025 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Documentales,Biografía) Una vez convertido en líder del gobierno alemán, Adolf Hitler trabaja para desmantelar la democracia que lo llevó al poder, colocando a sus acólitos en puestos clave y restringiendo la libertad de prensa.
+· País: Reino Unido
+· Productora: 72 Films.</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4371128" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111200900 +0100" stop="20261111210000 +0100" channel="Movistar Plus">
+    <title>Descifrando a Hitler: Fanático</title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Documentales,Biografía) En el verano de 1940, Hitler va camino de hacer realidad sus sueños de conquista mundial. Sus ejércitos han arrasado Europa, invadiendo un país tras otro. Antes de que alguien le detenga, muchas de sus fanáticas ideas se harán realidad.
+· País: Reino Unido
+· Productora: 72 Films.</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4371137" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111210000 +0100" stop="20261111213100 +0100" channel="Movistar Plus">
+    <title>Bakalá T26/27 E10</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4414957" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111213100 +0100" stop="20261111220000 +0100" channel="Movistar Plus">
+    <title>Leo Talks T7 · Minicadena perpetua</title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
+· País: España
+· Presenta: Leo Harlem.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515709" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261111231700 +0100" stop="20261112000700 +0100" channel="Movistar Plus">
+    <title>Marihuana E2</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Documentales,Sociedad) Granada, finales de marzo de 2026. En un chalé de la urbanización de Los Tablazos, las fuerzas de seguridad se encuentran una espectacular plantación de marihuana con la última tecnología custodiada por un solo jardinero a sueldo de la Mafia Albanesa.
+· País: España</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514102" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112000700 +0100" stop="20261112003600 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E1 · Sexualmente activo</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Tres años después de una desafortunada propuesta de matrimonio, Gordon y Ashley han seguido caminos separados. Un encuentro inesperado en el trabajo de Ashley vuelve a remover sentimientos que ambos creían superados.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514410" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112003600 +0100" stop="20261112010400 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E2 · Un amor limpio, sincero y transparente</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley se reencuentra con Colin y recibe una invitación para asistir al cumpleaños de Gordon, organizado por su nueva novia. La celebración promete convertirse en una situación incómoda para todos los implicados.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514385" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112010400 +0100" stop="20261112013200 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E3 · Monstera</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Gordon y Ashley acuerdan cenar juntos para aclarar sus sentimientos, mientras sus respectivas parejas parecen tener planes muy definidos para el futuro. Entretanto, una situación familiar inesperada reclama la atención de Ashley.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514390" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112013200 +0100" stop="20261112020500 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E4 · Desayuno con champán para nuevos comienzos</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley y Gordon intentan poner en orden sus sentimientos y sus respectivas relaciones después de una cena que ha complicado las cosas. Mientras tanto, Brett atraviesa una crisis de amistad con Gordon.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514392" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112020500 +0100" stop="20261112023500 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E5 · Fiesta sexual con drogas</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley intenta abrirse a nuevas posibilidades sentimentales, pero su relación con Gordon sigue generando incertidumbre. Una noche de juegos en el piso que comparte con sus amigos promete convertirse en una velada de lo más peculiar.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514396" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112023500 +0100" stop="20261112030700 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E6 · A juego</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley se ilusiona cuando Gordon la invita a pasar un fin de semana fuera, hasta que descubre que Brett y Chiara también participarán en la escapada. Lo que parecía una oportunidad para acercarse se convierte en un viaje lleno de situaciones incómodas.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514398" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112030700 +0100" stop="20261112033600 +0100" channel="Movistar Plus">
+    <title>Colin de cuentas T3 E7 · ¿Eso es todo?</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Comedia) Ashley y Gordon afrontan nuevos desafíos familiares que los obligan a reflexionar sobre sus relaciones y responsabilidades. Mientras Ashley se reencuentra con personas de su pasado, Gordon debe tomar decisiones importantes sobre el cuidado de su madre.
+· País: Australia
+· Dirección: Trent O'Donnell.
+· Reparto: Harriet Dyer, Patrick Brammall, Emma Harvie, Genevieve Hegney, Thomas Cocquerel, Nikki Shiels.
+· Guion: Harriet Dyer, Patrick Brammall.</desc>
+    <category>Series, Comedia</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514401" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112041600 +0100" stop="20261112045400 +0100" channel="Movistar Plus">
+    <title>Paga o muere E1</title>
+    <sub-title>2026 | ⑫ | ★8.4/10</sub-title>
+    <desc>(Documentales,Sociedad) El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507361" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112045400 +0100" stop="20261112053200 +0100" channel="Movistar Plus">
+    <title>Paga o muere E2</title>
+    <sub-title>2026 | ⑫ | ★7.4/10</sub-title>
+    <desc>(Documentales,Sociedad) ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507361" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112053200 +0100" stop="20261112062100 +0100" channel="Movistar Plus">
+    <title>Paga o muere E3</title>
+    <sub-title>2026 | ⑫ | ★8.2/10</sub-title>
+    <desc>(Documentales,Sociedad) El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507361" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261112072100 +0100" stop="20261112081000 +0100" channel="Movistar Plus">
+    <title>Informe Plus+. El espíritu de San Marino</title>
+    <sub-title>2024 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) De las 210 selecciones que forman parte de la FIFA hay una que no ha ganado nunca un partido oficial. El equipo nacional de San Marino echó a andar en 1990. Desde entonces ha encajado más de 800 goles y ha marcado 32.
+· País: España
+· Productora: Movistar+.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4331381" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261113132800 +0100" stop="20261113140700 +0100" channel="Movistar Plus">
+    <title>Sicarios: Los avisos</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Documentales,True crime) Un tiroteo tiene lugar a la salida de una comunión en San Pedro de Alcántara, Marbella. La investigación destapa una peligrosa banda de sicarios asentada en la Costa del Sol. Disparos, explosiones, ajustes de cuentas y mucha violencia.
+· País: España
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261113140700 +0100" stop="20261113144300 +0100" channel="Movistar Plus">
+    <title>Sicarios: Los suecos</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Documentales,True crime) Los sospechosos son profesionales, escurridizos y peligrosos. Las primeras investigaciones llevan el rastro hasta Malmö, Suecia. Las cámaras de seguridad serán claves para seguir avanzando en el caso. ¿Qué relación hay entre Marbella y Malmö?
+· País: España
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261113144300 +0100" stop="20261113153000 +0100" channel="Movistar Plus">
+    <title>Sicarios: El puzzle</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Documentales,True crime) Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
+· País: España
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261111080000 +0100" stop="20261111090000 +0100" channel="Telecinco">
+    <title>La mirada crítica T7 E53</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Información,Informativo) Espacio de tertulia y opinión, presentado por Ana Terradillos, que cuenta con personajes del ámbito político, económico, social y cultural para analizar los acontecimientos que marcan la actualidad nacional e internacional.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447534" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261111090000 +0100" stop="20261111120000 +0100" channel="Telecinco">
+    <title>El programa de Ana Rosa T23 E53</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Información,Informativo) Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.
+· País: España</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4447546" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
 	<programme start="20261111001300 +0100" stop="20261111010300 +0100" channel="AMC Crime">
     <title>Atrapadas T31 E3 · JoAnn Peterson</title>
     <sub-title>2023 | ⑯ | ★7.7/10</sub-title>
@@ -80375,22 +81778,6 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261112030800 +0100" stop="20261112035700 +0100" channel="M+ Originales">
-    <title>Perejil E3</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
-    <desc>(Documentales,Historia) El 17 de julio de 2002, 28 militares españoles recuperan Perejil en una operación impecable. Marruecos reacciona con firmeza y EEUU, liderado por Colin Powell, interviene para evitar una escalada. La tensión cede tras lograr un acuerdo diplomático.
-· País: España
-· Dirección: Tian Riba.
-· Productora: Movistar Plus+.</desc>
-    <category>Documentales, Historia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4390966" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
-	</programme>
 	<programme start="20261113074700 +0100" stop="20261113081000 +0100" channel="M+ Originales">
     <title>Originales</title>
     <desc>Programa por determinar...</desc>
@@ -83671,35 +85058,6 @@
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4371119" />
 		<rating system="ES">
 			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261111213000 +0100" stop="20261111220000 +0100" channel="Movistar Plus">
-    <title>Leo Talks T7 · Minicadena perpetua</title>
-    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
-    <desc>(Entretenimiento,Humor) Pocas cosas despiertan tanta pasión como la música. Leo recorre sus géneros, rituales y rarezas, desde los casetes y los karaokes hasta los festivales multitudinarios y la inteligencia artificial, encontrando humor en cada compás.
-· País: España
-· Presenta: Leo Harlem.</desc>
-    <category>Entretenimiento, Humor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515709" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261111231600 +0100" stop="20261112000700 +0100" channel="Movistar Plus">
-    <title>Marihuana E2</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
-    <desc>(Documentales,Sociedad) Granada, finales de marzo de 2026. En un chalé de la urbanización de Los Tablazos, las fuerzas de seguridad se encuentran una espectacular plantación de marihuana con la última tecnología custodiada por un solo jardinero a sueldo de la Mafia Albanesa.
-· País: España</desc>
-    <category>Documentales, Sociedad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514102" />
-		<rating system="ES">
-			<value>16</value>
 		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
