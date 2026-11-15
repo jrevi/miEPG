@@ -13866,8 +13866,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261115114500 +0100" stop="20261115140100 +0100" channel="DAZN 1">
-    <title>DIRECTO Jornada 11: Real Sociedad - Athletic Bilbao T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 11: Real Sociedad - Athletic Bilbao</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -13875,9 +13875,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115140100 +0100" stop="20261115151400 +0100" channel="DAZN 1">
     <title>MotoGP - GP de Catar T2026 · Grand Prix MotoGP</title>
@@ -14296,8 +14293,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118155700 +0100" stop="20261118175800 +0100" channel="DAZN 1">
-    <title>Jornada 11: Real Sociedad - Athletic Bilbao T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 11: Real Sociedad - Athletic Bilbao</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -14305,9 +14302,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118175800 +0100" stop="20261118185600 +0100" channel="DAZN 1">
     <title>MotoGP - GP de Brasil T2026 · Carrera MotoGP</title>
@@ -14491,7 +14485,7 @@
 	</programme>
 	<programme start="20261119174600 +0100" stop="20261119175700 +0100" channel="DAZN 1">
     <title>Inside Ducati T2026 · Catar</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que ofrece una visión entre bastidores del equipo Ducati Lenovo en la temporada de MotoGP.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
@@ -14499,7 +14493,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119175700 +0100" stop="20261119190300 +0100" channel="DAZN 1">
@@ -14917,8 +14911,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261115115000 +0100" stop="20261115140200 +0100" channel="DAZN 2">
-    <title>DIRECTO Jornada 11: Madrid CFF - Logroño United T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 11: Madrid CFF - Logroño United</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -14926,9 +14920,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115140200 +0100" stop="20261115155000 +0100" channel="DAZN 2">
     <title>Disfruta de DAZN en Movistar Plus</title>
@@ -15351,8 +15342,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261115122100 +0100" stop="20261115145400 +0100" channel="DAZN Baloncesto">
-    <title>DIRECTO Jornada 8: Unicaja - FIATC Girona T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga Endesa T26/27 · Jornada 8: Unicaja - FIATC Girona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15360,9 +15351,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115145400 +0100" stop="20261115183000 +0100" channel="DAZN Baloncesto">
     <title>DAZN Baloncesto</title>
@@ -15508,8 +15496,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261115115100 +0100" stop="20261115142400 +0100" channel="DAZN Baloncesto 2">
-    <title>DIRECTO Jornada 8: Valencia Basket - Leyma Coruña T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga Endesa T26/27 · Jornada 8: Valencia Basket - Leyma Coruña</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15517,9 +15505,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115142400 +0100" stop="20261115175100 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
@@ -15677,8 +15662,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261115115100 +0100" stop="20261115142400 +0100" channel="DAZN Baloncesto 3">
-    <title>DIRECTO Jornada 8: iLERNA Lleida - Kids&amp;Us Manresa T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga Endesa T26/27 · Jornada 8: iLERNA Lleida - Kids&amp;Us Manresa</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15686,9 +15671,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115142400 +0100" stop="20261115165100 +0100" channel="DAZN Baloncesto 3">
     <title>DAZN Baloncesto 3</title>
@@ -15848,29 +15830,23 @@
 	</programme>
 	<programme start="20261115102200 +0100" stop="20261115122700 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Canadá T2025 · Carrera</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4378297" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115122700 +0100" stop="20261115143200 +0100" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Miami: Carrera</title>
-    <sub-title>2024 | TP | ★6.0/10</sub-title>
+    <sub-title>2024 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4203916" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115143200 +0100" stop="20261115164500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Brasil T2026 · Carrera</title>
@@ -16672,7 +16648,7 @@
 	</programme>
 	<programme start="20261119231500 +0100" stop="20261120010000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Box, Box</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516449" />
@@ -16680,7 +16656,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115090000 +0100" stop="20261115130000 +0100" channel="DAZN LaLiga 2">
@@ -17083,7 +17059,7 @@
 	</programme>
 	<programme start="20261116143000 +0100" stop="20261116144500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17092,12 +17068,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116144500 +0100" stop="20261116150000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17106,7 +17082,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116150000 +0100" stop="20261116160000 +0100" channel="DAZN LaLiga">
@@ -17260,7 +17236,7 @@
 	</programme>
 	<programme start="20261117003000 +0100" stop="20261117004500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17269,7 +17245,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117004500 +0100" stop="20261117010000 +0100" channel="DAZN LaLiga">
@@ -17336,7 +17312,7 @@
 	</programme>
 	<programme start="20261117143000 +0100" stop="20261117144500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17345,12 +17321,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117144500 +0100" stop="20261117150000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17359,12 +17335,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117150000 +0100" stop="20261117163000 +0100" channel="DAZN LaLiga">
     <title>DIRECTO Programa 36 T26/27 · Trending</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17372,6 +17348,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261117163000 +0100" stop="20261117164500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Leganés - Burgos</title>
@@ -17444,7 +17423,7 @@
 	</programme>
 	<programme start="20261117210000 +0100" stop="20261117223000 +0100" channel="DAZN LaLiga">
     <title>Programa 36 T26/27 · Trending</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17452,6 +17431,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261117223000 +0100" stop="20261118003000 +0100" channel="DAZN LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 11: Athletic - Real Sociedad</title>
@@ -17509,7 +17491,7 @@
 	</programme>
 	<programme start="20261118120000 +0100" stop="20261118133000 +0100" channel="DAZN LaLiga">
     <title>Programa 36 T26/27 · Trending</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17517,6 +17499,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261118133000 +0100" stop="20261118150000 +0100" channel="DAZN LaLiga">
     <title>Programa 14 T2 · La Dazoneta</title>
@@ -17570,7 +17555,7 @@
 	</programme>
 	<programme start="20261118184500 +0100" stop="20261118190000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17579,7 +17564,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118190000 +0100" stop="20261118210000 +0100" channel="DAZN LaLiga">
@@ -21021,7 +21006,7 @@
   </programme>
 	<programme start="20261115070000 +0100" stop="20261115083000 +0100" channel="Eurosport 1">
     <title>6 Horas de Barcelona - Mundial de Resistencia de la FIA T2026 · Carrera</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Automovilismo) Las 6 Horas de Barcelona debutan del 16 al 18 de octubre en el Circuit de Barcelona-Catalunya como penúltima cita del Mundial de Resistencia FIA WEC. Esta prueba resulta clave para definir los títulos de las categorías Hypercar y LMGT3.
 · País: España</desc>
     <category>Deportes, Automovilismo</category>
@@ -21029,9 +21014,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115083000 +0100" stop="20261115094500 +0100" channel="Eurosport 1">
     <title>Abierto de Irlanda del Norte de snooker T26/27 · Kyren Wilson vs Jak Jones</title>
@@ -21045,17 +21027,17 @@
 		</rating>
 	</programme>
 	<programme start="20261115094500 +0100" stop="20261115113000 +0100" channel="Eurosport 1">
-    <title>DIRECTO Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Levi T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4444583" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4444583" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115113000 +0100" stop="20261115120000 +0100" channel="Eurosport 1">
@@ -21082,7 +21064,7 @@
 	</programme>
 	<programme start="20261115124500 +0100" stop="20261115140000 +0100" channel="Eurosport 1">
     <title>DIRECTO Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21091,7 +21073,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115140000 +0100" stop="20261115170000 +0100" channel="Eurosport 1">
@@ -21202,7 +21184,7 @@
 	</programme>
 	<programme start="20261116010000 +0100" stop="20261116020000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21211,7 +21193,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116020000 +0100" stop="20261116030000 +0100" channel="Eurosport 1">
@@ -21272,22 +21254,22 @@
 		</rating>
 	</programme>
 	<programme start="20261116083000 +0100" stop="20261116091500 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Levi T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4444583" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4444583" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116091500 +0100" stop="20261116100000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21296,7 +21278,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116100000 +0100" stop="20261116120000 +0100" channel="Eurosport 1">
@@ -21333,22 +21315,22 @@
 		</rating>
 	</programme>
 	<programme start="20261116133000 +0100" stop="20261116141500 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Levi T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4444583" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4444583" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116141500 +0100" stop="20261116150000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21357,7 +21339,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116150000 +0100" stop="20261116170000 +0100" channel="Eurosport 1">
@@ -21384,7 +21366,7 @@
 	</programme>
 	<programme start="20261116173000 +0100" stop="20261116180000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21393,7 +21375,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116180000 +0100" stop="20261116190000 +0100" channel="Eurosport 1">
@@ -21445,7 +21427,7 @@
 	</programme>
 	<programme start="20261116230000 +0100" stop="20261117000000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21454,7 +21436,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117000000 +0100" stop="20261117013000 +0100" channel="Eurosport 1">
@@ -21494,22 +21476,22 @@
 		</rating>
 	</programme>
 	<programme start="20261117050000 +0100" stop="20261117060000 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Levi T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4444583" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4444583" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117060000 +0100" stop="20261117070000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21518,7 +21500,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117070000 +0100" stop="20261117083000 +0100" channel="Eurosport 1">
@@ -22157,7 +22139,7 @@
 	</programme>
 	<programme start="20261119192000 +0100" stop="20261119202000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de salto ecuestre T26/27 · Stuttgart</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Hípica) La cita de Stuttgart de la Copa del Mundo se celebra del 11 al 15 de noviembre.
 · País: Alemania</desc>
     <category>Deportes, Hípica</category>
@@ -22166,7 +22148,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>8.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119202000 +0100" stop="20261119222000 +0100" channel="Eurosport 1">
@@ -22298,17 +22280,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115161500 +0100" stop="20261115170000 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Levi T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4444583" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4444583" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115170000 +0100" stop="20261115180000 +0100" channel="Eurosport 2">
@@ -22572,17 +22554,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261116200000 +0100" stop="20261116210000 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Levi T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4444583" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4444583" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116210000 +0100" stop="20261116220000 +0100" channel="Eurosport 2">
@@ -22611,17 +22593,17 @@
 		</rating>
 	</programme>
 	<programme start="20261117000000 +0100" stop="20261117004500 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Levi</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Levi T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La de Levi es la segunda prueba de la temporada en el calendario de la Copa del mundo.
 · País: Finlandia</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4444583" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4444583" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117004500 +0100" stop="20261117013000 +0100" channel="Eurosport 2">
@@ -29636,13 +29618,16 @@
 	</programme>
 	<programme start="20261119194600 +0100" stop="20261119200000 +0100" channel="M+ Baloncesto">
     <title>DIRECTO Jornada 13: Bayern Munich - Baskonia T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261119200000 +0100" stop="20261119221500 +0100" channel="M+ Baloncesto">
     <title>Jornada 13: Bayern Munich - Baskonia T26/27 · Euroliga de baloncesto</title>
@@ -29861,13 +29846,16 @@
 	</programme>
 	<programme start="20261119184600 +0100" stop="20261119190000 +0100" channel="M+ Baloncesto 2">
     <title>DIRECTO Jornada 13: Zalgiris - Panathinaikos T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.4/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261119190000 +0100" stop="20261119211500 +0100" channel="M+ Baloncesto 2">
     <title>Jornada 13: Zalgiris - Panathinaikos T26/27 · Euroliga de baloncesto</title>
@@ -29953,7 +29941,7 @@
 	</programme>
 	<programme start="20261117180000 +0100" stop="20261117201500 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 12: Maccabi Tel Aviv - Olympiacos (VO) T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -29962,7 +29950,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117201500 +0100" stop="20261117204600 +0100" channel="M+ Baloncesto 3">
@@ -29993,7 +29981,7 @@
 	</programme>
 	<programme start="20261117210000 +0100" stop="20261117231500 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 12: Virtus - Panathinaikos (VO) T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -30002,7 +29990,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117231500 +0100" stop="20261118060500 +0100" channel="M+ Baloncesto 3">
@@ -30058,13 +30046,16 @@
 	</programme>
 	<programme start="20261119201600 +0100" stop="20261119203000 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 13: Milan - Fenerbahce T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★3.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>3.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261119203000 +0100" stop="20261119224500 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 13: Milan - Fenerbahce (VO) T26/27 · Euroliga de baloncesto</title>
@@ -30215,7 +30206,7 @@
 	</programme>
 	<programme start="20261119180100 +0100" stop="20261119181500 +0100" channel="M+ Baloncesto 4">
     <title>DIRECTO Jornada 13: Maccabi Tel Aviv - Dubai T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
@@ -30223,7 +30214,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119181500 +0100" stop="20261119203000 +0100" channel="M+ Baloncesto 4">
@@ -30375,7 +30366,7 @@
 	</programme>
 	<programme start="20261119203100 +0100" stop="20261119204500 +0100" channel="M+ Baloncesto 5">
     <title>DIRECTO Jornada 13: Paris - Hapoel Tel Aviv T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★3.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
@@ -30383,7 +30374,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>3.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119204500 +0100" stop="20261119230000 +0100" channel="M+ Baloncesto 5">
@@ -34473,17 +34464,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115113500 +0100" stop="20261115133500 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Primer Día: Heliovaara/Patten - Matos/Luz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★7.4/10</sub-title>
+    <title>Nitto ATP Finals 2026 T2026 · Primer Día: Heliovaara/Patten - Matos/Luz</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>7.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115133500 +0100" stop="20261115134500 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -34513,7 +34501,7 @@
 	</programme>
 	<programme start="20261115140000 +0100" stop="20261115160000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Primer Día: Zverev - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518347" />
@@ -34521,7 +34509,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115160000 +0100" stop="20261115161500 +0100" channel="M+ Deportes 2">
@@ -34552,7 +34540,7 @@
 	</programme>
 	<programme start="20261115180500 +0100" stop="20261115200500 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Primer Día: Pavic/Arévalo - Olivetti/Arribage T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
@@ -34560,7 +34548,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115200500 +0100" stop="20261115201500 +0100" channel="M+ Deportes 2">
@@ -34578,7 +34566,7 @@
 	</programme>
 	<programme start="20261115201500 +0100" stop="20261115203000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Previo Shelton - Fils T2026 · La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Fils -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -34586,7 +34574,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115203000 +0100" stop="20261115223000 +0100" channel="M+ Deportes 2">
@@ -34643,7 +34631,7 @@
 	</programme>
 	<programme start="20261116113500 +0100" stop="20261116133500 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Segundo Día: Zeballos/Granollers - Vavassori/Bolelli T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
@@ -34651,7 +34639,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116133500 +0100" stop="20261116134500 +0100" channel="M+ Deportes 2">
@@ -34669,7 +34657,7 @@
 	</programme>
 	<programme start="20261116134500 +0100" stop="20261116140000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Previo Alcaraz - Tiafoe T2026 · La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Tiafoe -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -34677,7 +34665,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116140000 +0100" stop="20261116160000 +0100" channel="M+ Deportes 2">
@@ -35376,15 +35364,60 @@
     <title>M+ Deportes 3</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261115120000 +0100" stop="20261116000000 +0100" channel="M+ Deportes 4">
+	<programme start="20261115120000 +0100" stop="20261115160000 +0100" channel="M+ Deportes 4">
+    <title>Las Carreras T2026 · Hipódromo de La Zarzuela 15/11/2026</title>
+    <sub-title>2025 | TP</sub-title>
+    <desc>(Deportes,Hípica) Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos.</desc>
+    <category>Deportes, Hípica</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4474401" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261115160000 +0100" stop="20261115230000 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Otros deportes) M+ Deportes 4 -.</desc>
+    <category>Deportes, Otros deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1853471V1621459" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261115230000 +0100" stop="20261116060000 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Otros deportes) M+ Deportes 4 -.</desc>
+    <category>Deportes, Otros deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1853471V1621459" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261116060000 +0100" stop="20261116080000 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Otros deportes) M+ Deportes 4 -.</desc>
+    <category>Deportes, Otros deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1853471V1621459" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261116080000 +0100" stop="20261116200000 +0100" channel="M+ Deportes 4">
     <title>M+ Deportes 4</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261116000000 +0100" stop="20261116120000 +0100" channel="M+ Deportes 4">
-    <title>M+ Deportes 4</title>
-    <desc>Programa por determinar...</desc>
-	</programme>
-	<programme start="20261116120000 +0100" stop="20261117000000 +0100" channel="M+ Deportes 4">
+	<programme start="20261116200000 +0100" stop="20261117000000 +0100" channel="M+ Deportes 4">
     <title>M+ Deportes 4</title>
     <desc>Programa por determinar...</desc>
 	</programme>
@@ -35583,18 +35616,29 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261115111500 +0100" stop="20261115142600 +0100" channel="M+ Deportes">
-    <title>DIRECTO Hipódromo de La Zarzuela 15/11/2026 T2026 · Las Carreras</title>
-    <sub-title>2025 | TP | ★6.0/10</sub-title>
+	<programme start="20261115111500 +0100" stop="20261115114500 +0100" channel="M+ Deportes">
+    <title>Informe Plus+. El mejor equipo de Zupo</title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Zupo Equisoain se ha convertido en una de las figuras más relevantes en los banquillos del balonmano español. Consiguió todos los títulos posibles y también salvar a varios equipos del descenso. Después de 36 años como técnico, Zupo ha vuelto a Cuenca.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4442964" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261115114500 +0100" stop="20261115142600 +0100" channel="M+ Deportes">
+    <title>Las Carreras T2026 · Hipódromo de La Zarzuela 15/11/2026</title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Hípica) Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos.</desc>
     <category>Deportes, Hípica</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4474401" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115142600 +0100" stop="20261115150000 +0100" channel="M+ Deportes">
     <title>Planeta Tenis T2026 E27</title>
@@ -35690,7 +35734,7 @@
 	</programme>
 	<programme start="20261115233000 +0100" stop="20261116030000 +0100" channel="M+ Deportes">
     <title>Professional Fighters League T2026 · Dubai II: Main Card Dubai</title>
-    <sub-title>2026 | ⑱ | ★5.2/10</sub-title>
+    <sub-title>2026 | ⑱ | ★6.0/10</sub-title>
     <desc>(Deportes,Artes marciales) Las World Series of Fighting son una promotora de artes marciales mixtas.
 · País: Estados Unidos</desc>
     <category>Deportes, Artes marciales</category>
@@ -35699,12 +35743,12 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116030000 +0100" stop="20261116050000 +0100" channel="M+ Deportes">
     <title>Primer Día: Zverev - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518347" />
@@ -35712,7 +35756,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116050000 +0100" stop="20261116071000 +0100" channel="M+ Deportes">
@@ -35769,7 +35813,7 @@
 	</programme>
 	<programme start="20261116091000 +0100" stop="20261116111000 +0100" channel="M+ Deportes">
     <title>Primer Día: Zverev - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518347" />
@@ -35777,7 +35821,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116111000 +0100" stop="20261116114000 +0100" channel="M+ Deportes">
@@ -36030,7 +36074,7 @@
 	</programme>
 	<programme start="20261117085000 +0100" stop="20261117105000 +0100" channel="M+ Deportes">
     <title>Segundo Día: Zeballos/Granollers - Vavassori/Bolelli T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
@@ -36038,7 +36082,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117105000 +0100" stop="20261117120000 +0100" channel="M+ Deportes">
@@ -36508,7 +36552,7 @@
 	</programme>
 	<programme start="20261119115000 +0100" stop="20261119122000 +0100" channel="M+ Deportes">
     <title>ATP Tour This Week T2026 E45</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) ATP Tour This Week.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3824946" />
@@ -36516,7 +36560,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119122000 +0100" stop="20261119142000 +0100" channel="M+ Deportes">
@@ -36614,7 +36658,7 @@
 	</programme>
 	<programme start="20261119223500 +0100" stop="20261119230500 +0100" channel="M+ Deportes">
     <title>ATP Tour This Week T2026 E45</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) ATP Tour This Week.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3824946" />
@@ -36622,7 +36666,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119230500 +0100" stop="20261120005500 +0100" channel="M+ Deportes">
@@ -41027,17 +41071,14 @@
 		</rating>
 	</programme>
 	<programme start="20261115093000 +0100" stop="20261115133000 +0100" channel="M+ Golf">
-    <title>DIRECTO DP World Tour Championship Dubai. Jornada 4. Parte 2 T25/26</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>DP World Tour Championship Dubai. Jornada 4. Parte 2 (T25/26) (?) T25/26 · DP World Tour Championship Dubai. Jornada 4. Parte 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515924" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115133000 +0100" stop="20261115141900 +0100" channel="M+ Golf">
     <title>Road to the Schwab Cup</title>
@@ -41053,17 +41094,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115141900 +0100" stop="20261115162500 +0100" channel="M+ Golf">
-    <title>DP World Tour Championship Dubai. Jornada 4. Parte 2 T25/26</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>DP World Tour Championship Dubai. Jornada 4. Parte 2 (T25/26) (?) T25/26 · DP World Tour Championship Dubai. Jornada 4. Parte 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515924" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115162500 +0100" stop="20261115183000 +0100" channel="M+ Golf">
     <title>PGA Tour T2026 · Austin Championship. Jornada 3</title>
@@ -41319,17 +41357,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261116223000 +0100" stop="20261117013000 +0100" channel="M+ Golf">
-    <title>DP World Tour Championship Dubai. Jornada 4. Parte 2 T25/26</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>DP World Tour Championship Dubai. Jornada 4. Parte 2 (T25/26) (?) T25/26 · DP World Tour Championship Dubai. Jornada 4. Parte 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515924" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117013000 +0100" stop="20261117080000 +0100" channel="M+ Golf">
     <title>M+ Golf</title>
@@ -41645,17 +41680,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118220000 +0100" stop="20261119010000 +0100" channel="M+ Golf">
-    <title>DP World Tour Championship Dubai. Jornada 4. Parte 2 T25/26</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>DP World Tour Championship Dubai. Jornada 4. Parte 2 (T25/26) (?) T25/26 · DP World Tour Championship Dubai. Jornada 4. Parte 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) Llega la gran final del DPWT y tenemos a dos españoles con opciones de ganar la Race To Dubai. Eugenio Chacarra y Jon Rahm tratarán de evitar el octavo título de Rory McIlroy.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515924" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119010000 +0100" stop="20261119080000 +0100" channel="M+ Golf">
     <title>M+ Golf</title>
@@ -41778,13 +41810,16 @@
 	</programme>
 	<programme start="20261119163000 +0100" stop="20261119173000 +0100" channel="M+ Golf">
     <title>PGA Tour T2026 · Presidents Cup. Película Oficial 2026</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Golf) Semana para disfrutar del match play en estado puro: la Presidents Cup. El equipo Internacional llega a Medinah buscando su segunda victoria en el evento, pero frente a ellos tendrán a un potente equipo americano con Scheffler y compañía.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4486108" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261119173000 +0100" stop="20261119180000 +0100" channel="M+ Golf">
     <title>PGA Tour Champions Learning Center T2026 E28</title>
@@ -41836,13 +41871,16 @@
 	</programme>
 	<programme start="20261119220000 +0100" stop="20261119230000 +0100" channel="M+ Golf">
     <title>PGA Tour T2026 · Presidents Cup. Película Oficial 2026</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Golf) Semana para disfrutar del match play en estado puro: la Presidents Cup. El equipo Internacional llega a Medinah buscando su segunda victoria en el evento, pero frente a ellos tendrán a un potente equipo americano con Scheffler y compañía.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4486108" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261119230000 +0100" stop="20261119233000 +0100" channel="M+ Golf">
     <title>PGA Tour Champions Learning Center T2026 E28</title>
@@ -44582,7 +44620,7 @@
 	</programme>
 	<programme start="20261115115000 +0100" stop="20261115134000 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 11: Elche CF - Valencia CF</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Elche, tras cuatro encuentros de liga invicto, busca su primera victoria como local ante un Valencia en puestos de descenso. Los ché quieren su primer tirunfo con Javier Aguirre.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44590,9 +44628,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115134000 +0100" stop="20261115153500 +0100" channel="M+ LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 12: Málaga CF - R. Racing Club</title>
@@ -44968,7 +45003,7 @@
 	</programme>
 	<programme start="20261117001500 +0100" stop="20261117013000 +0100" channel="M+ LaLiga">
     <title>El fútbol según Raúl T2 · Ese Cádiz, oé</title>
-    <sub-title>2021 | TP | ★7.0/10</sub-title>
+    <sub-title>2021 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Capta la esencia de la Tacita de Plata y de su gente tratando el fútbol (y lo que no es el fútbol) a través de bloques generacionales. Es un recorrido por sus hitos futbolísticos y sus gentes para descubrir por qué el Cádiz y Cádiz son tan especiales.
 · País: España
 · Presenta: Raúl González.</desc>
@@ -44978,7 +45013,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117013000 +0100" stop="20261117032000 +0100" channel="M+ LaLiga">
@@ -45104,7 +45139,7 @@
 	</programme>
 	<programme start="20261117110500 +0100" stop="20261117111000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45113,12 +45148,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117111000 +0100" stop="20261117111500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45127,7 +45162,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117111500 +0100" stop="20261117112000 +0100" channel="M+ LaLiga">
@@ -45272,7 +45307,7 @@
 	</programme>
 	<programme start="20261117150500 +0100" stop="20261117151000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45281,12 +45316,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117151000 +0100" stop="20261117151500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45295,7 +45330,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117151500 +0100" stop="20261117152000 +0100" channel="M+ LaLiga">
@@ -45453,7 +45488,7 @@
 	</programme>
 	<programme start="20261117203500 +0100" stop="20261117204000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45462,12 +45497,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117204000 +0100" stop="20261117204500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45476,7 +45511,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117204500 +0100" stop="20261117205000 +0100" channel="M+ LaLiga">
@@ -45726,7 +45761,7 @@
 	</programme>
 	<programme start="20261118111000 +0100" stop="20261118111500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45735,12 +45770,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118111500 +0100" stop="20261118112000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45749,7 +45784,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118112000 +0100" stop="20261118112500 +0100" channel="M+ LaLiga">
@@ -45906,7 +45941,7 @@
 	</programme>
 	<programme start="20261118171000 +0100" stop="20261118171500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45915,12 +45950,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118171500 +0100" stop="20261118172000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45929,7 +45964,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118172000 +0100" stop="20261118172500 +0100" channel="M+ LaLiga">
@@ -46089,7 +46124,7 @@
 	</programme>
 	<programme start="20261118231500 +0100" stop="20261118232000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46098,12 +46133,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118232000 +0100" stop="20261118232500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46112,7 +46147,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118232500 +0100" stop="20261118233000 +0100" channel="M+ LaLiga">
@@ -46336,7 +46371,7 @@
 	</programme>
 	<programme start="20261119121000 +0100" stop="20261119121500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46345,12 +46380,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119121500 +0100" stop="20261119122000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46359,7 +46394,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119122000 +0100" stop="20261119122500 +0100" channel="M+ LaLiga">
@@ -46532,7 +46567,7 @@
 	</programme>
 	<programme start="20261119191500 +0100" stop="20261119192000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: SD Eibar - Cádiz CF</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46541,12 +46576,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119192000 +0100" stop="20261119192500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: CD Eldense - CE Sabadell</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46555,7 +46590,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119192500 +0100" stop="20261119193000 +0100" channel="M+ LaLiga">
@@ -50929,16 +50964,13 @@
 	</programme>
 	<programme start="20261115120200 +0100" stop="20261115131200 +0100" channel="M+ Vamos 2">
     <title>Premier Padel. Dubai T2026 · Semifinales: Libaak/Alfonso - De Pascual/Garrido</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458985" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115131200 +0100" stop="20261115141200 +0100" channel="M+ Vamos 2">
     <title>El último duelo</title>
@@ -51177,8 +51209,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115115000 +0100" stop="20261115140000 +0100" channel="M+ Vamos 3">
-    <title>DIRECTO Jornada 11: Madrid CFF - Logroño United T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 11: Madrid CFF - Logroño United</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -51186,9 +51218,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115140000 +0100" stop="20261115145500 +0100" channel="M+ Vamos 3">
     <title>Cto. del Mundo de Motociclismo Femenino T2026 · Jeréz (Circuito Ángel Nieto). Carrera 1</title>
@@ -51342,16 +51371,13 @@
 	</programme>
 	<programme start="20261115074000 +0100" stop="20261115085000 +0100" channel="M+ Vamos">
     <title>Premier Padel. Dubai T2026 · Semifinales: Libaak/Alfonso - De Pascual/Garrido</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4458985" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115085000 +0100" stop="20261115093000 +0100" channel="M+ Vamos">
     <title>Informe Plus. Atypical Spanish</title>
@@ -51492,7 +51518,7 @@
 	</programme>
 	<programme start="20261115230500 +0100" stop="20261116010000 +0100" channel="M+ Vamos">
     <title>Primer Día: Zverev - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518347" />
@@ -51500,7 +51526,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116010000 +0100" stop="20261116024500 +0100" channel="M+ Vamos">
@@ -52471,13 +52497,16 @@
 	</programme>
 	<programme start="20261119204000 +0100" stop="20261119210000 +0100" channel="M+ Vamos">
     <title>DIRECTO Jornada 13: Valencia Basket - Virtus T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261119210000 +0100" stop="20261119225500 +0100" channel="M+ Vamos">
     <title>Jornada 13: Valencia Basket - Virtus T26/27 · Euroliga de baloncesto</title>
@@ -52672,7 +52701,7 @@
 	</programme>
 	<programme start="20261115140000 +0100" stop="20261115160700 +0100" channel="Movistar Plus">
     <title>DIRECTO Primer Día: Zverev - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518347" />
@@ -52680,7 +52709,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261115160700 +0100" stop="20261115163300 +0100" channel="Movistar Plus">
@@ -52968,7 +52997,7 @@
 	</programme>
 	<programme start="20261116092200 +0100" stop="20261116101300 +0100" channel="Movistar Plus">
     <title>Marihuana E2</title>
-    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.6/10</sub-title>
     <desc>(Documentales,Sociedad) Granada, finales de marzo de 2026. En un chalé de la urbanización de Los Tablazos, las fuerzas de seguridad se encuentran una espectacular plantación de marihuana con la última tecnología custodiada por un solo jardinero a sueldo de la Mafia Albanesa.
 · País: España</desc>
     <category>Documentales, Sociedad</category>
@@ -52977,7 +53006,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116101300 +0100" stop="20261116121700 +0100" channel="Movistar Plus">
@@ -53020,7 +53049,7 @@
 	</programme>
 	<programme start="20261116134500 +0100" stop="20261116140000 +0100" channel="Movistar Plus">
     <title>DIRECTO Previo Alcaraz - Tiafoe T2026 · La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Tiafoe -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -53028,7 +53057,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261116140000 +0100" stop="20261116164500 +0100" channel="Movistar Plus">
@@ -54123,7 +54152,7 @@
 	</programme>
 	<programme start="20261119155500 +0100" stop="20261119162000 +0100" channel="Movistar Plus">
     <title>Celeste T2 E1</title>
-    <sub-title>2025 | ⑫ | ★4.0/10</sub-title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Celeste es una gran estrella de la música latina, pero la protagonista de esta historia es Sara Santano: una inspectora de Hacienda que, justo antes de jubilarse, recibe el encargo de demostrar que la artista es culpable de fraude fiscal.
 · País: España
 · Dirección: Elena Trapé.
@@ -54137,12 +54166,12 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119162000 +0100" stop="20261119165000 +0100" channel="Movistar Plus">
     <title>Celeste T2 E2</title>
-    <sub-title>2025 | ⑫ | ★8.0/10</sub-title>
+    <sub-title>2025 | ⑫ | ★4.6/10</sub-title>
     <desc>(Series,Thriller) Celeste es una gran estrella de la música latina, pero la protagonista de esta historia es Sara Santano: una inspectora de Hacienda que, justo antes de jubilarse, recibe el encargo de demostrar que la artista es culpable de fraude fiscal.
 · País: España
 · Dirección: Elena Trapé.
@@ -54156,7 +54185,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>4.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119165000 +0100" stop="20261119172000 +0100" channel="Movistar Plus">
@@ -54177,7 +54206,7 @@
 	</programme>
 	<programme start="20261119172000 +0100" stop="20261119174900 +0100" channel="Movistar Plus">
     <title>Celeste T2 E4</title>
-    <sub-title>2025 | ⑫</sub-title>
+    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Celeste es una gran estrella de la música latina, pero la protagonista de esta historia es Sara Santano: una inspectora de Hacienda que, justo antes de jubilarse, recibe el encargo de demostrar que la artista es culpable de fraude fiscal.
 · País: España
 · Dirección: Elena Trapé.
@@ -54190,6 +54219,9 @@
 		<rating system="ES">
 			<value>12</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261119174900 +0100" stop="20261119182000 +0100" channel="Movistar Plus">
     <title>Celeste T2 E5</title>
@@ -54209,7 +54241,7 @@
 	</programme>
 	<programme start="20261119182000 +0100" stop="20261119185500 +0100" channel="Movistar Plus">
     <title>Celeste T2 E6</title>
-    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2025 | ⑫ | ★7.0/10</sub-title>
     <desc>(Series,Thriller) Celeste es una gran estrella de la música latina, pero la protagonista de esta historia es Sara Santano: una inspectora de Hacienda que, justo antes de jubilarse, recibe el encargo de demostrar que la artista es culpable de fraude fiscal.
 · País: España
 · Dirección: Elena Trapé.
@@ -54223,7 +54255,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119185500 +0100" stop="20261119192400 +0100" channel="Movistar Plus">
@@ -59461,8 +59493,8 @@
 		</rating>
 	</programme>
 	<programme start="20261115120000 +0100" stop="20261115141500 +0100" channel="Primera Federación">
-    <title>DIRECTO Jornada 12: Extremadura - Pontevedra T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 12: Extremadura - Pontevedra</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59470,9 +59502,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115141500 +0100" stop="20261115163000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 12: Zamora - Avilés T26/27 · Primera Federación</title>
@@ -59517,8 +59546,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261115201500 +0100" stop="20261115223500 +0100" channel="Primera Federación">
-    <title>Jornada 12: Extremadura - Pontevedra T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 12: Extremadura - Pontevedra</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59526,9 +59555,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261115223500 +0100" stop="20261116011500 +0100" channel="Primera Federación">
     <title>Jornada 12: Zamora - Avilés T26/27 · Primera Federación</title>
@@ -59673,7 +59699,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261117083000 +0100" stop="20261117104500 +0100" channel="Primera Federación">
-    <title>DIRECTO Jornada 12: Atlético de Madrid B - Teruel T26/27 · Primera Federación</title>
+    <title>Primera Federación T26/27 · Jornada 12: Atlético de Madrid B - Teruel</title>
     <sub-title>2026 | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
@@ -59735,7 +59761,7 @@
 	</programme>
 	<programme start="20261117200500 +0100" stop="20261117210500 +0100" channel="Primera Federación">
     <title>El fútbol de Primera T26/27 · Programa 12</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que repasa todo lo acontecido en la jornada de Primera Federación.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -59744,7 +59770,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117210500 +0100" stop="20261117232500 +0100" channel="Primera Federación">
@@ -59760,7 +59786,7 @@
 	</programme>
 	<programme start="20261117232500 +0100" stop="20261118003000 +0100" channel="Primera Federación">
     <title>El fútbol de Primera T26/27 · Programa 12</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que repasa todo lo acontecido en la jornada de Primera Federación.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -59769,7 +59795,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118003000 +0100" stop="20261118043000 +0100" channel="Primera Federación">
@@ -59814,8 +59840,8 @@
 		</rating>
 	</programme>
 	<programme start="20261118152500 +0100" stop="20261118174500 +0100" channel="Primera Federación">
-    <title>Jornada 12: Extremadura - Pontevedra T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 12: Extremadura - Pontevedra</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59823,9 +59849,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118174500 +0100" stop="20261118200500 +0100" channel="Primera Federación">
     <title>Jornada 12: Zamora - Avilés T26/27 · Primera Federación</title>
@@ -59843,7 +59866,7 @@
 	</programme>
 	<programme start="20261118200500 +0100" stop="20261118210500 +0100" channel="Primera Federación">
     <title>El fútbol de Primera T26/27 · Programa 12</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que repasa todo lo acontecido en la jornada de Primera Federación.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -59852,7 +59875,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118210500 +0100" stop="20261118232500 +0100" channel="Primera Federación">
@@ -59974,7 +59997,7 @@
 	</programme>
 	<programme start="20261119200500 +0100" stop="20261119210500 +0100" channel="Primera Federación">
     <title>El fútbol de Primera T26/27 · Programa 12</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que repasa todo lo acontecido en la jornada de Primera Federación.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -59983,7 +60006,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119210500 +0100" stop="20261119232500 +0100" channel="Primera Federación">
@@ -76289,6 +76312,14 @@
 		<star-rating system="ES">
 			<value>6.2/10</value>
 		</star-rating>
+	</programme>
+	<programme start="20261116000000 +0100" stop="20261116120000 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20261116120000 +0100" stop="20261117000000 +0100" channel="M+ Deportes 4">
+    <title>M+ Deportes 4</title>
+    <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261115001700 +0100" stop="20261115010800 +0100" channel="AMC Crime">
     <title>Crímenes sin censura T1 E6 · Asesinato durante la pandemia</title>
