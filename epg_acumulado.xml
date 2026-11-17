@@ -14823,7 +14823,7 @@
 	</programme>
 	<programme start="20261118020000 +0100" stop="20261118053000 +0100" channel="DAZN Baloncesto">
     <title>DIRECTO Noviembre: Detroit Pistons @ San Antonio Spurs T26/27 · NBA</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) El baloncesto se convierte en puro espectáculo en la NBA. Los Knicks defienden título.
 · País: Estados Unidos</desc>
     <category>Deportes, Baloncesto</category>
@@ -14832,7 +14832,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118053000 +0100" stop="20261118093000 +0100" channel="DAZN Baloncesto">
@@ -15210,7 +15210,7 @@
 	</programme>
 	<programme start="20261120205300 +0100" stop="20261120232600 +0100" channel="DAZN Baloncesto 3">
     <title>DIRECTO Jornada 9: Burgos - Valencia Basket T26/27 · Liga U</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15218,6 +15218,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120232600 +0100" stop="20261121032600 +0100" channel="DAZN Baloncesto 3">
     <title>DAZN Baloncesto 3</title>
@@ -15876,7 +15879,7 @@
 	</programme>
 	<programme start="20261120063000 +0100" stop="20261120071500 +0100" channel="DAZN F1">
     <title>DIRECTO Clasificación T2026 · F1 Academia: Las Vegas</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Motor) F1 Academy es una serie de carreras para mujeres cuyo objetivo es centrarse en el desarrollo y la preparación de jóvenes pilotos para progresar a niveles más altos de competencia.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4363220" />
@@ -15884,7 +15887,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120071500 +0100" stop="20261120074500 +0100" channel="DAZN F1">
@@ -16114,13 +16117,16 @@
 	</programme>
 	<programme start="20261121030000 +0100" stop="20261121041500 +0100" channel="DAZN F1">
     <title>DIRECTO Carrera 1 T2026 · F1 Academia: Las Vegas</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Motor) F1 Academy es una serie de carreras para mujeres cuyo objetivo es centrarse en el desarrollo y la preparación de jóvenes pilotos para progresar a niveles más altos de competencia.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4363220" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121041500 +0100" stop="20261121043000 +0100" channel="DAZN F1">
     <title>Código F1 T2026 · Japón</title>
@@ -17380,7 +17386,7 @@
 	</programme>
 	<programme start="20261121170000 +0100" stop="20261121171500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes DAZN LaLiga EA Sports T26/27 · Jornada 13: Alavés - Deportivo</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) Resumen con lo más destacado de cada uno de los partidos de Primera División.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17389,7 +17395,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121171500 +0100" stop="20261121173000 +0100" channel="DAZN LaLiga">
@@ -17472,7 +17478,7 @@
 	</programme>
 	<programme start="20261121223000 +0100" stop="20261121224500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Sabadell - Granada</title>
-    <sub-title>2026 | TP | ★7.4/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17481,12 +17487,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.4/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121224500 +0100" stop="20261121230000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Real Sociedad B - Cádiz</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★9.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -17495,7 +17501,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>9.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121230000 +0100" stop="20261121231500 +0100" channel="DAZN LaLiga">
@@ -21530,7 +21536,7 @@
 	</programme>
 	<programme start="20261119182000 +0100" stop="20261119192000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de salto ecuestre T26/27 · Toronto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Hípica) La Copa del Mundo es el broche de oro del legendario Royal Horse Show de Toronto. Se trata de la cuarta cita de la Liga de América del Norte y cuena con una exigente altura de obstáculos de 1,60 metros y una bolsa de premios de 200.000 dólares.
 · País: Canadá</desc>
     <category>Deportes, Hípica</category>
@@ -21539,12 +21545,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119192000 +0100" stop="20261119202000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de salto ecuestre T26/27 · Stuttgart</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Hípica) La cita de Stuttgart de la Copa del Mundo se celebra del 11 al 15 de noviembre.
 · País: Alemania</desc>
     <category>Deportes, Hípica</category>
@@ -21553,7 +21559,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119202000 +0100" stop="20261119222000 +0100" channel="Eurosport 1">
@@ -22035,7 +22041,7 @@
 	</programme>
 	<programme start="20261121143000 +0100" stop="20261121160500 +0100" channel="Eurosport 1">
     <title>DIRECTO Trampolín largo - Día 1 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
     <category>Deportes, Saltos de esquí</category>
@@ -22044,7 +22050,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121160500 +0100" stop="20261121163500 +0100" channel="Eurosport 1">
@@ -22063,7 +22069,7 @@
 	</programme>
 	<programme start="20261121163500 +0100" stop="20261121184500 +0100" channel="Eurosport 1">
     <title>Trampolín largo - Día 1 T26/27 · Copa del mundo de saltos de esquí M - Lillehammer</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Deporte invierno) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
     <category>Deportes, Deporte invierno</category>
@@ -22072,7 +22078,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121184500 +0100" stop="20261121191500 +0100" channel="Eurosport 1">
@@ -22141,7 +22147,7 @@
 	</programme>
 	<programme start="20261121231500 +0100" stop="20261122000000 +0100" channel="Eurosport 1">
     <title>Trampolín largo - Día 1 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
     <category>Deportes, Saltos de esquí</category>
@@ -22150,7 +22156,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117070000 +0100" stop="20261117080000 +0100" channel="Eurosport 2">
@@ -23107,7 +23113,7 @@
 	</programme>
 	<programme start="20261120162500 +0100" stop="20261120182000 +0100" channel="Eurosport 2">
     <title>DIRECTO Programa corto M T2026 · Trofeo de Finlandia - Grand Prix ISU</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Patinaje artístico) El Trofeo de Finlandia se celebra del 20 al 22 de noviembre.
 · País: Finlandia</desc>
     <category>Deportes, Patinaje artístico</category>
@@ -23116,7 +23122,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120182000 +0100" stop="20261120194000 +0100" channel="Eurosport 2">
@@ -26903,7 +26909,7 @@
 	</programme>
 	<programme start="20261120223000 +0100" stop="20261120230000 +0100" channel="LaLiga TV Hypermotion">
     <title>Tiempo de revisión T26/27 E11</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Análisis en profundidad de jugadas de Primera y Segunda División por parte del Comité Técnico de Árbitros.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -26912,7 +26918,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120230000 +0100" stop="20261121010000 +0100" channel="LaLiga TV Hypermotion">
@@ -28267,7 +28273,7 @@
 	</programme>
 	<programme start="20261117172500 +0100" stop="20261117194000 +0100" channel="M+ Baloncesto">
     <title>DIRECTO Jornada 8: Turk Telekom - La Laguna Tenerife T26/27 · EuroCup</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Baloncesto) La Laguna Tenerife es líder en el Grupo B de la Eurocup y hoy visita al Turk Telekom Ankara para continuar con su racha triunfal. Los canarios presentan un balance de 6-1 después de cinco victorias consecutivas y son favoritos para sumar la sexta.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -28276,7 +28282,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117194000 +0100" stop="20261117203100 +0100" channel="M+ Baloncesto">
@@ -28370,7 +28376,7 @@
 	</programme>
 	<programme start="20261118180000 +0100" stop="20261118201500 +0100" channel="M+ Baloncesto">
     <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Baloncesto) Por primera vez en la historia el Real Madrid (7-4) visitará a Besiktas (5-6) en la Euroliga. El equipo local sólo ha ganado 1 partido en casa. Los Blancos han ganado 7 de los 8 últimos. Theo Maledon está de vuelta tras dos partidos de baja.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -28379,7 +28385,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118201500 +0100" stop="20261119030500 +0100" channel="M+ Baloncesto">
@@ -28502,7 +28508,7 @@
 	</programme>
 	<programme start="20261120171500 +0100" stop="20261120191500 +0100" channel="M+ Baloncesto">
     <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Baloncesto) Por primera vez en la historia el Real Madrid (7-4) visitará a Besiktas (5-6) en la Euroliga. El equipo local sólo ha ganado 1 partido en casa. Los Blancos han ganado 7 de los 8 últimos. Theo Maledon está de vuelta tras dos partidos de baja.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -28511,12 +28517,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120191500 +0100" stop="20261120195500 +0100" channel="M+ Baloncesto">
     <title>T26/27 E9 · Eurofighters Live</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters Live llega a Movistar Plus para acompañarte durante el tramo final de cada jornada. Todos los viernes, lo más destacado de cada semana y las imágenes más espectaculares del mejor baloncesto masculino y femenino de Europa.
 · País: España
 · Presenta: Sara Giménez.</desc>
@@ -28525,6 +28531,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120195500 +0100" stop="20261120201500 +0100" channel="M+ Baloncesto">
     <title>DIRECTO Jornada 13: Olympiacos - Real Madrid T26/27 · Previa Euroliga de baloncesto</title>
@@ -29123,7 +29132,7 @@
 	</programme>
 	<programme start="20261120203100 +0100" stop="20261120204500 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 13: Partizan - Besiktas T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
@@ -29131,7 +29140,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120204500 +0100" stop="20261120230000 +0100" channel="M+ Baloncesto 3">
@@ -29354,7 +29363,7 @@
 	</programme>
 	<programme start="20261120183000 +0100" stop="20261120204500 +0100" channel="M+ Baloncesto 4">
     <title>Jornada 13: Efes - ASVEL T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -29363,7 +29372,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120204500 +0100" stop="20261121033500 +0100" channel="M+ Baloncesto 4">
@@ -33644,7 +33653,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261117113500 +0100" stop="20261117133500 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Tercer Día: Heliovaara/Patten - Arévalo/Pavic (VO) T2026 · Nitto ATP Finals 2026</title>
+    <title>Nitto ATP Finals 2026 T2026 · Tercer Día: Heliovaara/Patten - Arévalo/Pavic (VO)</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -33785,17 +33794,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118113500 +0100" stop="20261118133500 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO TBC T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>TP | ★6.0/10</sub-title>
+    <title>DIRECTO Cuarto Día: Skupski/Harrison - Bolelli/Vavassori T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118133500 +0100" stop="20261118134500 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -33811,24 +33817,20 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118134500 +0100" stop="20261118140000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
+    <title>La pista del Tenis. Nitto ATP Finals T2026 · Previo Alcaraz - Medvedev</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) Medvedev -.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118140000 +0100" stop="20261118160000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>TP | ★6.0/10</sub-title>
+    <title>DIRECTO Cuarto Día: Alcaraz - Medvedev T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -33837,17 +33839,13 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118160000 +0100" stop="20261118161500 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
+    <title>La pista del Tenis. Nitto ATP Finals T2026 · Post Alcaraz - Medvedev</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) Medvedev -.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118161500 +0100" stop="20261118180500 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -33863,7 +33861,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118180500 +0100" stop="20261118200500 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <title>DIRECTO TBC T2026 · Nitto ATP Finals 2026</title>
     <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -33876,45 +33874,25 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118200500 +0100" stop="20261118203000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
+    <title>La pista del Tenis. Nitto ATP Finals T2026 · Previo Cobolli - Tiafoe</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) Tiafoe -.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118203000 +0100" stop="20261118223000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>TP | ★6.0/10</sub-title>
+    <title>DIRECTO Cuarto Día: Granollers/Zeballos - Puetz/Krawietz T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
-	<programme start="20261118223000 +0100" stop="20261118224500 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261118224500 +0100" stop="20261119054500 +0100" channel="M+ Deportes 2">
+	<programme start="20261118223000 +0100" stop="20261119053000 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
     <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Otros deportes) M+ Deportes 2 -.</desc>
@@ -33927,7 +33905,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119054500 +0100" stop="20261119080000 +0100" channel="M+ Deportes 2">
+	<programme start="20261119053000 +0100" stop="20261119080000 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
     <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Otros deportes) M+ Deportes 2 -.</desc>
@@ -34633,16 +34611,13 @@
 	</programme>
 	<programme start="20261117084700 +0100" stop="20261117102000 +0100" channel="M+ Deportes">
     <title>Nitto ATP Finals 2026 T2026 · Segundo Día: Medvedev - Cobolli</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518353" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117102000 +0100" stop="20261117112300 +0100" channel="M+ Deportes">
     <title>Vamos al Frontón T2026 E45</title>
@@ -34700,6 +34675,7 @@
     <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Atletismo) Ibiza Media Maratón.</desc>
     <category>Deportes, Atletismo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2541046V4288606" />
 		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
@@ -34792,7 +34768,7 @@
 	</programme>
 	<programme start="20261117215400 +0100" stop="20261117234100 +0100" channel="M+ Deportes">
     <title>Jornada 8: Turk Telekom - La Laguna Tenerife T26/27 · EuroCup</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Baloncesto) La Laguna Tenerife es líder en el Grupo B de la Eurocup y hoy visita al Turk Telekom Ankara para continuar con su racha triunfal. Los canarios presentan un balance de 6-1 después de cinco victorias consecutivas y son favoritos para sumar la sexta.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -34801,7 +34777,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117234100 +0100" stop="20261118015500 +0100" channel="M+ Deportes">
@@ -34872,7 +34848,7 @@
 	</programme>
 	<programme start="20261118080000 +0100" stop="20261118095000 +0100" channel="M+ Deportes">
     <title>Jornada 8: Turk Telekom - La Laguna Tenerife T26/27 · EuroCup</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Baloncesto) La Laguna Tenerife es líder en el Grupo B de la Eurocup y hoy visita al Turk Telekom Ankara para continuar con su racha triunfal. Los canarios presentan un balance de 6-1 después de cinco victorias consecutivas y son favoritos para sumar la sexta.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -34881,7 +34857,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118095000 +0100" stop="20261118101000 +0100" channel="M+ Deportes">
@@ -35034,7 +35010,7 @@
 	</programme>
 	<programme start="20261118222500 +0100" stop="20261119001500 +0100" channel="M+ Deportes">
     <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Baloncesto) Por primera vez en la historia el Real Madrid (7-4) visitará a Besiktas (5-6) en la Euroliga. El equipo local sólo ha ganado 1 partido en casa. Los Blancos han ganado 7 de los 8 últimos. Theo Maledon está de vuelta tras dos partidos de baja.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -35043,11 +35019,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119001500 +0100" stop="20261119021500 +0100" channel="M+ Deportes">
-    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día Evento 1</title>
+    <title>Cuarto Día: Alcaraz - Medvedev T2026 · Nitto ATP Finals 2026</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -35074,7 +35050,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261119040500 +0100" stop="20261119061000 +0100" channel="M+ Deportes">
-    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día Evento 2</title>
+    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día: Cobolli - Tiafoe</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -35115,7 +35091,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261119095000 +0100" stop="20261119115000 +0100" channel="M+ Deportes">
-    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día Evento 2</title>
+    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día: Cobolli - Tiafoe</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -35141,7 +35117,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261119122000 +0100" stop="20261119142000 +0100" channel="M+ Deportes">
-    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día Evento 1</title>
+    <title>Cuarto Día: Alcaraz - Medvedev T2026 · Nitto ATP Finals 2026</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -35168,7 +35144,7 @@
 	</programme>
 	<programme start="20261119144000 +0100" stop="20261119163000 +0100" channel="M+ Deportes">
     <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Baloncesto) Por primera vez en la historia el Real Madrid (7-4) visitará a Besiktas (5-6) en la Euroliga. El equipo local sólo ha ganado 1 partido en casa. Los Blancos han ganado 7 de los 8 últimos. Theo Maledon está de vuelta tras dos partidos de baja.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -35177,7 +35153,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119163000 +0100" stop="20261119182000 +0100" channel="M+ Deportes">
@@ -43858,7 +43834,7 @@
 	</programme>
 	<programme start="20261117105000 +0100" stop="20261117105500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -43866,9 +43842,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117105500 +0100" stop="20261117110000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -44011,7 +43984,7 @@
 	</programme>
 	<programme start="20261117145100 +0100" stop="20261117145600 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44019,9 +43992,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117145600 +0100" stop="20261117150100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -44177,7 +44147,7 @@
 	</programme>
 	<programme start="20261117203000 +0100" stop="20261117203500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44185,9 +44155,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117203500 +0100" stop="20261117204000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -44435,7 +44402,7 @@
 	</programme>
 	<programme start="20261118110000 +0100" stop="20261118110500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44443,9 +44410,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118110500 +0100" stop="20261118111000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -44597,7 +44561,7 @@
 	</programme>
 	<programme start="20261118170000 +0100" stop="20261118170500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44605,9 +44569,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118170500 +0100" stop="20261118171000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -44759,7 +44720,7 @@
 	</programme>
 	<programme start="20261118230500 +0100" stop="20261118231000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44767,9 +44728,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261118231000 +0100" stop="20261118231500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -44982,7 +44940,7 @@
 	</programme>
 	<programme start="20261119120000 +0100" stop="20261119120500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -44990,9 +44948,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119120500 +0100" stop="20261119121000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -45163,7 +45118,7 @@
 	</programme>
 	<programme start="20261119190500 +0100" stop="20261119191000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: Albacete BP - RC Celta B</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45171,9 +45126,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119191000 +0100" stop="20261119191500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 14: UD Almería - FC Andorra</title>
@@ -45573,7 +45525,7 @@
 	</programme>
 	<programme start="20261120230000 +0100" stop="20261120233000 +0100" channel="M+ LaLiga">
     <title>Athletic Club - RCD Espanyol de Barcelona T26/27 · La Casa del Fútbol Post</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -45582,7 +45534,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120233000 +0100" stop="20261121012000 +0100" channel="M+ LaLiga">
@@ -45723,7 +45675,7 @@
 	</programme>
 	<programme start="20261121133000 +0100" stop="20261121135400 +0100" channel="M+ LaLiga">
     <title>DIRECTO Deportivo Alavés - RC Deportivo T26/27 · La Casa del Fútbol Previa</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -45732,12 +45684,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121135400 +0100" stop="20261121160000 +0100" channel="M+ LaLiga">
     <title>DIRECTO Jornada 13: Deportivo Alavés - RC Deportivo T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) Duodécimo ante noveno, dos equipos de mitad de tabla necesitados de puntos. Los vitorianos llevan ocho partidos sin ganar en liga y los coruñeses han sumado siete de los últimos 24 puntos. Quique S.Flores y Antonio Hidalgo necesitan cambiar inercias.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -45746,7 +45698,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121160000 +0100" stop="20261121163000 +0100" channel="M+ LaLiga">
@@ -45823,7 +45775,7 @@
 	</programme>
 	<programme start="20261121203000 +0100" stop="20261121205400 +0100" channel="M+ LaLiga">
     <title>DIRECTO Real Madrid - RC Celta T26/27 · La Casa del Fútbol Previa</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -45832,7 +45784,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121205400 +0100" stop="20261121230000 +0100" channel="M+ LaLiga">
@@ -45934,7 +45886,7 @@
 	</programme>
 	<programme start="20261120230000 +0100" stop="20261120233000 +0100" channel="M+ LaLiga HDR">
     <title>Athletic Club - RCD Espanyol de Barcelona T26/27 · La Casa del Fútbol Post</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -45943,7 +45895,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120233000 +0100" stop="20261121063000 +0100" channel="M+ LaLiga HDR">
@@ -45978,7 +45930,7 @@
 	</programme>
 	<programme start="20261121133000 +0100" stop="20261121135400 +0100" channel="M+ LaLiga HDR">
     <title>DIRECTO Deportivo Alavés - RC Deportivo T26/27 · La Casa del Fútbol Previa</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -45987,12 +45939,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121135400 +0100" stop="20261121160000 +0100" channel="M+ LaLiga HDR">
     <title>DIRECTO Jornada 13: Deportivo Alavés - RC Deportivo T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) Duodécimo ante noveno, dos equipos de mitad de tabla necesitados de puntos. Los vitorianos llevan ocho partidos sin ganar en liga y los coruñeses han sumado siete de los últimos 24 puntos. Quique S.Flores y Antonio Hidalgo necesitan cambiar inercias.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46001,7 +45953,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121160000 +0100" stop="20261121163000 +0100" channel="M+ LaLiga HDR">
@@ -46027,7 +45979,7 @@
 	</programme>
 	<programme start="20261121203000 +0100" stop="20261121205400 +0100" channel="M+ LaLiga HDR">
     <title>DIRECTO Real Madrid - RC Celta T26/27 · La Casa del Fútbol Previa</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -46036,7 +45988,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121205400 +0100" stop="20261121230000 +0100" channel="M+ LaLiga HDR">
@@ -46509,7 +46461,7 @@
 	</programme>
 	<programme start="20261117083000 +0100" stop="20261117102000 +0100" channel="M+ Liga de Campeones">
     <title>UEFA Champions League T26/27 · Jornada 4: PSV Eindhoven - Brujas</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.
 · País: Países Bajos</desc>
     <category>Deportes, Fútbol</category>
@@ -46517,9 +46469,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117102000 +0100" stop="20261117110000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E11</title>
@@ -47494,7 +47443,7 @@
 	</programme>
 	<programme start="20261121232000 +0100" stop="20261122013000 +0100" channel="M+ Liga de Campeones">
     <title>Final: Boca Juniors - Atlético Mineiro T2026 · Copa Sudamericana</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Copa Sudamericana es el segundo torneo de clubes en importancia de CONMEBOL.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -47503,7 +47452,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117060800 +0100" stop="20261117064600 +0100" channel="M+ Originales">
@@ -51288,16 +51237,13 @@
 	</programme>
 	<programme start="20261117113600 +0100" stop="20261117131000 +0100" channel="M+ Vamos">
     <title>Nitto ATP Finals 2026 T2026 · Segundo Día: Medvedev - Cobolli</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518353" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117131000 +0100" stop="20261117141000 +0100" channel="M+ Vamos">
     <title>Rexach. Correr es de cobardes</title>
@@ -51503,7 +51449,7 @@
 	</programme>
 	<programme start="20261118055000 +0100" stop="20261118073500 +0100" channel="M+ Vamos">
     <title>Jornada 8: Turk Telekom - La Laguna Tenerife T26/27 · EuroCup</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Baloncesto) La Laguna Tenerife es líder en el Grupo B de la Eurocup y hoy visita al Turk Telekom Ankara para continuar con su racha triunfal. Los canarios presentan un balance de 6-1 después de cinco victorias consecutivas y son favoritos para sumar la sexta.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -51512,7 +51458,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118073500 +0100" stop="20261118083000 +0100" channel="M+ Vamos">
@@ -51662,7 +51608,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261118223000 +0100" stop="20261119002500 +0100" channel="M+ Vamos">
-    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día Evento 1</title>
+    <title>Cuarto Día: Alcaraz - Medvedev T2026 · Nitto ATP Finals 2026</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -51715,7 +51661,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261119045000 +0100" stop="20261119064000 +0100" channel="M+ Vamos">
-    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día Evento 2</title>
+    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día: Cobolli - Tiafoe</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -51773,7 +51719,7 @@
 	</programme>
 	<programme start="20261119092500 +0100" stop="20261119111500 +0100" channel="M+ Vamos">
     <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Baloncesto) Por primera vez en la historia el Real Madrid (7-4) visitará a Besiktas (5-6) en la Euroliga. El equipo local sólo ha ganado 1 partido en casa. Los Blancos han ganado 7 de los 8 últimos. Theo Maledon está de vuelta tras dos partidos de baja.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -51782,11 +51728,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119111500 +0100" stop="20261119131500 +0100" channel="M+ Vamos">
-    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día Evento 2</title>
+    <title>Nitto ATP Finals 2026 T2026 · Cuarto Día: Cobolli - Tiafoe</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -52431,7 +52377,7 @@
 	</programme>
 	<programme start="20261121231500 +0100" stop="20261122012000 +0100" channel="M+ Vamos">
     <title>DIRECTO Final: Boca Juniors - Atlético Mineiro T2026 · Copa Sudamericana</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Copa Sudamericana es el segundo torneo de clubes en importancia de CONMEBOL.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -52440,7 +52386,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117061100 +0100" stop="20261117075700 +0100" channel="Movistar Plus">
@@ -52601,7 +52547,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261117181400 +0100" stop="20261117185200 +0100" channel="Movistar Plus">
+	<programme start="20261117181400 +0100" stop="20261117185300 +0100" channel="Movistar Plus">
     <title>Sicarios: El puzzle</title>
     <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Documentales,True crime) Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
@@ -52617,7 +52563,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261117185200 +0100" stop="20261117193100 +0100" channel="Movistar Plus">
+	<programme start="20261117185300 +0100" stop="20261117193100 +0100" channel="Movistar Plus">
     <title>Paga o muere E1</title>
     <sub-title>2026 | ⑫ | ★8.4/10</sub-title>
     <desc>(Documentales,Sociedad) El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
@@ -52647,7 +52593,7 @@
 			<value>7.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261117200900 +0100" stop="20261117210000 +0100" channel="Movistar Plus">
+	<programme start="20261117200900 +0100" stop="20261117210100 +0100" channel="Movistar Plus">
     <title>Paga o muere E3</title>
     <sub-title>2026 | ⑫ | ★8.2/10</sub-title>
     <desc>(Documentales,Sociedad) El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
@@ -52662,7 +52608,7 @@
 			<value>8.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261117210000 +0100" stop="20261117213000 +0100" channel="Movistar Plus">
+	<programme start="20261117210100 +0100" stop="20261117212900 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Muermos de risa</title>
     <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
     <desc>(Entretenimiento,Humor) ¿Por qué nos da tanto miedo aburrirnos? Leo Harlem analiza nuestra necesidad constante de estar siempre entretenidos: desde el móvil hasta los deportes más soporíferos, pasando por los compañeros de trabajo, las parejas y los hobbies más absurdos.
@@ -52677,7 +52623,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261117213000 +0100" stop="20261117220000 +0100" channel="Movistar Plus">
+	<programme start="20261117212900 +0100" stop="20261117220000 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · Los fantasmas</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
@@ -52759,7 +52705,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118020000 +0100" stop="20261118024600 +0100" channel="Movistar Plus">
+	<programme start="20261118020000 +0100" stop="20261118024500 +0100" channel="Movistar Plus">
     <title>En el corredor de la muerte T1 E2 · 1994-2000</title>
     <sub-title>2019 | ⑫ | ★6.6/10</sub-title>
     <desc>(Series,Drama) "En el corredor de la muerte" es la historia de la lucha de un hombre por demostrar su inocencia, de una familia que nunca se ha rendido. Basada en el caso real de Pablo Ibar, declarado culpable del triple asesinato que tuvo lugar en Florida en 1994.
@@ -52777,7 +52723,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118024600 +0100" stop="20261118033000 +0100" channel="Movistar Plus">
+	<programme start="20261118024500 +0100" stop="20261118032900 +0100" channel="Movistar Plus">
     <title>En el corredor de la muerte T1 E3 · 2000-2008</title>
     <sub-title>2019 | ⑫ | ★6.6/10</sub-title>
     <desc>(Series,Drama) "En el corredor de la muerte" es la historia de la lucha de un hombre por demostrar su inocencia, de una familia que nunca se ha rendido. Basada en el caso real de Pablo Ibar, declarado culpable del triple asesinato que tuvo lugar en Florida en 1994.
@@ -52795,7 +52741,7 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118033000 +0100" stop="20261118041600 +0100" channel="Movistar Plus">
+	<programme start="20261118032900 +0100" stop="20261118041500 +0100" channel="Movistar Plus">
     <title>En el corredor de la muerte T1 E4 · 2008-2019</title>
     <sub-title>2019 | ⑫ | ★7.0/10</sub-title>
     <desc>(Series,Drama) "En el corredor de la muerte" es la historia de la lucha de un hombre por demostrar su inocencia, de una familia que nunca se ha rendido. Basada en el caso real de Pablo Ibar, declarado culpable del triple asesinato que tuvo lugar en Florida en 1994.
@@ -52813,11 +52759,69 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118041600 +0100" stop="20261118073000 +0100" channel="Movistar Plus">
-    <title>Documentales</title>
-    <desc>Programa por determinar...</desc>
+	<programme start="20261118041500 +0100" stop="20261118052700 +0100" channel="Movistar Plus">
+    <title>No me llames fotógrafo de guerra</title>
+    <sub-title>2014 | ⑯ | ★7.0/10</sub-title>
+    <desc>(Documentales,Actualidad) La concesión a Samuel Aranda del World Press Photo es el punto de partida de este programa que se aproxima al trabajo de una nueva generación de fotoperiodistas españoles que han alcanzado prestigio internacional cubriendo las guerras de este siglo.
+· País: España</desc>
+    <category>Documentales, Actualidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F2908505" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261118073000 +0100" stop="20261118080800 +0100" channel="Movistar Plus">
+	<programme start="20261118052700 +0100" stop="20261118061100 +0100" channel="Movistar Plus">
+    <title>El estafador del amor: El camaleón</title>
+    <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Documentales,Sociedad) Albert Cavallé estafa a Emma, una mujer a la que conoce por internet y a la que hace creer que tienen una historia de amor. La experiencia de Emma se conecta con la de Laura, a la que Cavallé estafa mucho más dinero.
+· País: España
+· Dirección: Laura Rosel.
+· Productora: 3Cat, Brutal Media.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4454814" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118061100 +0100" stop="20261118065700 +0100" channel="Movistar Plus">
+    <title>El estafador del amor: El depredador</title>
+    <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Documentales,Sociedad) Una expareja de Albert Cavallé revive su historia. Se enamoró y vivió con él, y llegó a estafarle más de 60.000 euros. Ahora, para evitar que ninguna otra mujer pase por lo mismo, explica su odisea personal y judicial.
+· País: España
+· Dirección: Laura Rosel.
+· Productora: 3Cat, Brutal Media.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4454831" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118065700 +0100" stop="20261118074000 +0100" channel="Movistar Plus">
+    <title>El estafador del amor: El patrón</title>
+    <sub-title>2024 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Documentales,Sociedad) Expertos de los campos de la psicología, la ciberdelincuencia, el derecho, la investigación policial, las nuevas tecnologías, la sociología y la seguridad ciudadana analizan el fenómeno de las estafas románticas en el ámbito digital.
+· País: España
+· Dirección: Laura Rosel.
+· Productora: 3Cat, Brutal Media.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4454842" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>5.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118074000 +0100" stop="20261118081800 +0100" channel="Movistar Plus">
     <title>Missing in Murcia E1</title>
     <sub-title>2025 | ⑯ | ★6.4/10</sub-title>
     <desc>(Documentales,True crime) La policía investiga la desaparición de una pareja de holandeses. Nadie sabe nada de ellos desde que llegaron a España, ella por un tratamiento de fertilidad y él por negocios. Tras ser acompañados a un alojamiento rural, desparecen sin dejar rastro.
@@ -52832,7 +52836,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118080800 +0100" stop="20261118085300 +0100" channel="Movistar Plus">
+	<programme start="20261118081800 +0100" stop="20261118090300 +0100" channel="Movistar Plus">
     <title>Missing in Murcia E2</title>
     <sub-title>2025 | ⑯ | ★6.4/10</sub-title>
     <desc>(Documentales,True crime) Las evidencias acorralan al principal sospechoso y la investigación traslada a la policía hasta un campo de limoneros. Es posible que haya más implicados en el crimen. La muerte de la pareja holandesa conmociona al mundo del deporte y a la sociedad.
@@ -52847,7 +52851,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118085300 +0100" stop="20261118093200 +0100" channel="Movistar Plus">
+	<programme start="20261118090300 +0100" stop="20261118094200 +0100" channel="Movistar Plus">
     <title>Sicarios: Los avisos</title>
     <sub-title>2026 | ⑯ | ★7.8/10</sub-title>
     <desc>(Documentales,True crime) Un tiroteo tiene lugar a la salida de una comunión en San Pedro de Alcántara, Marbella. La investigación destapa una peligrosa banda de sicarios asentada en la Costa del Sol. Disparos, explosiones, ajustes de cuentas y mucha violencia.
@@ -52863,7 +52867,7 @@
 			<value>7.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118093200 +0100" stop="20261118100800 +0100" channel="Movistar Plus">
+	<programme start="20261118094200 +0100" stop="20261118101800 +0100" channel="Movistar Plus">
     <title>Sicarios: Los suecos</title>
     <sub-title>2026 | ⑯ | ★7.0/10</sub-title>
     <desc>(Documentales,True crime) Los sospechosos son profesionales, escurridizos y peligrosos. Las primeras investigaciones llevan el rastro hasta Malmö, Suecia. Las cámaras de seguridad serán claves para seguir avanzando en el caso. ¿Qué relación hay entre Marbella y Malmö?
@@ -52879,7 +52883,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118100800 +0100" stop="20261118104800 +0100" channel="Movistar Plus">
+	<programme start="20261118101800 +0100" stop="20261118105800 +0100" channel="Movistar Plus">
     <title>Sicarios: El puzzle</title>
     <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Documentales,True crime) Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
@@ -52895,7 +52899,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118104800 +0100" stop="20261118122500 +0100" channel="Movistar Plus">
+	<programme start="20261118105800 +0100" stop="20261118123300 +0100" channel="Movistar Plus">
     <title>Por encima de la ley</title>
     <sub-title>1988 | ⑱ | ★6.4/10</sub-title>
     <desc>(Cine,Acción) Un policía de Chicago, veterano del Vietnam, descubre, mientras investiga un asunto de drogas, una conspiración internacional.
@@ -52915,49 +52919,90 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118122500 +0100" stop="20261118132000 +0100" channel="Movistar Plus">
-    <title>Tony Blair: ¿Quién es?</title>
-    <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
-    <desc>(Documentales,Biografía) Blair revela las claves que le impulsaron a la política; una premonición de que el líder de su partido moriría o cómo convenció a su aliado político más cercano de no postularse para el liderazgo.
-· País: Reino Unido</desc>
-    <category>Documentales, Biografía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4481553" />
+	<programme start="20261118123300 +0100" stop="20261118134500 +0100" channel="Movistar Plus">
+    <title>Tuenti sin filtros</title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
+    <desc>(Documentales,Sociedad) Muchos treintañeros españoles todavía recuerdan la red social Tuenti. Este es el relato de cómo cuatro colegas veinteañeros construyeron con sus propias manos el mayor fenómeno español de la historia de internet.
+· País: España
+· Dirección: Pablo González Batista.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4514980" />
 		<rating system="ES">
-			<value>7</value>
+			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118132000 +0100" stop="20261118141100 +0100" channel="Movistar Plus">
-    <title>Tony Blair: La pérdida del poder</title>
-    <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
-    <desc>(Documentales,Biografía) Debilitado por la guerra de Irak, Blair tiene que luchar para lograr una tercera victoria electoral. Impulsa cambios globales para combatir la pobreza mundial y se enfrenta a un importante atentado terrorista.
-· País: Reino Unido</desc>
-    <category>Documentales, Biografía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4481553" />
+	<programme start="20261118134500 +0100" stop="20261118140000 +0100" channel="Movistar Plus">
+    <title>La pista del Tenis. Nitto ATP Finals T2026 · Previo Alcaraz - Medvedev</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) Medvedev -.</desc>
+    <category>Deportes, Programa deportes</category>
 		<rating system="ES">
-			<value>7</value>
+			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
-	<programme start="20261118141100 +0100" stop="20261118150600 +0100" channel="Movistar Plus">
-    <title>Tony Blair: Iraq</title>
-    <sub-title>2025 | ⑦ | ★6.0/10</sub-title>
-    <desc>(Documentales,Biografía) Después de los atentados del 11 de septiembre, Blair asume un papel protagonista en la búsqueda de apoyo para la guerra liderada por Estados Unidos contra Afganistán.
-· País: Reino Unido</desc>
-    <category>Documentales, Biografía</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4481553" />
+	<programme start="20261118140000 +0100" stop="20261118162000 +0100" channel="Movistar Plus">
+    <title>DIRECTO Cuarto Día: Alcaraz - Medvedev T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
+    <category>Deportes, Tenis</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4448467" />
 		<rating system="ES">
-			<value>7</value>
+			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118150600 +0100" stop="20261118153500 +0100" channel="Movistar Plus">
+	<programme start="20261118162000 +0100" stop="20261118163200 +0100" channel="Movistar Plus">
+    <title>La pista del Tenis. Nitto ATP Finals T2026 · Post Alcaraz - Medvedev</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) Medvedev -.</desc>
+    <category>Deportes, Programa deportes</category>
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261118163200 +0100" stop="20261118174000 +0100" channel="Movistar Plus">
+    <title>Informe Plus. La fe de Vicky</title>
+    <sub-title>2026 | TP | ★7.6/10</sub-title>
+    <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118174000 +0100" stop="20261118180000 +0100" channel="Movistar Plus">
+    <title>DIRECTO Jornada 12: Besiktas - Real Madrid T26/27 · Previa Euroliga de baloncesto</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261118180000 +0100" stop="20261118200000 +0100" channel="Movistar Plus">
+    <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Baloncesto) Por primera vez en la historia el Real Madrid (7-4) visitará a Besiktas (5-6) en la Euroliga. El equipo local sólo ha ganado 1 partido en casa. Los Blancos han ganado 7 de los 8 últimos. Theo Maledon está de vuelta tras dos partidos de baja.
+· País: España</desc>
+    <category>Deportes, Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504516" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118200000 +0100" stop="20261118203000 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Muermos de risa</title>
     <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
     <desc>(Entretenimiento,Humor) ¿Por qué nos da tanto miedo aburrirnos? Leo Harlem analiza nuestra necesidad constante de estar siempre entretenidos: desde el móvil hasta los deportes más soporíferos, pasando por los compañeros de trabajo, las parejas y los hobbies más absurdos.
@@ -52972,39 +53017,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118153500 +0100" stop="20261118161700 +0100" channel="Movistar Plus">
-    <title>Objetivo: Apolo T2 E1</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
-    <desc>(Series,Acción) Una operación del MI6 en Libia se convierte en una misión de alto riesgo cuando el grupo paramilitar Voltov secuestra a una prestigiosa microbióloga. Zara y Vincent deberán impedir que la organización desarrolle un arma biológica letal.
-· País: Francia
-· Dirección: David Caffrey.
-· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
-    <category>Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261118161700 +0100" stop="20261118170700 +0100" channel="Movistar Plus">
-    <title>Objetivo: Apolo T2 E2</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
-    <desc>(Series,Acción) De regreso a Londres, Zara descubre indicios de una filtración dentro del MI6 y empieza a desconfiar de sus propios compañeros. Mientras tanto, en Libia, Vincent permanece cautivo junto a Rachel, con quien intenta encontrar una vía de escape.
-· País: Francia
-· Dirección: David Caffrey.
-· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
-    <category>Series, Acción</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
-		<rating system="ES">
-			<value>16</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261118170700 +0100" stop="20261118174000 +0100" channel="Movistar Plus">
+	<programme start="20261118203000 +0100" stop="20261118210000 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · Los fantasmas</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
@@ -53021,74 +53034,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261118174000 +0100" stop="20261118180000 +0100" channel="Movistar Plus">
-    <title>DIRECTO Jornada 12: Besiktas - Real Madrid T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261118180000 +0100" stop="20261118201500 +0100" channel="Movistar Plus">
-    <title>Jornada 12: Besiktas - Real Madrid T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Baloncesto) Por primera vez en la historia el Real Madrid (7-4) visitará a Besiktas (5-6) en la Euroliga. El equipo local sólo ha ganado 1 partido en casa. Los Blancos han ganado 7 de los 8 últimos. Theo Maledon está de vuelta tras dos partidos de baja.
-· País: España</desc>
-    <category>Deportes, Baloncesto</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504516" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261118201500 +0100" stop="20261118203000 +0100" channel="Movistar Plus">
-    <title>La pista del Tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) La pista del Tenis. Nitto ATP Finals (2026) -.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261118203000 +0100" stop="20261118223000 +0100" channel="Movistar Plus">
-    <title>TBC T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
-    <category>Deportes, Tenis</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261118223000 +0100" stop="20261118233000 +0100" channel="Movistar Plus">
-    <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★7.6/10</sub-title>
-    <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>7.6/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261118233000 +0100" stop="20261119011000 +0100" channel="Movistar Plus">
-    <title>Cine</title>
-    <desc>Programa por determinar...</desc>
-	</programme>
-	<programme start="20261119011000 +0100" stop="20261119014000 +0100" channel="Movistar Plus">
+	<programme start="20261118210000 +0100" stop="20261118213000 +0100" channel="Movistar Plus">
     <title>Bakalá T26/27 E11</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
@@ -53103,7 +53049,135 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119014000 +0100" stop="20261119020400 +0100" channel="Movistar Plus">
+	<programme start="20261118213000 +0100" stop="20261118221200 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E1</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) Una operación del MI6 en Libia se convierte en una misión de alto riesgo cuando el grupo paramilitar Voltov secuestra a una prestigiosa microbióloga. Zara y Vincent deberán impedir que la organización desarrolle un arma biológica letal.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118221200 +0100" stop="20261118225500 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E2</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) De regreso a Londres, Zara descubre indicios de una filtración dentro del MI6 y empieza a desconfiar de sus propios compañeros. Mientras tanto, en Libia, Vincent permanece cautivo junto a Rachel, con quien intenta encontrar una vía de escape.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118225500 +0100" stop="20261118234300 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E3</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) Zara alerta a sus superiores de la posible existencia de un infiltrado en el MI6, pero los acontecimientos dan un giro que la coloca en una situación comprometida. Mientras tanto, Vincent y Rachel intentan escapar de sus captores en Libia.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118234300 +0100" stop="20261119002600 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E4</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) Perseguida y sin saber en quién confiar, Zara recurre a Keane, su antiguo mentor, para continuar investigando la conspiración dentro del MI6. Mientras tanto, en Libia, Vincent se enfrenta a una grave amenaza que pone su vida en peligro.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119002600 +0100" stop="20261119010900 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E5</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) Decidida a frenar los planes de Voltov, Zara recluta a un grupo de antiguos mercenarios para llevar a cabo una peligrosa misión en Bengasi. Mientras tanto, Vincent busca ayuda en un viejo conocido y Yuri Mishkin prepara su siguiente movimiento.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119010900 +0100" stop="20261119015700 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E6</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) Con la ayuda de un antiguo colaborador de Vincent, Zara y su compañero planean infiltrarse en la base de Voltov para rescatar a Rachel y a los demás rehenes. Mientras tanto, Yuri Mishkin intenta doblegar a Keane para conseguir sus objetivos.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119015700 +0100" stop="20261119024000 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E7</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) La investigación lleva a Zara y Vincent hasta España, donde intentan localizar a la familia de Rachel y obtener nuevas pistas sobre los planes de Voltov. Mientras Yuri prepara su ataque biológico, una fuente inesperada les ofrece información decisiva.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119024000 +0100" stop="20261119032500 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E8</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) Final de temporada. Los planes de Yuri Mishkin entran en su fase más peligrosa y Zara y Vincent deben actuar antes de que sea demasiado tarde. Una amenaza biológica de consecuencias devastadoras los enfrenta a una misión decisiva.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119032500 +0100" stop="20261119034900 +0100" channel="Movistar Plus">
     <title>Celeste T1 E1</title>
     <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Thriller) La inspectora de Hacienda Sara Santano recibe un último encargo el día de su jubilación: demostrar que la popular cantante Celeste ha residido en España 184 días, el mínimo para declarar. La mitad del año más uno.
@@ -53122,7 +53196,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119020400 +0100" stop="20261119024100 +0100" channel="Movistar Plus">
+	<programme start="20261119034900 +0100" stop="20261119042600 +0100" channel="Movistar Plus">
     <title>Celeste T1 E2</title>
     <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Thriller) Sara encuentra a dos aliados inesperados en su investigación: Dani, una joven recién incorporada a la Agencia Tributaria, y Tony, un ‘paparazzo’ que lleva años siguiendo a Celeste.
@@ -53141,7 +53215,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119024100 +0100" stop="20261119031600 +0100" channel="Movistar Plus">
+	<programme start="20261119042600 +0100" stop="20261119050100 +0100" channel="Movistar Plus">
     <title>Celeste T1 E3</title>
     <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Thriller) Sara y Carmelo solicitan autorización al delegado de la Agencia Tributaria para citar a Celeste, pero Sara tiene dificultades para encontrar los 184 días. La presión crece, así que Sara toma algunos atajos para conseguir información.
@@ -53160,7 +53234,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119031600 +0100" stop="20261119034600 +0100" channel="Movistar Plus">
+	<programme start="20261119050100 +0100" stop="20261119053100 +0100" channel="Movistar Plus">
     <title>Celeste T1 E4</title>
     <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) La investigación de Celeste despierta fantasmas de la vida personal de Sara, mientras ella se queda sin recursos para acorralar a la cantante. Carmelo sospecha de los métodos de Sara.
@@ -53179,7 +53253,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119034600 +0100" stop="20261119041600 +0100" channel="Movistar Plus">
+	<programme start="20261119053100 +0100" stop="20261119060100 +0100" channel="Movistar Plus">
     <title>Celeste T1 E5</title>
     <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Thriller) Sara busca pasar página en lo personal, pero no consigue avanzar en la investigación. Su temor a otro fracaso se agrava cuando Celeste contraataca con un revés inesperado.
@@ -53198,7 +53272,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119041600 +0100" stop="20261119044600 +0100" channel="Movistar Plus">
+	<programme start="20261119060100 +0100" stop="20261119063100 +0100" channel="Movistar Plus">
     <title>Celeste T1 E6</title>
     <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Episodio final. Sara no está dispuesta a rendirse, así que decide gastar una última bala que le puede abrir la puerta a la información que le falta. Y solo hay una fuente posible de donde conseguirla.
@@ -53217,11 +53291,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119044600 +0100" stop="20261119054600 +0100" channel="Movistar Plus">
-    <title>Documentales</title>
-    <desc>Programa por determinar...</desc>
-	</programme>
-	<programme start="20261119054600 +0100" stop="20261119074000 +0100" channel="Movistar Plus">
+	<programme start="20261119063100 +0100" stop="20261119074000 +0100" channel="Movistar Plus">
     <title>Documentales</title>
     <desc>Programa por determinar...</desc>
 	</programme>
@@ -54192,7 +54262,7 @@
 	</programme>
 	<programme start="20261121203000 +0100" stop="20261121205300 +0100" channel="Movistar Plus">
     <title>DIRECTO Real Madrid - RC Celta T26/27 · La Casa del Fútbol Previa</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -54201,7 +54271,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121205300 +0100" stop="20261121230000 +0100" channel="Movistar Plus">
@@ -58911,7 +58981,7 @@
 	</programme>
 	<programme start="20261117104500 +0100" stop="20261117130500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 12: Algeciras - Antequera</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -58919,13 +58989,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261117130500 +0100" stop="20261117152500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 12: Logroñés - Arenas Club</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -58934,7 +59001,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117152500 +0100" stop="20261117174500 +0100" channel="Primera Federación">
@@ -59143,7 +59210,7 @@
 	</programme>
 	<programme start="20261119130500 +0100" stop="20261119152500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 12: Logroñés - Arenas Club</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59152,7 +59219,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119152500 +0100" stop="20261119174500 +0100" channel="Primera Federación">
@@ -59284,7 +59351,7 @@
 	</programme>
 	<programme start="20261120211500 +0100" stop="20261120232000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 13: Real Madrid Castilla - Murcia T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59293,7 +59360,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120232000 +0100" stop="20261121011500 +0100" channel="Primera Federación">
@@ -59320,7 +59387,7 @@
 	</programme>
 	<programme start="20261121080000 +0100" stop="20261121102000 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 13: Villarreal B - Gimnàstic</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59328,10 +59395,13 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121102000 +0100" stop="20261121130000 +0100" channel="Primera Federación">
     <title>Jornada 13: Real Madrid Castilla - Murcia T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59340,7 +59410,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121130000 +0100" stop="20261121152000 +0100" channel="Primera Federación">
@@ -59387,7 +59457,7 @@
 	</programme>
 	<programme start="20261121184500 +0100" stop="20261121210000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 13: Ponferradina - Extremadura T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -59396,7 +59466,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121210000 +0100" stop="20261121232000 +0100" channel="Primera Federación">
@@ -62020,7 +62090,7 @@
 	</programme>
 	<programme start="20261117180800 +0100" stop="20261117183400 +0100" channel="SkyShowtime">
     <title>The Good Place T1 E4 · Jason Mendoza</title>
-    <sub-title>2016 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2016 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) A Eleanor le cuesta mucho mantenerse escondida; Michael le pide a Tahani que ayude a un vecino.
 · País: Estados Unidos</desc>
     <category>Series, Comedia</category>
@@ -62029,7 +62099,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117183400 +0100" stop="20261117191700 +0100" channel="SkyShowtime">
@@ -62271,7 +62341,7 @@
 	</programme>
 	<programme start="20261118053700 +0100" stop="20261118060000 +0100" channel="SkyShowtime">
     <title>The Good Place T1 E4 · Jason Mendoza</title>
-    <sub-title>2016 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2016 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) A Eleanor le cuesta mucho mantenerse escondida; Michael le pide a Tahani que ayude a un vecino.
 · País: Estados Unidos</desc>
     <category>Series, Comedia</category>
@@ -62280,7 +62350,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118060000 +0100" stop="20261118062000 +0100" channel="SkyShowtime">
@@ -62477,7 +62547,7 @@
 	</programme>
 	<programme start="20261118111500 +0100" stop="20261118114000 +0100" channel="SkyShowtime">
     <title>The Good Place T1 E4 · Jason Mendoza</title>
-    <sub-title>2016 | ⑫ | ★6.2/10</sub-title>
+    <sub-title>2016 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) A Eleanor le cuesta mucho mantenerse escondida; Michael le pide a Tahani que ayude a un vecino.
 · País: Estados Unidos</desc>
     <category>Series, Comedia</category>
@@ -62486,7 +62556,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261118114000 +0100" stop="20261118121000 +0100" channel="SkyShowtime">
@@ -66451,7 +66521,7 @@
     <desc>(Información,Informativo) Espacio de tertulia y opinión, presentado por Ana Terradillos, que cuenta con personajes del ámbito político, económico, social y cultural para analizar los acontecimientos que marcan la actualidad nacional e internacional.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389847" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453369" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66462,7 +66532,7 @@
     <desc>(Información,Informativo) Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389849" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453383" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66473,7 +66543,7 @@
     <desc>(Información,Informativo) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4406159" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453371" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66484,7 +66554,7 @@
     <desc>(Información,Informativo) Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389851" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453373" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66532,7 +66602,7 @@
     <desc>(Entretenimiento,Magacín) La tarde se mueve.
 · País: España</desc>
     <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417518" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453375" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66543,7 +66613,7 @@
     <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
 · País: España</desc>
     <category>Entretenimiento, Tertulia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417516" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453377" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66554,7 +66624,7 @@
     <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
 · País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4394000" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453379" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -66565,7 +66635,7 @@
     <desc>(Entretenimiento,Concurso) Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
 · País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417941" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453385" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -66613,7 +66683,7 @@
     <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.
 · País: España</desc>
     <category>Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4312041" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453381" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -66624,6 +66694,7 @@
     <desc>(Entretenimiento,Debate) El programa analizará pormenorizadamente las situaciones más destacadas vividas por las parejas en su día a día con los solteros y ofrecerá material inédito de la experiencia de los protagonistas.
 · País: España</desc>
     <category>Entretenimiento, Debate</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453387" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66731,7 +66802,7 @@
     <desc>(Información,Informativo) Espacio de tertulia y opinión, presentado por Ana Terradillos, que cuenta con personajes del ámbito político, económico, social y cultural para analizar los acontecimientos que marcan la actualidad nacional e internacional.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389847" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453389" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66742,7 +66813,7 @@
     <desc>(Información,Informativo) Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389849" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453401" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66753,7 +66824,7 @@
     <desc>(Información,Informativo) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4406159" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453391" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66764,7 +66835,7 @@
     <desc>(Información,Informativo) Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.
 · País: España</desc>
     <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4389851" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453393" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66812,7 +66883,7 @@
     <desc>(Entretenimiento,Magacín) La tarde se mueve.
 · País: España</desc>
     <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417518" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453395" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66823,7 +66894,7 @@
     <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
 · País: España</desc>
     <category>Entretenimiento, Tertulia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417516" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453397" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -66834,7 +66905,7 @@
     <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
 · País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4394000" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453399" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -66845,7 +66916,7 @@
     <desc>(Entretenimiento,Concurso) Regreso del mítico concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.
 · País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4417941" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453403" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -66893,6 +66964,7 @@
     <desc>(Entretenimiento,Telerrealidad) Concurso de telerrealidad basado en el mítico formato "Gran Hermano". En él, un grupo de personajes famosos conviven incomunicados durante varias semanas.
 · País: España</desc>
     <category>Entretenimiento, Telerrealidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453367" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -67053,7 +67125,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119150000 +0100" stop="20261119152500 +0100" channel="Telecinco">
+	<programme start="20261119150000 +0100" stop="20261119153000 +0100" channel="Telecinco">
     <title>Informativos Telecinco</title>
     <sub-title>2025 | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
@@ -67066,7 +67138,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119152500 +0100" stop="20261119154000 +0100" channel="Telecinco">
+	<programme start="20261119153000 +0100" stop="20261119154000 +0100" channel="Telecinco">
     <title>El Desmarque Telecinco</title>
     <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
@@ -67173,7 +67245,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119214000 +0100" stop="20261119214500 +0100" channel="Telecinco">
+	<programme start="20261119214000 +0100" stop="20261119220000 +0100" channel="Telecinco">
     <title>El tiempo</title>
     <sub-title>2017 | ★6.0/10</sub-title>
     <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
@@ -67185,20 +67257,22 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119214500 +0100" stop="20261120020000 +0100" channel="Telecinco">
-    <title>Supervivientes All Stars T3</title>
-    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
-    <desc>(Entretenimiento,Telerrealidad) Concursantes que lo dieron todo en pasadas ediciones de "Supervivientes" regresan a Honduras en una experiencia única y aún más extrema.
-· País: España
-· Presenta: Jorge Javier Vázquez, Sandra Barneda.</desc>
+	<programme start="20261119220000 +0100" stop="20261120000000 +0100" channel="Telecinco">
+    <title>Cara a cara</title>
+    <sub-title>2026</sub-title>
+    <desc>(Información,Política) Punto de inflexión en la campaña electoral con la celebración del debate cara a cara entre los cabezas de cartel de PSOE y PP. Pedro Sánchez y Alberto Núñez Feijóo contrastan las propuestas que ofrecen a los votantes en las elecciones del 29N.</desc>
+    <category>Información, Política</category>
+	</programme>
+	<programme start="20261120000000 +0100" stop="20261120020000 +0100" channel="Telecinco">
+    <title>Gran hermano VIP T9 E1</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Concurso de telerrealidad basado en el mítico formato "Gran Hermano". En él, un grupo de personajes famosos conviven incomunicados durante varias semanas.
+· País: España</desc>
     <category>Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4396432" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4453367" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261120020000 +0100" stop="20261120022500 +0100" channel="Telecinco">
     <title>Gran Madrid Show</title>
@@ -75553,6 +75627,517 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118224500 +0100" stop="20261119054500 +0100" channel="M+ Deportes 2">
+    <title>M+ Deportes 2</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Otros deportes) M+ Deportes 2 -.</desc>
+    <category>Deportes, Otros deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4406652" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119054500 +0100" stop="20261119080000 +0100" channel="M+ Deportes 2">
+    <title>M+ Deportes 2</title>
+    <sub-title>TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Otros deportes) M+ Deportes 2 -.</desc>
+    <category>Deportes, Otros deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4406652" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261117185200 +0100" stop="20261117193100 +0100" channel="Movistar Plus">
+    <title>Paga o muere E1</title>
+    <sub-title>2026 | ⑫ | ★8.4/10</sub-title>
+    <desc>(Documentales,Sociedad) El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
+· País: España
+· Dirección: Ricardo Sanz Ramos, Marisa Lafuente.</desc>
+    <category>Documentales, Sociedad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507361" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261117210000 +0100" stop="20261117213000 +0100" channel="Movistar Plus">
+    <title>Leo Talks T7 · Muermos de risa</title>
+    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) ¿Por qué nos da tanto miedo aburrirnos? Leo Harlem analiza nuestra necesidad constante de estar siempre entretenidos: desde el móvil hasta los deportes más soporíferos, pasando por los compañeros de trabajo, las parejas y los hobbies más absurdos.
+· País: España
+· Presenta: Leo Harlem.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504307" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261117213000 +0100" stop="20261117220000 +0100" channel="Movistar Plus">
+    <title>Ilustres ignorantes T20 · Los fantasmas</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515816" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118024600 +0100" stop="20261118033000 +0100" channel="Movistar Plus">
+    <title>En el corredor de la muerte T1 E3 · 2000-2008</title>
+    <sub-title>2019 | ⑫ | ★6.6/10</sub-title>
+    <desc>(Series,Drama) "En el corredor de la muerte" es la historia de la lucha de un hombre por demostrar su inocencia, de una familia que nunca se ha rendido. Basada en el caso real de Pablo Ibar, declarado culpable del triple asesinato que tuvo lugar en Florida en 1994.
+· País: España
+· Dirección: Carlos Marques-Marcet.
+· Reparto: Miguel Ángel Silvestre, Ramón Agirre, Marisé Alvarez, Laura De la Uz, Sue Flack, Pau Poch, Pedro Hernández, Cristina Soler, Gianpiero Lognoli, Simao Cayatte.
+· Guion: Nacho Carretero.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3757543" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118033000 +0100" stop="20261118041600 +0100" channel="Movistar Plus">
+    <title>En el corredor de la muerte T1 E4 · 2008-2019</title>
+    <sub-title>2019 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Series,Drama) "En el corredor de la muerte" es la historia de la lucha de un hombre por demostrar su inocencia, de una familia que nunca se ha rendido. Basada en el caso real de Pablo Ibar, declarado culpable del triple asesinato que tuvo lugar en Florida en 1994.
+· País: España
+· Dirección: Carlos Marques-Marcet.
+· Reparto: Miguel Ángel Silvestre, Ramón Agirre, Marisé Alvarez, Laura De la Uz, Sue Flack, Pau Poch, Pedro Hernández, Cristina Soler, Gianpiero Lognoli, Simao Cayatte.
+· Guion: Nacho Carretero.
+· Productora: Bambú Producciones.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3757547" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118041600 +0100" stop="20261118073000 +0100" channel="Movistar Plus">
+    <title>Documentales</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20261118073000 +0100" stop="20261118080800 +0100" channel="Movistar Plus">
+    <title>Missing in Murcia E1</title>
+    <sub-title>2025 | ⑯ | ★6.4/10</sub-title>
+    <desc>(Documentales,True crime) La policía investiga la desaparición de una pareja de holandeses. Nadie sabe nada de ellos desde que llegaron a España, ella por un tratamiento de fertilidad y él por negocios. Tras ser acompañados a un alojamiento rural, desparecen sin dejar rastro.
+· País: España
+· Presenta: Carles Porta.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4425064" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118080800 +0100" stop="20261118085300 +0100" channel="Movistar Plus">
+    <title>Missing in Murcia E2</title>
+    <sub-title>2025 | ⑯ | ★6.4/10</sub-title>
+    <desc>(Documentales,True crime) Las evidencias acorralan al principal sospechoso y la investigación traslada a la policía hasta un campo de limoneros. Es posible que haya más implicados en el crimen. La muerte de la pareja holandesa conmociona al mundo del deporte y a la sociedad.
+· País: España
+· Presenta: Carles Porta.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4425066" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118085300 +0100" stop="20261118093200 +0100" channel="Movistar Plus">
+    <title>Sicarios: Los avisos</title>
+    <sub-title>2026 | ⑯ | ★7.8/10</sub-title>
+    <desc>(Documentales,True crime) Un tiroteo tiene lugar a la salida de una comunión en San Pedro de Alcántara, Marbella. La investigación destapa una peligrosa banda de sicarios asentada en la Costa del Sol. Disparos, explosiones, ajustes de cuentas y mucha violencia.
+· País: España
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118093200 +0100" stop="20261118100800 +0100" channel="Movistar Plus">
+    <title>Sicarios: Los suecos</title>
+    <sub-title>2026 | ⑯ | ★7.0/10</sub-title>
+    <desc>(Documentales,True crime) Los sospechosos son profesionales, escurridizos y peligrosos. Las primeras investigaciones llevan el rastro hasta Malmö, Suecia. Las cámaras de seguridad serán claves para seguir avanzando en el caso. ¿Qué relación hay entre Marbella y Malmö?
+· País: España
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118100800 +0100" stop="20261118104800 +0100" channel="Movistar Plus">
+    <title>Sicarios: El puzzle</title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
+    <desc>(Documentales,True crime) Asesinatos, bombas y mucha violencia. La banda actúa como si nada ni nadie pudiera detenerlos. Cambian constantemente de coche, de casa, de colaboradores y de país, pero la policía española y sueca los tiene cada vez más localizados.
+· País: España
+· Presenta: Carles Porta.
+· Productora: Movistar Plus+.</desc>
+    <category>Documentales, True crime</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507189" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.8/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118104800 +0100" stop="20261118122500 +0100" channel="Movistar Plus">
+    <title>Por encima de la ley</title>
+    <sub-title>1988 | ⑱ | ★6.4/10</sub-title>
+    <desc>(Cine,Acción) Un policía de Chicago, veterano del Vietnam, descubre, mientras investiga un asunto de drogas, una conspiración internacional.
+· País: Estados Unidos
+· Dirección: Andrew Davis.
+· Reparto: Sharon Stone, Henry Silva, Steven Seagal, Pam Grier, Daniel Faraldo, Joe V. Greco, Nicholas Kusenko, Miguel Nino, Ron Dean, Chelcie Ross.
+· Guion: Steven Seagal, Andrew Davis, Steven Pressfield, Ronald Shusett, John Eskow.
+· Música: David Michael Frank.
+· Producción: Steven Seagal, Andrew Davis, Robert H. Solo.
+· Productora: Warner Bros. Pictures, Warner Bros.</desc>
+    <category>Cine, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4050363" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118122500 +0100" stop="20261118132000 +0100" channel="Movistar Plus">
+    <title>Tony Blair: ¿Quién es?</title>
+    <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
+    <desc>(Documentales,Biografía) Blair revela las claves que le impulsaron a la política; una premonición de que el líder de su partido moriría o cómo convenció a su aliado político más cercano de no postularse para el liderazgo.
+· País: Reino Unido</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4481553" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118132000 +0100" stop="20261118141100 +0100" channel="Movistar Plus">
+    <title>Tony Blair: La pérdida del poder</title>
+    <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
+    <desc>(Documentales,Biografía) Debilitado por la guerra de Irak, Blair tiene que luchar para lograr una tercera victoria electoral. Impulsa cambios globales para combatir la pobreza mundial y se enfrenta a un importante atentado terrorista.
+· País: Reino Unido</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4481553" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118141100 +0100" stop="20261118150600 +0100" channel="Movistar Plus">
+    <title>Tony Blair: Iraq</title>
+    <sub-title>2025 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Documentales,Biografía) Después de los atentados del 11 de septiembre, Blair asume un papel protagonista en la búsqueda de apoyo para la guerra liderada por Estados Unidos contra Afganistán.
+· País: Reino Unido</desc>
+    <category>Documentales, Biografía</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4481553" />
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118150600 +0100" stop="20261118153500 +0100" channel="Movistar Plus">
+    <title>Leo Talks T7 · Muermos de risa</title>
+    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) ¿Por qué nos da tanto miedo aburrirnos? Leo Harlem analiza nuestra necesidad constante de estar siempre entretenidos: desde el móvil hasta los deportes más soporíferos, pasando por los compañeros de trabajo, las parejas y los hobbies más absurdos.
+· País: España
+· Presenta: Leo Harlem.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504307" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118153500 +0100" stop="20261118161700 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E1</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) Una operación del MI6 en Libia se convierte en una misión de alto riesgo cuando el grupo paramilitar Voltov secuestra a una prestigiosa microbióloga. Zara y Vincent deberán impedir que la organización desarrolle un arma biológica letal.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118161700 +0100" stop="20261118170700 +0100" channel="Movistar Plus">
+    <title>Objetivo: Apolo T2 E2</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Series,Acción) De regreso a Londres, Zara descubre indicios de una filtración dentro del MI6 y empieza a desconfiar de sus propios compañeros. Mientras tanto, en Libia, Vincent permanece cautivo junto a Rachel, con quien intenta encontrar una vía de escape.
+· País: Francia
+· Dirección: David Caffrey.
+· Reparto: Tewfik Jallab, Ritu Arya, Jacek Koman, Annabel Scholey, Richard Dormer, Charlotte Spencer, Arthur Darvill, Aylin Tezel.</desc>
+    <category>Series, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515259" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118170700 +0100" stop="20261118174000 +0100" channel="Movistar Plus">
+    <title>Ilustres ignorantes T20 · Los fantasmas</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
+· País: España
+· Presenta: Javier Coronas.
+· Dirección: Javier Coronas.
+· Productora: Movistar+.</desc>
+    <category>Entretenimiento, Humor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4515816" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118201500 +0100" stop="20261118203000 +0100" channel="Movistar Plus">
+    <title>La pista del Tenis. Nitto ATP Finals</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) La pista del Tenis. Nitto ATP Finals (2026) -.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118223000 +0100" stop="20261118233000 +0100" channel="Movistar Plus">
+    <title>Informe Plus. La fe de Vicky</title>
+    <sub-title>2026 | TP | ★7.6/10</sub-title>
+    <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>7.6/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261118233000 +0100" stop="20261119011000 +0100" channel="Movistar Plus">
+    <title>Cine</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20261119011000 +0100" stop="20261119014000 +0100" channel="Movistar Plus">
+    <title>Bakalá T26/27 E11</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4414957" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119014000 +0100" stop="20261119020400 +0100" channel="Movistar Plus">
+    <title>Celeste T1 E1</title>
+    <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Thriller) La inspectora de Hacienda Sara Santano recibe un último encargo el día de su jubilación: demostrar que la popular cantante Celeste ha residido en España 184 días, el mínimo para declarar. La mitad del año más uno.
+· País: España
+· Dirección: Elena Trapé.
+· Reparto: Carmen Machi, Manolo Solo, Andrea Bayardo, Clara Sans, Antonio Durán, Aixa Villagrán, Marc Soler, Jesús Noguera.
+· Guion: Diego San José, Daniel Castro, Oriol Puig Grau.
+· Música: Lucas Vidal.
+· Productora: Movistar+, 100 balas.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4319583" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119020400 +0100" stop="20261119024100 +0100" channel="Movistar Plus">
+    <title>Celeste T1 E2</title>
+    <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Thriller) Sara encuentra a dos aliados inesperados en su investigación: Dani, una joven recién incorporada a la Agencia Tributaria, y Tony, un ‘paparazzo’ que lleva años siguiendo a Celeste.
+· País: España
+· Dirección: Elena Trapé.
+· Reparto: Carmen Machi, Manolo Solo, Andrea Bayardo, Clara Sans, Antonio Durán, Aixa Villagrán, Marc Soler, Jesús Noguera.
+· Guion: Diego San José, Daniel Castro, Oriol Puig Grau.
+· Música: Lucas Vidal.
+· Productora: Movistar+, 100 balas.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4317655" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119024100 +0100" stop="20261119031600 +0100" channel="Movistar Plus">
+    <title>Celeste T1 E3</title>
+    <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Thriller) Sara y Carmelo solicitan autorización al delegado de la Agencia Tributaria para citar a Celeste, pero Sara tiene dificultades para encontrar los 184 días. La presión crece, así que Sara toma algunos atajos para conseguir información.
+· País: España
+· Dirección: Elena Trapé.
+· Reparto: Carmen Machi, Manolo Solo, Andrea Bayardo, Clara Sans, Antonio Durán, Aixa Villagrán, Marc Soler, Jesús Noguera.
+· Guion: Diego San José, Daniel Castro, Oriol Puig Grau.
+· Música: Lucas Vidal.
+· Productora: Movistar+, 100 balas.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4319611" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119031600 +0100" stop="20261119034600 +0100" channel="Movistar Plus">
+    <title>Celeste T1 E4</title>
+    <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Thriller) La investigación de Celeste despierta fantasmas de la vida personal de Sara, mientras ella se queda sin recursos para acorralar a la cantante. Carmelo sospecha de los métodos de Sara.
+· País: España
+· Dirección: Elena Trapé.
+· Reparto: Carmen Machi, Manolo Solo, Andrea Bayardo, Clara Sans, Antonio Durán, Aixa Villagrán, Marc Soler, Jesús Noguera.
+· Guion: Diego San José, Daniel Castro, Oriol Puig Grau.
+· Música: Lucas Vidal.
+· Productora: Movistar+, 100 balas.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4317660" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119034600 +0100" stop="20261119041600 +0100" channel="Movistar Plus">
+    <title>Celeste T1 E5</title>
+    <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Thriller) Sara busca pasar página en lo personal, pero no consigue avanzar en la investigación. Su temor a otro fracaso se agrava cuando Celeste contraataca con un revés inesperado.
+· País: España
+· Dirección: Elena Trapé.
+· Reparto: Carmen Machi, Manolo Solo, Andrea Bayardo, Clara Sans, Antonio Durán, Aixa Villagrán, Marc Soler, Jesús Noguera.
+· Guion: Diego San José, Daniel Castro, Oriol Puig Grau.
+· Música: Lucas Vidal.
+· Productora: Movistar+, 100 balas.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4317664" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119041600 +0100" stop="20261119044600 +0100" channel="Movistar Plus">
+    <title>Celeste T1 E6</title>
+    <sub-title>2024 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Thriller) Episodio final. Sara no está dispuesta a rendirse, así que decide gastar una última bala que le puede abrir la puerta a la información que le falta. Y solo hay una fuente posible de donde conseguirla.
+· País: España
+· Dirección: Elena Trapé.
+· Reparto: Carmen Machi, Manolo Solo, Andrea Bayardo, Clara Sans, Antonio Durán, Aixa Villagrán, Marc Soler, Jesús Noguera.
+· Guion: Diego San José, Daniel Castro, Oriol Puig Grau.
+· Música: Lucas Vidal.
+· Productora: Movistar+, 100 balas.</desc>
+    <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4317665" />
+		<rating system="ES">
+			<value>12</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119044600 +0100" stop="20261119054600 +0100" channel="Movistar Plus">
+    <title>Documentales</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20261119054600 +0100" stop="20261119074000 +0100" channel="Movistar Plus">
+    <title>Documentales</title>
+    <desc>Programa por determinar...</desc>
+	</programme>
+	<programme start="20261119152500 +0100" stop="20261119154000 +0100" channel="Telecinco">
+    <title>El Desmarque Telecinco</title>
+    <sub-title>2026 | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261119214500 +0100" stop="20261120020000 +0100" channel="Telecinco">
+    <title>Supervivientes All Stars T3</title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Concursantes que lo dieron todo en pasadas ediciones de "Supervivientes" regresan a Honduras en una experiencia única y aún más extrema.
+· País: España
+· Presenta: Jorge Javier Vázquez, Sandra Barneda.</desc>
+    <category>Entretenimiento, Telerrealidad</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4396432" />
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261117003500 +0100" stop="20261117014300 +0100" channel="AMC Crime">
