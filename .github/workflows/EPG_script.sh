@@ -202,7 +202,7 @@ echo "─── PROCESANDO LIMITES TEMPORALES Y ACUMULACIÓN ───"
 # 1. Asegurarnos de que EPG_temp2.xml existe (donde se han ido metiendo los programas nuevos) y añadir el histórico de epg_acumulado.xml a ese mismo archivo.
 if [ -f epg_acumulado.xml ]; then
     echo " Rescatando programas de epg_acumulado.xml..."
-    sed -n '/<programme/,/<\/programme>/p' epg_acumulado.xml >> EPG_temp2.xml
+#    sed -n '/<programme/,/<\/programme>/p' epg_acumulado.xml >> EPG_temp2.xml
 fi
 
 # 2. Leer variables de días desde variables.txt
