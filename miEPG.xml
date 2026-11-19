@@ -3346,7 +3346,7 @@
     <sub-title>2023 | ⑱ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Una madre afligida se percata de que los hechos y las pruebas no son rivales contra la desinformación viral al descubrir una creciente conspiración en Internet que niega la realidad de que su hijo muriera en un tiroteo.
 · País: Estados Unidos
-· Dirección: Peter M. Lenkov, Eagle Egilsson.
+· Dirección: Peter M. Lenkov, Janice Cooke, Eagle Egilsson.
 · Reparto: Shawn Doyle, Neil Whitely, Billy Parrott, Bill Turnbull, Stephanie Nogueras, Ian Morris, John C Malcolm, Jean-Michel Le Gal, Celina Vera, Adrian Rebucas, Beatriz Yuste, Sean Cage, Farrah Aviva, Scott Dana Baker, Kathy Maloney, Samantha Espie, Shanda Bezic, Krista Jang, Phillip Samuel.
 · Guion: Daniel Pearle.
 · Productora: Sony Pictures Television, Paramount Television, All3Media America, All3 Media, Sony Pictures Television Studios, Teakwood Lane Productions, Matt Code.</desc>
@@ -3490,7 +3490,7 @@
 	</programme>
 	<programme start="20261122130000 +0100" stop="20261122140000 +0100" channel="AXN">
     <title>Chicago Fire T14 E11 · Azul hielo</title>
-    <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Series,Acción) Herrmann empieza a desconfiar cuando un abogado especializado en accidentes aparece en una intervención rutinaria. Además, el 51 recibe una visita inesperada.
 · País: Estados Unidos
 · Dirección: Chris DeAngelis.
@@ -3503,7 +3503,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122140000 +0100" stop="20261122154500 +0100" channel="AXN">
@@ -13623,7 +13623,7 @@
 	</programme>
 	<programme start="20261119130000 +0100" stop="20261119135600 +0100" channel="DAZN 1">
     <title>MotoGP - GP de Portugal T2025 · Carrera Moto3</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motociclismo) El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -13631,13 +13631,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119135600 +0100" stop="20261119150900 +0100" channel="DAZN 1">
     <title>MotoGP - GP de Portugal T2025 · Carrera Moto2</title>
-    <sub-title>2025 | TP | ★6.2/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motociclismo) El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -13645,13 +13642,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119150900 +0100" stop="20261119161500 +0100" channel="DAZN 1">
     <title>MotoGP - GP de Portugal T2025 · Carrera MotoGP</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motociclismo) El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -13659,12 +13653,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119161500 +0100" stop="20261119180000 +0100" channel="DAZN 1">
-    <title>DIRECTO Portugal - Paddock Abierto T2026 · Rueda de prensa motos</title>
+    <title>Rueda de prensa motos T2026 · Portugal - Paddock Abierto</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Un jueves más llega la previa de cada GP con Paddock Abierto, presentado por Carles Pérez, donde escucharemos a los pilotos protagonistas del Gran Premio de Portugal que se disputa este fin de semana.
 · País: Portugal</desc>
@@ -13736,7 +13727,7 @@
 		</rating>
 	</programme>
 	<programme start="20261119214800 +0100" stop="20261119224900 +0100" channel="DAZN 1">
-    <title>Portugal - Paddock Abierto T2026 · Rueda de prensa motos</title>
+    <title>Rueda de prensa motos T2026 · Portugal - Paddock Abierto</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Un jueves más llega la previa de cada GP con Paddock Abierto, presentado por Carles Pérez, donde escucharemos a los pilotos protagonistas del Gran Premio de Portugal que se disputa este fin de semana.
 · País: Portugal</desc>
@@ -13836,7 +13827,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120185500 +0100" stop="20261120195500 +0100" channel="DAZN 1">
-    <title>Portugal - Paddock Abierto T2026 · Rueda de prensa motos</title>
+    <title>Rueda de prensa motos T2026 · Portugal - Paddock Abierto</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Un jueves más llega la previa de cada GP con Paddock Abierto, presentado por Carles Pérez, donde escucharemos a los pilotos protagonistas del Gran Premio de Portugal que se disputa este fin de semana.
 · País: Portugal</desc>
@@ -13851,7 +13842,7 @@
 	</programme>
 	<programme start="20261120195500 +0100" stop="20261120210000 +0100" channel="DAZN 1">
     <title>MotoGP - GP de Portugal T2025 · Carrera MotoGP</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motociclismo) El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -13859,9 +13850,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261120210000 +0100" stop="20261120211000 +0100" channel="DAZN 1">
     <title>Inside Ducati</title>
@@ -14137,7 +14125,7 @@
 	</programme>
 	<programme start="20261122212000 +0100" stop="20261122222500 +0100" channel="DAZN 1">
     <title>MotoGP - GP de Portugal T2025 · Carrera MotoGP</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motociclismo) El GP de Portugal es la 21ª prueba del Mundial de motociclismo.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -14145,9 +14133,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122222500 +0100" stop="20261123015500 +0100" channel="DAZN 1">
     <title>DIRECTO Jornada 11: New York Giants - Jacksonville Jaguars T26/27 · NFL</title>
@@ -15354,7 +15339,7 @@
     <title>DAZN Baloncesto</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261123210000 +0100" stop="20261124010000 +0100" channel="DAZN Baloncesto">
+	<programme start="20261123210000 +0100" stop="20261124013000 +0100" channel="DAZN Baloncesto">
     <title>DAZN Baloncesto</title>
     <desc>Programa por determinar...</desc>
 	</programme>
@@ -15485,7 +15470,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261122175100 +0100" stop="20261122202400 +0100" channel="DAZN Baloncesto 2">
-    <title>DIRECTO Jornada 9: Laguna Tenerife - Barcelona T26/27 · Liga Endesa</title>
+    <title>DIRECTO Jornada 9: La Laguna Tenerife - Barcelona T26/27 · Liga Endesa</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas.
 · País: España</desc>
@@ -15506,27 +15491,33 @@
     <title>DAZN Baloncesto 2</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261123010000 +0100" stop="20261123050000 +0100" channel="DAZN Baloncesto 2">
+	<programme start="20261123010000 +0100" stop="20261123043000 +0100" channel="DAZN Baloncesto 2">
+    <title>DIRECTO Noviembre: Washington Wizards - Orlando Magic T26/27 · NBA</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Baloncesto) El baloncesto se convierte en puro espectáculo en la NBA. Los Knicks defienden título.</desc>
+    <category>Deportes, Baloncesto</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4511865" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261123043000 +0100" stop="20261123083000 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261123050000 +0100" stop="20261123090000 +0100" channel="DAZN Baloncesto 2">
+	<programme start="20261123083000 +0100" stop="20261123123000 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261123090000 +0100" stop="20261123130000 +0100" channel="DAZN Baloncesto 2">
+	<programme start="20261123123000 +0100" stop="20261123163000 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261123130000 +0100" stop="20261123170000 +0100" channel="DAZN Baloncesto 2">
+	<programme start="20261123163000 +0100" stop="20261123203000 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261123170000 +0100" stop="20261123210000 +0100" channel="DAZN Baloncesto 2">
-    <title>DAZN Baloncesto 2</title>
-    <desc>Programa por determinar...</desc>
-	</programme>
-	<programme start="20261123210000 +0100" stop="20261124010000 +0100" channel="DAZN Baloncesto 2">
+	<programme start="20261123203000 +0100" stop="20261124003000 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
     <desc>Programa por determinar...</desc>
 	</programme>
@@ -15761,16 +15752,13 @@
 	</programme>
 	<programme start="20261119140200 +0100" stop="20261119161500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Azerbaiyán T2026 · Carrera</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4501860" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119161500 +0100" stop="20261119165500 +0100" channel="DAZN F1">
     <title>Gearbox T2026 E25</title>
@@ -15823,7 +15811,7 @@
 	</programme>
 	<programme start="20261119231500 +0100" stop="20261120010000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Box, Box</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516449" />
@@ -15831,12 +15819,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120010000 +0100" stop="20261120013000 +0100" channel="DAZN F1">
     <title>DIRECTO Previo Libres 1 T2026 · Mundial F1 - GP de Las Vegas</title>
-    <sub-title>2026 | TP | ★5.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516451" />
@@ -15844,7 +15832,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120013000 +0100" stop="20261120023000 +0100" channel="DAZN F1">
@@ -15862,7 +15850,7 @@
 	</programme>
 	<programme start="20261120023000 +0100" stop="20261120025800 +0100" channel="DAZN F1">
     <title>DIRECTO Post Libres 1 T2026 · Mundial F1 - GP de Las Vegas</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516451" />
@@ -15870,7 +15858,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120025800 +0100" stop="20261120033300 +0100" channel="DAZN F1">
@@ -16051,7 +16039,7 @@
 	</programme>
 	<programme start="20261120164500 +0100" stop="20261120183000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Box, Box</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516449" />
@@ -16059,7 +16047,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120183000 +0100" stop="20261120193000 +0100" channel="DAZN F1">
@@ -16626,7 +16614,7 @@
 	</programme>
 	<programme start="20261122164500 +0100" stop="20261122183000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Box, Box</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516449" />
@@ -16634,7 +16622,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122183000 +0100" stop="20261122194000 +0100" channel="DAZN F1">
@@ -17076,7 +17064,7 @@
 		</rating>
 	</programme>
 	<programme start="20261119150000 +0100" stop="20261119163000 +0100" channel="DAZN LaLiga">
-    <title>DIRECTO Programa 38 T26/27 · Trending</title>
+    <title>Trending T26/27 · Programa 38</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
@@ -17134,7 +17122,7 @@
 		</rating>
 	</programme>
 	<programme start="20261119210000 +0100" stop="20261119223000 +0100" channel="DAZN LaLiga">
-    <title>Programa 38 T26/27 · Trending</title>
+    <title>Trending T26/27 · Programa 38</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
@@ -18141,7 +18129,7 @@
 	</programme>
 	<programme start="20261123164500 +0100" stop="20261123170000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Girona FC - SD Eibar</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -18150,7 +18138,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123170000 +0100" stop="20261123183000 +0100" channel="DAZN LaLiga">
@@ -23000,7 +22988,7 @@
 	</programme>
 	<programme start="20261119140000 +0100" stop="20261119153000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de saltos de esquí M - Garmisch Partenkirchen T25/26 · Trampolín largo</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Saltos de esquí) La de Garmisch Partenkirchen es la prueba más especial de la temporada y la segunda del prestigioso Torneo de los Cuatro Trampolines. Los mejores saltadores de esquí del mundo participan en este certamen que premia la regularidad.
 · País: Alemania</desc>
     <category>Deportes, Saltos de esquí</category>
@@ -23008,9 +22996,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261119153000 +0100" stop="20261119161500 +0100" channel="Eurosport 2">
     <title>Copa del mundo de saltos de esquí M - Innsbruck T25/26 · Trampolín largo</title>
@@ -31116,7 +31101,7 @@
 	</programme>
 	<programme start="20261120195500 +0100" stop="20261120201500 +0100" channel="M+ Baloncesto">
     <title>DIRECTO Jornada 13: Olympiacos - Real Madrid T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
@@ -31124,7 +31109,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120201500 +0100" stop="20261120221500 +0100" channel="M+ Baloncesto">
@@ -31252,7 +31237,7 @@
 	</programme>
 	<programme start="20261122175500 +0100" stop="20261122201000 +0100" channel="M+ Baloncesto">
     <title>DIRECTO Jornada 8: Mirai Euskotren - Casademont Zaragoza T26/27 · LF Endesa</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos femeninos de básquet luchan por el título de liga. La competición se divide en una primera fase regular en la que los mejores clasificados acceden a las eliminatorias por el título. El actual campeón es el Valencia Basket.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31261,7 +31246,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122201000 +0100" stop="20261123030000 +0100" channel="M+ Baloncesto">
@@ -36180,7 +36165,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261119134500 +0100" stop="20261119140000 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Previa Shelton - Jódar T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>La pista del tenis. Nitto ATP Finals T2026 · Previa Shelton - Jódar</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Jódar -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36190,8 +36175,8 @@
 		</rating>
 	</programme>
 	<programme start="20261119140000 +0100" stop="20261119160000 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Quinto Día: Shelton - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>Nitto ATP Finals 2026 T2026 · Quinto Día: Shelton - Jódar</title>
+    <sub-title>2026 | TP | ★8.4/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519239" />
@@ -36199,11 +36184,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>8.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119160000 +0100" stop="20261119161500 +0100" channel="M+ Deportes 2">
-    <title>Post Shelton - Jódar T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>La pista del tenis. Nitto ATP Finals T2026 · Post Shelton - Jódar</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Jódar -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36236,7 +36221,7 @@
 		</rating>
 	</programme>
 	<programme start="20261119201500 +0100" stop="20261119203000 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Previa Zverev - Fils T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>DIRECTO Previa Zverev - Fils T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Fils -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36298,14 +36283,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120113500 +0100" stop="20261120133500 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>DIRECTO TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120133500 +0100" stop="20261120134500 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -36321,7 +36309,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120134500 +0100" stop="20261120140000 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36334,17 +36322,20 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120140000 +0100" stop="20261120160000 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120160000 +0100" stop="20261120161500 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36370,17 +36361,20 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120180500 +0100" stop="20261120200500 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120200500 +0100" stop="20261120203000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36393,17 +36387,20 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120203000 +0100" stop="20261120223000 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120223000 +0100" stop="20261120224500 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36455,14 +36452,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261121113500 +0100" stop="20261121133500 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121133500 +0100" stop="20261121134500 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -36478,7 +36478,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261121134500 +0100" stop="20261121140000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36491,17 +36491,20 @@
 		</star-rating>
 	</programme>
 	<programme start="20261121140000 +0100" stop="20261121160000 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121160000 +0100" stop="20261121161500 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36527,17 +36530,20 @@
 		</star-rating>
 	</programme>
 	<programme start="20261121180500 +0100" stop="20261121200500 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121200500 +0100" stop="20261121203000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36550,17 +36556,20 @@
 		</star-rating>
 	</programme>
 	<programme start="20261121203000 +0100" stop="20261121223000 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121223000 +0100" stop="20261121224500 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36612,14 +36621,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122150500 +0100" stop="20261122170500 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261122170500 +0100" stop="20261122174500 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -36635,7 +36647,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122174500 +0100" stop="20261122180000 +0100" channel="M+ Deportes 2">
-    <title>TBC T2026 · La pista del Tenis. Nitto ATP Finals</title>
+    <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36648,14 +36660,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122180000 +0100" stop="20261122210000 +0100" channel="M+ Deportes 2">
-    <title>Nitto ATP Finals 2026 T2026 · TBC</title>
-    <sub-title>TP</sub-title>
+    <title>TBC T2026 · Nitto ATP Finals 2026</title>
+    <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518365" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261122210000 +0100" stop="20261123040000 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -36963,8 +36978,8 @@
 		</rating>
 	</programme>
 	<programme start="20261119181300 +0100" stop="20261119202500 +0100" channel="M+ Deportes">
-    <title>Quinto Día: Shelton - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>Nitto ATP Finals 2026 T2026 · Quinto Día: Shelton - Jódar</title>
+    <sub-title>2026 | TP | ★8.4/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519239" />
@@ -36972,7 +36987,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>8.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119202500 +0100" stop="20261119205400 +0100" channel="M+ Deportes">
@@ -37122,8 +37137,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120095000 +0100" stop="20261120115000 +0100" channel="M+ Deportes">
-    <title>Quinto Día: Shelton - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>Nitto ATP Finals 2026 T2026 · Quinto Día: Shelton - Jódar</title>
+    <sub-title>2026 | TP | ★8.4/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519239" />
@@ -37131,7 +37146,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>8.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120115000 +0100" stop="20261120135000 +0100" channel="M+ Deportes">
@@ -37444,7 +37459,7 @@
 	</programme>
 	<programme start="20261121173000 +0100" stop="20261121194000 +0100" channel="M+ Deportes">
     <title>DIRECTO Jornada 6: Irlanda - Sudáfrica T2026 · Nations Championship</title>
-    <sub-title>TP | ★7.4/10</sub-title>
+    <sub-title>TP | ★7.6/10</sub-title>
     <desc>(Deportes,Rugby) Irlanda y Sudáfrica se juegan su presencia en la Grand Final del Nations Championship 2026 con un apasionante duelo de colosos en Dublín. El XV del Trébol ha vuelto por sus fueros tras ganar a Argentina y Fiyi con dos grandes actuaciones corales.
 · País: &lt;span&gt;Selección de Irlanda&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -37453,7 +37468,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.4/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121194000 +0100" stop="20261121213000 +0100" channel="M+ Deportes">
@@ -37640,7 +37655,7 @@
 	</programme>
 	<programme start="20261122120000 +0100" stop="20261122133000 +0100" channel="M+ Deportes">
     <title>DIRECTO Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
@@ -37648,7 +37663,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122133000 +0100" stop="20261122152000 +0100" channel="M+ Deportes">
@@ -37666,13 +37681,13 @@
 	</programme>
 	<programme start="20261122152000 +0100" stop="20261122172000 +0100" channel="M+ Deportes">
     <title>España - Samoa T2026 · Rugby Nations Cup</title>
-    <sub-title>★7.2/10</sub-title>
+    <sub-title>★7.4/10</sub-title>
     <desc>(Deportes,Rugby) España cierra su concurso en la Nations Cup 2026 con un difícil partido frente a Samoa en el estadio Ciudad de Málaga. El XV del León naufragó en Butarque ante Chile (20-25) y ahora, con varios cambios, quiere plantar cara a los polinesios.
 · País: &lt;span&gt;Selección de España&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516021" />
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122172000 +0100" stop="20261122191000 +0100" channel="M+ Deportes">
@@ -37691,7 +37706,7 @@
 	</programme>
 	<programme start="20261122191000 +0100" stop="20261122204000 +0100" channel="M+ Deportes">
     <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
@@ -37699,7 +37714,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122204000 +0100" stop="20261122210000 +0100" channel="M+ Deportes">
@@ -37798,7 +37813,7 @@
 	</programme>
 	<programme start="20261123044000 +0100" stop="20261123063000 +0100" channel="M+ Deportes">
     <title>Jornada 6: Irlanda - Sudáfrica T2026 · Nations Championship</title>
-    <sub-title>TP | ★7.4/10</sub-title>
+    <sub-title>TP | ★7.6/10</sub-title>
     <desc>(Deportes,Rugby) Irlanda y Sudáfrica se juegan su presencia en la Grand Final del Nations Championship 2026 con un apasionante duelo de colosos en Dublín. El XV del Trébol ha vuelto por sus fueros tras ganar a Argentina y Fiyi con dos grandes actuaciones corales.
 · País: &lt;span&gt;Selección de Irlanda&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -37807,12 +37822,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.4/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123063000 +0100" stop="20261123080000 +0100" channel="M+ Deportes">
     <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
@@ -37820,7 +37835,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123080000 +0100" stop="20261123200000 +0100" channel="M+ Deportes">
@@ -47328,7 +47343,7 @@
 	</programme>
 	<programme start="20261122230000 +0100" stop="20261123001000 +0100" channel="M+ LaLiga">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -47337,6 +47352,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123001000 +0100" stop="20261123011500 +0100" channel="M+ LaLiga">
     <title>Universo Valdano T4 · Germán, el Mono Burgos</title>
@@ -47430,7 +47448,7 @@
 	</programme>
 	<programme start="20261123080000 +0100" stop="20261123091000 +0100" channel="M+ LaLiga">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -47439,6 +47457,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123091000 +0100" stop="20261123110500 +0100" channel="M+ LaLiga">
     <title>Jornada 13: Athletic Club - RCD Espanyol de Barcelona T26/27 · LALIGA EA SPORTS</title>
@@ -47526,7 +47547,7 @@
 	</programme>
 	<programme start="20261123125300 +0100" stop="20261123130500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Levante UD - Elche CF</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47535,7 +47556,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123130500 +0100" stop="20261123131700 +0100" channel="M+ LaLiga">
@@ -47610,7 +47631,7 @@
 	</programme>
 	<programme start="20261123141000 +0100" stop="20261123152000 +0100" channel="M+ LaLiga">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -47619,6 +47640,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123152000 +0100" stop="20261123171500 +0100" channel="M+ LaLiga">
     <title>Jornada 13: Getafe CF - Atlético de Madrid T26/27 · LALIGA EA SPORTS</title>
@@ -47664,7 +47688,7 @@
 	</programme>
 	<programme start="20261123200500 +0100" stop="20261123211500 +0100" channel="M+ LaLiga">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -47673,6 +47697,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123211500 +0100" stop="20261123212700 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Deportivo Alavés - RC Deportivo</title>
@@ -47732,7 +47759,7 @@
 	</programme>
 	<programme start="20261123220300 +0100" stop="20261123221500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Levante UD - Elche CF</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47741,7 +47768,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123221500 +0100" stop="20261123222700 +0100" channel="M+ LaLiga">
@@ -48126,7 +48153,7 @@
 	</programme>
 	<programme start="20261122230000 +0100" stop="20261123001000 +0100" channel="M+ LaLiga HDR">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -48135,6 +48162,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123001000 +0100" stop="20261123071000 +0100" channel="M+ LaLiga HDR">
     <title>M+ LALIGA HDR</title>
@@ -50036,7 +50066,7 @@
 	</programme>
 	<programme start="20261120000000 +0100" stop="20261120002700 +0100" channel="M+ Originales">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -50049,7 +50079,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120002700 +0100" stop="20261120010200 +0100" channel="M+ Originales">
@@ -50581,7 +50611,7 @@
 	</programme>
 	<programme start="20261120203000 +0100" stop="20261120205500 +0100" channel="M+ Originales">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -50594,7 +50624,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120205500 +0100" stop="20261120213100 +0100" channel="M+ Originales">
@@ -51198,7 +51228,7 @@
 	</programme>
 	<programme start="20261121174600 +0100" stop="20261121181100 +0100" channel="M+ Originales">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -51211,7 +51241,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121181100 +0100" stop="20261121184700 +0100" channel="M+ Originales">
@@ -51635,7 +51665,7 @@
 	</programme>
 	<programme start="20261122121200 +0100" stop="20261122123700 +0100" channel="M+ Originales">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -51648,7 +51678,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122123700 +0100" stop="20261122131300 +0100" channel="M+ Originales">
@@ -51936,7 +51966,7 @@
 	</programme>
 	<programme start="20261122230000 +0100" stop="20261122232800 +0100" channel="M+ Originales">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -51949,7 +51979,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122232800 +0100" stop="20261123000600 +0100" channel="M+ Originales">
@@ -52382,7 +52412,7 @@
 	</programme>
 	<programme start="20261123144400 +0100" stop="20261123151400 +0100" channel="M+ Originales">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -52395,7 +52425,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123151400 +0100" stop="20261123161200 +0100" channel="M+ Originales">
@@ -52419,7 +52449,7 @@
 	</programme>
 	<programme start="20261123161200 +0100" stop="20261123174200 +0100" channel="M+ Originales">
     <title>DIRECTO 22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -52428,6 +52458,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123174200 +0100" stop="20261123181100 +0100" channel="M+ Originales">
     <title>Leo Talks T7 · Muermos de risa</title>
@@ -52864,13 +52897,13 @@
 	</programme>
 	<programme start="20261121165000 +0100" stop="20261121190000 +0100" channel="M+ Vamos 2">
     <title>DIRECTO España - Samoa T2026 · Rugby Nations Cup</title>
-    <sub-title>★7.2/10</sub-title>
+    <sub-title>★7.4/10</sub-title>
     <desc>(Deportes,Rugby) España cierra su concurso en la Nations Cup 2026 con un difícil partido frente a Samoa en el estadio Ciudad de Málaga. El XV del León naufragó en Butarque ante Chile (20-25) y ahora, con varios cambios, quiere plantar cara a los polinesios.
 · País: &lt;span&gt;Selección de España&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516021" />
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121190000 +0100" stop="20261121203000 +0100" channel="M+ Vamos 2">
@@ -52979,7 +53012,7 @@
 	</programme>
 	<programme start="20261122090000 +0100" stop="20261122110000 +0100" channel="M+ Vamos 2">
     <title>Jornada 6: Irlanda - Sudáfrica T2026 · Nations Championship</title>
-    <sub-title>TP | ★7.4/10</sub-title>
+    <sub-title>TP | ★7.6/10</sub-title>
     <desc>(Deportes,Rugby) Irlanda y Sudáfrica se juegan su presencia en la Grand Final del Nations Championship 2026 con un apasionante duelo de colosos en Dublín. El XV del Trébol ha vuelto por sus fueros tras ganar a Argentina y Fiyi con dos grandes actuaciones corales.
 · País: &lt;span&gt;Selección de Irlanda&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -52988,7 +53021,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.4/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122110000 +0100" stop="20261122115000 +0100" channel="M+ Vamos 2">
@@ -53062,7 +53095,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122175100 +0100" stop="20261122200000 +0100" channel="M+ Vamos 2">
-    <title>DIRECTO Jornada 9: Laguna Tenerife - Barcelona T26/27 · Liga Endesa</title>
+    <title>DIRECTO Jornada 9: La Laguna Tenerife - Barcelona T26/27 · Liga Endesa</title>
     <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa apuesta por el espectáculo. La máxima competición española de clubes cuenta, como es habitual, con una liga regular de 34 jornadas.
 · País: España</desc>
@@ -53104,7 +53137,7 @@
 	</programme>
 	<programme start="20261122230000 +0100" stop="20261123003000 +0100" channel="M+ Vamos 2">
     <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
@@ -53112,7 +53145,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123003000 +0100" stop="20261123022000 +0100" channel="M+ Vamos 2">
@@ -53935,8 +53968,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120013000 +0100" stop="20261120032500 +0100" channel="M+ Vamos">
-    <title>Quinto Día: Shelton - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>Nitto ATP Finals 2026 T2026 · Quinto Día: Shelton - Jódar</title>
+    <sub-title>2026 | TP | ★8.4/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519239" />
@@ -53944,7 +53977,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>8.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120032500 +0100" stop="20261120033800 +0100" channel="M+ Vamos">
@@ -54443,13 +54476,13 @@
 	</programme>
 	<programme start="20261122025000 +0100" stop="20261122043500 +0100" channel="M+ Vamos">
     <title>España - Samoa T2026 · Rugby Nations Cup</title>
-    <sub-title>★7.2/10</sub-title>
+    <sub-title>★7.4/10</sub-title>
     <desc>(Deportes,Rugby) España cierra su concurso en la Nations Cup 2026 con un difícil partido frente a Samoa en el estadio Ciudad de Málaga. El XV del León naufragó en Butarque ante Chile (20-25) y ahora, con varios cambios, quiere plantar cara a los polinesios.
 · País: &lt;span&gt;Selección de España&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516021" />
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122043500 +0100" stop="20261122053000 +0100" channel="M+ Vamos">
@@ -54579,7 +54612,7 @@
 	</programme>
 	<programme start="20261122193000 +0100" stop="20261122212000 +0100" channel="M+ Vamos">
     <title>Jornada 6: Irlanda - Sudáfrica T2026 · Nations Championship</title>
-    <sub-title>TP | ★7.4/10</sub-title>
+    <sub-title>TP | ★7.6/10</sub-title>
     <desc>(Deportes,Rugby) Irlanda y Sudáfrica se juegan su presencia en la Grand Final del Nations Championship 2026 con un apasionante duelo de colosos en Dublín. El XV del Trébol ha vuelto por sus fueros tras ganar a Argentina y Fiyi con dos grandes actuaciones corales.
 · País: &lt;span&gt;Selección de Irlanda&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -54588,7 +54621,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.4/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122212000 +0100" stop="20261122222000 +0100" channel="M+ Vamos">
@@ -54635,7 +54668,7 @@
 	</programme>
 	<programme start="20261123010000 +0100" stop="20261123023000 +0100" channel="M+ Vamos">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -54644,6 +54677,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123023000 +0100" stop="20261123043000 +0100" channel="M+ Vamos">
     <title>Final Evento 1 T2026 · Nitto ATP Finals 2026</title>
@@ -54701,7 +54737,7 @@
 	</programme>
 	<programme start="20261123091500 +0100" stop="20261123103500 +0100" channel="M+ Vamos">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -54710,6 +54746,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123103500 +0100" stop="20261123113500 +0100" channel="M+ Vamos">
     <title>El Camp Nou: bienvenidos al estadio</title>
@@ -54770,7 +54809,7 @@
 	</programme>
 	<programme start="20261123164000 +0100" stop="20261123180000 +0100" channel="M+ Vamos">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -54779,6 +54818,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123180000 +0100" stop="20261123183000 +0100" channel="M+ Vamos">
     <title>Magazine Champions League T26/27 E12</title>
@@ -54990,8 +55032,8 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119134500 +0100" stop="20261119140000 +0100" channel="Movistar Plus">
-    <title>DIRECTO Previa Shelton - Jódar T2026 · La pista del tenis. Nitto ATP Finals</title>
+	<programme start="20261119134500 +0100" stop="20261119140800 +0100" channel="Movistar Plus">
+    <title>La pista del tenis. Nitto ATP Finals T2026 · Previa Shelton - Jódar</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Jódar -.</desc>
     <category>Deportes, Programa deportes</category>
@@ -55000,9 +55042,9 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261119140000 +0100" stop="20261119154600 +0100" channel="Movistar Plus">
-    <title>DIRECTO Quinto Día: Shelton - Jódar T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+	<programme start="20261119140800 +0100" stop="20261119163800 +0100" channel="Movistar Plus">
+    <title>Nitto ATP Finals 2026 T2026 · Quinto Día: Shelton - Jódar</title>
+    <sub-title>2026 | TP | ★8.4/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519239" />
@@ -55010,22 +55052,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>8.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119154600 +0100" stop="20261119160600 +0100" channel="Movistar Plus">
-    <title>DIRECTO Post Shelton - Jódar T2026 · La pista del tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Programa deportes) Jódar -.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261119160600 +0100" stop="20261119163300 +0100" channel="Movistar Plus">
+	<programme start="20261119163800 +0100" stop="20261119170500 +0100" channel="Movistar Plus">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -55038,10 +55070,10 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119163300 +0100" stop="20261119170300 +0100" channel="Movistar Plus">
+	<programme start="20261119170500 +0100" stop="20261119173500 +0100" channel="Movistar Plus">
     <title>Celeste T2 E2</title>
     <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Mientras Alberto intenta adaptarse a su nueva vida de jubilado, Sara encuentra nuevos datos sobre Figueroa y busca la ayuda de un aliado para la inspección: Valentín Valero.
@@ -55059,7 +55091,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119170300 +0100" stop="20261119173400 +0100" channel="Movistar Plus">
+	<programme start="20261119173500 +0100" stop="20261119180600 +0100" channel="Movistar Plus">
     <title>Celeste T2 E3</title>
     <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Sara busca apoyo de Carmelo para registrar la fundación, pero él insiste en los riesgos. Un cambio en uno de los tatuajes de Figueroa da a Sara una nueva pista. En casa, Alberto está vulnerable y ella empieza a desmoronarse.
@@ -55077,7 +55109,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119173400 +0100" stop="20261119180300 +0100" channel="Movistar Plus">
+	<programme start="20261119180600 +0100" stop="20261119183500 +0100" channel="Movistar Plus">
     <title>Celeste T2 E4</title>
     <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Figueroa contraataca cuando la inspección toca su vida personal, pero también salpica en la relación de Sara y Alberto. Carmelo le pide que olvide el caso, pero ella se planta en el Ministerio sin cita previa.
@@ -55095,7 +55127,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119180300 +0100" stop="20261119183500 +0100" channel="Movistar Plus">
+	<programme start="20261119183500 +0100" stop="20261119190700 +0100" channel="Movistar Plus">
     <title>Celeste T2 E5</title>
     <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) A través de la mirada de Terry, somos testigos del deterioro en la relación de Sara y Alberto, así como el renacer emocional de él.
@@ -55113,7 +55145,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119183500 +0100" stop="20261119190900 +0100" channel="Movistar Plus">
+	<programme start="20261119190700 +0100" stop="20261119194100 +0100" channel="Movistar Plus">
     <title>Celeste T2 E6</title>
     <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Thriller) Carmelo visita a Sara en Huéscar con nueva información: el caso Figueroa se ha cerrado y la Fiscalía irá a juicio. Sara deberá elegir entre defender el legado de su marido o hacer justicia.
@@ -55131,7 +55163,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119190900 +0100" stop="20261119193800 +0100" channel="Movistar Plus">
+	<programme start="20261119194100 +0100" stop="20261119201000 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Muermos de risa</title>
     <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
     <desc>(Entretenimiento,Humor) ¿Por qué nos da tanto miedo aburrirnos? Leo Harlem analiza nuestra necesidad constante de estar siempre entretenidos: desde el móvil hasta los deportes más soporíferos, pasando por los compañeros de trabajo, las parejas y los hobbies más absurdos.
@@ -55146,7 +55178,7 @@
 			<value>7.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119193800 +0100" stop="20261119200700 +0100" channel="Movistar Plus">
+	<programme start="20261119201000 +0100" stop="20261119203900 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · Los fantasmas</title>
     <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
     <desc>(Entretenimiento,Humor) La cómica Raquel Hervás y el actor Adam Jezierski visitan Ilustres para hablar de “Fantasmas” ¿Qué harían si vieran un fantasma en casa: huir, hablarle, cobrarle alquiler…? Si pudieran invocar al fantasma de una celebridad, ¿a quién llamarían?
@@ -55163,7 +55195,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119200700 +0100" stop="20261119210300 +0100" channel="Movistar Plus">
+	<programme start="20261119203900 +0100" stop="20261119213500 +0100" channel="Movistar Plus">
     <title>Informe Plus. La fe de Vicky</title>
     <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
@@ -55176,7 +55208,7 @@
 			<value>8.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119210300 +0100" stop="20261119220000 +0100" channel="Movistar Plus">
+	<programme start="20261119213500 +0100" stop="20261119223200 +0100" channel="Movistar Plus">
     <title>Telegram: el gran disruptor</title>
     <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Documentales,Sociedad) En agosto de 2024 el fundador de Telegram, Pável Dúrov, fue detenido en Francia como parte de una investigación policial sobre la falta de moderación en la plataforma. Su arresto puso sobre la mesa el papel de las redes sociales en el debate público.
@@ -55190,7 +55222,7 @@
 			<value>5.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119220000 +0100" stop="20261119233200 +0100" channel="Movistar Plus">
+	<programme start="20261119223200 +0100" stop="20261120000400 +0100" channel="Movistar Plus">
     <title>Un hijo</title>
     <sub-title>2025 | ⑫ | ★7.6/10</sub-title>
     <desc>(Cine,Drama) María, una psicóloga escolar sin experiencia, sospecha que la alegría y los dibujos de Guille, un niño de ocho años recién llegado a su colegio, esconden un dolor profundo. Para ayudarlo deberá ganarse su confianza y enfrentar la resistencia de su padre.
@@ -55209,7 +55241,7 @@
 			<value>7.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119233200 +0100" stop="20261120005400 +0100" channel="Movistar Plus">
+	<programme start="20261120000400 +0100" stop="20261120012600 +0100" channel="Movistar Plus">
     <title>La astronauta</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Cine,Ciencia ficción) Tras regresar de su primera misión espacial, la astronauta Sam Walker queda bajo el cuidado de la NASA en una residencia de alta seguridad. Sin embargo, pronto comienzan a ocurrir sucesos inquietantes en la propiedad.
@@ -55228,7 +55260,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120005400 +0100" stop="20261120013300 +0100" channel="Movistar Plus">
+	<programme start="20261120012600 +0100" stop="20261120020500 +0100" channel="Movistar Plus">
     <title>Paga o muere E1</title>
     <sub-title>2026 | ⑫ | ★8.4/10</sub-title>
     <desc>(Documentales,Sociedad) El lunes 21 de marzo de 1983 el empresario Jesús Guibert entra en el garaje de su empresa. No se da cuenta de que hay un coche aparcado con tres individuos dentro con el objetivo de secuestrarle.
@@ -55243,7 +55275,7 @@
 			<value>8.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120013300 +0100" stop="20261120021100 +0100" channel="Movistar Plus">
+	<programme start="20261120020500 +0100" stop="20261120024300 +0100" channel="Movistar Plus">
     <title>Paga o muere E2</title>
     <sub-title>2026 | ⑫ | ★7.4/10</sub-title>
     <desc>(Documentales,Sociedad) ETA multiplica el envío de remesas de cartas exigiendo el impuesto revolucionario. Ahora ya no es una carta, sino tres. Y el significado de las palabras de la última es el más efectivo y aterrador porque ETA anuncia que te has convertido en un objetivo.
@@ -55258,7 +55290,7 @@
 			<value>7.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120021100 +0100" stop="20261120030300 +0100" channel="Movistar Plus">
+	<programme start="20261120024300 +0100" stop="20261120033500 +0100" channel="Movistar Plus">
     <title>Paga o muere E3</title>
     <sub-title>2026 | ⑫ | ★8.2/10</sub-title>
     <desc>(Documentales,Sociedad) El rechazo social contra la violencia crece. Y se refleja también en la recaudación de ETA. Son cada vez más los empresarios que se niegan a pagar la extorsión. Ese es el mensaje que se propaga desde ADEGUI, una patronal de empresarios de Guipúzcoa.
@@ -55273,7 +55305,7 @@
 			<value>8.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120030300 +0100" stop="20261120035200 +0100" channel="Movistar Plus">
+	<programme start="20261120033500 +0100" stop="20261120042400 +0100" channel="Movistar Plus">
     <title>Matar al presidente: Todos querían muerto a Carrero Blanco</title>
     <sub-title>2023 | ⑫ | ★6.2/10</sub-title>
     <desc>(Documentales,Historia) En 1973 la banda terrorista ETA está decidida a cometer un gran golpe en Madrid. El Almirante Luis Carrero Blanco es elegido como víctima de un secuestro, pero su nombramiento como Presidente del Gobierno cambia los planes y se inicia la Operación Ogro.
@@ -55289,7 +55321,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120035200 +0100" stop="20261120044100 +0100" channel="Movistar Plus">
+	<programme start="20261120042400 +0100" stop="20261120051300 +0100" channel="Movistar Plus">
     <title>Matar al presidente: La CIA en España</title>
     <sub-title>2023 | ⑫ | ★6.2/10</sub-title>
     <desc>(Documentales,Historia) 24 horas antes del atentado que acabará con Carrero Blanco, Henry Kissinger, Secretario de Estado de EEUU, se reúne con él en Madrid, pero el encuentro es un fracaso. A la mañana siguiente, a unos cien metros de la Embajada de EEUU, Carrero es asesinado.
@@ -55305,7 +55337,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120044100 +0100" stop="20261120053000 +0100" channel="Movistar Plus">
+	<programme start="20261120051300 +0100" stop="20261120060000 +0100" channel="Movistar Plus">
     <title>Matar al presidente: La conspiración</title>
     <sub-title>2023 | ⑫ | ★6.2/10</sub-title>
     <desc>(Documentales,Historia) Mientras los etarras permanecen escondidos en un piso en Alcorcón, se producen las inevitables primeras consecuencias del atentado: Arias Navarro se convierte en el nuevo Presidente del Gobierno y con él regresa al poder el núcleo duro del franquismo.
@@ -55321,8 +55353,8 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120053000 +0100" stop="20261120080000 +0100" channel="Movistar Plus">
-    <title>Documentales</title>
+	<programme start="20261120060000 +0100" stop="20261120080000 +0100" channel="Movistar Plus">
+    <title>Historias del buen valle</title>
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261120080000 +0100" stop="20261120085500 +0100" channel="Movistar Plus">
@@ -55504,7 +55536,7 @@
 	</programme>
 	<programme start="20261120195500 +0100" stop="20261120201500 +0100" channel="Movistar Plus">
     <title>DIRECTO Jornada 13: Olympiacos - Real Madrid T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
@@ -55512,7 +55544,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120201500 +0100" stop="20261120221500 +0100" channel="Movistar Plus">
@@ -55566,7 +55598,7 @@
 	</programme>
 	<programme start="20261121001800 +0100" stop="20261121004300 +0100" channel="Movistar Plus">
     <title>Celeste T2 E1</title>
-    <sub-title>2026 | ⑫ | ★7.2/10</sub-title>
+    <sub-title>2026 | ⑫ | ★7.6/10</sub-title>
     <desc>(Series,Thriller) El delantero estrella Figueroa se prepara para saltar al terreno de juego. Ese brillo contrasta inmediatamente con la vida gris y rutinaria de Alberto, un inspector de Hacienda que afronta su último día antes de jubilarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -55579,7 +55611,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.2/10</value>
+			<value>7.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121004300 +0100" stop="20261121011300 +0100" channel="Movistar Plus">
@@ -56288,7 +56320,7 @@
 	</programme>
 	<programme start="20261122230000 +0100" stop="20261123003000 +0100" channel="Movistar Plus">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -56297,6 +56329,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123003000 +0100" stop="20261123012800 +0100" channel="Movistar Plus">
     <title>Informe Plus. La fe de Vicky</title>
@@ -56463,7 +56498,7 @@
 	</programme>
 	<programme start="20261123110000 +0100" stop="20261123122700 +0100" channel="Movistar Plus">
     <title>22/11/2026 T26/27 · DeportePlus con Juanma Castaño</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un lugar donde cabe todo el deporte que se juega en el planeta. La emoción y la pasión al completo de la mano de Juanma Castaño.
 · País: España
 · Presenta: Juanma Castaño.</desc>
@@ -56472,6 +56507,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123122700 +0100" stop="20261123134200 +0100" channel="Movistar Plus">
     <title>DIRECTO Sorteos: Sorteo de la segunda ronda T26/27 · Copa del Rey Mapfre</title>
@@ -61400,7 +61438,7 @@
 	</programme>
 	<programme start="20261123211500 +0100" stop="20261123230000 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 13: Alcorcón - Algeciras</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61409,18 +61447,18 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123230000 +0100" stop="20261124011500 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 13: Huesca - Ibiza T26/27 · Primera Federación</title>
-    <sub-title>2026 | ★5.4/10</sub-title>
+    <sub-title>2026 | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/MARAGTVP4447740" />
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261119020000 +0100" stop="20261119040000 +0100" channel="RunTime Clásicos">
@@ -68114,9 +68152,9 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261119090000 +0100" stop="20261119120000 +0100" channel="Telecinco">
+	<programme start="20261119090000 +0100" stop="20261119120100 +0100" channel="Telecinco">
     <title>El programa de Ana Rosa T23 E59</title>
-    <sub-title>2026 | ⑯ | ★5.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★7.2/10</sub-title>
     <desc>(Información,Informativo) Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.
 · País: España</desc>
     <category>Información, Informativo</category>
@@ -68125,12 +68163,12 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119120000 +0100" stop="20261119134500 +0100" channel="Telecinco">
+	<programme start="20261119120100 +0100" stop="20261119134600 +0100" channel="Telecinco">
     <title>El tiempo justo T3 E19</title>
-    <sub-title>2026 | ⑯ | ★4.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★5.6/10</sub-title>
     <desc>(Información,Informativo) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
 · País: España</desc>
     <category>Información, Informativo</category>
@@ -68139,10 +68177,10 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261119134500 +0100" stop="20261119150000 +0100" channel="Telecinco">
+	<programme start="20261119134600 +0100" stop="20261119150000 +0100" channel="Telecinco">
     <title>Vamos a ver T6 E58</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Información,Informativo) Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.
@@ -68642,7 +68680,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121034500 +0100" stop="20261121072500 +0100" channel="Telecinco">
+	<programme start="20261121034500 +0100" stop="20261121073000 +0100" channel="Telecinco">
     <title>Miramimúsica</title>
     <sub-title>2016 | TP | ★6.2/10</sub-title>
     <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
@@ -68656,13 +68694,13 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121072500 +0100" stop="20261121074000 +0100" channel="Telecinco">
-    <title>Enphorma</title>
-    <sub-title>2023 | TP | ★6.0/10</sub-title>
-    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+	<programme start="20261121073000 +0100" stop="20261121080000 +0100" channel="Telecinco">
+    <title>Love Shopping TV</title>
+    <sub-title>2024 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 · País: España</desc>
-    <category>Ocio y Aficiones, Salud y bienestar</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
+    <category>Ocio y Aficiones, Televenta</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -68670,13 +68708,13 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121074000 +0100" stop="20261121081500 +0100" channel="Telecinco">
-    <title>Love Shopping TV T1</title>
-    <sub-title>2024 | TP | ★6.0/10</sub-title>
-    <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
+	<programme start="20261121080000 +0100" stop="20261121081500 +0100" channel="Telecinco">
+    <title>Enphorma</title>
+    <sub-title>2023 | TP | ★6.0/10</sub-title>
+    <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
 · País: España</desc>
-    <category>Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MDIVINIP3341503" />
+    <category>Ocio y Aficiones, Salud y bienestar</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3033572" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -68699,35 +68737,27 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121111000 +0100" stop="20261121122500 +0100" channel="Telecinco">
-    <title>Más Que Coches</title>
-    <sub-title>1995 | TP | ★6.2/10</sub-title>
-    <desc>(Deportes,Programa deportes) Espacio informativo dedicado al mundo del motor que se adentra en todos los ámbitos relacionados con los automóviles, como el deporte o los nuevos modelos de coches. Incluye entrevistas en profundidad sobre el sector del motor.
-· País: España
-· Dirección: Gonzalo Serrano.</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P249911" />
+	<programme start="20261121111000 +0100" stop="20261121122000 +0100" channel="Telecinco">
+    <title>Más Que Coches T31 E47</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Entretenimiento,Magacín) Espacio informativo dedicado al mundo del motor que se adentra en todos los ámbitos relacionados con los automóviles, como el deporte o los nuevos modelos de coches. Incluye entrevistas en profundidad sobre el sector del motor.
+· País: España</desc>
+    <category>Entretenimiento, Magacín</category>
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
-	<programme start="20261121122500 +0100" stop="20261121134000 +0100" channel="Telecinco">
-    <title>El precio justo (diario)</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+	<programme start="20261121122000 +0100" stop="20261121134000 +0100" channel="Telecinco">
+    <title>El precio justo (diario) T3 E41</title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
-· País: España
-· Presenta: Carlos Sobera.
-· Productora: FremantleMedia España.</desc>
+· País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121134000 +0100" stop="20261121150000 +0100" channel="Telecinco">
@@ -68746,7 +68776,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121150000 +0100" stop="20261121153000 +0100" channel="Telecinco">
+	<programme start="20261121150000 +0100" stop="20261121153500 +0100" channel="Telecinco">
     <title>Informativos Telecinco Fin de Semana</title>
     <sub-title>★6.2/10</sub-title>
     <desc>(Información,Informativo) Roberto Arce conduce las diferentes ediciones de los informativos del fin de semana con las últimas noticias a nivel nacional e internacional.
@@ -68759,19 +68789,19 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121153000 +0100" stop="20261121155000 +0100" channel="Telecinco">
-    <title>El Desmarque Telecinco</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+	<programme start="20261121153500 +0100" stop="20261121154500 +0100" channel="Telecinco">
+    <title>ElDesmarque Telecinco fin de semana</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
 · País: España
-· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+· Presenta: Luis García (Presentador).</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208551" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121155000 +0100" stop="20261121160000 +0100" channel="Telecinco">
+	<programme start="20261121154500 +0100" stop="20261121160000 +0100" channel="Telecinco">
     <title>El tiempo</title>
     <sub-title>2017 | ★6.0/10</sub-title>
     <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
@@ -68783,99 +68813,91 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121160000 +0100" stop="20261121200000 +0100" channel="Telecinco">
-    <title>Fiesta</title>
-    <sub-title>2026 | ⑯ | ★6.2/10</sub-title>
-    <desc>(Entretenimiento,Magacín) Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.
+	<programme start="20261121160000 +0100" stop="20261121210000 +0100" channel="Telecinco">
+    <title>Fiesta T7 E34</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Entretenimiento,Variedades) Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón.
+· País: España</desc>
+    <category>Entretenimiento, Variedades</category>
+		<rating system="ES">
+			<value>16</value>
+		</rating>
+	</programme>
+	<programme start="20261121210000 +0100" stop="20261121213500 +0100" channel="Telecinco">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <sub-title>★6.2/10</sub-title>
+    <desc>(Información,Informativo) Roberto Arce conduce las diferentes ediciones de los informativos del fin de semana con las últimas noticias a nivel nacional e internacional.
 · País: España
-· Presenta: Àlex Blanquer, César Muñoz.
-· Productora: Unicorn Content.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207089" />
+· Presenta: Roberto Arce, María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+    <category>Información, Informativo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P756592" />
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261121213500 +0100" stop="20261121214500 +0100" channel="Telecinco">
+    <title>ElDesmarque Telecinco Fin de Semana Noche</title>
+    <sub-title>2026 | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208553" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261121214500 +0100" stop="20261121220000 +0100" channel="Telecinco">
+    <title>El tiempo</title>
+    <sub-title>2017 | ★6.0/10</sub-title>
+    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+    <category>Información, Meteorología</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261121220000 +0100" stop="20261122003500 +0100" channel="Telecinco">
+    <title>The Equalizer: el protector</title>
+    <sub-title>2014 | ⑱ | ★8.0/10</sub-title>
+    <desc>(Cine,Acción) Un antiguo comando de operaciones especiales, que ha fingido su propia muerte para llevar una vida tranquila, se ve obligado a salir de su retiro para salvar la vida de una joven que se encuentra en manos de unos ultraviolentos mafiosos rusos.
+· País: Estados Unidos
+· Dirección: Antoine Fuqua.
+· Reparto: Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour, David Bair, Haley Bennett, Melissa Leo, David Blair.
+· Guion: Richard Wenk.
+· Música: Harry Gregson-Williams.
+· Producción: Todd Black, Jason Blumenthal, Mace Neufeld, Michael Sloan, Steve Tisch.
+· Productora: Columbia Pictures, CBS Films, Escape Artists, Lionsgate Films, Village Roadshow Pictures, LStar Capital.</desc>
+    <category>Cine, Acción</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4052265" />
+		<rating system="ES">
+			<value>18</value>
+		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261122003500 +0100" stop="20261122015500 +0100" channel="Telecinco">
+    <title>Blackout: sin identidad</title>
+    <sub-title>2022 | ⑯ | ★6.0/10</sub-title>
+    <desc>(Cine,Acción) Caín se despierta en un hospital mejicano con amnesia y sin saber quién es. Después de conocer a Anna, y con su ayuda, descubre su identidad: es un agente de la DEA.
+· País: Estados Unidos y México
+· Dirección: Sam Maccarone, Sam Macaroni.
+· Reparto: Rolando Gonzalez, Bane Kovacevic, Roberto Sosa, Lino Quintana, Alec Gillis, Ronald Diez.
+· Guion: Van B. Nguyen.
+· Productora: Santiago Garcia Galvan, Bavand Karim, Lety Camacho, Jason Sallee, Fernando Pérez Gavilán, Natalie Perrotta.</desc>
+    <category>Cine, Acción</category>
 		<rating system="ES">
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261121200000 +0100" stop="20261121210000 +0100" channel="Telecinco">
-    <title>Rueda la Letra T1</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
-· País: España
-· Presenta: Carlos Sobera.</desc>
-    <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4394000" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121210000 +0100" stop="20261121213000 +0100" channel="Telecinco">
-    <title>Informativos Telecinco Fin de Semana</title>
-    <sub-title>★6.2/10</sub-title>
-    <desc>(Información,Informativo) Roberto Arce conduce las diferentes ediciones de los informativos del fin de semana con las últimas noticias a nivel nacional e internacional.
-· País: España
-· Presenta: Roberto Arce, María Casado, Laila Jiménez.
-· Productora: Gestevisión-Telecinco, S.A.</desc>
-    <category>Información, Informativo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P756592" />
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261121213000 +0100" stop="20261121214000 +0100" channel="Telecinco">
-    <title>El Desmarque Telecinco</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
-· País: España
-· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
-    <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261121214000 +0100" stop="20261121220000 +0100" channel="Telecinco">
-    <title>El tiempo</title>
-    <sub-title>2017 | ★6.0/10</sub-title>
-    <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
-· País: España
-· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
-    <category>Información, Meteorología</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1373654" />
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261121220000 +0100" stop="20261121223000 +0100" channel="Telecinco">
-    <title>First dates</title>
-    <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
-    <desc>(Entretenimiento,Telerrealidad) Espacio que organiza citas entre solteros en un restaurante único y especial.
-· País: España
-· Presenta: Carlos Sobera.
-· Productora: Cuatro, Warner Bros ITVP.</desc>
-    <category>Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P1795835" />
-		<rating system="ES">
-			<value>12</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261121223000 +0100" stop="20261122004500 +0100" channel="Telecinco">
-    <title>Cine</title>
-    <desc>Programa por determinar...</desc>
-	</programme>
-	<programme start="20261122004500 +0100" stop="20261122023000 +0100" channel="Telecinco">
-    <title>Cine</title>
-    <desc>Programa por determinar...</desc>
-	</programme>
-	<programme start="20261122023000 +0100" stop="20261122025500 +0100" channel="Telecinco">
+	<programme start="20261122015500 +0100" stop="20261122022000 +0100" channel="Telecinco">
     <title>Gran Madrid Show</title>
     <sub-title>2025 | ⑱ | ★6.2/10</sub-title>
     <desc>(Entretenimiento) Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
@@ -68889,7 +68911,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122025500 +0100" stop="20261122031500 +0100" channel="Telecinco">
+	<programme start="20261122022000 +0100" stop="20261122024000 +0100" channel="Telecinco">
     <title>El rey del mando</title>
     <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Zapping) Programa de zapping.
@@ -68903,13 +68925,13 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122031500 +0100" stop="20261122034500 +0100" channel="Telecinco">
-    <title>Love Shopping TV T1</title>
+	<programme start="20261122024000 +0100" stop="20261122031000 +0100" channel="Telecinco">
+    <title>Love Shopping TV</title>
     <sub-title>2024 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 · País: España</desc>
     <category>Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MDIVINIP3341503" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -68917,13 +68939,13 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122034500 +0100" stop="20261122041500 +0100" channel="Telecinco">
-    <title>Love Shopping TV T1</title>
+	<programme start="20261122031000 +0100" stop="20261122034000 +0100" channel="Telecinco">
+    <title>Love Shopping TV</title>
     <sub-title>2024 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 · País: España</desc>
     <category>Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MDIVINIP3341503" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -68931,7 +68953,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122041500 +0100" stop="20261122080000 +0100" channel="Telecinco">
+	<programme start="20261122034000 +0100" stop="20261122074000 +0100" channel="Telecinco">
     <title>Miramimúsica</title>
     <sub-title>2016 | TP | ★6.2/10</sub-title>
     <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
@@ -68945,7 +68967,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122080000 +0100" stop="20261122082000 +0100" channel="Telecinco">
+	<programme start="20261122074000 +0100" stop="20261122082000 +0100" channel="Telecinco">
     <title>Enphorma</title>
     <sub-title>2023 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.

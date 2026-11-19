@@ -9,8 +9,8 @@ M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_do
 M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
 M+ Documentales HD,M+ Documentales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png
-M+ Navidad,M+ Terror,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Terror.png
-M+ Thriller,M+ Romance,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Romance.png
+M+ Navidad,M+ Navidad,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png
+M+ Thriller,M+ Thriller,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Thriller.png
 M+ PopUp,M+ PopUp,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp.png
 M+ PopUp 2,M+ PopUp 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20PopUp%202.png
 M+ Clásicos HD,M+ Clásicos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Cl%C3%A1sicos.png
