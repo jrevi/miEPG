@@ -13834,7 +13834,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261120130000 +0100" stop="20261120163200 +0100" channel="DAZN 1">
-    <title>NFL T26/27 · Jornada 11: Texans - Colts</title>
+    <title>NFL T26/27 · Jornada 11: Indianapolis Colts @ Houston Texans</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol americano) La pasión, la estrategia, la fuerza y la inteligencia se combinan en el deporte que paraliza Estados Unidos. La NFL busca al equipo más completo, que se coronará en la Super Bowl que se disputará en Inglewood el 14 de febrero. Los Seattle Seahawks defien.
 · País: Estados Unidos</desc>
@@ -14035,7 +14035,7 @@
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Pasión, compromiso, ambición y un impulso incansable por mejorar. Estos son los valores que definen a Gigi Dall'Igna. Durante años, Gigi ha demostrado que es único en su género.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M1218162V4455076" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713846V4455076" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -14184,7 +14184,7 @@
 		</rating>
 	</programme>
 	<programme start="20261122222500 +0100" stop="20261123015500 +0100" channel="DAZN 1">
-    <title>DIRECTO Jornada 11: New York Giants - Jacksonville Jaguars T26/27 · NFL</title>
+    <title>DIRECTO Jornada 11: Jacksonville Jaguars @ New York Giants T26/27 · NFL</title>
     <sub-title>2026 | TP | ★10.0/10</sub-title>
     <desc>(Deportes,Fútbol americano) Los Giants reciben a los Jaguars en la undécima semana de la temporada regular de la NFL.
 · País: Estados Unidos</desc>
@@ -14305,7 +14305,7 @@
 	</programme>
 	<programme start="20261123205000 +0100" stop="20261123231000 +0100" channel="DAZN 1">
     <title>DIRECTO Jornada 11: Brentford - Everton T26/27 · Premier League</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Fútbol) El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.
 · País: Reino Unido</desc>
     <category>Deportes, Fútbol</category>
@@ -14313,6 +14313,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123231000 +0100" stop="20261123235000 +0100" channel="DAZN 1">
     <title>The Post T1 E7</title>
@@ -15913,7 +15916,17 @@
     <title>DAZN Baloncesto 3</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261120063000 +0100" stop="20261120071500 +0100" channel="DAZN F1">
+	<programme start="20261120061100 +0100" stop="20261120062800 +0100" channel="DAZN F1">
+    <title>Mundial F1 - GP de Las Vegas T2026 · Post Libres 2</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516453" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261120062800 +0100" stop="20261120072000 +0100" channel="DAZN F1">
     <title>F1 Academia: Las Vegas T2026 · Clasificación</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) F1 Academy es una serie de carreras para mujeres cuyo objetivo es centrarse en el desarrollo y la preparación de jóvenes pilotos para progresar a niveles más altos de competencia.</desc>
@@ -15923,7 +15936,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261120071500 +0100" stop="20261120075000 +0100" channel="DAZN F1">
+	<programme start="20261120072000 +0100" stop="20261120075600 +0100" channel="DAZN F1">
     <title>Gearbox T2026 E29</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
@@ -15936,7 +15949,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120075000 +0100" stop="20261120095000 +0100" channel="DAZN F1">
+	<programme start="20261120075600 +0100" stop="20261120095500 +0100" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de Baréin: Carrera</title>
     <sub-title>2024 | TP</sub-title>
     <desc>(Deportes,Motor) Todos los pilotos y sus equipos han trabajado muy duro para brillar en la carrera, es el momento de ver quién se lleva la victoria del GP de Baréin.</desc>
@@ -15946,20 +15959,17 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261120095000 +0100" stop="20261120120600 +0100" channel="DAZN F1">
+	<programme start="20261120095500 +0100" stop="20261120121100 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Singapur T2026 · Carrera</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507681" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
 	</programme>
-	<programme start="20261120120600 +0100" stop="20261120131500 +0100" channel="DAZN F1">
+	<programme start="20261120121100 +0100" stop="20261120132000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de España. Madrid T2026 · Box, Box</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -15969,17 +15979,17 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261120131500 +0100" stop="20261120142500 +0100" channel="DAZN F1">
-    <title>Mundial F1 - GP de Las Vegas T2026 · Libres 1</title>
+	<programme start="20261120132000 +0100" stop="20261120150500 +0100" channel="DAZN F1">
+    <title>Mundial F1 - GP de Las Vegas T2026 · Box, Box</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516451" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516449" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261120142500 +0100" stop="20261120150500 +0100" channel="DAZN F1">
+	<programme start="20261120150500 +0100" stop="20261120154500 +0100" channel="DAZN F1">
     <title>Gearbox T2026 E28</title>
     <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
@@ -15992,7 +16002,7 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120150500 +0100" stop="20261120154000 +0100" channel="DAZN F1">
+	<programme start="20261120154500 +0100" stop="20261120162000 +0100" channel="DAZN F1">
     <title>Gearbox T2026 E29</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
@@ -16005,7 +16015,17 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120154000 +0100" stop="20261120164500 +0100" channel="DAZN F1">
+	<programme start="20261120162000 +0100" stop="20261120173000 +0100" channel="DAZN F1">
+    <title>Mundial F1 - GP de Las Vegas T2026 · Libres 1</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
+    <category>Deportes, Motor</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516451" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261120173000 +0100" stop="20261120183500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Libres 2</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16015,17 +16035,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261120164500 +0100" stop="20261120183000 +0100" channel="DAZN F1">
-    <title>Mundial F1 - GP de Las Vegas T2026 · Box, Box</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
-    <category>Deportes, Motor</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516449" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-	</programme>
-	<programme start="20261120183000 +0100" stop="20261120193000 +0100" channel="DAZN F1">
+	<programme start="20261120183500 +0100" stop="20261120193500 +0100" channel="DAZN F1">
     <title>Bravissimo</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Fórmula 1) Bravissimo.</desc>
@@ -16038,7 +16048,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120193000 +0100" stop="20261120195500 +0100" channel="DAZN F1">
+	<programme start="20261120193500 +0100" stop="20261120200000 +0100" channel="DAZN F1">
     <title>Código F1 T2026 · Brasil</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
@@ -16051,7 +16061,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120195500 +0100" stop="20261120210500 +0100" channel="DAZN F1">
+	<programme start="20261120200000 +0100" stop="20261120210500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Libres 1</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -17709,7 +17719,7 @@
 	</programme>
 	<programme start="20261122130000 +0100" stop="20261122140000 +0100" channel="DAZN LaLiga">
     <title>DIRECTO Barcelona - Villarreal T26/27 · DAZN Previa</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Toda la información previa a los partidos que va a emitir DAZN. Las noticias, las estadísticas, el análisis y los datos necesarios para disfrutar más de los encuentros.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17718,7 +17728,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122140000 +0100" stop="20261122160000 +0100" channel="DAZN LaLiga">
@@ -18115,7 +18125,7 @@
 	</programme>
 	<programme start="20261123204500 +0100" stop="20261123210000 +0100" channel="DAZN LaLiga">
     <title>DIRECTO Levante - Elche T26/27 · DAZN Previa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Toda la información previa a los partidos que va a emitir DAZN. Las noticias, las estadísticas, el análisis y los datos necesarios para disfrutar más de los encuentros.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -18124,7 +18134,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123210000 +0100" stop="20261123230000 +0100" channel="DAZN LaLiga">
@@ -18171,7 +18181,7 @@
 	</programme>
 	<programme start="20261124003000 +0100" stop="20261124004500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Ceuta FC - UD Almería</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -18180,7 +18190,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124004500 +0100" stop="20261124010000 +0100" channel="DAZN LaLiga">
@@ -18386,8 +18396,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120095500 +0100" stop="20261120124500 +0100" channel="DAZN MotoGP">
-    <title>DIRECTO Entrenamientos libres 1 T2026 · MotoGP - GP de Portugal</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>MotoGP - GP de Portugal T2026 · Entrenamientos libres 1</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motociclismo) Con 60 puntos de ventaja sobre Jorge Martín, Marc Márquez tiene una gran oportunidad matemática de coronarse de forma anticipada campeón del mundo de MotoGP.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -18395,9 +18405,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261120124500 +0100" stop="20261120141000 +0100" channel="DAZN MotoGP">
     <title>Disfruta de DAZN en Movistar Plus</title>
@@ -21648,7 +21655,7 @@
 	</programme>
 	<programme start="20261120194000 +0100" stop="20261120202000 +0100" channel="Eurosport 1">
     <title>Global Champions Tour - Verona T2026 · Champions League - Cuartos de final</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Hípica) La cita de Verona para los circuitos de la Global Champions es la cita final del año.
 · País: Italia</desc>
     <category>Deportes, Hípica</category>
@@ -21656,9 +21663,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261120202000 +0100" stop="20261120222000 +0100" channel="Eurosport 1">
     <title>DIRECTO Champions League - Semifinales T2026 · Global Champions Tour - Verona</title>
@@ -21762,7 +21766,7 @@
 	</programme>
 	<programme start="20261121070000 +0100" stop="20261121083000 +0100" channel="Eurosport 1">
     <title>Abierto de Inglaterra de snooker T26/27 · Ali Carter vs Mark Williams</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Snooker) Las grandes estrellas del paño se miden en el Brentwood Centre de Essex. Todas ellas buscan relevar al ausente Mark Allen. Judd Trump y Kyren Wilson parten como favoritos, pero en el snooker nada está escrito.
 · País: Reino Unido</desc>
     <category>Deportes, Snooker</category>
@@ -21770,6 +21774,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121083000 +0100" stop="20261121094500 +0100" channel="Eurosport 1">
     <title>Trampolín por equipos mixtos T26/27 · Copa del mundo de saltos de esquí por equipos - Lillehammer</title>
@@ -23151,7 +23158,7 @@
 	</programme>
 	<programme start="20261121020000 +0100" stop="20261121030000 +0100" channel="Eurosport 2">
     <title>Abierto de Inglaterra de snooker T26/27 · Ali Carter vs Mark Williams</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Snooker) Las grandes estrellas del paño se miden en el Brentwood Centre de Essex. Todas ellas buscan relevar al ausente Mark Allen. Judd Trump y Kyren Wilson parten como favoritos, pero en el snooker nada está escrito.
 · País: Reino Unido</desc>
     <category>Deportes, Snooker</category>
@@ -23159,6 +23166,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261121030000 +0100" stop="20261121033000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino F - Levi T26/27 · Eslalon - 2ª manga</title>
@@ -24150,7 +24160,7 @@
 	</programme>
 	<programme start="20261124110000 +0100" stop="20261124130000 +0100" channel="Eurosport 2">
     <title>Abierto de Inglaterra de snooker T26/27 · Ali Carter vs Mark Williams</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Snooker) Las grandes estrellas del paño se miden en el Brentwood Centre de Essex. Todas ellas buscan relevar al ausente Mark Allen. Judd Trump y Kyren Wilson parten como favoritos, pero en el snooker nada está escrito.
 · País: Reino Unido</desc>
     <category>Deportes, Snooker</category>
@@ -24158,6 +24168,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124130000 +0100" stop="20261124140000 +0100" channel="Eurosport 2">
     <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
@@ -31089,7 +31102,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120191500 +0100" stop="20261120195500 +0100" channel="M+ Baloncesto">
-    <title>T26/27 E9 · Eurofighters Live</title>
+    <title>DIRECTO T26/27 E9 · Eurofighters Live</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters Live llega a Movistar Plus para acompañarte durante el tramo final de cada jornada. Todos los viernes, lo más destacado de cada semana y las imágenes más espectaculares del mejor baloncesto masculino y femenino de Europa.
 · País: España
@@ -31546,13 +31559,16 @@
 	</programme>
 	<programme start="20261124184600 +0100" stop="20261124190000 +0100" channel="M+ Baloncesto 2">
     <title>DIRECTO Jornada 14: Estrella Roja - Virtus T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124190000 +0100" stop="20261124211500 +0100" channel="M+ Baloncesto 2">
     <title>Jornada 14: Estrella Roja - Virtus T26/27 · Euroliga de baloncesto</title>
@@ -31674,7 +31690,7 @@
 	</programme>
 	<programme start="20261122115500 +0100" stop="20261122141000 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 8: Durán Maquinaria Ensino - Spar Girona T26/27 · LF Endesa</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos femeninos de básquet luchan por el título de liga. La competición se divide en una primera fase regular en la que los mejores clasificados acceden a las eliminatorias por el título. El actual campeón es el Valencia Basket.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31682,6 +31698,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261122141000 +0100" stop="20261122210000 +0100" channel="M+ Baloncesto 3">
     <title>M+ Baloncesto</title>
@@ -31736,13 +31755,16 @@
 	</programme>
 	<programme start="20261124194600 +0100" stop="20261124200000 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 14: Bayern Munich - Maccabi Tel Aviv T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★4.6/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124200000 +0100" stop="20261124221500 +0100" channel="M+ Baloncesto 3">
     <title>DIRECTO Jornada 14: Bayern Munich - Maccabi Tel Aviv (VO) T26/27 · Euroliga de baloncesto</title>
@@ -31942,13 +31964,16 @@
 	</programme>
 	<programme start="20261124203100 +0100" stop="20261124204500 +0100" channel="M+ Baloncesto 4">
     <title>DIRECTO Jornada 14: ASVEL - Milan T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124204500 +0100" stop="20261124230000 +0100" channel="M+ Baloncesto 4">
     <title>DIRECTO Jornada 14: ASVEL - Milan (VO) T26/27 · Euroliga de baloncesto</title>
@@ -36186,7 +36211,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261120113500 +0100" stop="20261120133500 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Sexto Día: Harrison/Skupski - Granollers/Zeballos (ambiente) T2026 · Nitto ATP Finals 2026</title>
+    <title>Nitto ATP Finals 2026 T2026 · Sexto Día: Harrison/Skupski - Granollers/Zeballos (ambiente)</title>
     <sub-title>TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
@@ -36354,7 +36379,7 @@
 	</programme>
 	<programme start="20261121134500 +0100" stop="20261121140000 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -36362,7 +36387,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121140000 +0100" stop="20261121160000 +0100" channel="M+ Deportes 2">
@@ -36380,7 +36405,7 @@
 	</programme>
 	<programme start="20261121160000 +0100" stop="20261121161500 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -36388,7 +36413,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121161500 +0100" stop="20261121180500 +0100" channel="M+ Deportes 2">
@@ -36419,7 +36444,7 @@
 	</programme>
 	<programme start="20261121200500 +0100" stop="20261121203000 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -36427,7 +36452,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121203000 +0100" stop="20261121223000 +0100" channel="M+ Deportes 2">
@@ -36445,7 +36470,7 @@
 	</programme>
 	<programme start="20261121223000 +0100" stop="20261121224500 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -36453,7 +36478,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121224500 +0100" stop="20261122054500 +0100" channel="M+ Deportes 2">
@@ -36523,7 +36548,7 @@
 	</programme>
 	<programme start="20261122174500 +0100" stop="20261122180000 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La pista del tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del... (2026): TBC -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -36531,7 +36556,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122180000 +0100" stop="20261122210000 +0100" channel="M+ Deportes 2">
@@ -36591,13 +36616,16 @@
 	</programme>
 	<programme start="20261124154500 +0100" stop="20261124160000 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La Pista del Tenis. Finales Copa Davis</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713305V4438288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124160000 +0100" stop="20261124180000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Chequia - Canadá Evento 1 T2026 · Copa Davis. Fase Final</title>
@@ -36611,13 +36639,16 @@
 	</programme>
 	<programme start="20261124180000 +0100" stop="20261124181500 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La Pista del Tenis. Finales Copa Davis</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713305V4438288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124181500 +0100" stop="20261124201500 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Chequia - Canadá Evento 2 T2026 · Copa Davis. Fase Final</title>
@@ -36631,13 +36662,16 @@
 	</programme>
 	<programme start="20261124201500 +0100" stop="20261124203000 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La Pista del Tenis. Finales Copa Davis</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713305V4438288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124203000 +0100" stop="20261125000000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Chequia - Canadá Evento 3 T2026 · Copa Davis. Fase Final</title>
@@ -36672,7 +36706,7 @@
 	</programme>
 	<programme start="20261121155500 +0100" stop="20261121180000 +0100" channel="M+ Deportes 3">
     <title>DIRECTO Jornada 6: Cajasol Sevilla Cocos - Silicius Majadahonda T26/27 · Liga Iberdrola de Rugby</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Rugby) La Liga Iberdrola es la máxima categoría del rugby femenino en España y reúne a los 8 mejores clubes de nuestro país, que se miden durante 14 jornadas de liga regular y unos playoffs.</desc>
     <category>Deportes, Rugby</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519169" />
@@ -36680,7 +36714,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121180000 +0100" stop="20261122020000 +0100" channel="M+ Deportes 3">
@@ -36921,16 +36955,13 @@
 	</programme>
 	<programme start="20261120123100 +0100" stop="20261120141500 +0100" channel="M+ Deportes">
     <title>Nitto ATP Finals 2026 T2026 · Quinto Día: Zverev - Fils</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519241" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261120141500 +0100" stop="20261120143600 +0100" channel="M+ Deportes">
     <title>En estado puro T2026 E31</title>
@@ -42017,7 +42048,7 @@
 	</programme>
 	<programme start="20261124041300 +0100" stop="20261124051300 +0100" channel="M+ Estrenos">
     <title>Yellowjackets T4 E1</title>
-    <sub-title>2026 | ⑱ | ★6.0/10</sub-title>
+    <sub-title>2026 | ⑱ | ★7.4/10</sub-title>
     <desc>(Series,Thriller) Las Yellowjackets se enfrentan a lo que hicieron para sobrevivir. Mientras el grupo se fractura en el bosque, las supervivientes adultas descubren que los secretos que las unieron siguen siendo capaces de destruirlas.
 · País: Estados Unidos
 · Dirección: Bart Nickerson.
@@ -42030,7 +42061,7 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>7.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124051300 +0100" stop="20261124070500 +0100" channel="M+ Estrenos">
@@ -42511,19 +42542,36 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120133300 +0100" stop="20261120140300 +0100" channel="M+ Golf">
-    <title>Santander Golf Tour T2026 · Empordá Letas</title>
-    <sub-title>2026</sub-title>
-    <desc>(Deportes,Golf) El Santander Golf Tour es el único circuito de golf profesional femenino que se celebra en España. En esta undécima edición habrá 8 pruebas, de marzo a noviembre.</desc>
+	<programme start="20261120133300 +0100" stop="20261120141300 +0100" channel="M+ Golf">
+    <title>Ruta 21 T2026 · Golf Santa Marina</title>
+    <sub-title>2016 | TP</sub-title>
+    <desc>(Deportes,Golf) El profesional de golf Javier Varela, visita en cada programa un campo de golf y hace un análisis pormenorizado del recorrido, las instalaciones conjuntas o la gastronomía.</desc>
     <category>Deportes, Golf</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713670V4191016" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713672V4388775" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
 	</programme>
-	<programme start="20261120140300 +0100" stop="20261120170800 +0100" channel="M+ Golf">
+	<programme start="20261120141300 +0100" stop="20261120164900 +0100" channel="M+ Golf">
     <title>LPGA Tour T2026 · CME Group Tour Championship. Jornada 1</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Golf) Carlota Ciganda y Julia López están entre las 60 mejores que disputan la gran final en el LPGA. Nelly Korda, nº 1 del mundo, llega a Florida como líder de la Race to CME Globe.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4517649" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261120164900 +0100" stop="20261120170800 +0100" channel="M+ Golf">
+    <title>Sueños de Golf T2026 · La inglesa de Sotogrande</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Mimi Rhodes es una de las grandes revelaciones del golf femenino europeo en los últimos dos años. Combativa, dura, correosa. Una inglesa de nacimiento que habla como una gaditana de Sotogrande.
+· País: España</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4456586" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -42544,7 +42592,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120180000 +0100" stop="20261120210000 +0100" channel="M+ Golf">
+	<programme start="20261120180000 +0100" stop="20261120210900 +0100" channel="M+ Golf">
     <title>DIRECTO The RSM Classic. Jornada 2 T2026 · PGA Tour</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Golf) El último torneo regular del PGA Tour 2026 llega a la maravillosa zona de Sea Island para un torneo imprescindible. Mientras unos luchan por mantener tarjetas, otros persiguen su primera victoria en el tour en condiciones ventosas y un campo renovado.</desc>
@@ -42557,17 +42605,14 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120210000 +0100" stop="20261120213200 +0100" channel="M+ Golf">
-    <title>Ruta 21 T2026 · Golf Santa Marina</title>
-    <sub-title>2016 | TP</sub-title>
-    <desc>(Deportes,Golf) El profesional de golf Javier Varela, visita en cada programa un campo de golf y hace un análisis pormenorizado del recorrido, las instalaciones conjuntas o la gastronomía.</desc>
+	<programme start="20261120210900 +0100" stop="20261120213200 +0100" channel="M+ Golf">
+    <title>Santander Golf Tour T2026 · Empordá Letas</title>
+    <sub-title>2026</sub-title>
+    <desc>(Deportes,Golf) El Santander Golf Tour es el único circuito de golf profesional femenino que se celebra en España. En esta undécima edición habrá 8 pruebas, de marzo a noviembre.</desc>
     <category>Deportes, Golf</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713672V4388775" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713670V4191016" />
 	</programme>
-	<programme start="20261120213200 +0100" stop="20261120220000 +0100" channel="M+ Golf">
+	<programme start="20261120213200 +0100" stop="20261120215900 +0100" channel="M+ Golf">
     <title>PGA Tour Champions Learning Center T2026 E28</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Golf) Los mejores jugadores senior ofrecen consejos para mejorar el juego, la mentalidad y la forma física en el campo de golf.</desc>
@@ -42580,7 +42625,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120220000 +0100" stop="20261120233000 +0100" channel="M+ Golf">
+	<programme start="20261120215900 +0100" stop="20261120232900 +0100" channel="M+ Golf">
     <title>LPGA Tour T2026 · The Annika driven by Gainbridge at Pelican. Jornada 3</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) Penúltimo torneo de la temporada con muchas cosas en juego. La malagueña Julia López necesita un gran resultado para meterse en el top60 de la Race to CME Globe y poder así jugar el CME Group Tour Championship.</desc>
@@ -42590,7 +42635,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261120233000 +0100" stop="20261121010000 +0100" channel="M+ Golf">
+	<programme start="20261120232900 +0100" stop="20261121005900 +0100" channel="M+ Golf">
     <title>LPGA Tour T2026 · The Annika driven by Gainbridge at Pelican. Jornada 4</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) Penúltimo torneo de la temporada con muchas cosas en juego. La malagueña Julia López necesita un gran resultado para meterse en el top60 de la Race to CME Globe y poder así jugar el CME Group Tour Championship.</desc>
@@ -42600,7 +42645,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261121010000 +0100" stop="20261121013000 +0100" channel="M+ Golf">
+	<programme start="20261121005900 +0100" stop="20261121012900 +0100" channel="M+ Golf">
     <title>PGA Tour The Cut T2026 E37</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc>
@@ -42613,7 +42658,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121013000 +0100" stop="20261121023000 +0100" channel="M+ Golf">
+	<programme start="20261121012900 +0100" stop="20261121022900 +0100" channel="M+ Golf">
     <title>Sueños de Golf T2026 · La Escuela del LPGA, el último examen</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Dura, larga, tensa, exigente...cualquiera de estos calificativos definen lo que es la fase final de la Escuela de la LPGA, donde rookies y veteranas luchan por esa ansiada tarjeta del LPGA. 3 españolas fueron este año a Alabama a pasar "El último examen".
@@ -42627,7 +42672,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121023000 +0100" stop="20261121040000 +0100" channel="M+ Golf">
+	<programme start="20261121022900 +0100" stop="20261121035900 +0100" channel="M+ Golf">
     <title>PGA Tour Champions T2026 · Charles Schwab Cup Championship. Jornada 3</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) El campeón defensor de la Charles Schwab Cup, Stewart Cink, y Zach Johnson, se juegan terminar como Nº1 de la temporada en el PGA Tour Champions. Miguel Ángel Jiménez es el único español presente en Phoenix.</desc>
@@ -42637,7 +42682,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261121040000 +0100" stop="20261121053000 +0100" channel="M+ Golf">
+	<programme start="20261121035900 +0100" stop="20261121052900 +0100" channel="M+ Golf">
     <title>PGA Tour Champions T2026 · Charles Schwab Cup Championship. Jornada 4</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Golf) El campeón defensor de la Charles Schwab Cup, Stewart Cink, y Zach Johnson, se juegan terminar como Nº1 de la temporada en el PGA Tour Champions. Miguel Ángel Jiménez es el único español presente en Phoenix.</desc>
@@ -42647,7 +42692,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261121053000 +0100" stop="20261121060200 +0100" channel="M+ Golf">
+	<programme start="20261121052900 +0100" stop="20261121060100 +0100" channel="M+ Golf">
     <title>Locos por el golf T2026 E38</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) El madrileño Eugenio Chacarra nos concede su primera entrevista como miembro del PGA Tour tras un excelso año en el DP World Tour.
@@ -42662,14 +42707,14 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121060200 +0100" stop="20261121063000 +0100" channel="M+ Golf">
+	<programme start="20261121060100 +0100" stop="20261121062900 +0100" channel="M+ Golf">
     <title>Santander Golf Tour T2026 · Club Zaudín Golf. Sevilla</title>
     <sub-title>2026</sub-title>
     <desc>(Deportes,Golf) El Santander Golf Tour es el único circuito de golf profesional femenino que se celebra en España. En esta undécima edición habrá 8 pruebas, de marzo a noviembre.</desc>
     <category>Deportes, Golf</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2703009V4191015" />
 	</programme>
-	<programme start="20261121063000 +0100" stop="20261121070000 +0100" channel="M+ Golf">
+	<programme start="20261121062900 +0100" stop="20261121065900 +0100" channel="M+ Golf">
     <title>PGA Tour Champions Learning Center T2026 E27</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Golf) El segundo playoff de la FedEx Cup nos dejó uno de los finales más emocionantes de la temporada. Un mano a mano entre Darren Fichardt y Zach Johnson.</desc>
@@ -42682,7 +42727,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121070000 +0100" stop="20261121073500 +0100" channel="M+ Golf">
+	<programme start="20261121065900 +0100" stop="20261121073400 +0100" channel="M+ Golf">
     <title>PGA Tour Champions Learning Center T2026 E28</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Golf) Los mejores jugadores senior ofrecen consejos para mejorar el juego, la mentalidad y la forma física en el campo de golf.</desc>
@@ -42695,7 +42740,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261121073500 +0100" stop="20261121080000 +0100" channel="M+ Golf">
+	<programme start="20261121073400 +0100" stop="20261121080000 +0100" channel="M+ Golf">
     <title>PGA Tour The Cut T2026 E37</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una nueva y moderna visión al PGA Tour y sus protagonistas. Desde las previas de los torneos, con estadística y análisis, hasta el lado más personal y familiar de los jugadores.</desc>
@@ -43356,7 +43401,7 @@
 	</programme>
 	<programme start="20261124213000 +0100" stop="20261124215000 +0100" channel="M+ Golf">
     <title>Sueños de Golf T2026 · Bubba</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Nos gusta soñar en verde. Todos los sueños, grandes y pequeños, caben en un deporte que te atrapa. Historias de ayer y de hoy.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -43364,6 +43409,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124215000 +0100" stop="20261125005000 +0100" channel="M+ Golf">
     <title>CME Group Tour Championship. Jornada 4 T2026 · LPGA Tour</title>
@@ -46366,7 +46414,7 @@
 	</programme>
 	<programme start="20261121095200 +0100" stop="20261121105200 +0100" channel="M+ LaLiga">
     <title>Informe Plus+. Piterman: ¿qué pasó?</title>
-    <sub-title>2022 | TP | ★6.0/10</sub-title>
+    <sub-title>2022 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) A comienzos del S.XXI el fútbol se sorprendió con la llegada de un excéntrico empresario ucraniano que, primero en el Racing y después en el Alavés, inauguró una figura hasta ese momento inexistente. La de presidente y entrenador al mismo tiempo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -46375,7 +46423,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121105200 +0100" stop="20261121124400 +0100" channel="M+ LaLiga">
@@ -47704,7 +47752,7 @@
 	</programme>
 	<programme start="20261124151000 +0100" stop="20261124151500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Burgos - Albacete BP</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47713,7 +47761,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124151500 +0100" stop="20261124152000 +0100" channel="M+ LaLiga">
@@ -47746,7 +47794,7 @@
 	</programme>
 	<programme start="20261124152500 +0100" stop="20261124153000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Ceuta FC - UD Almería</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47755,7 +47803,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124153000 +0100" stop="20261124153500 +0100" channel="M+ LaLiga">
@@ -47901,7 +47949,7 @@
 	</programme>
 	<programme start="20261124201500 +0100" stop="20261124202000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Burgos - Albacete BP</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47910,7 +47958,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124202000 +0100" stop="20261124202500 +0100" channel="M+ LaLiga">
@@ -47943,7 +47991,7 @@
 	</programme>
 	<programme start="20261124203000 +0100" stop="20261124203500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Ceuta FC - UD Almería</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47952,7 +48000,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124203500 +0100" stop="20261124204000 +0100" channel="M+ LaLiga">
@@ -49090,7 +49138,7 @@
 	</programme>
 	<programme start="20261124205300 +0100" stop="20261124230000 +0100" channel="M+ Liga de Campeones 7">
     <title>DIRECTO Jornada 5: Como - AEK Atenas T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Fútbol) La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4499480" />
@@ -49098,7 +49146,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124230000 +0100" stop="20261125060000 +0100" channel="M+ Liga de Campeones 7">
@@ -49252,7 +49300,7 @@
 	</programme>
 	<programme start="20261124215500 +0100" stop="20261125000000 +0100" channel="M+ Liga de Campeones 9">
     <title>DIRECTO Jornada 37: Chapecoense - Palmeiras T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -49261,7 +49309,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120063000 +0100" stop="20261120083000 +0100" channel="M+ Liga de Campeones">
@@ -49933,7 +49981,7 @@
 	</programme>
 	<programme start="20261123170000 +0100" stop="20261123173000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -49942,12 +49990,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123173000 +0100" stop="20261123183000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Europa League T26/27 E5</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -49956,7 +50004,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123183000 +0100" stop="20261123200000 +0100" channel="M+ Liga de Campeones">
@@ -49990,7 +50038,7 @@
 	</programme>
 	<programme start="20261123220000 +0100" stop="20261123223000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -49999,12 +50047,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123223000 +0100" stop="20261123232500 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Europa League T26/27 E5</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50013,7 +50061,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123232500 +0100" stop="20261124005500 +0100" channel="M+ Liga de Campeones">
@@ -50047,7 +50095,7 @@
 	</programme>
 	<programme start="20261124030000 +0100" stop="20261124033000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50056,12 +50104,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124033000 +0100" stop="20261124043000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Europa League T26/27 E5</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50070,7 +50118,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124043000 +0100" stop="20261124063000 +0100" channel="M+ Liga de Campeones">
@@ -50104,7 +50152,7 @@
 	</programme>
 	<programme start="20261124080000 +0100" stop="20261124083000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50113,7 +50161,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124083000 +0100" stop="20261124103000 +0100" channel="M+ Liga de Campeones">
@@ -50132,7 +50180,7 @@
 	</programme>
 	<programme start="20261124103000 +0100" stop="20261124110000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50141,7 +50189,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124110000 +0100" stop="20261124123000 +0100" channel="M+ Liga de Campeones">
@@ -50161,7 +50209,7 @@
 	</programme>
 	<programme start="20261124123000 +0100" stop="20261124132500 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Europa League T26/27 E5</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50170,12 +50218,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124132500 +0100" stop="20261124135500 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50184,12 +50232,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124135500 +0100" stop="20261124155500 +0100" channel="M+ Liga de Campeones">
     <title>DIRECTO Jornada 5: Arsenal - Borussia Dortmund T26/27 · UEFA Youth League</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★8.0/10</sub-title>
     <desc>(Deportes,Fútbol) Las futuras estrellas del fútbol continental protagonizan la Youth League. El torneo de la UEFA da la oportunidad a los juveniles de los clubes que participan en Champions de mostrar su talento más allá de sus países. El Barcelona se impuso en 2025.
 · País: Reino Unido</desc>
     <category>Deportes, Fútbol</category>
@@ -50197,6 +50245,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>8.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124155500 +0100" stop="20261124180000 +0100" channel="M+ Liga de Campeones">
     <title>DIRECTO Jornada 5: Real Madrid - PSV Eindhoven T26/27 · UEFA Youth League</title>
@@ -50214,7 +50265,7 @@
 	</programme>
 	<programme start="20261124180000 +0100" stop="20261124183000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50223,12 +50274,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124183000 +0100" stop="20261124193000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Europa League T26/27 E5</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50237,12 +50288,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124193000 +0100" stop="20261124200000 +0100" channel="M+ Liga de Campeones">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -50251,7 +50302,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124200000 +0100" stop="20261124205300 +0100" channel="M+ Liga de Campeones">
@@ -50290,7 +50341,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261120062900 +0100" stop="20261120070000 +0100" channel="M+ Originales">
+	<programme start="20261120062800 +0100" stop="20261120065900 +0100" channel="M+ Originales">
     <title>Celeste T1 E5</title>
     <sub-title>2024 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Thriller) Sara busca pasar página en lo personal, pero no consigue avanzar en la investigación. Su temor a otro fracaso se agrava cuando Celeste contraataca con un revés inesperado.
@@ -50309,7 +50360,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120070000 +0100" stop="20261120074100 +0100" channel="M+ Originales">
+	<programme start="20261120065900 +0100" stop="20261120074000 +0100" channel="M+ Originales">
     <title>La Peste: La mano de La Garduña T2 E5 · Conrado</title>
     <sub-title>2019 | ⑯ | ★6.4/10</sub-title>
     <desc>(Series,Thriller) María de la O ordena a Baeza matar a Conrado, será su sustituto. Conrado consigue escapar y se ofrece a colaborar con Pontecorvo si lo protege. Navas inicia una moción de censura contra Pontecorvo.
@@ -50326,7 +50377,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120074100 +0100" stop="20261120081000 +0100" channel="M+ Originales">
+	<programme start="20261120074000 +0100" stop="20261120081000 +0100" channel="M+ Originales">
     <title>Locos por el golf T2026 E38</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) El madrileño Eugenio Chacarra nos concede su primera entrevista como miembro del PGA Tour tras un excelso año en el DP World Tour.
@@ -53205,7 +53256,7 @@
 	</programme>
 	<programme start="20261120103800 +0100" stop="20261120122400 +0100" channel="M+ Vamos 2">
     <title>Partido amistoso T2026 · Argentina - Costa Rica</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -53213,9 +53264,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261120122400 +0100" stop="20261120132500 +0100" channel="M+ Vamos 2">
     <title>El último duelo</title>
@@ -53762,7 +53810,7 @@
 	</programme>
 	<programme start="20261124215500 +0100" stop="20261125000000 +0100" channel="M+ Vamos 2">
     <title>DIRECTO Jornada 37: Chapecoense - Palmeiras T2026 · Brasileirao</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
 · País: Brasil</desc>
     <category>Deportes, Fútbol</category>
@@ -53771,7 +53819,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120080000 +0100" stop="20261120090000 +0100" channel="M+ Vamos 3">
@@ -54385,16 +54433,13 @@
 	</programme>
 	<programme start="20261120114700 +0100" stop="20261120133100 +0100" channel="M+ Vamos">
     <title>Nitto ATP Finals 2026 T2026 · Quinto Día: Zverev - Fils</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519241" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261120133100 +0100" stop="20261120142100 +0100" channel="M+ Vamos">
     <title>Bien hecho. La extraordinaria historia de Javier García Pajares</title>
@@ -54602,7 +54647,7 @@
 	</programme>
 	<programme start="20261121060000 +0100" stop="20261121075000 +0100" channel="M+ Vamos">
     <title>Partido amistoso T2026 · Argentina - Costa Rica</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Emisión de un partido amistoso de fútbol en el que no hay puntos de por medio sino que se realizan por preparación, por rodaje o por simple espectáculo.
 · País: Argentina</desc>
     <category>Deportes, Fútbol</category>
@@ -54610,9 +54655,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261121075000 +0100" stop="20261121094000 +0100" channel="M+ Vamos">
     <title>Jornada 13: FC Barcelona - Estrella Roja T26/27 · Euroliga de baloncesto</title>
@@ -55144,7 +55186,7 @@
 	</programme>
 	<programme start="20261123180000 +0100" stop="20261123183000 +0100" channel="M+ Vamos">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -55153,7 +55195,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123183000 +0100" stop="20261123200000 +0100" channel="M+ Vamos">
@@ -55313,7 +55355,7 @@
 	</programme>
 	<programme start="20261124083000 +0100" stop="20261124090000 +0100" channel="M+ Vamos">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -55322,7 +55364,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124090000 +0100" stop="20261124100000 +0100" channel="M+ Vamos">
@@ -55460,17 +55502,20 @@
 	</programme>
 	<programme start="20261124201000 +0100" stop="20261124203000 +0100" channel="M+ Vamos">
     <title>DIRECTO Jornada 14: Valencia Basket - Panathinaikos T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124203000 +0100" stop="20261124223000 +0100" channel="M+ Vamos">
     <title>Jornada 14: Valencia Basket - Panathinaikos T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -55479,7 +55524,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124223000 +0100" stop="20261124233000 +0100" channel="M+ Vamos">
@@ -56081,7 +56126,7 @@
 	</programme>
 	<programme start="20261121141500 +0100" stop="20261121143000 +0100" channel="Movistar Plus">
     <title>La pista del tenis. Nitto ATP Finals</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Programa deportes) La pista del tenis. Nitto ATP Finals (2026) -.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4508410" />
@@ -56089,7 +56134,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261121143000 +0100" stop="20261121170200 +0100" channel="Movistar Plus">
@@ -56974,7 +57019,7 @@
 	</programme>
 	<programme start="20261124031300 +0100" stop="20261124033900 +0100" channel="Movistar Plus">
     <title>Magazine Champions League T26/27 E12</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Magacín que repasa toda la actualidad de la Champions League, la máxima competición del fútbol europeo. El programa ofrece entrevistas, reportajes y resúmenes de los partidos que se disputan durante el torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -56983,12 +57028,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124033900 +0100" stop="20261124042900 +0100" channel="Movistar Plus">
     <title>Magazine Europa League T26/27 E5</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La Europa League es la sucesora de la Copa UEFA. Se trata de una competición con doble premio, ya que, además de la gloria, da una plaza al ganador para la Champions. Este espacio analiza todo lo que ocurre alrededor del torneo.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -56997,7 +57042,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124042900 +0100" stop="20261124054100 +0100" channel="Movistar Plus">
@@ -57625,7 +57670,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120190000 +0100" stop="20261120190800 +0100" channel="Onetoro">
+	<programme start="20261120190000 +0100" stop="20261120190700 +0100" channel="Onetoro">
     <title>Sastrería de toreros Emilio. Al otro lado del toreo</title>
     <sub-title>⑯</sub-title>
     <desc>Honestidad, dignidad y amor incondicional, una historia de tradición y amor. Descubre cómo surgió la relación que llevó a crear esta sastrería.</desc>
@@ -57634,7 +57679,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120190800 +0100" stop="20261120193900 +0100" channel="Onetoro">
+	<programme start="20261120190700 +0100" stop="20261120193900 +0100" channel="Onetoro">
     <title>Ganaderías del Mundo. Luis Algarra</title>
     <sub-title>⑯</sub-title>
     <desc>... sin detalles</desc>
@@ -57643,7 +57688,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120193900 +0100" stop="20261120194200 +0100" channel="Onetoro">
+	<programme start="20261120193900 +0100" stop="20261120194100 +0100" channel="Onetoro">
     <title>EP4_ Cuadrillas_FLORITO</title>
     <sub-title>⑯</sub-title>
     <desc>... sin detalles</desc>
@@ -57652,7 +57697,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120194200 +0100" stop="20261120194500 +0100" channel="Onetoro">
+	<programme start="20261120194100 +0100" stop="20261120194400 +0100" channel="Onetoro">
     <title>El trabajo del mozo de espadas. Aprende a ver toros</title>
     <sub-title>⑯</sub-title>
     <desc>Aprendemos con Raúl de la Fe todo el trabajo que realizan los mozos de espadas cuando hay un festejo.</desc>
@@ -57661,7 +57706,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120194500 +0100" stop="20261120194700 +0100" channel="Onetoro">
+	<programme start="20261120194400 +0100" stop="20261120194600 +0100" channel="Onetoro">
     <title>Diferencia entre gaoneras y talaveras. Aprende a ver toros</title>
     <sub-title>⑯</sub-title>
     <desc>Mario Navas nos enseña la diferencia que hay entre gaoneras y talaveras.</desc>
@@ -57670,7 +57715,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120194700 +0100" stop="20261120195200 +0100" channel="Onetoro">
+	<programme start="20261120194600 +0100" stop="20261120195100 +0100" channel="Onetoro">
     <title>Diferencia entre verónicas y delantales. Aprende a ver toros</title>
     <sub-title>⑯</sub-title>
     <desc>Álvaro Burdiel explica la diferencia que hay entre verónicas y delantales y cómo se ejecutan.</desc>
@@ -57679,7 +57724,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120195300 +0100" stop="20261120200000 +0100" channel="Onetoro">
+	<programme start="20261120195100 +0100" stop="20261120195800 +0100" channel="Onetoro">
     <title>La suerte suprema. Aprende a ver toros</title>
     <sub-title>⑯</sub-title>
     <desc>Uceda Leal nos explica cómo llevar a cabo la suerte suprema.</desc>
@@ -57688,11 +57733,11 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261120200000 +0100" stop="20261120205700 +0100" channel="Onetoro">
-    <title>Grana y oro. López Ortega</title>
+	<programme start="20261120195800 +0100" stop="20261120205700 +0100" channel="Onetoro">
+    <title>Sergio Rollón. Grana y Oro</title>
     <sub-title>⑯</sub-title>
-    <desc>El programa Grana y Oro, de Castilla y León Televisión, del día 13-11-2026, recibe como invitado al novillero mexicano López Ortega, finalista del Circuito de Madrid y ganador de la prestigiosa Vid de Oro de Arganda. También, gala en Roa de Duero, homenaje a Serranillo en El Burgo de Osma, coloquio en Aldeamayor de San Martín, trágico accidente de Curro Sánchez en Salamanca, la actualidad de México y reportaje con un joven picador en “Peñajara”.</desc>
-    <icon src="https://epg.onetoro.tv/GRANA_lopezortega_200.jpg" />
+    <desc>El novillero abulense López Ortega, ganador del Circuito de Madrid y de la Liga Nacional de Novilladas, es el invitado del programa Grana y Oro, de Castilla y León Televisión, del día 20-11-2026.</desc>
+    <icon src="https://epg.onetoro.tv/GranayOro_Sergio_Rollon_200.jpg" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -61722,7 +61767,7 @@
 	</programme>
 	<programme start="20261124083000 +0100" stop="20261124104500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 13: Barakaldo - Unionistas</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61731,7 +61776,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124104500 +0100" stop="20261124130500 +0100" channel="Primera Federación">
@@ -61750,7 +61795,7 @@
 	</programme>
 	<programme start="20261124130500 +0100" stop="20261124152500 +0100" channel="Primera Federación">
     <title>Primera Federación T26/27 · Jornada 13: Mérida - Real Unión</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★3.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61759,7 +61804,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>3.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124152500 +0100" stop="20261124174500 +0100" channel="Primera Federación">
@@ -68012,7 +68057,7 @@
 	</programme>
 	<programme start="20261123220000 +0100" stop="20261123225500 +0100" channel="STAR Channel">
     <title>9-1-1 T10 E2 · Fuego en las entrañas</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★4.0/10</sub-title>
     <desc>(Series,Acción) Mientras la lava arrasa Los Ángeles, el 118 trabaja para evacuar a los ciudadanos, asustados y atrapados.
 · País: Estados Unidos
 · Dirección: Bradley Buecker, Loni Peristere, Varda Bar-Kar.
@@ -68023,6 +68068,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123225500 +0100" stop="20261123234500 +0100" channel="STAR Channel">
     <title>9-1-1: Nashville T2 E2 · Dedos y llagas</title>
@@ -68043,7 +68091,7 @@
 	</programme>
 	<programme start="20261123234500 +0100" stop="20261124004000 +0100" channel="STAR Channel">
     <title>9-1-1 T10 E2 · Fuego en las entrañas</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★4.0/10</sub-title>
     <desc>(Series,Acción) Mientras la lava arrasa Los Ángeles, el 118 trabaja para evacuar a los ciudadanos, asustados y atrapados.
 · País: Estados Unidos
 · Dirección: Bradley Buecker, Loni Peristere, Varda Bar-Kar.
@@ -68054,6 +68102,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124004000 +0100" stop="20261124012000 +0100" channel="STAR Channel">
     <title>Bull T2 E13 · Tiro de gracia</title>
@@ -68514,9 +68565,9 @@
 			<value>8.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120090000 +0100" stop="20261120120000 +0100" channel="Telecinco">
+	<programme start="20261120090000 +0100" stop="20261120115900 +0100" channel="Telecinco">
     <title>El programa de Ana Rosa T23 E60</title>
-    <sub-title>2026 | ⑯ | ★5.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Magacín matutino presentado por Ana Rosa Quintana, con colaboración de Joaquín Prat. Consta de diferentes secciones donde contertulianos hablan sobre temas de política, sociedad, corazón, y actualidad.
 · País: España</desc>
     <category>Información, Informativo</category>
@@ -68525,10 +68576,10 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261120120000 +0100" stop="20261120134500 +0100" channel="Telecinco">
+	<programme start="20261120115900 +0100" stop="20261120134500 +0100" channel="Telecinco">
     <title>El tiempo justo T3 E20</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Información,Informativo) Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
@@ -68541,7 +68592,7 @@
 	</programme>
 	<programme start="20261120134500 +0100" stop="20261120150000 +0100" channel="Telecinco">
     <title>Vamos a ver T6 E59</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★9.0/10</sub-title>
     <desc>(Información,Informativo) Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.
 · País: España</desc>
     <category>Información, Informativo</category>
@@ -68549,6 +68600,9 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>9.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120150000 +0100" stop="20261120153500 +0100" channel="Telecinco">
     <title>Informativos Telecinco</title>
@@ -68589,7 +68643,7 @@
 	</programme>
 	<programme start="20261120155000 +0100" stop="20261120175500 +0100" channel="Telecinco">
     <title>La tarde se mueve T1 E33</title>
-    <sub-title>2026 | ⑯ | ★10.0/10</sub-title>
+    <sub-title>2026 | ⑯ | ★8.0/10</sub-title>
     <desc>(Entretenimiento,Magacín) Ion Aramendi y sus colaboradores te traen de lunes a viernes la última hora de la actualidad y la crónica social.
 · País: España</desc>
     <category>Entretenimiento, Magacín</category>
@@ -68598,12 +68652,12 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>8.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261120175500 +0100" stop="20261120190000 +0100" channel="Telecinco">
     <title>El Diario de Jorge T7 E32</title>
-    <sub-title>2026 | ⑯</sub-title>
+    <sub-title>2026 | ⑯ | ★4.0/10</sub-title>
     <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
 · País: España</desc>
     <category>Entretenimiento, Tertulia</category>
@@ -68611,10 +68665,13 @@
 		<rating system="ES">
 			<value>16</value>
 		</rating>
+		<star-rating system="ES">
+			<value>4.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120190000 +0100" stop="20261120200000 +0100" channel="Telecinco">
     <title>Rueda la Letra T1 E69</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★9.0/10</sub-title>
     <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
 · País: España</desc>
     <category>Entretenimiento, Concurso</category>
@@ -68622,6 +68679,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>9.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261120200000 +0100" stop="20261120210500 +0100" channel="Telecinco">
     <title>¡Allá tú! Diarios T5 E33</title>
@@ -69023,7 +69083,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122034000 +0100" stop="20261122074000 +0100" channel="Telecinco">
+	<programme start="20261122034000 +0100" stop="20261122074500 +0100" channel="Telecinco">
     <title>Miramimúsica</title>
     <sub-title>2016 | TP | ★6.2/10</sub-title>
     <desc>(Música,Programa de música) Programa musical que se emite de madrugada.
@@ -69037,7 +69097,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122074000 +0100" stop="20261122082000 +0100" channel="Telecinco">
+	<programme start="20261122074500 +0100" stop="20261122080500 +0100" channel="Telecinco">
     <title>Enphorma</title>
     <sub-title>2023 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
@@ -69051,13 +69111,13 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122082000 +0100" stop="20261122085500 +0100" channel="Telecinco">
+	<programme start="20261122080500 +0100" stop="20261122084000 +0100" channel="Telecinco">
     <title>Love Shopping TV T1</title>
     <sub-title>2024 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
 · País: España</desc>
     <category>Ocio y Aficiones, Televenta</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MDIVINIP3341503" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MBEMADP3341503" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -69065,14 +69125,25 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122085500 +0100" stop="20261122115500 +0100" channel="Telecinco">
-    <title>Got Talent España. Momentazos</title>
-    <sub-title>2024 | ⑦ | ★6.0/10</sub-title>
-    <desc>(Entretenimiento,Concurso) La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
+	<programme start="20261122084000 +0100" stop="20261122091000 +0100" channel="Telecinco">
+    <title>Got Talent España. Momentazos T8 E15</title>
+    <sub-title>2022 | ⑦ | ★6.2/10</sub-title>
+    <desc>(Entretenimiento,Concurso) La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.</desc>
+    <category>Entretenimiento, Concurso</category>
+		<rating system="ES">
+			<value>7</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261122091000 +0100" stop="20261122121000 +0100" channel="Telecinco">
+    <title>Got Talent España T11 E10</title>
+    <sub-title>2026 | ⑦ | ★6.0/10</sub-title>
+    <desc>(Entretenimiento,Concurso) Concurso que busca nuevas promesas de diferentes disciplinas artísticas en España.
 · País: España
 · Presenta: Santi Millán.</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P3481843" />
 		<rating system="ES">
 			<value>7</value>
 		</rating>
@@ -69080,39 +69151,29 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122115500 +0100" stop="20261122133500 +0100" channel="Telecinco">
-    <title>El precio justo (diario)</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+	<programme start="20261122121000 +0100" stop="20261122134000 +0100" channel="Telecinco">
+    <title>El precio justo (diario) T3 E42</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
-· País: España
-· Presenta: Carlos Sobera.
-· Productora: FremantleMedia España.</desc>
+· País: España</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122133500 +0100" stop="20261122150000 +0100" channel="Telecinco">
-    <title>El precio justo (diario)</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.
-· País: España
-· Presenta: Carlos Sobera.
-· Productora: FremantleMedia España.</desc>
+	<programme start="20261122134000 +0100" stop="20261122150000 +0100" channel="Telecinco">
+    <title>El precio justo (diario) T3 E56</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Entretenimiento,Concurso) Carlos Sobera premia a quien más se aproxime al valor de un artículo.</desc>
     <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P2026520" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
-	<programme start="20261122150000 +0100" stop="20261122153000 +0100" channel="Telecinco">
+	<programme start="20261122150000 +0100" stop="20261122153500 +0100" channel="Telecinco">
     <title>Informativos Telecinco Fin de Semana</title>
     <sub-title>★6.2/10</sub-title>
     <desc>(Información,Informativo) Roberto Arce conduce las diferentes ediciones de los informativos del fin de semana con las últimas noticias a nivel nacional e internacional.
@@ -69125,19 +69186,19 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122153000 +0100" stop="20261122154500 +0100" channel="Telecinco">
-    <title>El Desmarque Telecinco</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+	<programme start="20261122153500 +0100" stop="20261122155000 +0100" channel="Telecinco">
+    <title>ElDesmarque Telecinco fin de semana</title>
+    <sub-title>2026 | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
 · País: España
-· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+· Presenta: Luis García (Presentador).</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208551" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122154500 +0100" stop="20261122160000 +0100" channel="Telecinco">
+	<programme start="20261122155000 +0100" stop="20261122160000 +0100" channel="Telecinco">
     <title>El tiempo</title>
     <sub-title>2017 | ★6.0/10</sub-title>
     <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
@@ -69149,36 +69210,14 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122160000 +0100" stop="20261122200000 +0100" channel="Telecinco">
-    <title>Fiesta</title>
-    <sub-title>2026 | ⑯ | ★6.2/10</sub-title>
-    <desc>(Entretenimiento,Magacín) Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.
-· País: España
-· Presenta: Àlex Blanquer, César Muñoz.
-· Productora: Unicorn Content.</desc>
-    <category>Entretenimiento, Magacín</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207089" />
+	<programme start="20261122160000 +0100" stop="20261122210000 +0100" channel="Telecinco">
+    <title>Fiesta T7 E35</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Entretenimiento,Variedades) Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón.</desc>
+    <category>Entretenimiento, Variedades</category>
 		<rating system="ES">
 			<value>16</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261122200000 +0100" stop="20261122210000 +0100" channel="Telecinco">
-    <title>Rueda la Letra T1</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
-· País: España
-· Presenta: Carlos Sobera.</desc>
-    <category>Entretenimiento, Concurso</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4394000" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122210000 +0100" stop="20261122213000 +0100" channel="Telecinco">
     <title>Informativos Telecinco Fin de Semana</title>
@@ -69194,13 +69233,13 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122213000 +0100" stop="20261122214000 +0100" channel="Telecinco">
-    <title>El Desmarque Telecinco</title>
+    <title>ElDesmarque Telecinco Fin de Semana Noche</title>
     <sub-title>2026 | ★6.0/10</sub-title>
-    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+    <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
 · País: España
-· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+· Presenta: Luis García (Presentador).</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4207085" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4208553" />
 		<star-rating system="ES">
 			<value>6.0/10</value>
 		</star-rating>
@@ -69218,15 +69257,13 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122220000 +0100" stop="20261123020000 +0100" channel="Telecinco">
-    <title>Supervivientes All Stars: Conexión Honduras T3</title>
-    <sub-title>2026 | ★6.2/10</sub-title>
-    <desc>(Entretenimiento,Telerrealidad) Debate semanal en el que un nutrido equipo de colaboradores y expertos en programas de telerrealidad analizan el día a día del concurso.
-· País: España</desc>
+    <title>Gran Hermano VIP. Noche de confesiones T9 E1</title>
+    <sub-title>2026 | ⑯</sub-title>
+    <desc>(Entretenimiento,Telerrealidad) Los famosos de Gran Hermano VIP se enfrentan a revelaciones íntimas, viejas rencillas y emociones a flor de piel. Entre secretos, sorpresas y tensiones, la convivencia se transforma y surgen giros que pueden cambiar el destino del reality.</desc>
     <category>Entretenimiento, Telerrealidad</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MT5P4399720" />
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
+		<rating system="ES">
+			<value>16</value>
+		</rating>
 	</programme>
 	<programme start="20261123020000 +0100" stop="20261123022500 +0100" channel="Telecinco">
     <title>Gran Madrid Show</title>
