@@ -13979,8 +13979,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261122115000 +0100" stop="20261122140900 +0100" channel="DAZN 1">
-    <title>DIRECTO Jornada 12: Granada - Real Madrid CF T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Liga F T26/27 · Jornada 12: Granada - Real Madrid CF</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -13988,9 +13988,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122140900 +0100" stop="20261122145000 +0100" channel="DAZN 1">
     <title>The Post T1 E6</title>
@@ -14103,7 +14100,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261123130000 +0100" stop="20261123140200 +0100" channel="DAZN 1">
-    <title>Carrera Moto3 T2026 · MotoGP - GP de Portugal</title>
+    <title>MotoGP - GP de Portugal T2026 · Carrera Moto3</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motociclismo) David Almansa puede sellar el subcampeonato en Portugal.
 · País: Portugal</desc>
@@ -14117,7 +14114,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261123140200 +0100" stop="20261123150400 +0100" channel="DAZN 1">
-    <title>Carrera Moto2 T2026 · MotoGP - GP de Portugal</title>
+    <title>MotoGP - GP de Portugal T2026 · Carrera Moto2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motociclismo) Tras el cero de Izan Guevara en Catar, Manuel González lidera la tabla de Moto2 con 13,5 puntos de ventaja. El campeonato está al rojo vivo y todo va a depender de lo que ocurra en Portimao durante el GP de Portugal.
 · País: Portugal</desc>
@@ -14273,7 +14270,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261124164500 +0100" stop="20261124174500 +0100" channel="DAZN 1">
-    <title>Carrera Moto3 T2026 · MotoGP - GP de Portugal</title>
+    <title>MotoGP - GP de Portugal T2026 · Carrera Moto3</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motociclismo) David Almansa puede sellar el subcampeonato en Portugal.
 · País: Portugal</desc>
@@ -14287,7 +14284,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261124174500 +0100" stop="20261124184500 +0100" channel="DAZN 1">
-    <title>Carrera Moto2 T2026 · MotoGP - GP de Portugal</title>
+    <title>MotoGP - GP de Portugal T2026 · Carrera Moto2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motociclismo) Tras el cero de Izan Guevara en Catar, Manuel González lidera la tabla de Moto2 con 13,5 puntos de ventaja. El campeonato está al rojo vivo y todo va a depender de lo que ocurra en Portimao durante el GP de Portugal.
 · País: Portugal</desc>
@@ -14994,8 +14991,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261122115000 +0100" stop="20261122140200 +0100" channel="DAZN 2">
-    <title>DIRECTO Jornada 12: Real Sociedad - Sevilla CF T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 12: Real Sociedad - Sevilla CF</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Con las dudas disipadas en el arranque de curso, las donostiarras reciben a un Sevilla necesitado de puntos para huir de la zona baja de la clasificación.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -15003,9 +15000,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122140200 +0100" stop="20261122165000 +0100" channel="DAZN 2">
     <title>Disfruta de DAZN en Movistar Plus</title>
@@ -15438,8 +15432,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261122122100 +0100" stop="20261122145400 +0100" channel="DAZN Baloncesto">
-    <title>DIRECTO Jornada 9: Leyma Coruña - iLERNA Lleida T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <title>Liga Endesa T26/27 · Jornada 9: Leyma Coruña - iLERNA Lleida</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15447,9 +15441,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>5.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122145400 +0100" stop="20261122183000 +0100" channel="DAZN Baloncesto">
     <title>DAZN Baloncesto</title>
@@ -15526,7 +15517,7 @@
 	</programme>
 	<programme start="20261124202300 +0100" stop="20261124225600 +0100" channel="DAZN Baloncesto">
     <title>DIRECTO Jornada 9: Real Madrid - Basket Zaragoza T26/27 · Liga U</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Tras el éxito de su año de debut, la segunda temporada de la Liga U pretende consolidarse.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15534,6 +15525,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261124225600 +0100" stop="20261125025600 +0100" channel="DAZN Baloncesto">
     <title>DAZN Baloncesto</title>
@@ -15613,8 +15607,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261122115100 +0100" stop="20261122142400 +0100" channel="DAZN Baloncesto 2">
-    <title>DIRECTO Jornada 9: Surne Bilbao - Kosner Baskonia T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga Endesa T26/27 · Jornada 9: Surne Bilbao - Kosner Baskonia</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15622,9 +15616,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122142400 +0100" stop="20261122175100 +0100" channel="DAZN Baloncesto 2">
     <title>DAZN Baloncesto 2</title>
@@ -15775,8 +15766,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261122115100 +0100" stop="20261122142400 +0100" channel="DAZN Baloncesto 3">
-    <title>DIRECTO Jornada 9: Obradoiro CAB - FIATC Girona T26/27 · Liga Endesa</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <title>Liga Endesa T26/27 · Jornada 9: Obradoiro CAB - FIATC Girona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) La Liga Endesa es la máxima competición española de clubes.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -15784,9 +15775,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.8/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122142400 +0100" stop="20261122165100 +0100" channel="DAZN Baloncesto 3">
     <title>DAZN Baloncesto 3</title>
@@ -15928,7 +15916,7 @@
     <title>DAZN Baloncesto 3</title>
     <desc>Programa por determinar...</desc>
 	</programme>
-	<programme start="20261122070000 +0100" stop="20261122083000 +0100" channel="DAZN F1">
+	<programme start="20261122071000 +0100" stop="20261122083000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · El Post de la Fórmula 1</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -15938,7 +15926,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122083000 +0100" stop="20261122090000 +0100" channel="DAZN F1">
+	<programme start="20261122083000 +0100" stop="20261122090500 +0100" channel="DAZN F1">
     <title>Gearbox T2026 E29</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
@@ -15951,7 +15939,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122090000 +0100" stop="20261122111500 +0100" channel="DAZN F1">
+	<programme start="20261122090500 +0100" stop="20261122112000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Brasil T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -15961,7 +15949,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122111500 +0100" stop="20261122114000 +0100" channel="DAZN F1">
+	<programme start="20261122112000 +0100" stop="20261122114500 +0100" channel="DAZN F1">
     <title>Código F1 T2026 · Brasil</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Descubrimos todos los detalles del Campeonato Mundial de Fórmula 1, conocemos con profundidad a sus protagonistas y repasamos los mejores momentos de la competición.</desc>
@@ -15974,7 +15962,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122114000 +0100" stop="20261122120000 +0100" channel="DAZN F1">
+	<programme start="20261122114500 +0100" stop="20261122120000 +0100" channel="DAZN F1">
     <title>Madrid, velocidad y memoria</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Madrid, velocidad y memoria -.
@@ -15988,7 +15976,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122120000 +0100" stop="20261122130500 +0100" channel="DAZN F1">
+	<programme start="20261122120000 +0100" stop="20261122130600 +0100" channel="DAZN F1">
     <title>Decoded: Hamilton</title>
     <sub-title>2025 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fórmula 1) Decoded: Hamilton.</desc>
@@ -16001,7 +15989,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122130500 +0100" stop="20261122141500 +0100" channel="DAZN F1">
+	<programme start="20261122130600 +0100" stop="20261122142500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Clasificación</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16011,7 +15999,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122141500 +0100" stop="20261122144500 +0100" channel="DAZN F1">
+	<programme start="20261122142500 +0100" stop="20261122150000 +0100" channel="DAZN F1">
     <title>Gearbox T2026 E29</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fórmula 1) Los fanáticos de la conducción tienen una cita en Gearbox, donde los volantes del presente, del pasado y del futuro se ponen en las manos de los mejores expertos.</desc>
@@ -16024,7 +16012,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122144500 +0100" stop="20261122164500 +0100" channel="DAZN F1">
+	<programme start="20261122150000 +0100" stop="20261122165500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16034,7 +16022,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122164500 +0100" stop="20261122183000 +0100" channel="DAZN F1">
+	<programme start="20261122165500 +0100" stop="20261122183200 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Box, Box</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16044,7 +16032,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122183000 +0100" stop="20261122194000 +0100" channel="DAZN F1">
+	<programme start="20261122183200 +0100" stop="20261122194000 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Libres 1</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16054,7 +16042,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122194000 +0100" stop="20261122205000 +0100" channel="DAZN F1">
+	<programme start="20261122194000 +0100" stop="20261122204900 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Libres 2</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16064,7 +16052,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122205000 +0100" stop="20261122220000 +0100" channel="DAZN F1">
+	<programme start="20261122204900 +0100" stop="20261122215800 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Libres 3</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16074,7 +16062,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122220000 +0100" stop="20261122231000 +0100" channel="DAZN F1">
+	<programme start="20261122215800 +0100" stop="20261122231500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Clasificación</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16084,7 +16072,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261122231000 +0100" stop="20261123011000 +0100" channel="DAZN F1">
+	<programme start="20261122231500 +0100" stop="20261123011400 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Las Vegas T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.</desc>
@@ -16094,7 +16082,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261123011000 +0100" stop="20261123031500 +0100" channel="DAZN F1">
+	<programme start="20261123011400 +0100" stop="20261123031700 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Barcelona. Catalunya T2026 · Carrera</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2026 promete más emoción y espectáculo que nunca.
@@ -16105,25 +16093,31 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261123031500 +0100" stop="20261123052000 +0100" channel="DAZN F1">
+	<programme start="20261123031700 +0100" stop="20261123052100 +0100" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2023 · GP de Azerbaiyán: Carrera</title>
-    <sub-title>2023 | TP</sub-title>
+    <sub-title>2023 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2023 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4097806" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
 	</programme>
-	<programme start="20261123052000 +0100" stop="20261123072500 +0100" channel="DAZN F1">
+	<programme start="20261123052100 +0100" stop="20261123072500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Canadá T2025 · Carrera</title>
-    <sub-title>2025 | TP</sub-title>
+    <sub-title>2025 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4378297" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261123072500 +0100" stop="20261123092500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Austria T2026 · Carrera</title>
@@ -17846,7 +17840,7 @@
 	</programme>
 	<programme start="20261126150000 +0100" stop="20261126163000 +0100" channel="DAZN LaLiga">
     <title>DIRECTO Programa 43 T26/27 · Trending</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17854,6 +17848,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261126163000 +0100" stop="20261126164500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 15: Real Sociedad B - Cádiz CF</title>
@@ -17910,7 +17907,7 @@
 	</programme>
 	<programme start="20261126210000 +0100" stop="20261126223000 +0100" channel="DAZN LaLiga">
     <title>Programa 43 T26/27 · Trending</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Una cita diaria con el latido del fútbol internacional. Un rincón exclusivo donde se desmenuza la actualidad de las grandes ligas, con las mejores imágenes y el testimonio de los protagonistas.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17918,6 +17915,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261126223000 +0100" stop="20261127003000 +0100" channel="DAZN LaLiga">
     <title>LALIGA EA SPORTS T26/27 · Jornada 13: Sevilla - Betis</title>
@@ -17935,8 +17935,8 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261122095000 +0100" stop="20261122104500 +0100" channel="DAZN MotoGP">
-    <title>DIRECTO Warm Up T2026 · MotoGP - GP de Portugal</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>MotoGP - GP de Portugal T2026 · Warm Up</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Motociclismo) Con 60 puntos de ventaja sobre Jorge Martín, Marc Márquez tiene una gran oportunidad matemática de coronarse de forma anticipada campeón del mundo de MotoGP.
 · País: Portugal</desc>
     <category>Deportes, Motociclismo</category>
@@ -17944,12 +17944,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122104500 +0100" stop="20261122115500 +0100" channel="DAZN MotoGP">
-    <title>DIRECTO Carrera Moto3 T2026 · MotoGP - GP de Portugal</title>
+    <title>MotoGP - GP de Portugal T2026 · Carrera Moto3</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motociclismo) David Almansa puede sellar el subcampeonato en Portugal.
 · País: Portugal</desc>
@@ -17963,7 +17960,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122115500 +0100" stop="20261122133000 +0100" channel="DAZN MotoGP">
-    <title>DIRECTO Carrera Moto2 T2026 · MotoGP - GP de Portugal</title>
+    <title>MotoGP - GP de Portugal T2026 · Carrera Moto2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Motociclismo) Tras el cero de Izan Guevara en Catar, Manuel González lidera la tabla de Moto2 con 13,5 puntos de ventaja. El campeonato está al rojo vivo y todo va a depender de lo que ocurra en Portimao durante el GP de Portugal.
 · País: Portugal</desc>
@@ -21395,8 +21392,8 @@
 		</rating>
 	</programme>
 	<programme start="20261122101500 +0100" stop="20261122120000 +0100" channel="Eurosport 1">
-    <title>DIRECTO Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21404,12 +21401,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122120000 +0100" stop="20261122133000 +0100" channel="Eurosport 1">
-    <title>DIRECTO Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -21465,7 +21459,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122154500 +0100" stop="20261122180000 +0100" channel="Eurosport 1">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí M - Lillehammer</title>
+    <title>DIRECTO Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí M - Lillehammer</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -21479,8 +21473,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122180000 +0100" stop="20261122183000 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21488,9 +21482,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122183000 +0100" stop="20261122190000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
@@ -21521,7 +21512,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122210000 +0100" stop="20261122220000 +0100" channel="Eurosport 1">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -21535,8 +21526,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122220000 +0100" stop="20261122223000 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21544,9 +21535,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122223000 +0100" stop="20261122230000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
@@ -21646,7 +21634,7 @@
 		</rating>
 	</programme>
 	<programme start="20261123060000 +0100" stop="20261123070000 +0100" channel="Eurosport 1">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -21660,8 +21648,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261123070000 +0100" stop="20261123074500 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21669,9 +21657,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261123074500 +0100" stop="20261123083000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
@@ -21721,8 +21706,8 @@
 		</rating>
 	</programme>
 	<programme start="20261123113000 +0100" stop="20261123121500 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21730,9 +21715,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261123121500 +0100" stop="20261123130000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
@@ -21760,7 +21742,7 @@
 		</rating>
 	</programme>
 	<programme start="20261123143000 +0100" stop="20261123151500 +0100" channel="Eurosport 1">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -21810,8 +21792,8 @@
 		</rating>
 	</programme>
 	<programme start="20261123173000 +0100" stop="20261123181500 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21819,9 +21801,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261123181500 +0100" stop="20261123190000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
@@ -21956,8 +21935,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261124050000 +0100" stop="20261124060000 +0100" channel="Eurosport 1">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
@@ -21965,9 +21944,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261124060000 +0100" stop="20261124070000 +0100" channel="Eurosport 1">
     <title>Eslalon - 2ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
@@ -22020,7 +21996,7 @@
 		</rating>
 	</programme>
 	<programme start="20261124110000 +0100" stop="20261124120000 +0100" channel="Eurosport 1">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -22109,7 +22085,7 @@
 		</rating>
 	</programme>
 	<programme start="20261124173000 +0100" stop="20261124180000 +0100" channel="Eurosport 1">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -22176,7 +22152,7 @@
 		</rating>
 	</programme>
 	<programme start="20261124230000 +0100" stop="20261125000000 +0100" channel="Eurosport 1">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -22789,7 +22765,7 @@
 	</programme>
 	<programme start="20261122083000 +0100" stop="20261122103000 +0100" channel="Eurosport 2">
     <title>Global Champions Tour - Verona T2026 · Super Grand Prix - Manga 2</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Hípica) La cita de Verona para los circuitos de la Global Champions es la cita final del año.
 · País: Italia</desc>
     <category>Deportes, Hípica</category>
@@ -22797,9 +22773,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122103000 +0100" stop="20261122120000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de saltos de esquí M - Lillehammer T26/27 · Trampolín largo - Día 1</title>
@@ -22880,12 +22853,12 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122161500 +0100" stop="20261122170000 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4450781" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4450781" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -22930,7 +22903,7 @@
 		</rating>
 	</programme>
 	<programme start="20261122203000 +0100" stop="20261122210000 +0100" channel="Eurosport 2">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -22944,12 +22917,12 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122210000 +0100" stop="20261122213000 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4450781" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4450781" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -23025,12 +22998,12 @@
 		</star-rating>
 	</programme>
 	<programme start="20261123030000 +0100" stop="20261123040000 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4450781" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4450781" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -23150,12 +23123,12 @@
 		</rating>
 	</programme>
 	<programme start="20261123140000 +0100" stop="20261123143000 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4450781" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4450781" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -23203,7 +23176,7 @@
 		</rating>
 	</programme>
 	<programme start="20261123190000 +0100" stop="20261123194500 +0100" channel="Eurosport 2">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -23291,7 +23264,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261124020000 +0100" stop="20261124030000 +0100" channel="Eurosport 2">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -23363,7 +23336,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261124083000 +0100" stop="20261124100000 +0100" channel="Eurosport 2">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -23399,7 +23372,7 @@
 		</rating>
 	</programme>
 	<programme start="20261124130000 +0100" stop="20261124140000 +0100" channel="Eurosport 2">
-    <title>Trampolín largo - Día 2 T26/27 · Copa del mundo de saltos de esquí F - Lillehammer</title>
+    <title>Copa del mundo de saltos de esquí F - Lillehammer T26/27 · Trampolín largo - Día 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Saltos de esquí) El histórico trampolín de Lysgardsbakken abre la temporada de la Copa del mundo.
 · País: Noruega</desc>
@@ -23490,12 +23463,12 @@
 		</rating>
 	</programme>
 	<programme start="20261124193000 +0100" stop="20261124201500 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4450781" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4450781" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -23925,12 +23898,12 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126070000 +0100" stop="20261126074500 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4450781" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4450781" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -24034,12 +24007,12 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126140000 +0100" stop="20261126143000 +0100" channel="Eurosport 2">
-    <title>Eslalon - 1ª manga T26/27 · Copa del mundo de esquí alpino M - Gurgl</title>
+    <title>Copa del mundo de esquí alpino M - Gurgl T26/27 · Eslalon - 1ª manga</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Esquí alpino) La parada de Gurgl en la Copa del Mundo de esquí alpino cuenta con pruebas de eslalon en la exigente pista Kirchenkar de Hochgurgl, situada a más de 2.000 metros de altitud. Este evento marca el inicio de la temporada de invierno en el Tirol.
 · País: Austria</desc>
     <category>Deportes, Esquí alpino</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESPP4450781" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4450781" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -30782,8 +30755,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122122500 +0100" stop="20261122144000 +0100" channel="M+ Baloncesto">
-    <title>DIRECTO Jornada 8: Valencia Basket - Innova TSN Leganés T26/27 · LF Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LF Endesa T26/27 · Jornada 8: Valencia Basket - Innova TSN Leganés</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos femeninos de básquet luchan por el título de liga. La competición se divide en una primera fase regular en la que los mejores clasificados acceden a las eliminatorias por el título. El actual campeón es el Valencia Basket.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -30791,9 +30764,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122144000 +0100" stop="20261122175500 +0100" channel="M+ Baloncesto">
     <title>M+ Baloncesto</title>
@@ -31139,8 +31109,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122115500 +0100" stop="20261122141000 +0100" channel="M+ Baloncesto 2">
-    <title>DIRECTO Jornada 8: Baxi Ferrol - Azul Marino Mallorca T26/27 · LF Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LF Endesa T26/27 · Jornada 8: Baxi Ferrol - Azul Marino Mallorca</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos femeninos de básquet luchan por el título de liga. La competición se divide en una primera fase regular en la que los mejores clasificados acceden a las eliminatorias por el título. El actual campeón es el Valencia Basket.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31148,9 +31118,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122141000 +0100" stop="20261122175500 +0100" channel="M+ Baloncesto 2">
     <title>M+ Baloncesto</title>
@@ -31402,8 +31369,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122115500 +0100" stop="20261122141000 +0100" channel="M+ Baloncesto 3">
-    <title>DIRECTO Jornada 8: Durán Maquinaria Ensino - Spar Girona T26/27 · LF Endesa</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>LF Endesa T26/27 · Jornada 8: Durán Maquinaria Ensino - Spar Girona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos femeninos de básquet luchan por el título de liga. La competición se divide en una primera fase regular en la que los mejores clasificados acceden a las eliminatorias por el título. El actual campeón es el Valencia Basket.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31411,9 +31378,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122141000 +0100" stop="20261122210000 +0100" channel="M+ Baloncesto 3">
     <title>M+ Baloncesto</title>
@@ -31612,8 +31576,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122115500 +0100" stop="20261122141000 +0100" channel="M+ Baloncesto 4">
-    <title>DIRECTO Jornada 8: Inversus Gernika Bizkaia - Cadí La Seu T26/27 · LF Endesa</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>LF Endesa T26/27 · Jornada 8: Inversus Gernika Bizkaia - Cadí La Seu</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos femeninos de básquet luchan por el título de liga. La competición se divide en una primera fase regular en la que los mejores clasificados acceden a las eliminatorias por el título. El actual campeón es el Valencia Basket.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31621,9 +31585,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122141000 +0100" stop="20261122210000 +0100" channel="M+ Baloncesto 4">
     <title>M+ Baloncesto</title>
@@ -31757,7 +31718,7 @@
 	</programme>
 	<programme start="20261125185500 +0100" stop="20261125211000 +0100" channel="M+ Baloncesto 4">
     <title>DIRECTO Jornada 5: Flammes Carolo - Valencia Basket T26/27 · Euroliga femenina</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Baloncesto) Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4513854" />
@@ -31765,7 +31726,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125211000 +0100" stop="20261126080000 +0100" channel="M+ Baloncesto 4">
@@ -36130,7 +36091,7 @@
 	</programme>
 	<programme start="20261122180000 +0100" stop="20261122203000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -36138,7 +36099,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122203000 +0100" stop="20261122215000 +0100" channel="M+ Deportes 2">
@@ -36360,7 +36321,7 @@
 	</programme>
 	<programme start="20261125160000 +0100" stop="20261125180000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Italia - Corea Evento 1 T2026 · Copa Davis. Fase Final</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Tenis) Corea Evento 1 -.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4506520" />
@@ -36368,7 +36329,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125180000 +0100" stop="20261125181500 +0100" channel="M+ Deportes 2">
@@ -36412,7 +36373,7 @@
 	</programme>
 	<programme start="20261125203000 +0100" stop="20261125223000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Italia - Corea Evento 3 T2026 · Copa Davis. Fase Final</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Tenis) Corea Evento 3 -.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4506524" />
@@ -36420,7 +36381,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125223000 +0100" stop="20261126053000 +0100" channel="M+ Deportes 2">
@@ -36529,7 +36490,7 @@
 	</programme>
 	<programme start="20261126143000 +0100" stop="20261126163000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Gran Bretaña - Alemania Evento 3 T2026 · Copa Davis. Fase Final</title>
-    <sub-title>2026 | TP | ★5.6/10</sub-title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Tenis) Alemania Evento 3 -.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4506512" />
@@ -36537,7 +36498,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.6/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126163000 +0100" stop="20261126164500 +0100" channel="M+ Deportes 2">
@@ -36658,17 +36619,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122111500 +0100" stop="20261122144500 +0100" channel="M+ Deportes 3">
-    <title>DIRECTO Hipódromo de La Zarzuela 22/11/2026 T2026 · Las Carreras</title>
-    <sub-title>2025 | TP | ★6.0/10</sub-title>
+    <title>Las Carreras T2026 · Hipódromo de La Zarzuela 22/11/2026</title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Hípica) Las mejores carreras de caballos del Circuito Profesional donde están presentes los mejores jinetes y caballos de nuestro país desde los hipódromos más prestigiosos y famosos.</desc>
     <category>Deportes, Hípica</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4474401" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122144500 +0100" stop="20261122224500 +0100" channel="M+ Deportes 3">
     <title>M+ Deportes 3</title>
@@ -36873,20 +36831,17 @@
     <sub-title>2026</sub-title>
     <desc>(Deportes,Baloncesto) Entrevista Xabi Albert -.</desc>
     <category>Deportes, Baloncesto</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2714615V4458726" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2715633V4458726" />
 	</programme>
 	<programme start="20261122120000 +0100" stop="20261122133000 +0100" channel="M+ Deportes">
-    <title>DIRECTO Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>SailGP T2026 · Dubái Jornada 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122133000 +0100" stop="20261122151000 +0100" channel="M+ Deportes">
     <title>Nitto ATP Finals 2026 T2026 · Semifinales: Zverev - Medvedev</title>
@@ -36920,17 +36875,14 @@
 		</rating>
 	</programme>
 	<programme start="20261122190000 +0100" stop="20261122203000 +0100" channel="M+ Deportes">
-    <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>SailGP T2026 · Dubái Jornada 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122203000 +0100" stop="20261122205000 +0100" channel="M+ Deportes">
     <title>VKS T2026 E269</title>
@@ -36961,7 +36913,7 @@
 	</programme>
 	<programme start="20261122224400 +0100" stop="20261123004300 +0100" channel="M+ Deportes">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -36969,7 +36921,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123004300 +0100" stop="20261123011200 +0100" channel="M+ Deportes">
@@ -37041,17 +36993,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261123063200 +0100" stop="20261123080000 +0100" channel="M+ Deportes">
-    <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>SailGP T2026 · Dubái Jornada 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261123080000 +0100" stop="20261123100000 +0100" channel="M+ Deportes">
     <title>Final: Arévalo/Pavic - Arribagé/Olivetti (ambiente) T2026 · Nitto ATP Finals 2026</title>
@@ -37108,7 +37057,7 @@
 	</programme>
 	<programme start="20261123124000 +0100" stop="20261123144000 +0100" channel="M+ Deportes">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -37116,7 +37065,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123144000 +0100" stop="20261123163000 +0100" channel="M+ Deportes">
@@ -37149,17 +37098,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261123170000 +0100" stop="20261123183000 +0100" channel="M+ Deportes">
-    <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>SailGP T2026 · Dubái Jornada 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261123183000 +0100" stop="20261123185000 +0100" channel="M+ Deportes">
     <title>En estado puro T2026 E31</title>
@@ -37209,7 +37155,7 @@
 	</programme>
 	<programme start="20261123232000 +0100" stop="20261124012000 +0100" channel="M+ Deportes">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -37217,7 +37163,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124012000 +0100" stop="20261124022000 +0100" channel="M+ Deportes">
@@ -37276,17 +37222,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261124063000 +0100" stop="20261124080000 +0100" channel="M+ Deportes">
-    <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>SailGP T2026 · Dubái Jornada 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261124080000 +0100" stop="20261124095000 +0100" channel="M+ Deportes">
     <title>Rugby Nations Cup T2026 · España - Samoa</title>
@@ -37297,7 +37240,7 @@
 	</programme>
 	<programme start="20261124095000 +0100" stop="20261124115000 +0100" channel="M+ Deportes">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -37305,7 +37248,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124115000 +0100" stop="20261124130000 +0100" channel="M+ Deportes">
@@ -37347,17 +37290,14 @@
 		</rating>
 	</programme>
 	<programme start="20261124154000 +0100" stop="20261124171000 +0100" channel="M+ Deportes">
-    <title>Dubái Jornada 2 T2026 · SailGP</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>SailGP T2026 · Dubái Jornada 2</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4380288" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261124171000 +0100" stop="20261124182000 +0100" channel="M+ Deportes">
     <title>Carreras de Caballos- Turf T2026 · 22/11/2026 Hipódromo de la Zarzuela</title>
@@ -37384,7 +37324,7 @@
 	</programme>
 	<programme start="20261124200500 +0100" stop="20261124220000 +0100" channel="M+ Deportes">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -37392,7 +37332,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124220000 +0100" stop="20261124230000 +0100" channel="M+ Deportes">
@@ -37628,7 +37568,7 @@
 	</programme>
 	<programme start="20261125214500 +0100" stop="20261125221500 +0100" channel="M+ Deportes">
     <title>ATP Tour This Week T2026 E46</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★9.0/10</sub-title>
     <desc>(Deportes,Programa deportes) ATP Tour This Week.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3824946" />
@@ -37636,7 +37576,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>9.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125221500 +0100" stop="20261126000500 +0100" channel="M+ Deportes">
@@ -37684,7 +37624,7 @@
 	</programme>
 	<programme start="20261126022500 +0100" stop="20261126042000 +0100" channel="M+ Deportes">
     <title>Italia - Corea Evento 2 T2026 · Copa Davis. Fase Final</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Tenis) Corea Evento 2 -.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4506522" />
@@ -37692,7 +37632,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126042000 +0100" stop="20261126061000 +0100" channel="M+ Deportes">
@@ -37725,7 +37665,7 @@
 	</programme>
 	<programme start="20261126080000 +0100" stop="20261126083000 +0100" channel="M+ Deportes">
     <title>ATP Tour This Week T2026 E46</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★9.0/10</sub-title>
     <desc>(Deportes,Programa deportes) ATP Tour This Week.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3824946" />
@@ -37733,7 +37673,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>9.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126083000 +0100" stop="20261126102000 +0100" channel="M+ Deportes">
@@ -37861,7 +37801,7 @@
 	</programme>
 	<programme start="20261126191500 +0100" stop="20261126210000 +0100" channel="M+ Deportes">
     <title>Jornada 5: Flammes Carolo - Valencia Basket T26/27 · Euroliga femenina</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Baloncesto) Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4513854" />
@@ -37869,7 +37809,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126210000 +0100" stop="20261126213000 +0100" channel="M+ Deportes">
@@ -41347,7 +41287,7 @@
 	</programme>
 	<programme start="20261124041500 +0100" stop="20261124051400 +0100" channel="M+ Estrenos">
     <title>Yellowjackets T4 E1 · La mente de la colmena</title>
-    <sub-title>2026 | ⑱ | ★7.6/10</sub-title>
+    <sub-title>2026 | ⑱ | ★7.8/10</sub-title>
     <desc>(Series,Thriller) Las Yellowjackets regresan a casa y se enfrentan antes de lo previsto a las preguntas sobre lo ocurrido en el bosque. Casi 25 años después, la desconfianza vuelve a marcar sus alianzas.
 · País: Estados Unidos
 · Dirección: Bart Nickerson.
@@ -41360,7 +41300,7 @@
 			<value>18</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.6/10</value>
+			<value>7.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124051400 +0100" stop="20261124070500 +0100" channel="M+ Estrenos">
@@ -45948,7 +45888,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122184600 +0100" stop="20261122200000 +0100" channel="M+ LaLiga">
+	<programme start="20261122184600 +0100" stop="20261122202000 +0100" channel="M+ LaLiga">
     <title>El fútbol según Raúl T2 · Ese Cádiz, oé</title>
     <sub-title>2021 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Programa deportes) Capta la esencia de la Tacita de Plata y de su gente tratando el fútbol (y lo que no es el fútbol) a través de bloques generacionales. Es un recorrido por sus hitos futbolísticos y sus gentes para descubrir por qué el Cádiz y Cádiz son tan especiales.
@@ -45963,8 +45903,8 @@
 			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122200000 +0100" stop="20261122205000 +0100" channel="M+ LaLiga">
-    <title>DIRECTO Getafe CF - Atlético de Madrid T26/27 · La Casa del Fútbol Previa</title>
+	<programme start="20261122202000 +0100" stop="20261122205000 +0100" channel="M+ LaLiga">
+    <title>Getafe CF - Atlético de Madrid T26/27 · La Casa del Fútbol Previa</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
@@ -46255,7 +46195,7 @@
 	</programme>
 	<programme start="20261123135400 +0100" stop="20261123141100 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46264,7 +46204,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123141100 +0100" stop="20261123152500 +0100" channel="M+ LaLiga">
@@ -46461,7 +46401,7 @@
 	</programme>
 	<programme start="20261123230700 +0100" stop="20261123232500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46470,7 +46410,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123232500 +0100" stop="20261124003000 +0100" channel="M+ LaLiga">
@@ -46669,7 +46609,7 @@
 	</programme>
 	<programme start="20261124074000 +0100" stop="20261124080000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46678,7 +46618,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124080000 +0100" stop="20261124100000 +0100" channel="M+ LaLiga">
@@ -46817,7 +46757,7 @@
 	</programme>
 	<programme start="20261124114800 +0100" stop="20261124120500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -46826,7 +46766,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261124120500 +0100" stop="20261124131500 +0100" channel="M+ LaLiga">
@@ -47346,7 +47286,7 @@
 	</programme>
 	<programme start="20261125015800 +0100" stop="20261125021500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47355,7 +47295,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125021500 +0100" stop="20261125032000 +0100" channel="M+ LaLiga">
@@ -47729,7 +47669,7 @@
 	</programme>
 	<programme start="20261125164300 +0100" stop="20261125170000 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47738,7 +47678,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125170000 +0100" stop="20261125181000 +0100" channel="M+ LaLiga">
@@ -48083,7 +48023,7 @@
 	</programme>
 	<programme start="20261126010800 +0100" stop="20261126012500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -48092,7 +48032,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126012500 +0100" stop="20261126021500 +0100" channel="M+ LaLiga">
@@ -48276,7 +48216,7 @@
 	</programme>
 	<programme start="20261126114800 +0100" stop="20261126120500 +0100" channel="M+ LaLiga">
     <title>Resúmenes LALIGA EA Sports T26/27 · Jornada 13: Sevilla FC - Real Betis</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Primera División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la máxima competición del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -48285,7 +48225,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126120500 +0100" stop="20261126140000 +0100" channel="M+ LaLiga">
@@ -48774,7 +48714,7 @@
 	</programme>
 	<programme start="20261126205300 +0100" stop="20261126230000 +0100" channel="M+ Liga de Campeones 10">
     <title>DIRECTO Jornada 5: OFI Creta - Anderlecht T26/27 · UEFA Europa League</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.4/10</sub-title>
     <desc>(Deportes,Fútbol) Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4499908" />
@@ -48782,7 +48722,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>5.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126230000 +0100" stop="20261127060000 +0100" channel="M+ Liga de Campeones 10">
@@ -48849,13 +48789,16 @@
 	</programme>
 	<programme start="20261126184000 +0100" stop="20261126204500 +0100" channel="M+ Liga de Campeones 11">
     <title>DIRECTO Jornada 4: AFC Ajax - FC Thun T26/27 · UEFA Conference League</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Fútbol) Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA. El Chelsea es el actual campeón.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518893" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261126204500 +0100" stop="20261126205300 +0100" channel="M+ Liga de Campeones 11">
     <title>M+ Liga de Campeones 11</title>
@@ -48869,7 +48812,7 @@
 	</programme>
 	<programme start="20261126205300 +0100" stop="20261126230000 +0100" channel="M+ Liga de Campeones 11">
     <title>DIRECTO Jornada 5: Ferencváros - Celje T26/27 · UEFA Europa League</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4499894" />
@@ -48877,7 +48820,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126230000 +0100" stop="20261127060000 +0100" channel="M+ Liga de Campeones 11">
@@ -48944,13 +48887,16 @@
 	</programme>
 	<programme start="20261126184000 +0100" stop="20261126204500 +0100" channel="M+ Liga de Campeones 12">
     <title>DIRECTO Jornada 4: Brighton &amp; Hove Albion - Universitatea Craiova T26/27 · UEFA Conference League</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA. El Chelsea es el actual campeón.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518895" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261126204500 +0100" stop="20261126205500 +0100" channel="M+ Liga de Campeones 12">
     <title>M+ Liga de Campeones 12</title>
@@ -49045,13 +48991,16 @@
 	</programme>
 	<programme start="20261126184000 +0100" stop="20261126204500 +0100" channel="M+ Liga de Campeones 13">
     <title>DIRECTO Jornada 4: Heart of Midlothian - AS Mónaco T26/27 · UEFA Conference League</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Fútbol) Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA. El Chelsea es el actual campeón.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518899" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261126204500 +0100" stop="20261126205500 +0100" channel="M+ Liga de Campeones 13">
     <title>M+ Liga de Campeones 13</title>
@@ -49068,13 +49017,16 @@
 	</programme>
 	<programme start="20261126205500 +0100" stop="20261126230000 +0100" channel="M+ Liga de Campeones 13">
     <title>DIRECTO Jornada 4: Inter Escaldes - Copenhague T26/27 · UEFA Conference League</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★2.0/10</sub-title>
     <desc>(Deportes,Fútbol) Poco a poco, la Conference League se va consolidando como una competición a seguir. El tercer torneo de la UEFA aglutina a 36 equipos en su fase liga, al igual que el resto de competiciones UEFA. El Chelsea es el actual campeón.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518901" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>2.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261126230000 +0100" stop="20261127060000 +0100" channel="M+ Liga de Campeones 13">
     <title>M+ Liga de Campeones 13</title>
@@ -52093,7 +52045,7 @@
 	</programme>
 	<programme start="20261122094800 +0100" stop="20261122104600 +0100" channel="M+ Originales">
     <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
@@ -52101,7 +52053,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122104600 +0100" stop="20261122121500 +0100" channel="M+ Originales">
@@ -52156,7 +52108,7 @@
 	</programme>
 	<programme start="20261122131600 +0100" stop="20261122134600 +0100" channel="M+ Originales">
     <title>Celeste T2 E3</title>
-    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Thriller) Sara busca apoyo de Carmelo para registrar la fundación, pero él insiste en los riesgos. Un cambio en uno de los tatuajes de Figueroa da a Sara una nueva pista. En casa, Alberto está vulnerable y ella empieza a desmoronarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -52169,7 +52121,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122134600 +0100" stop="20261122142000 +0100" channel="M+ Originales">
@@ -52210,7 +52162,7 @@
 	</programme>
 	<programme start="20261122145100 +0100" stop="20261122152700 +0100" channel="M+ Originales">
     <title>Celeste T2 E6</title>
-    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.8/10</sub-title>
     <desc>(Series,Thriller) Carmelo visita a Sara en Huéscar con nueva información: el caso Figueroa se ha cerrado y la Fiscalía irá a juicio. Sara deberá elegir entre defender el legado de su marido o hacer justicia.
 · País: España
 · Dirección: Elena Trapé.
@@ -52223,7 +52175,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122152700 +0100" stop="20261122155700 +0100" channel="M+ Originales">
@@ -52408,7 +52360,7 @@
 	</programme>
 	<programme start="20261122220000 +0100" stop="20261122230000 +0100" channel="M+ Originales">
     <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
@@ -52416,7 +52368,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122230000 +0100" stop="20261122232600 +0100" channel="M+ Originales">
@@ -52457,7 +52409,7 @@
 	</programme>
 	<programme start="20261122235900 +0100" stop="20261123003000 +0100" channel="M+ Originales">
     <title>Celeste T2 E3</title>
-    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Thriller) Sara busca apoyo de Carmelo para registrar la fundación, pero él insiste en los riesgos. Un cambio en uno de los tatuajes de Figueroa da a Sara una nueva pista. En casa, Alberto está vulnerable y ella empieza a desmoronarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -52470,7 +52422,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123003000 +0100" stop="20261123010100 +0100" channel="M+ Originales">
@@ -52511,7 +52463,7 @@
 	</programme>
 	<programme start="20261123013400 +0100" stop="20261123021100 +0100" channel="M+ Originales">
     <title>Celeste T2 E6</title>
-    <sub-title>2026 | ⑫ | ★7.0/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.8/10</sub-title>
     <desc>(Series,Thriller) Carmelo visita a Sara en Huéscar con nueva información: el caso Figueroa se ha cerrado y la Fiscalía irá a juicio. Sara deberá elegir entre defender el legado de su marido o hacer justicia.
 · País: España
 · Dirección: Elena Trapé.
@@ -52524,7 +52476,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123021100 +0100" stop="20261123023600 +0100" channel="M+ Originales">
@@ -52688,7 +52640,7 @@
 	</programme>
 	<programme start="20261123062700 +0100" stop="20261123072500 +0100" channel="M+ Originales">
     <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
@@ -52696,7 +52648,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123072500 +0100" stop="20261123075600 +0100" channel="M+ Originales">
@@ -53901,7 +53853,7 @@
 	</programme>
 	<programme start="20261125150200 +0100" stop="20261125153800 +0100" channel="M+ Originales">
     <title>Celeste T2 E3</title>
-    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Thriller) Sara busca apoyo de Carmelo para registrar la fundación, pero él insiste en los riesgos. Un cambio en uno de los tatuajes de Figueroa da a Sara una nueva pista. En casa, Alberto está vulnerable y ella empieza a desmoronarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -53914,7 +53866,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125153800 +0100" stop="20261125163100 +0100" channel="M+ Originales">
@@ -54012,7 +53964,6 @@
 · Reparto: Nagore Aranburu, Pedro Casablanc, Miguel Bernardeau, Iván Pellicer, Loreto Mauleón, Natalia Huarte.
 · Guion: Alauda Ruiz de Azúa, Eduard Solà.</desc>
     <category>Series, Drama</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4306813" />
 		<rating system="ES">
 			<value>16</value>
 		</rating>
@@ -54243,7 +54194,7 @@
 	</programme>
 	<programme start="20261126063200 +0100" stop="20261126070500 +0100" channel="M+ Originales">
     <title>Celeste T2 E3</title>
-    <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
+    <sub-title>2026 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Thriller) Sara busca apoyo de Carmelo para registrar la fundación, pero él insiste en los riesgos. Un cambio en uno de los tatuajes de Figueroa da a Sara una nueva pista. En casa, Alberto está vulnerable y ella empieza a desmoronarse.
 · País: España
 · Dirección: Elena Trapé.
@@ -54256,7 +54207,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.6/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126070500 +0100" stop="20261126075500 +0100" channel="M+ Originales">
@@ -54679,8 +54630,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122115000 +0100" stop="20261122140000 +0100" channel="M+ Vamos 2">
-    <title>DIRECTO Jornada 12: Real Sociedad - Sevilla CF T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Liga F T26/27 · Jornada 12: Real Sociedad - Sevilla CF</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Con las dudas disipadas en el arranque de curso, las donostiarras reciben a un Sevilla necesitado de puntos para huir de la zona baja de la clasificación.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -54688,9 +54639,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122140000 +0100" stop="20261122150000 +0100" channel="M+ Vamos 2">
     <title>Fútbol Club Maradona</title>
@@ -54776,7 +54724,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122230000 +0100" stop="20261123003000 +0100" channel="M+ Vamos 2">
-    <title>Dubái Jornada 2 T2026 · SailGP</title>
+    <title>SailGP T2026 · Dubái Jornada 2</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Vela) La temporada 2025/26 de SailGP reúne a los mejores equipos en una competición global de alta velocidad con los espectaculares catamaranes F50. Entre los grandes protagonistas está el equipo español "Los Gallos", liderado por Diego Botín, que afronta un.</desc>
     <category>Deportes, Vela</category>
@@ -55101,7 +55049,7 @@
 	</programme>
 	<programme start="20261122234000 +0100" stop="20261123004000 +0100" channel="M+ Vamos 3">
     <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
@@ -55109,7 +55057,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123004000 +0100" stop="20261123013500 +0100" channel="M+ Vamos 3">
@@ -55192,8 +55140,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122115000 +0100" stop="20261122140000 +0100" channel="M+ Vamos">
-    <title>DIRECTO Jornada 12: Granada - Real Madrid CF T26/27 · Liga F</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <title>Liga F T26/27 · Jornada 12: Granada - Real Madrid CF</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Liga F es la máxima categoría femenina de este deporte.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -55201,9 +55149,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122140000 +0100" stop="20261122153300 +0100" channel="M+ Vamos">
     <title>Nitto ATP Finals 2026 T2026 · Semifinales: Zverev - Medvedev</title>
@@ -55277,7 +55222,7 @@
 	</programme>
 	<programme start="20261122212100 +0100" stop="20261122222000 +0100" channel="M+ Vamos">
     <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
@@ -55285,7 +55230,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122222000 +0100" stop="20261122225000 +0100" channel="M+ Vamos">
@@ -55334,7 +55279,7 @@
 	</programme>
 	<programme start="20261123023000 +0100" stop="20261123043000 +0100" channel="M+ Vamos">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -55342,7 +55287,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123043000 +0100" stop="20261123063000 +0100" channel="M+ Vamos">
@@ -55418,7 +55363,7 @@
 	</programme>
 	<programme start="20261123113500 +0100" stop="20261123134000 +0100" channel="M+ Vamos">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -55426,7 +55371,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123134000 +0100" stop="20261123155000 +0100" channel="M+ Vamos">
@@ -55504,7 +55449,7 @@
 	</programme>
 	<programme start="20261123200500 +0100" stop="20261123210500 +0100" channel="M+ Vamos">
     <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
@@ -55512,7 +55457,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123210500 +0100" stop="20261123220000 +0100" channel="M+ Vamos">
@@ -55872,7 +55817,7 @@
 	</programme>
 	<programme start="20261125024000 +0100" stop="20261125044000 +0100" channel="M+ Vamos">
     <title>Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -55880,7 +55825,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125044000 +0100" stop="20261125054000 +0100" channel="M+ Vamos">
@@ -56599,7 +56544,7 @@
 	</programme>
 	<programme start="20261122180000 +0100" stop="20261122195000 +0100" channel="Movistar Plus">
     <title>DIRECTO Final: Zverev - Alcaraz T2026 · Nitto ATP Finals 2026</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Tenis) Zverev, Alcaraz, Shelton, Medvedev, Cobolli, Fils, Tiafoe y Jódar, los ocho mejores de la temporada, se juegan en Turín el último título de la temporada ATP.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519894" />
@@ -56607,7 +56552,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261122195000 +0100" stop="20261122200500 +0100" channel="Movistar Plus">
@@ -56686,7 +56631,7 @@
 	</programme>
 	<programme start="20261123003000 +0100" stop="20261123012800 +0100" channel="Movistar Plus">
     <title>Informe Plus. La fe de Vicky</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Deportes,Programa deportes) La mejor futbolista joven de Europa. Dos veces premio Kopa. A sus 20 años, Vicky López tiene ya un palmarés futbolístico impresionante, con el FC Barcelona y con la selección española.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4516342" />
@@ -56694,7 +56639,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261123012800 +0100" stop="20261123021800 +0100" channel="Movistar Plus">
@@ -61894,8 +61839,8 @@
 		</rating>
 	</programme>
 	<programme start="20261122120000 +0100" stop="20261122140000 +0100" channel="Primera Federación">
-    <title>DIRECTO Jornada 13: Ourense - Racing Ferrol T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 13: Ourense - Racing Ferrol</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61903,9 +61848,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261122140000 +0100" stop="20261122160000 +0100" channel="Primera Federación">
     <title>Resúmenes Primera Federación T26/27 · Jornada 12</title>
@@ -61964,8 +61906,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261122223500 +0100" stop="20261123011500 +0100" channel="Primera Federación">
-    <title>Jornada 13: Ourense - Racing Ferrol T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 13: Ourense - Racing Ferrol</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61973,9 +61915,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261123011500 +0100" stop="20261123033500 +0100" channel="Primera Federación">
     <title>Jornada 13: Cartagena - Jaén T26/27 · Primera Federación</title>
@@ -62081,7 +62020,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261123230000 +0100" stop="20261124011500 +0100" channel="Primera Federación">
-    <title>DIRECTO Jornada 13: Huesca - Ibiza T26/27 · Primera Federación</title>
+    <title>Primera Federación T26/27 · Jornada 13: Huesca - Ibiza</title>
     <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
@@ -62244,8 +62183,8 @@
 		</rating>
 	</programme>
 	<programme start="20261125152500 +0100" stop="20261125174500 +0100" channel="Primera Federación">
-    <title>Jornada 13: Ourense - Racing Ferrol T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Primera Federación T26/27 · Jornada 13: Ourense - Racing Ferrol</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -62253,9 +62192,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125174500 +0100" stop="20261125200500 +0100" channel="Primera Federación">
     <title>Jornada 13: Cartagena - Jaén T26/27 · Primera Federación</title>
@@ -62347,7 +62283,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126104500 +0100" stop="20261126130500 +0100" channel="Primera Federación">
-    <title>Jornada 13: Huesca - Ibiza T26/27 · Primera Federación</title>
+    <title>Primera Federación T26/27 · Jornada 13: Huesca - Ibiza</title>
     <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
@@ -69474,7 +69410,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122074500 +0100" stop="20261122080500 +0100" channel="Telecinco">
+	<programme start="20261122074800 +0100" stop="20261122080500 +0100" channel="Telecinco">
     <title>Enphorma</title>
     <sub-title>2023 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Salud y bienestar) Programa especializado en temas actuales de alimentación, psicología y ejercicio.
@@ -69488,7 +69424,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122080500 +0100" stop="20261122084000 +0100" channel="Telecinco">
+	<programme start="20261122080500 +0100" stop="20261122083900 +0100" channel="Telecinco">
     <title>Love Shopping TV T1</title>
     <sub-title>2024 | TP | ★6.0/10</sub-title>
     <desc>(Ocio y Aficiones,Televenta) Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.
@@ -69502,7 +69438,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122084000 +0100" stop="20261122091000 +0100" channel="Telecinco">
+	<programme start="20261122083900 +0100" stop="20261122091500 +0100" channel="Telecinco">
     <title>Got Talent España. Momentazos T8 E15</title>
     <sub-title>2022 | ⑦ | ★6.2/10</sub-title>
     <desc>(Entretenimiento,Concurso) La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
@@ -69516,7 +69452,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261122091000 +0100" stop="20261122121000 +0100" channel="Telecinco">
+	<programme start="20261122091500 +0100" stop="20261122121000 +0100" channel="Telecinco">
     <title>Got Talent España T11 E10</title>
     <sub-title>2026 | ⑦ | ★6.0/10</sub-title>
     <desc>(Entretenimiento,Concurso) Concurso que busca nuevas promesas de diferentes disciplinas artísticas en España.
@@ -70241,7 +70177,7 @@
 	</programme>
 	<programme start="20261124230000 +0100" stop="20261125020000 +0100" channel="Telecinco">
     <title>La que se avecina T15 E1 · Una presidenta choriza, una suegra acosadora y un chiquipark a estrenar</title>
-    <sub-title>2024 | ⑯ | ★10.0/10</sub-title>
+    <sub-title>2024 | ⑯ | ★8.6/10</sub-title>
     <desc>(Series,Comedia) Todos quieren mudarse a sus pisos, bloqueados por los okupas del ático.
 · País: España
 · Dirección: Mario Montero, Ricardo A. Solla.
@@ -70253,7 +70189,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>8.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125020000 +0100" stop="20261125022500 +0100" channel="Telecinco">
