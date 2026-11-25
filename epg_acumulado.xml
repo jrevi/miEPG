@@ -3291,7 +3291,7 @@
 · Reparto: Sean Murray, David McCallum, Gary Cole, Michael Weatherly, Sasha Alexander, Pauley Perrette, Wilmer Valderrama, Brian Dietzen.
 · Productora: Mark Harmon, Paramount Network Television Productions, Belisarius Productions, CBS Paramount Network Television.</desc>
     <category>Series, Thriller</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3946675" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F3994257" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -5099,11 +5099,11 @@
     <desc>(Cine,Acción) Hong Kong, 1997. El representante comercial de una firma de ropa se convierte en el punto de mira de la mafia rusa.
 · País: Estados Unidos y Hong Kong
 · Dirección: Hark Tsui.
-· Reparto: Jean-Claude Van Damme, Lela Rochon, Paul Sorvino, Rob Schneider, Michael Wong, Carman Lee.
+· Reparto: Noorie Razack, Rose Librizzi, Noel Rands, Dennis Chan, Stuart Kavanagh, Yuk-San Cheung, Heung Hoi, Jean-Claude Van Damme, Lela Rochon, Paul Sorvino, Rob Schneider, Michael Wong, Carman Lee.
 · Guion: Steven E. De Souza.
 · Música: Varouje, Ron Mael, Russell Mael.
 · Producción: Nansun Shi.
-· Productora: TriStar Pictures, Nansun Shi, MDP Worldwide, Film Workshop, Knock Films AVV, Val D'Oro.</desc>
+· Productora: Peter Nelson, TriStar Pictures, Nansun Shi, MDP Worldwide, Film Workshop, Knock Films AVV, Val D'Oro.</desc>
     <category>Cine, Acción</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4497561" />
 		<rating system="ES">
@@ -5123,7 +5123,7 @@
 · Guion: Joe Russo, Chris LaMont, Clayton Haugen, Nikolai From.
 · Música: Rhyan D'Errico.
 · Producción: Randall Emmett, Mark Stewart.
-· Productora: Emmett/Furla/Oasis Films (EFO Films), River Bay Films, Richard Goldberg, Henry Winterstern, Howard Chase, Thomas Wahlder.</desc>
+· Productora: Emmett/Furla/Oasis Films (EFO Films), River Bay Films, Donald Thompson, Richard Goldberg, Henry Winterstern, Howard Chase.</desc>
     <category>Cine, Acción</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4476741" />
 		<rating system="ES">
@@ -14385,7 +14385,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261126151500 +0100" stop="20261126164500 +0100" channel="DAZN 1">
+	<programme start="20261126151500 +0100" stop="20261126171500 +0100" channel="DAZN 1">
     <title>DIRECTO Valencia - Paddock Abierto T2026 · Rueda de prensa motos</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Un jueves más llega la previa de cada GP con Paddock Abierto, presentado por Carles Pérez, donde escucharemos a los pilotos protagonistas del Gran Premio de Valencia que se disputa este fin de semana.
@@ -14399,7 +14399,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126164500 +0100" stop="20261126173500 +0100" channel="DAZN 1">
+	<programme start="20261126171500 +0100" stop="20261126181100 +0100" channel="DAZN 1">
     <title>DECOD3D T2026 · Casey Stoner</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El fútbol levanta pasiones y convierte a los mejores jugadores en auténticos iconos deportivos y culturales. Este espacio analiza pormenorizadamente a varias figuras del deporte rey, tanto dentro como fuera del terreno de juego.</desc>
@@ -14412,13 +14412,40 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126173500 +0100" stop="20261126184500 +0100" channel="DAZN 1">
-    <title>MotoGP - GP de la Comunitat Valenciana T2025 · Carrera MotoGP</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
-    <desc>(Deportes,Motociclismo) Tras la ausencia obligada de 2024 por las consecuencias de la dana, el Mundial de motociclismo vuelve al circuito Ricardo Tormo para poner el broche final a la temporada. Como siempre en la última prueba, es momento para homenajear a los campeones.
+	<programme start="20261126181100 +0100" stop="20261126182800 +0100" channel="DAZN 1">
+    <title>Dall'Igna, la mente detrás del éxito de Ducati</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Pasión, compromiso, ambición y un impulso incansable por mejorar. Estos son los valores que definen a Gigi Dall'Igna. Durante años, Gigi ha demostrado que es único en su género.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498698" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126182800 +0100" stop="20261126184500 +0100" channel="DAZN 1">
+    <title>Ibiza Trail Maratón</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Deporte extremo) El Ibiza Trail Maratón es una prueba de referencia en el trail running a nivel balear, nacional e internacional.
 · País: España</desc>
-    <category>Deportes, Motociclismo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4438637" />
+    <category>Deportes, Deporte extremo</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4451579" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261126184500 +0100" stop="20261126223000 +0100" channel="DAZN 1">
+    <title>DIRECTO Jornada 12: Detroit Lions - Chicago Bears T26/27 · NFL</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol americano) Los Lions reciben a los Bears en el primer encuentro del Día de Acción de Gracias, perteneciente a la duodécima semana de la temporada regular de la NFL.
+· País: Estados Unidos</desc>
+    <category>Deportes, Fútbol americano</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498807" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -14426,10 +14453,20 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126184500 +0100" stop="20261126224500 +0100" channel="DAZN 1">
-    <title>NFL</title>
-    <sub-title>TP | ★6.8/10</sub-title>
-    <desc>(Deportes,Fútbol americano) Retransmisión de los partidos más interesantes de la Liga profesional de fútbol americano, la NFL.
+	<programme start="20261126223000 +0100" stop="20261127022000 +0100" channel="DAZN 1">
+    <title>NFL T26/27 · Dallas Cowboys - Philadelphia Eagles</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Sin clasificar,SIN CLASIFICAR) Los Cowboys reciben a los Eagles en el segundo encuentro del Día de Acción de Gracias, perteneciente a la duodécima semana de la temporada regular de la NFL.</desc>
+    <category>Sin clasificar, SIN CLASIFICAR</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498807" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+	</programme>
+	<programme start="20261127022000 +0100" stop="20261127043000 +0100" channel="DAZN 1">
+    <title>DIRECTO Jornada 12: Buffalo Bills - Kansas City Chiefs T26/27 · NFL</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Fútbol americano) Los Bills reciben a los Chiefs para cerrar el Día de Acción de Gracias, pertenciente a la duodécima semana de la temporada regular de la NFL.
 · País: Estados Unidos</desc>
     <category>Deportes, Fútbol americano</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498807" />
@@ -14437,36 +14474,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126224500 +0100" stop="20261127024500 +0100" channel="DAZN 1">
-    <title>NFL</title>
-    <sub-title>TP | ★6.8/10</sub-title>
-    <desc>(Deportes,Fútbol americano) Retransmisión de los partidos más interesantes de la Liga profesional de fútbol americano, la NFL.
-· País: Estados Unidos</desc>
-    <category>Deportes, Fútbol americano</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498807" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.8/10</value>
-		</star-rating>
-	</programme>
-	<programme start="20261127024500 +0100" stop="20261127060000 +0100" channel="DAZN 1">
-    <title>NFL</title>
-    <sub-title>TP | ★6.8/10</sub-title>
-    <desc>(Deportes,Fútbol americano) Retransmisión de los partidos más interesantes de la Liga profesional de fútbol americano, la NFL.
-· País: Estados Unidos</desc>
-    <category>Deportes, Fútbol americano</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4498807" />
-		<rating system="ES">
-			<value>TP</value>
-		</rating>
-		<star-rating system="ES">
-			<value>6.8/10</value>
-		</star-rating>
+	<programme start="20261127043000 +0100" stop="20261127060000 +0100" channel="DAZN 1">
+    <title>Disfruta de DAZN en Movistar Plus</title>
+    <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261127060000 +0100" stop="20261127100000 +0100" channel="DAZN 1">
     <title>Disfruta de DAZN en Movistar Plus</title>
@@ -14636,7 +14649,7 @@
 	<programme start="20261128155000 +0100" stop="20261128182000 +0100" channel="DAZN 1">
     <title>DIRECTO Jornada 12: Manchester United - Brentford T26/27 · Premier League</title>
     <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El torneo doméstico de clubes más visto del planeta destaca por su alta competitividad, ritmo físico intenso y estrellas mundiales sobre el césped. El Arsenal es el defensor de la corona.
+    <desc>(Deportes,Fútbol) Es la hora de reaccionar de los "Red Devils" antes su preocupante situación clasificatoria ante un Brentford que busca Europa.
 · País: Reino Unido</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4502375" />
@@ -15281,7 +15294,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261126190000 +0100" stop="20261126223000 +0100" channel="DAZN 2">
-    <title>DIRECTO Jornada 12: Chicago Bears @ Detroit Lions T26/27 · NFL</title>
+    <title>Jornada 12: Detroit Lions - Chicago Bears T26/27 · NFL</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol americano) Los Lions reciben a los Bears en el primer encuentro del Día de Acción de Gracias, perteneciente a la duodécima semana de la temporada regular de la NFL.
 · País: Estados Unidos</desc>
@@ -15299,7 +15312,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261127022000 +0100" stop="20261127055000 +0100" channel="DAZN 2">
-    <title>DIRECTO Jornada 12: Kansas City Chiefs @ Buffalo Bills T26/27 · NFL</title>
+    <title>DIRECTO Jornada 12: Buffalo Bills - Kansas City Chiefs T26/27 · NFL</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Fútbol americano) Los Bills reciben a los Chiefs para cerrar el Día de Acción de Gracias, pertenciente a la duodécima semana de la temporada regular de la NFL.
 · País: Estados Unidos</desc>
@@ -15365,7 +15378,7 @@
     <desc>(Deportes,Boxeo) El destacado peso pesado alemán Agit Kabayel pelea en su país por primera vez desde 2023, con el objetivo de prolongar su racha de victorias frente al peligroso Damian Knyba en Oberhausen.
 · País: Reino Unido</desc>
     <category>Deportes, Boxeo</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2717604V4461585" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4511113" />
 		<rating system="ES">
 			<value>18</value>
 		</rating>
@@ -16180,20 +16193,17 @@
 	</programme>
 	<programme start="20261125171000 +0100" stop="20261125191500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Hungría T2025 · Carrera</title>
-    <sub-title>2025 | TP | ★6.4/10</sub-title>
+    <sub-title>2025 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2025 promete más emoción y espectáculo que nunca.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4389906" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.4/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125191500 +0100" stop="20261125211500 +0100" channel="DAZN F1">
     <title>Mundial de Fórmula 1 T2024 · GP de España: Carrera</title>
-    <sub-title>2024 | TP | ★6.2/10</sub-title>
+    <sub-title>2024 | TP</sub-title>
     <desc>(Deportes,Motor) Vuelven las rectas frenéticas, las curvas imposibles y los adelantamientos al límite: ya está aquí el Mundial de Fórmula 1. La temporada 2024 promete más emoción y espectáculo que nunca.
 · País: España</desc>
     <category>Deportes, Motor</category>
@@ -16201,9 +16211,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.2/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125211500 +0100" stop="20261125220500 +0100" channel="DAZN F1">
     <title>Mundial F1 - GP de Miami T2026 · Sprint</title>
@@ -17068,7 +17075,7 @@
 	</programme>
 	<programme start="20261129124500 +0100" stop="20261129143000 +0100" channel="DAZN F1">
     <title>DIRECTO Carrera T2026 · Campeonato F2 de la FIA - Catar</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.6/10</sub-title>
     <desc>(Deportes,Motor) Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518731" />
@@ -17076,7 +17083,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>4.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129143000 +0100" stop="20261129150000 +0100" channel="DAZN F1">
@@ -17133,7 +17140,7 @@
 	</programme>
 	<programme start="20261129203000 +0100" stop="20261129221000 +0100" channel="DAZN F1">
     <title>Carrera T2026 · Campeonato F2 de la FIA - Catar</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.6/10</sub-title>
     <desc>(Deportes,Motor) Emisión de las carreras de la F2 Series, una de las canteras para la Fórmula 1.</desc>
     <category>Deportes, Motor</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518731" />
@@ -17141,7 +17148,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>4.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129221000 +0100" stop="20261130001000 +0100" channel="DAZN F1">
@@ -17452,7 +17459,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125223000 +0100" stop="20261126003000 +0100" channel="DAZN LaLiga">
-    <title>LALIGA EA SPORTS T26/27 · Jornada 13: FC Barcelona - Villarreal CF</title>
+    <title>LALIGA EA SPORTS T26/27 · Jornada 13: Barcelona - Villarreal</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
@@ -17588,7 +17595,7 @@
 		</rating>
 	</programme>
 	<programme start="20261126170000 +0100" stop="20261126190000 +0100" channel="DAZN LaLiga">
-    <title>LALIGA EA SPORTS T26/27 · Jornada 13: FC Barcelona - Villarreal CF</title>
+    <title>LALIGA EA SPORTS T26/27 · Jornada 13: Barcelona - Villarreal</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
@@ -17669,7 +17676,7 @@
     <desc>Programa por determinar...</desc>
 	</programme>
 	<programme start="20261127120000 +0100" stop="20261127140000 +0100" channel="DAZN LaLiga">
-    <title>LALIGA EA SPORTS T26/27 · Jornada 13: FC Barcelona - Villarreal CF</title>
+    <title>LALIGA EA SPORTS T26/27 · Jornada 13: Barcelona - Villarreal</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Los mejores clubes del país protagonizan LaLiga, el campeonato de la regularidad del fútbol español. El torneo es una carrera de fondo en la que los equipos pelean por sus metas: la salvación, Europa, la Champions o el título.
 · País: España</desc>
@@ -17935,7 +17942,7 @@
 	</programme>
 	<programme start="20261128160000 +0100" stop="20261128161500 +0100" channel="DAZN LaLiga">
     <title>DIRECTO Málaga - Athletic T26/27 · DAZN Previa</title>
-    <sub-title>2026 | TP | ★10.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Toda la información previa a los partidos que va a emitir DAZN. Las noticias, las estadísticas, el análisis y los datos necesarios para disfrutar más de los encuentros.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17944,7 +17951,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>10.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128161500 +0100" stop="20261128181500 +0100" channel="DAZN LaLiga">
@@ -17963,7 +17970,7 @@
 	</programme>
 	<programme start="20261128181500 +0100" stop="20261128184500 +0100" channel="DAZN LaLiga">
     <title>Málaga - Athletic T26/27 · DAZN Post</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Programa deportes) Tras la disputa de los encuentros, es tiempo para el análisis. Este espacio desmenuza los partidos ofrecidos por DAZN con las mejores imágenes, intenta esclarecer las polémicas y da la palabra a los que han sido los protagonistas sobre el césped.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -17972,7 +17979,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128184500 +0100" stop="20261128201500 +0100" channel="DAZN LaLiga">
@@ -18005,7 +18012,7 @@
 	</programme>
 	<programme start="20261128203000 +0100" stop="20261128204500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: UD Las Palmas - FC Andorra</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -18014,12 +18021,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128204500 +0100" stop="20261128210000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: Albacete BP - CD Tenerife</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -18028,12 +18035,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128210000 +0100" stop="20261128211500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: CD Eldense - Girona FC</title>
-    <sub-title>2026 | TP | ★2.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.0/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -18042,7 +18049,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>2.0/10</value>
+			<value>4.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128211500 +0100" stop="20261128214500 +0100" channel="DAZN LaLiga">
@@ -18184,7 +18191,7 @@
 	</programme>
 	<programme start="20261129120000 +0100" stop="20261129121500 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: UD Las Palmas - FC Andorra</title>
-    <sub-title>2026 | TP | ★7.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -18193,12 +18200,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129121500 +0100" stop="20261129123000 +0100" channel="DAZN LaLiga">
     <title>Resúmenes LALIGA HyperMotion T26/27 · Jornada 16: Albacete BP - CD Tenerife</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Fútbol) El mejor resumen con lo más destacado de cada uno de los partidos de Segunda División. Las mejores jugadas, goles e imágenes de los encuentros que se disputan cada jornada en la competición de plata del fútbol español.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -18207,7 +18214,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129123000 +0100" stop="20261129124500 +0100" channel="DAZN LaLiga">
@@ -18371,7 +18378,7 @@
 	</programme>
 	<programme start="20261129230000 +0100" stop="20261130004500 +0100" channel="DAZN LaLiga">
     <title>DIRECTO Programa 11 T26/27 · El Post de DAZN</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) La jornada de LALIGA no termina con el pitido final del último partido. El Post ofrece las mejores imágenes y análisis de los partidos de la jornada. Es el programa perfecto para enterarte de todo lo que ha sucedido en cada encuentro.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -18380,7 +18387,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125090000 +0100" stop="20261125130000 +0100" channel="DAZN MotoGP">
@@ -21724,7 +21731,7 @@
       <value>AGE228</value>
     </rating>
   </programme>
-	<programme start="20261125063000 +0100" stop="20261125073000 +0100" channel="Eurosport 1">
+	<programme start="20261125063400 +0100" stop="20261125073000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de saltos de esquí M - Innsbruck T25/26 · Trampolín largo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Saltos de esquí) La de Innsbruck es la décima prueba de la temporada y la tercera del prestigioso Torneo de los Cuatro Trampolines. Los mejores saltadores de esquí del mundo participan en este certamen que premia la regularidad. Daniel Tschofenig defiende título.
@@ -21735,7 +21742,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125073000 +0100" stop="20261125083000 +0100" channel="Eurosport 1">
+	<programme start="20261125073000 +0100" stop="20261125083400 +0100" channel="Eurosport 1">
     <title>Copa del mundo de saltos de esquí M - Bischofshofen T25/26 · Trampolín largo</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Saltos de esquí) La de Bischofshofen es la undécima prueba de la temporada y la cuarta del prestigioso Torneo de los Cuatro Trampolines. Los mejores saltadores de esquí del mundo participan en este certamen que premia la regularidad. Daniel Tschofenig defiende título.
@@ -21746,7 +21753,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125083000 +0100" stop="20261125100000 +0100" channel="Eurosport 1">
+	<programme start="20261125083400 +0100" stop="20261125095900 +0100" channel="Eurosport 1">
     <title>Abierto de Shenzhen de snooker T26/27 · Yuan Sijun vs Wu Yize</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Snooker) El Abierto de Shenzhen de snooker es la sexta cita de ranking de la temporada.
@@ -21757,7 +21764,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125100000 +0100" stop="20261125110000 +0100" channel="Eurosport 1">
+	<programme start="20261125095900 +0100" stop="20261125105900 +0100" channel="Eurosport 1">
     <title>Copa del mundo de esquí alpino M - Wengen T25/26 · Descenso</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Deporte invierno) Del 26 de octubre al 25 de marzo se celebra la Copa del mundo de esquí alpino. La competición, que premia a los más regulares, hace su duodécima parada en Wengen, Suiza.
@@ -21768,7 +21775,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125110000 +0100" stop="20261125120000 +0100" channel="Eurosport 1">
+	<programme start="20261125105900 +0100" stop="20261125120000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de esquí alpino M - Kitzbuehel T25/26 · Descenso</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) Del 26 de octubre al 25 de marzo se celebra la Copa del mundo de esquí alpino. La competición, que premia a los más regulares, hace su 13ª parada en Kitzbuehel, Austria. El helvético Marco Odermatt defiende título.
@@ -21864,7 +21871,7 @@
 	</programme>
 	<programme start="20261125180000 +0100" stop="20261125190000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de saltos de esquí M - Planica T25/26 · Ski Flying 2</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Saltos de esquí) La Copa del mundo de saltos llega a Planica con espectaculares pruebas masculinas de ski flying en el colosal HS240. Entre el 26 y el 29 de marzo, los mejores saltadores del mundo disputan las finales de la temporada en un escenario icónico.
 · País: Eslovenia y Noruega</desc>
     <category>Deportes, Saltos de esquí</category>
@@ -21872,9 +21879,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125190000 +0100" stop="20261125200000 +0100" channel="Eurosport 1">
     <title>Highlights SailGP T2026 · Dubái</title>
@@ -22072,7 +22076,7 @@
 	</programme>
 	<programme start="20261126120000 +0100" stop="20261126130000 +0100" channel="Eurosport 1">
     <title>Copa del mundo de saltos de esquí M - Planica T25/26 · Ski Flying 2</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Saltos de esquí) La Copa del mundo de saltos llega a Planica con espectaculares pruebas masculinas de ski flying en el colosal HS240. Entre el 26 y el 29 de marzo, los mejores saltadores del mundo disputan las finales de la temporada en un escenario icónico.
 · País: Eslovenia y Noruega</desc>
     <category>Deportes, Saltos de esquí</category>
@@ -22080,9 +22084,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126130000 +0100" stop="20261126140000 +0100" channel="Eurosport 1">
     <title>Golden Trail World Series - Resumen T2026 · Resumen de la temporada</title>
@@ -22289,7 +22290,7 @@
 	</programme>
 	<programme start="20261127063500 +0100" stop="20261127074500 +0100" channel="Eurosport 1">
     <title>DIRECTO Programa corto parejas T2026 · Trofeo NHK - Grand Prix ISU</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Patinaje artístico) El Keio Arena de Tokio acoge la última prueba clasificatoria del Grand Prix de la ISU.
 · País: Japón</desc>
     <category>Deportes, Patinaje artístico</category>
@@ -22298,7 +22299,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127074500 +0100" stop="20261127081500 +0100" channel="Eurosport 1">
@@ -22331,7 +22332,7 @@
 	</programme>
 	<programme start="20261127095000 +0100" stop="20261127101500 +0100" channel="Eurosport 1">
     <title>Programa corto parejas T2026 · Trofeo NHK - Grand Prix ISU</title>
-    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Patinaje artístico) El Keio Arena de Tokio acoge la última prueba clasificatoria del Grand Prix de la ISU.
 · País: Japón</desc>
     <category>Deportes, Patinaje artístico</category>
@@ -22340,12 +22341,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127101500 +0100" stop="20261127115000 +0100" channel="Eurosport 1">
     <title>DIRECTO 10km estilo clásico T26/27 · Copa del mundo de esquí de fondo F - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -22354,7 +22355,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127115000 +0100" stop="20261127125000 +0100" channel="Eurosport 1">
@@ -22373,7 +22374,7 @@
 	</programme>
 	<programme start="20261127125000 +0100" stop="20261127143000 +0100" channel="Eurosport 1">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo M - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -22382,7 +22383,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127143000 +0100" stop="20261127152000 +0100" channel="Eurosport 1">
@@ -22443,7 +22444,7 @@
 	</programme>
 	<programme start="20261127183000 +0100" stop="20261127202000 +0100" channel="Eurosport 1">
     <title>DIRECTO Big Air T26/27 · Copa del mundo de esquí acrobático - Innsbruck</title>
-    <sub-title>2026 | TP | ★5.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Deporte invierno) La parada de Innsbruck (Austria) inaugura la temporada 2026/27 de Park &amp; Pipe.
 · País: Austria</desc>
     <category>Deportes, Deporte invierno</category>
@@ -22452,7 +22453,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127202000 +0100" stop="20261127205000 +0100" channel="Eurosport 1">
@@ -22470,7 +22471,7 @@
 	</programme>
 	<programme start="20261127205000 +0100" stop="20261127220000 +0100" channel="Eurosport 1">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo F - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -22479,7 +22480,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127220000 +0100" stop="20261127233000 +0100" channel="Eurosport 1">
@@ -22511,7 +22512,7 @@
 	</programme>
 	<programme start="20261128000000 +0100" stop="20261128004500 +0100" channel="Eurosport 1">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo F - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -22520,12 +22521,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128004500 +0100" stop="20261128013000 +0100" channel="Eurosport 1">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo M - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -22534,12 +22535,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128013000 +0100" stop="20261128021500 +0100" channel="Eurosport 1">
     <title>Big Air T26/27 · Copa del mundo de esquí acrobático - Innsbruck</title>
-    <sub-title>2026 | TP | ★5.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Deporte invierno) La parada de Innsbruck (Austria) inaugura la temporada 2026/27 de Park &amp; Pipe.
 · País: Austria</desc>
     <category>Deportes, Deporte invierno</category>
@@ -22548,7 +22549,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128021500 +0100" stop="20261128030000 +0100" channel="Eurosport 1">
@@ -22680,7 +22681,7 @@
 	</programme>
 	<programme start="20261128130000 +0100" stop="20261128142000 +0100" channel="Eurosport 1">
     <title>DIRECTO Relevo mixto individual T26/27 · Copa del mundo de biatlón - Kontiolahti</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Deporte invierno) La temporada de la Copa del mundo de biatlón arranca en Kontiolahti.
 · País: Finlandia</desc>
     <category>Deportes, Deporte invierno</category>
@@ -22689,7 +22690,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128142000 +0100" stop="20261128150000 +0100" channel="Eurosport 1">
@@ -23070,7 +23071,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125070000 +0100" stop="20261125074500 +0100" channel="Eurosport 2">
+	<programme start="20261125065700 +0100" stop="20261125074400 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Lillehammer T25/26 · Descenso</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Esquí alpino) El epílogo de la Copa del mundo de esquí alpino reúne en Lillehammer a la élite masculina con descenso, supergigante, gigante y eslalon. Un cierre de temporada vibrante en Kvitfjell y Hafjell, donde los especialistas pelearán por puntos decisivos.
@@ -23084,7 +23085,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125074500 +0100" stop="20261125083000 +0100" channel="Eurosport 2">
+	<programme start="20261125074400 +0100" stop="20261125083200 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Lillehammer T25/26 · Supergigante</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Esquí alpino) El epílogo de la Copa del mundo de esquí alpino reúne en Lillehammer a la élite masculina con descenso, supergigante, gigante y eslalon. Un cierre de temporada vibrante en Kvitfjell y Hafjell, donde los especialistas pelearán por puntos decisivos.
@@ -23098,7 +23099,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125083000 +0100" stop="20261125091500 +0100" channel="Eurosport 2">
+	<programme start="20261125083200 +0100" stop="20261125091800 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Lillehammer T25/26 · Eslalon - primera manga</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) Del 26 de octubre al 25 de marzo se celebra la Copa del mundo de esquí alpino.
@@ -23109,7 +23110,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125091500 +0100" stop="20261125100000 +0100" channel="Eurosport 2">
+	<programme start="20261125091800 +0100" stop="20261125095900 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Lillehammer T25/26 · Eslalon - segunda manga</title>
     <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Esquí alpino) Del 26 de octubre al 25 de marzo se celebra la Copa del mundo de esquí alpino.
@@ -23123,9 +23124,9 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125100000 +0100" stop="20261125110000 +0100" channel="Eurosport 2">
+	<programme start="20261125095900 +0100" stop="20261125105900 +0100" channel="Eurosport 2">
     <title>Copa del mundo de saltos de esquí M - Planica T25/26 · Ski Flying 2</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Saltos de esquí) La Copa del mundo de saltos llega a Planica con espectaculares pruebas masculinas de ski flying en el colosal HS240. Entre el 26 y el 29 de marzo, los mejores saltadores del mundo disputan las finales de la temporada en un escenario icónico.
 · País: Eslovenia y Noruega</desc>
     <category>Deportes, Saltos de esquí</category>
@@ -23133,11 +23134,8 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
-	<programme start="20261125110000 +0100" stop="20261125130000 +0100" channel="Eurosport 2">
+	<programme start="20261125105900 +0100" stop="20261125125800 +0100" channel="Eurosport 2">
     <title>Abierto de Shenzhen de snooker T26/27 · Yuan Sijun vs Wu Yize</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Snooker) El Abierto de Shenzhen de snooker es la sexta cita de ranking de la temporada.
@@ -23148,7 +23146,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125130000 +0100" stop="20261125140000 +0100" channel="Eurosport 2">
+	<programme start="20261125125800 +0100" stop="20261125135800 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Wengen T25/26 · Descenso</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Deporte invierno) Del 26 de octubre al 25 de marzo se celebra la Copa del mundo de esquí alpino. La competición, que premia a los más regulares, hace su duodécima parada en Wengen, Suiza.
@@ -23159,7 +23157,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125140000 +0100" stop="20261125150000 +0100" channel="Eurosport 2">
+	<programme start="20261125135800 +0100" stop="20261125150000 +0100" channel="Eurosport 2">
     <title>Copa del mundo de esquí alpino M - Kitzbuehel T25/26 · Descenso</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Esquí alpino) Del 26 de octubre al 25 de marzo se celebra la Copa del mundo de esquí alpino. La competición, que premia a los más regulares, hace su 13ª parada en Kitzbuehel, Austria. El helvético Marco Odermatt defiende título.
@@ -23850,7 +23848,7 @@
 	</programme>
 	<programme start="20261128004500 +0100" stop="20261128013000 +0100" channel="Eurosport 2">
     <title>Big Air T26/27 · Copa del mundo de esquí acrobático - Innsbruck</title>
-    <sub-title>2026 | TP | ★5.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Deporte invierno) La parada de Innsbruck (Austria) inaugura la temporada 2026/27 de Park &amp; Pipe.
 · País: Austria</desc>
     <category>Deportes, Deporte invierno</category>
@@ -23859,12 +23857,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128013000 +0100" stop="20261128021500 +0100" channel="Eurosport 2">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo F - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -23873,12 +23871,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128021500 +0100" stop="20261128030000 +0100" channel="Eurosport 2">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo M - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -23887,7 +23885,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128030000 +0100" stop="20261128040000 +0100" channel="Eurosport 2">
@@ -23925,7 +23923,7 @@
 	</programme>
 	<programme start="20261128070000 +0100" stop="20261128074500 +0100" channel="Eurosport 2">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo F - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -23934,12 +23932,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128074500 +0100" stop="20261128083000 +0100" channel="Eurosport 2">
     <title>10km estilo clásico T26/27 · Copa del mundo de esquí de fondo M - Ruka</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Esquí de fondo) La temporada de la Copa del mundo de esquí de fondo arranca en Ruka.
 · País: Finlandia</desc>
     <category>Deportes, Esquí de fondo</category>
@@ -23948,7 +23946,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128083000 +0100" stop="20261128102500 +0100" channel="Eurosport 2">
@@ -24008,18 +24006,22 @@
 		</star-rating>
 	</programme>
 	<programme start="20261128120000 +0100" stop="20261128132500 +0100" channel="Eurosport 2">
-    <title>Trofeo NHK - Grand Prix ISU T2026 · Programa libre M</title>
-    <sub-title>2026 | TP</sub-title>
+    <title>DIRECTO Programa libre M T2026 · Trofeo NHK - Grand Prix ISU</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Patinaje artístico) El Keio Arena de Tokio acoge la última prueba clasificatoria del Grand Prix de la ISU.
 · País: Japón</desc>
     <category>Deportes, Patinaje artístico</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/MESP2P4455752" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261128132500 +0100" stop="20261128141500 +0100" channel="Eurosport 2">
     <title>Big Air T26/27 · Copa del mundo de esquí acrobático - Innsbruck</title>
-    <sub-title>2026 | TP | ★5.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Deporte invierno) La parada de Innsbruck (Austria) inaugura la temporada 2026/27 de Park &amp; Pipe.
 · País: Austria</desc>
     <category>Deportes, Deporte invierno</category>
@@ -24028,7 +24030,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128141500 +0100" stop="20261128173000 +0100" channel="Eurosport 2">
@@ -31188,21 +31190,18 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125164600 +0100" stop="20261125170000 +0100" channel="M+ Baloncesto">
-    <title>DIRECTO Jornada 14: Dubai - Partizan T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Previa Euroliga de baloncesto T26/27 · Jornada 14: Dubai - Partizan</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125170000 +0100" stop="20261125191500 +0100" channel="M+ Baloncesto">
-    <title>Jornada 14: Dubai - Partizan T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga de baloncesto T26/27 · Jornada 14: Dubai - Partizan</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Baloncesto) Nuevo derby de banquillos españoles en el Coca Cola Arena de los Emiratos. El Dubai (9-4) de Xavi Pascual es 4º, mientras que el Partizan (7-6) del recién renovado Joan Peñarroya está a 1 puesto del play in.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31211,7 +31210,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125191500 +0100" stop="20261125192300 +0100" channel="M+ Baloncesto">
@@ -31245,7 +31244,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125194500 +0100" stop="20261125202500 +0100" channel="M+ Baloncesto">
-    <title>DIRECTO T26/27 E10 · Eurofighters Live</title>
+    <title>Eurofighters Live T26/27 E10</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters Live llega a Movistar Plus para acompañarte durante el tramo final de cada jornada. Todos los viernes, lo más destacado de cada semana y las imágenes más espectaculares del mejor baloncesto masculino y femenino de Europa.
 · País: España
@@ -31260,21 +31259,18 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125202500 +0100" stop="20261125204500 +0100" channel="M+ Baloncesto">
-    <title>DIRECTO Jornada 14: Real Madrid - Zalgiris T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Previa Euroliga de baloncesto T26/27 · Jornada 14: Real Madrid - Zalgiris</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125204500 +0100" stop="20261125224500 +0100" channel="M+ Baloncesto">
-    <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <title>DIRECTO Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31283,11 +31279,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125224500 +0100" stop="20261125231500 +0100" channel="M+ Baloncesto">
-    <title>T26/27 E10 · Eurofighters</title>
+    <title>DIRECTO T26/27 E10 · Eurofighters</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
 · País: España
@@ -31354,7 +31350,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126190000 +0100" stop="20261126211500 +0100" channel="M+ Baloncesto">
-    <title>DIRECTO Ventana 5: Montenegro - España T2026 · FIBA Copa del Mundo. Clasificatorios</title>
+    <title>Ventana 5: Montenegro - España T2026 · FIBA Copa del Mundo. Clasificatorios</title>
     <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Baloncesto) Las 32 mejores selecciones de Europa competirán durante las 3 ventanas FIBA para clasificarse para el Mundial de Catar 2027. La selección española, dirigida por Chus Mateo, marcha con paso firme en esta primera fase.</desc>
     <category>Deportes, Baloncesto</category>
@@ -31584,21 +31580,18 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125201600 +0100" stop="20261125203000 +0100" channel="M+ Baloncesto 2">
-    <title>DIRECTO Jornada 14: Baskonia - Efes T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Previa Euroliga de baloncesto T26/27 · Jornada 14: Baskonia - Efes</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125203000 +0100" stop="20261125224500 +0100" channel="M+ Baloncesto 2">
-    <title>Jornada 14: Baskonia - Efes T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga de baloncesto T26/27 · Jornada 14: Baskonia - Efes</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Kosner Baskonia y Anadolu Efes se enfrentan en la jornada 14 de Euroliga. El técnico del equipo turco, Pablo Laso, se mide por primera vez en el Buesa Arena a su exequipo. Los vitorianos son colistas, con una sola victoria, y los turcos decimoterceros.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -31606,9 +31599,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125224500 +0100" stop="20261126080000 +0100" channel="M+ Baloncesto 2">
     <title>M+ Baloncesto</title>
@@ -31913,20 +31903,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125200100 +0100" stop="20261125201500 +0100" channel="M+ Baloncesto 3">
-    <title>DIRECTO Jornada 14: Olympiacos - Hapoel Tel Aviv T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Previa Euroliga de baloncesto T26/27 · Jornada 14: Olympiacos - Hapoel Tel Aviv</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125201500 +0100" stop="20261125223000 +0100" channel="M+ Baloncesto 3">
-    <title>Jornada 14: Olympiacos - Hapoel Tel Aviv T26/27 · Euroliga de baloncesto</title>
+    <title>DIRECTO Jornada 14: Olympiacos - Hapoel Tel Aviv (VO) T26/27 · Euroliga de baloncesto</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
@@ -32162,17 +32149,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125185500 +0100" stop="20261125211000 +0100" channel="M+ Baloncesto 4">
-    <title>DIRECTO Jornada 5: Flammes Carolo - Valencia Basket T26/27 · Euroliga femenina</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Flammes Carolo - Valencia Basket</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4513854" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125211000 +0100" stop="20261126080000 +0100" channel="M+ Baloncesto 4">
     <title>M+ Baloncesto</title>
@@ -35334,7 +35318,7 @@
 	</programme>
 	<programme start="20261125233600 +0100" stop="20261126001100 +0100" channel="M+ Comedia">
     <title>Ilustres ignorantes T20 · La vida laboral</title>
-    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
 · País: España
 · Presenta: Javier Coronas.
@@ -35346,7 +35330,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126001100 +0100" stop="20261126013700 +0100" channel="M+ Comedia">
@@ -36575,7 +36559,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125154500 +0100" stop="20261125160000 +0100" channel="M+ Deportes 2">
+	<programme start="20261125154500 +0100" stop="20261125161400 +0100" channel="M+ Deportes 2">
     <title>La Pista del Tenis. Finales Copa Davis T2026 · Italia - Corea Partido 1</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
@@ -36585,7 +36569,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125160000 +0100" stop="20261125180000 +0100" channel="M+ Deportes 2">
+	<programme start="20261125161400 +0100" stop="20261125180100 +0100" channel="M+ Deportes 2">
     <title>Copa Davis. Fase Final T2026 · Italia - Corea Evento 1</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Corea Evento 1 -.</desc>
@@ -36595,8 +36579,8 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125180000 +0100" stop="20261125181500 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Italia - Corea Partido 2 T2026 · La Pista del Tenis. Finales Copa Davis</title>
+	<programme start="20261125180100 +0100" stop="20261125180900 +0100" channel="M+ Deportes 2">
+    <title>La Pista del Tenis. Finales Copa Davis T2026 · Italia - Corea Partido 2</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36605,9 +36589,9 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261125181500 +0100" stop="20261125201500 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Italia - Corea Evento 2 T2026 · Copa Davis. Fase Final</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+	<programme start="20261125180900 +0100" stop="20261125201500 +0100" channel="M+ Deportes 2">
+    <title>Copa Davis. Fase Final T2026 · Italia - Corea Evento 2</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Tenis) Corea Evento 2 -.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4506522" />
@@ -36615,11 +36599,11 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125201500 +0100" stop="20261125203000 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Italia - Corea Partido 3 T2026 · La Pista del Tenis. Finales Copa Davis</title>
+    <title>La Pista del Tenis. Finales Copa Davis T2026 · Italia - Corea Partido 3</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
@@ -36629,17 +36613,14 @@
 		</rating>
 	</programme>
 	<programme start="20261125203000 +0100" stop="20261125223000 +0100" channel="M+ Deportes 2">
-    <title>DIRECTO Italia - Corea Evento 3 T2026 · Copa Davis. Fase Final</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa Davis. Fase Final T2026 · Italia - Corea Evento 3</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Tenis) Corea Evento 3 -.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4506524" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125223000 +0100" stop="20261126053000 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
@@ -36735,7 +36716,7 @@
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2716635V4438275" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2718082V4438275" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -36758,7 +36739,7 @@
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2716637V4438276" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2718083V4438276" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -36781,7 +36762,7 @@
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2716638V4438277" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2718086V4438277" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -37007,7 +36988,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261128141500 +0100" stop="20261128161500 +0100" channel="M+ Deportes 2">
+	<programme start="20261128141500 +0100" stop="20261128163000 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Semifinal 2 Evento 2 T2026 · Copa Davis. Fase Final</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) La selección española de tenis disputa en Suiza la primera eliminatoria clasificatoria de la Copa Davis 2025. El enfrentamiento se celebrará en el SwissTennis Arena, ubicado en la localidad de Biel.</desc>
@@ -37020,7 +37001,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261128161500 +0100" stop="20261128163000 +0100" channel="M+ Deportes 2">
+	<programme start="20261128163000 +0100" stop="20261128164500 +0100" channel="M+ Deportes 2">
     <title>TBC T2026 · La Pista del Tenis. Finales Copa Davis</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
@@ -37033,7 +37014,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261128163000 +0100" stop="20261128183000 +0100" channel="M+ Deportes 2">
+	<programme start="20261128164500 +0100" stop="20261128184500 +0100" channel="M+ Deportes 2">
     <title>DIRECTO Semifinal 2 Evento 3 T2026 · Copa Davis. Fase Final</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) La selección española de tenis disputa en Suiza la primera eliminatoria clasificatoria de la Copa Davis 2025. El enfrentamiento se celebrará en el SwissTennis Arena, ubicado en la localidad de Biel.</desc>
@@ -37046,7 +37027,20 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261128183000 +0100" stop="20261129013000 +0100" channel="M+ Deportes 2">
+	<programme start="20261128184500 +0100" stop="20261128190000 +0100" channel="M+ Deportes 2">
+    <title>TBC T2026 · La Pista del Tenis. Finales Copa Davis</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2713305V4438288" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261128190000 +0100" stop="20261129020000 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
     <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Otros deportes) M+ Deportes 2 -.</desc>
@@ -37059,7 +37053,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261129013000 +0100" stop="20261129080000 +0100" channel="M+ Deportes 2">
+	<programme start="20261129020000 +0100" stop="20261129080000 +0100" channel="M+ Deportes 2">
     <title>M+ Deportes 2</title>
     <sub-title>TP | ★6.0/10</sub-title>
     <desc>(Deportes,Otros deportes) M+ Deportes 2 -.</desc>
@@ -37380,7 +37374,7 @@
 	</programme>
 	<programme start="20261129173000 +0100" stop="20261129194000 +0100" channel="M+ Deportes 3">
     <title>DIRECTO Finales: Sudáfrica - Francia T2026 · Nations Championship</title>
-    <sub-title>TP | ★8.4/10</sub-title>
+    <sub-title>TP | ★8.6/10</sub-title>
     <desc>(Deportes,Rugby) La Nations Championship, nuevo torneo internacional que reúne a los 12 mejores equipos del mundo, será bianual y se disputará en dos ventanas (julio y noviembre). Participan los del 6 Naciones, los del Rugby Championship y los invitados Fiyi y Japón,.
 · País: &lt;span&gt;Selección de Sudáfrica&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -37389,7 +37383,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.4/10</value>
+			<value>8.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129194000 +0100" stop="20261130024000 +0100" channel="M+ Deportes 3">
@@ -37509,7 +37503,7 @@
 	</programme>
 	<programme start="20261129073500 +0100" stop="20261129100000 +0100" channel="M+ Deportes 4">
     <title>DIRECTO Dubai: Domingo Session 1 T26/27 · World Rugby Sevens Series</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Rugby) Dubai: Domingo Session 1 -.</desc>
     <category>Deportes, Rugby</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519109" />
@@ -37517,12 +37511,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129100000 +0100" stop="20261129123000 +0100" channel="M+ Deportes 4">
     <title>DIRECTO Dubai: Domingo Session 2 T26/27 · World Rugby Sevens Series</title>
-    <sub-title>2026 | TP | ★5.0/10</sub-title>
+    <sub-title>2026 | TP | ★4.6/10</sub-title>
     <desc>(Deportes,Rugby) Dubai: Domingo Session 2 -.</desc>
     <category>Deportes, Rugby</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4519109" />
@@ -37530,7 +37524,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.0/10</value>
+			<value>4.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129123000 +0100" stop="20261129133500 +0100" channel="M+ Deportes 4">
@@ -37852,7 +37846,7 @@
 	</programme>
 	<programme start="20261126001900 +0100" stop="20261126015600 +0100" channel="M+ Deportes">
     <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -37861,7 +37855,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126015600 +0100" stop="20261126022500 +0100" channel="M+ Deportes">
@@ -37880,8 +37874,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126022500 +0100" stop="20261126042000 +0100" channel="M+ Deportes">
-    <title>Italia - Corea Evento 2 T2026 · Copa Davis. Fase Final</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Copa Davis. Fase Final T2026 · Italia - Corea Evento 2</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Tenis) Corea Evento 2 -.</desc>
     <category>Deportes, Tenis</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4506522" />
@@ -37889,12 +37883,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.4/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126042000 +0100" stop="20261126061000 +0100" channel="M+ Deportes">
-    <title>Jornada 14: Baskonia - Efes T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga de baloncesto T26/27 · Jornada 14: Baskonia - Efes</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Kosner Baskonia y Anadolu Efes se enfrentan en la jornada 14 de Euroliga. El técnico del equipo turco, Pablo Laso, se mide por primera vez en el Buesa Arena a su exequipo. Los vitorianos son colistas, con una sola victoria, y los turcos decimoterceros.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -37902,12 +37896,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126061000 +0100" stop="20261126080000 +0100" channel="M+ Deportes">
-    <title>Jornada 5: Casademont Zaragoza - Athinaikos T26/27 · Euroliga femenina</title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Casademont Zaragoza - Athinaikos</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) El Casademont Zaragoza sigue su camino en la Euroliga Femenina buscando mantener su pleno de victorias. En la jornada 5 su rival será el Athinaikos, campeón griego, al que ya derrotó en Atenas en la primera vuelta por 78-89.
 · País: España</desc>
@@ -37934,8 +37925,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126083000 +0100" stop="20261126101500 +0100" channel="M+ Deportes">
-    <title>Jornada 14: Baskonia - Efes T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga de baloncesto T26/27 · Jornada 14: Baskonia - Efes</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Kosner Baskonia y Anadolu Efes se enfrentan en la jornada 14 de Euroliga. El técnico del equipo turco, Pablo Laso, se mide por primera vez en el Buesa Arena a su exequipo. Los vitorianos son colistas, con una sola victoria, y los turcos decimoterceros.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -37943,9 +37934,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126101500 +0100" stop="20261126104500 +0100" channel="M+ Deportes">
     <title>T26/27 E10 · Eurofighters</title>
@@ -37974,7 +37962,7 @@
 		</rating>
 	</programme>
 	<programme start="20261126110000 +0100" stop="20261126124500 +0100" channel="M+ Deportes">
-    <title>Jornada 5: Casademont Zaragoza - Athinaikos T26/27 · Euroliga femenina</title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Casademont Zaragoza - Athinaikos</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) El Casademont Zaragoza sigue su camino en la Euroliga Femenina buscando mantener su pleno de victorias. En la jornada 5 su rival será el Athinaikos, campeón griego, al que ya derrotó en Atenas en la primera vuelta por 78-89.
 · País: España</desc>
@@ -38016,7 +38004,7 @@
 	</programme>
 	<programme start="20261126141000 +0100" stop="20261126160000 +0100" channel="M+ Deportes">
     <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -38025,7 +38013,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126160000 +0100" stop="20261126163000 +0100" channel="M+ Deportes">
@@ -38071,17 +38059,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126191500 +0100" stop="20261126210000 +0100" channel="M+ Deportes">
-    <title>Jornada 5: Flammes Carolo - Valencia Basket T26/27 · Euroliga femenina</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Flammes Carolo - Valencia Basket</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4513854" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126210000 +0100" stop="20261126213000 +0100" channel="M+ Deportes">
     <title>Racing on the Edge T2026 E7</title>
@@ -38177,7 +38162,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261127061000 +0100" stop="20261127080000 +0100" channel="M+ Deportes">
-    <title>Jornada 5: Casademont Zaragoza - Athinaikos T26/27 · Euroliga femenina</title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Casademont Zaragoza - Athinaikos</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) El Casademont Zaragoza sigue su camino en la Euroliga Femenina buscando mantener su pleno de victorias. En la jornada 5 su rival será el Athinaikos, campeón griego, al que ya derrotó en Atenas en la primera vuelta por 78-89.
 · País: España</desc>
@@ -38245,7 +38230,7 @@
 	</programme>
 	<programme start="20261127130500 +0100" stop="20261127145500 +0100" channel="M+ Deportes">
     <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -38254,7 +38239,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127145500 +0100" stop="20261127152500 +0100" channel="M+ Deportes">
@@ -38324,8 +38309,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261127203700 +0100" stop="20261127222700 +0100" channel="M+ Deportes">
-    <title>Jornada 14: Baskonia - Efes T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga de baloncesto T26/27 · Jornada 14: Baskonia - Efes</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Kosner Baskonia y Anadolu Efes se enfrentan en la jornada 14 de Euroliga. El técnico del equipo turco, Pablo Laso, se mide por primera vez en el Buesa Arena a su exequipo. Los vitorianos son colistas, con una sola victoria, y los turcos decimoterceros.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -38333,9 +38318,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261127222700 +0100" stop="20261127230000 +0100" channel="M+ Deportes">
     <title>World of free sports T2026 E27</title>
@@ -38389,7 +38371,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261128050000 +0100" stop="20261128080000 +0100" channel="M+ Deportes">
+	<programme start="20261128050000 +0100" stop="20261128073000 +0100" channel="M+ Deportes">
     <title>DIRECTO Cuartos de Final Evento 2 T2026 · Premier Padel. México</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
@@ -38400,6 +38382,21 @@
 		</rating>
 		<star-rating system="ES">
 			<value>6.0/10</value>
+		</star-rating>
+	</programme>
+	<programme start="20261128073000 +0100" stop="20261128080000 +0100" channel="M+ Deportes">
+    <title>T26/27 E10 · Eurofighters</title>
+    <sub-title>2026 | TP | ★6.2/10</sub-title>
+    <desc>(Deportes,Programa deportes) Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
+· País: España
+· Presenta: Sara Giménez.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4503389" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128080000 +0100" stop="20261128100000 +0100" channel="M+ Deportes">
@@ -38561,7 +38558,7 @@
 	</programme>
 	<programme start="20261129030000 +0100" stop="20261129050000 +0100" channel="M+ Deportes">
     <title>DIRECTO Semifinales Evento 2 T2026 · Premier Padel. México</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4459284" />
@@ -38569,12 +38566,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129050000 +0100" stop="20261129070000 +0100" channel="M+ Deportes">
     <title>DIRECTO Semifinal Evento 2 T2026 · Premier Padel. México</title>
-    <sub-title>2026 | TP | ★9.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4459290" />
@@ -38582,7 +38579,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>9.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129070000 +0100" stop="20261129074500 +0100" channel="M+ Deportes">
@@ -38709,7 +38706,7 @@
 	</programme>
 	<programme start="20261129172000 +0100" stop="20261129192000 +0100" channel="M+ Deportes">
     <title>Semifinal Evento 2 T2026 · Premier Padel. México</title>
-    <sub-title>2026 | TP | ★9.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4459290" />
@@ -38717,7 +38714,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>9.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129192000 +0100" stop="20261129204800 +0100" channel="M+ Deportes">
@@ -38749,7 +38746,7 @@
 	</programme>
 	<programme start="20261129214500 +0100" stop="20261129234500 +0100" channel="M+ Deportes">
     <title>Finales: Sudáfrica - Francia T2026 · Nations Championship</title>
-    <sub-title>TP | ★8.4/10</sub-title>
+    <sub-title>TP | ★8.6/10</sub-title>
     <desc>(Deportes,Rugby) La Nations Championship, nuevo torneo internacional que reúne a los 12 mejores equipos del mundo, será bianual y se disputará en dos ventanas (julio y noviembre). Participan los del 6 Naciones, los del Rugby Championship y los invitados Fiyi y Japón,.
 · País: &lt;span&gt;Selección de Sudáfrica&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -38758,7 +38755,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.4/10</value>
+			<value>8.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129234500 +0100" stop="20261130000000 +0100" channel="M+ Deportes">
@@ -38907,7 +38904,7 @@
 	</programme>
 	<programme start="20261125145700 +0100" stop="20261125153300 +0100" channel="M+ Documentales">
     <title>Verdeliss. Más allá del miedo E1</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Documentales,Deportes) Verdeliss se prepara para dar el salto a atleta profesional real. Va a competir en A Coruña en el Campeonato del Mundo de 100 km (IAU). Mientras entrena, tiene que seguir con su día a día como influencer y el cuidado de sus ocho hijos.
 · País: España
 · Dirección: Óscar Rodríguez.</desc>
@@ -38917,7 +38914,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125153300 +0100" stop="20261125161300 +0100" channel="M+ Documentales">
@@ -43451,7 +43448,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127103000 +0100" stop="20261127133000 +0100" channel="M+ Golf">
+	<programme start="20261127103000 +0100" stop="20261127134500 +0100" channel="M+ Golf">
     <title>BMW Australian PGA Championship (World Feed). Jornada 2. Parte 2 T26/27 · DP World Tour</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Golf) Con un mínimo de 39 torneos en 26 países diferentes, el DP World Tour refuerza su posición como primer tour global del mundo. Las grandes citas serán los cinco Rolex Series y la gran final de Dubai.</desc>
@@ -43464,18 +43461,15 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127133000 +0100" stop="20261127140000 +0100" channel="M+ Golf">
-    <title>PGA Tour Champions Learning Center T2026 E28</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
-    <desc>(Deportes,Golf) Los mejores jugadores senior ofrecen consejos para mejorar el juego, la mentalidad y la forma física en el campo de golf.</desc>
+	<programme start="20261127134500 +0100" stop="20261127140000 +0100" channel="M+ Golf">
+    <title>Ladies European Tour T2026 · Andalucía Costa del Sol. Open de España. Previa Jornada 2</title>
+    <sub-title>2026 | TP</sub-title>
+    <desc>(Deportes,Golf) La Cala Resort en Mijas pone el broche de oro a la temporada en el Ladies European Tour. En esta 24 edición de nuestro Open, 14 españolas pelearán por ganar en casa y sumar el quinto trofeo para España en este torneo.</desc>
     <category>Deportes, Golf</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2707397V4400788" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4464052" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261127140000 +0100" stop="20261127170000 +0100" channel="M+ Golf">
     <title>DIRECTO Andalucía Costa del Sol. Open de España. Jornada 2 T2026 · Ladies European Tour</title>
@@ -47923,7 +47917,7 @@
 	</programme>
 	<programme start="20261127205400 +0100" stop="20261127230000 +0100" channel="M+ LaLiga">
     <title>DIRECTO Jornada 14: Levante UD - R. Racing Club T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) Dos partidos consecutivos en casa y ambos en la misma semana. Tras el choque ante el Elche el equipo de Luis Castro es muy consciente de la importancia de los puntos en disputa ante los cántabros. El Racing necesita mejorar lejos del Sardinero.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -47932,7 +47926,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127230000 +0100" stop="20261127233000 +0100" channel="M+ LaLiga">
@@ -48049,7 +48043,7 @@
 	</programme>
 	<programme start="20261128080000 +0100" stop="20261128095500 +0100" channel="M+ LaLiga">
     <title>Jornada 14: Levante UD - R. Racing Club T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) Dos partidos consecutivos en casa y ambos en la misma semana. Tras el choque ante el Elche el equipo de Luis Castro es muy consciente de la importancia de los puntos en disputa ante los cántabros. El Racing necesita mejorar lejos del Sardinero.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -48058,7 +48052,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128095500 +0100" stop="20261128105000 +0100" channel="M+ LaLiga">
@@ -48232,7 +48226,7 @@
 	</programme>
 	<programme start="20261128230000 +0100" stop="20261129001000 +0100" channel="M+ LaLiga">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -48241,7 +48235,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129001000 +0100" stop="20261129012700 +0100" channel="M+ LaLiga">
@@ -48318,7 +48312,7 @@
 	</programme>
 	<programme start="20261129060500 +0100" stop="20261129080000 +0100" channel="M+ LaLiga">
     <title>Jornada 14: Levante UD - R. Racing Club T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) Dos partidos consecutivos en casa y ambos en la misma semana. Tras el choque ante el Elche el equipo de Luis Castro es muy consciente de la importancia de los puntos en disputa ante los cántabros. El Racing necesita mejorar lejos del Sardinero.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -48327,12 +48321,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129080000 +0100" stop="20261129091000 +0100" channel="M+ LaLiga">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -48341,7 +48335,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129091000 +0100" stop="20261129101000 +0100" channel="M+ LaLiga">
@@ -48406,7 +48400,7 @@
 	</programme>
 	<programme start="20261129150000 +0100" stop="20261129161000 +0100" channel="M+ LaLiga">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -48415,7 +48409,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129161000 +0100" stop="20261129171000 +0100" channel="M+ LaLiga">
@@ -48475,7 +48469,7 @@
 	</programme>
 	<programme start="20261129203000 +0100" stop="20261129210000 +0100" channel="M+ LaLiga">
     <title>RC Celta - Villarreal CF T26/27 · La Casa del Fútbol Post</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -48484,7 +48478,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129210000 +0100" stop="20261129221500 +0100" channel="M+ LaLiga">
@@ -48581,7 +48575,7 @@
 	</programme>
 	<programme start="20261127205400 +0100" stop="20261127230000 +0100" channel="M+ LaLiga HDR">
     <title>DIRECTO Jornada 14: Levante UD - R. Racing Club T26/27 · LALIGA EA SPORTS</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.2/10</sub-title>
     <desc>(Deportes,Fútbol) Dos partidos consecutivos en casa y ambos en la misma semana. Tras el choque ante el Elche el equipo de Luis Castro es muy consciente de la importancia de los puntos en disputa ante los cántabros. El Racing necesita mejorar lejos del Sardinero.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -48590,7 +48584,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127230000 +0100" stop="20261127233000 +0100" channel="M+ LaLiga HDR">
@@ -48747,7 +48741,7 @@
 	</programme>
 	<programme start="20261128230000 +0100" stop="20261129002500 +0100" channel="M+ LaLiga HDR">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -48756,7 +48750,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129002500 +0100" stop="20261129080000 +0100" channel="M+ LaLiga HDR">
@@ -48791,7 +48785,7 @@
 	</programme>
 	<programme start="20261129180000 +0100" stop="20261129182400 +0100" channel="M+ LaLiga HDR">
     <title>DIRECTO RC Celta - Villarreal CF T26/27 · La Casa del Fútbol Previa</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Previa Liga Española. 1ª División.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -48799,6 +48793,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>5.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261129182400 +0100" stop="20261129203000 +0100" channel="M+ LaLiga HDR">
     <title>DIRECTO Jornada 14: RC Celta - Villarreal CF T26/27 · LALIGA EA SPORTS</title>
@@ -48816,7 +48813,7 @@
 	</programme>
 	<programme start="20261129203000 +0100" stop="20261129210000 +0100" channel="M+ LaLiga HDR">
     <title>RC Celta - Villarreal CF T26/27 · La Casa del Fútbol Post</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Postpartido Liga.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -48825,7 +48822,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129210000 +0100" stop="20261129230000 +0100" channel="M+ LaLiga HDR">
@@ -49335,7 +49332,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125200000 +0100" stop="20261125205300 +0100" channel="M+ Liga de Campeones 2">
-    <title>DIRECTO 25/11/2026 20:00 T26/27 · La Previa de Champions</title>
+    <title>La Previa de Champions T26/27 · 25/11/2026 20:00</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
 · País: España</desc>
@@ -49350,7 +49347,7 @@
 	</programme>
 	<programme start="20261125205300 +0100" stop="20261125230000 +0100" channel="M+ Liga de Campeones 2">
     <title>DIRECTO Jornada 5: At. Madrid - Viking T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) Con cuatro puntos a la altura de la quinta jornada de UCL al At.Madrid le toca acelerar. Viking, PSV, Bodo y Fenerbahçe les esperan en el calendario a los rojiblancos. Cada partido es una final para los de Simeone. Los noruegos les preceden en la tabla.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -49359,7 +49356,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125230000 +0100" stop="20261126060000 +0100" channel="M+ Liga de Campeones 2">
@@ -49581,8 +49578,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125183800 +0100" stop="20261125204500 +0100" channel="M+ Liga de Campeones 3">
-    <title>DIRECTO Jornada 5: Slavia Praga - Villarreal T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>UEFA Champions League T26/27 · Jornada 5: Slavia Praga - Villarreal</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Villarreal viaja a Praga para medirse al Slavia en un trascendental partido para los de ïñigo Pérez. El cuadro checo no ha ganado todavía en Europa pero es líder en su país.
 · País: República Checa</desc>
     <category>Deportes, Fútbol</category>
@@ -49590,9 +49587,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125204500 +0100" stop="20261125205300 +0100" channel="M+ Liga de Campeones 3">
     <title>M+ Liga de Campeones 3</title>
@@ -50489,7 +50483,7 @@
 	</programme>
 	<programme start="20261125205300 +0100" stop="20261125230000 +0100" channel="M+ Liga de Campeones 8">
     <title>DIRECTO Jornada 5: Sporting Portugal - Manchester Utd. T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.6/10</sub-title>
     <desc>(Deportes,Fútbol) La máxima competición del deporte europeo garantiza emoción y buen fútbol. 36 equipos se juegan el pase a la gloria durante una fase liga antes de llegar a las eliminatorias, en las que los partidos son a cara de perro. El PSG defiende título.</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4499542" />
@@ -50497,7 +50491,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>5.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125230000 +0100" stop="20261126060000 +0100" channel="M+ Liga de Campeones 8">
@@ -50846,7 +50840,7 @@
 	</programme>
 	<programme start="20261125120500 +0100" stop="20261125135500 +0100" channel="M+ Liga de Campeones">
     <title>UEFA Champions League T26/27 · Jornada 5: Real Madrid - PSV Eindhoven</title>
-    <sub-title>2026 | TP</sub-title>
+    <sub-title>2026 | TP | ★7.6/10</sub-title>
     <desc>(Deportes,Fútbol) Partido de la quinta jornada de la Champions entre Real Madrid y PSV.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -50854,6 +50848,9 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>7.6/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261125135500 +0100" stop="20261125155500 +0100" channel="M+ Liga de Campeones">
     <title>UEFA Youth League T26/27 · Jornada 5: Sporting Portugal - Manchester Utd</title>
@@ -50878,7 +50875,7 @@
 		</rating>
 	</programme>
 	<programme start="20261125180000 +0100" stop="20261125183800 +0100" channel="M+ Liga de Campeones">
-    <title>DIRECTO 25/11/2026 18:00 T26/27 · La Previa de Champions</title>
+    <title>La Previa de Champions T26/27 · 25/11/2026 18:00</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
 · País: España</desc>
@@ -50892,8 +50889,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125183800 +0100" stop="20261125205000 +0100" channel="M+ Liga de Campeones">
-    <title>DIRECTO Jornada 5: Sabah - Barcelona T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>UEFA Champions League T26/27 · Jornada 5: Sabah - Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Partido de la quinta jornada de la Champions entre Sabah y Barcelona.
 · País: Azerbayan</desc>
     <category>Deportes, Fútbol</category>
@@ -50901,9 +50898,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125205000 +0100" stop="20261125214000 +0100" channel="M+ Liga de Campeones">
     <title>DIRECTO 25/11/2026 T26/27 · Post UEFA Champions League</title>
@@ -51015,8 +51009,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126064000 +0100" stop="20261126083000 +0100" channel="M+ Liga de Campeones">
-    <title>Jornada 5: Slavia Praga - Villarreal T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>UEFA Champions League T26/27 · Jornada 5: Slavia Praga - Villarreal</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) El Villarreal viaja a Praga para medirse al Slavia en un trascendental partido para los de ïñigo Pérez. El cuadro checo no ha ganado todavía en Europa pero es líder en su país.
 · País: República Checa</desc>
     <category>Deportes, Fútbol</category>
@@ -51024,9 +51018,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126083000 +0100" stop="20261126085000 +0100" channel="M+ Liga de Campeones">
     <title>Ruedas de prensa previas Europa League T26/27 E4</title>
@@ -51071,8 +51062,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126112000 +0100" stop="20261126131000 +0100" channel="M+ Liga de Campeones">
-    <title>Jornada 5: Sabah - Barcelona T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★6.6/10</sub-title>
+    <title>UEFA Champions League T26/27 · Jornada 5: Sabah - Barcelona</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Fútbol) Partido de la quinta jornada de la Champions entre Sabah y Barcelona.
 · País: Azerbayan</desc>
     <category>Deportes, Fútbol</category>
@@ -51080,13 +51071,10 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.6/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126131000 +0100" stop="20261126150000 +0100" channel="M+ Liga de Campeones">
     <title>Jornada 5: At. Madrid - Viking T26/27 · UEFA Champions League</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Fútbol) Con cuatro puntos a la altura de la quinta jornada de UCL al At.Madrid le toca acelerar. Viking, PSV, Bodo y Fenerbahçe les esperan en el calendario a los rojiblancos. Cada partido es una final para los de Simeone. Los noruegos les preceden en la tabla.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -51095,7 +51083,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126150000 +0100" stop="20261126160000 +0100" channel="M+ Liga de Campeones">
@@ -51421,15 +51409,18 @@
 		</star-rating>
 	</programme>
 	<programme start="20261128030000 +0100" stop="20261128050000 +0100" channel="M+ Liga de Campeones">
-    <title>Brasileirao T2026 · Jornada 37: Chapecoense - Palmeiras</title>
-    <sub-title>2026 | TP</sub-title>
-    <desc>(Deportes,Fútbol) El fútbol en Brasil es una religión. Su liga es una factoría inagotable de jugadores.
-· País: Brasil</desc>
+    <title>Jornada 5: Olympique de Marsella - Levski Sofía T26/27 · UEFA Europa League</title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <desc>(Deportes,Fútbol) Es la segunda competición de la UEFA, pero siempre cuenta con equipos de primer nivel. Tras una fase liga de ocho jornadas, solo los mejores disputarán las eliminatorias por el título. La final de esta edición se disputará en el Besiktas Stadium.
+· País: Francia</desc>
     <category>Deportes, Fútbol</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518756" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4499876" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
+		<star-rating system="ES">
+			<value>6.0/10</value>
+		</star-rating>
 	</programme>
 	<programme start="20261128050000 +0100" stop="20261128063000 +0100" channel="M+ Liga de Campeones">
     <title>26/11/2026 T26/27 · Noche de Europa League</title>
@@ -51728,13 +51719,13 @@
 	</programme>
 	<programme start="20261129145500 +0100" stop="20261129170000 +0100" channel="M+ Liga de Campeones">
     <title>DIRECTO Jornada 13: Sassuolo - Nápoles T26/27 · Serie A Calcio</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
+    <sub-title>2026 | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
 · País: Italia</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495117" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129170000 +0100" stop="20261129172000 +0100" channel="M+ Liga de Campeones">
@@ -52109,7 +52100,7 @@
 	</programme>
 	<programme start="20261125205900 +0100" stop="20261125213000 +0100" channel="M+ Originales">
     <title>Ilustres ignorantes T20 · La vida laboral</title>
-    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
 · País: España
 · Presenta: Javier Coronas.
@@ -52121,7 +52112,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125213000 +0100" stop="20261125220000 +0100" channel="M+ Originales">
@@ -52585,7 +52576,7 @@
 	</programme>
 	<programme start="20261126180200 +0100" stop="20261126183400 +0100" channel="M+ Originales">
     <title>Ilustres ignorantes T20 · La vida laboral</title>
-    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
 · País: España
 · Presenta: Javier Coronas.
@@ -52597,7 +52588,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126183400 +0100" stop="20261126190400 +0100" channel="M+ Originales">
@@ -53109,6 +53100,7 @@
 · Guion: Diego San José, Fernando Delgado-Hierro, Oriol Puig Grau, Daniel Castro.
 · Productora: Movistar+.</desc>
     <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518813" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -53263,7 +53255,7 @@
 	</programme>
 	<programme start="20261128002700 +0100" stop="20261128003200 +0100" channel="M+ Originales">
     <title>Celeste (Extras) T2 E4 · Terry</title>
-    <sub-title>⑫ | ★4.6/10</sub-title>
+    <sub-title>⑫ | ★5.0/10</sub-title>
     <desc>(Series,Making of) Terry es el robaescenas de "Celeste" y toma más protagonismo en la segunda temporada. Pero el perro detrás del personaje se llama Cooper y todo el equipo lo adora.
 · País: España</desc>
     <category>Series, Making of</category>
@@ -53272,7 +53264,7 @@
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.6/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128003200 +0100" stop="20261128021000 +0100" channel="M+ Originales">
@@ -53401,6 +53393,7 @@
 · Guion: Diego San José, Fernando Delgado-Hierro, Oriol Puig Grau, Daniel Castro.
 · Productora: Movistar+.</desc>
     <category>Series, Thriller</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4518813" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -54104,7 +54097,7 @@
 	</programme>
 	<programme start="20261129130400 +0100" stop="20261129143400 +0100" channel="M+ Originales">
     <title>DIRECTO 28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -54113,7 +54106,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129143400 +0100" stop="20261129150400 +0100" channel="M+ Originales">
@@ -54384,7 +54377,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126190000 +0100" stop="20261126210000 +0100" channel="M+ Vamos 2">
-    <title>DIRECTO Ventana 5: Montenegro - España T2026 · FIBA Copa del Mundo. Clasificatorios</title>
+    <title>Ventana 5: Montenegro - España T2026 · FIBA Copa del Mundo. Clasificatorios</title>
     <sub-title>2026 | TP | ★6.8/10</sub-title>
     <desc>(Deportes,Baloncesto) Las 32 mejores selecciones de Europa competirán durante las 3 ventanas FIBA para clasificarse para el Mundial de Catar 2027. La selección española, dirigida por Chus Mateo, marcha con paso firme en esta primera fase.</desc>
     <category>Deportes, Baloncesto</category>
@@ -54516,7 +54509,7 @@
 	</programme>
 	<programme start="20261127183500 +0100" stop="20261127202500 +0100" channel="M+ Vamos 2">
     <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -54525,7 +54518,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127202500 +0100" stop="20261127205500 +0100" channel="M+ Vamos 2">
@@ -54615,7 +54608,7 @@
 	</programme>
 	<programme start="20261128090000 +0100" stop="20261128105000 +0100" channel="M+ Vamos 2">
     <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -54624,7 +54617,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128105000 +0100" stop="20261128124000 +0100" channel="M+ Vamos 2">
@@ -54830,7 +54823,7 @@
 	</programme>
 	<programme start="20261129114000 +0100" stop="20261129135000 +0100" channel="M+ Vamos 2">
     <title>Semifinal Evento 2 T2026 · Premier Padel. México</title>
-    <sub-title>2026 | TP | ★9.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4459290" />
@@ -54838,7 +54831,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>9.0/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129135000 +0100" stop="20261129144500 +0100" channel="M+ Vamos 2">
@@ -54907,7 +54900,7 @@
 	</programme>
 	<programme start="20261129214000 +0100" stop="20261129233000 +0100" channel="M+ Vamos 2">
     <title>Finales: Sudáfrica - Francia T2026 · Nations Championship</title>
-    <sub-title>TP | ★8.4/10</sub-title>
+    <sub-title>TP | ★8.6/10</sub-title>
     <desc>(Deportes,Rugby) La Nations Championship, nuevo torneo internacional que reúne a los 12 mejores equipos del mundo, será bianual y se disputará en dos ventanas (julio y noviembre). Participan los del 6 Naciones, los del Rugby Championship y los invitados Fiyi y Japón,.
 · País: &lt;span&gt;Selección de Sudáfrica&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -54916,7 +54909,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.4/10</value>
+			<value>8.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129233000 +0100" stop="20261130013000 +0100" channel="M+ Vamos 2">
@@ -54975,7 +54968,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261127101000 +0100" stop="20261127120000 +0100" channel="M+ Vamos 3">
-    <title>Jornada 5: Casademont Zaragoza - Athinaikos T26/27 · Euroliga femenina</title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Casademont Zaragoza - Athinaikos</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) El Casademont Zaragoza sigue su camino en la Euroliga Femenina buscando mantener su pleno de victorias. En la jornada 5 su rival será el Athinaikos, campeón griego, al que ya derrotó en Atenas en la primera vuelta por 78-89.
 · País: España</desc>
@@ -55131,17 +55124,14 @@
 		</star-rating>
 	</programme>
 	<programme start="20261128090000 +0100" stop="20261128105000 +0100" channel="M+ Vamos 3">
-    <title>Jornada 5: Flammes Carolo - Valencia Basket T26/27 · Euroliga femenina</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Flammes Carolo - Valencia Basket</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los mejores equipos del continente luchan por el título de la Euroliga Femenina, la máxima competición europea de clubes.</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4513854" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261128105000 +0100" stop="20261128112000 +0100" channel="M+ Vamos 3">
     <title>T26/27 E10 · Eurofighters</title>
@@ -55307,7 +55297,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261129090000 +0100" stop="20261129105000 +0100" channel="M+ Vamos 3">
-    <title>Jornada 5: Casademont Zaragoza - Athinaikos T26/27 · Euroliga femenina</title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Casademont Zaragoza - Athinaikos</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) El Casademont Zaragoza sigue su camino en la Euroliga Femenina buscando mantener su pleno de victorias. En la jornada 5 su rival será el Athinaikos, campeón griego, al que ya derrotó en Atenas en la primera vuelta por 78-89.
 · País: España</desc>
@@ -55348,7 +55338,7 @@
 	</programme>
 	<programme start="20261129153000 +0100" stop="20261129173000 +0100" channel="M+ Vamos 3">
     <title>Semifinales Evento 2 T2026 · Premier Padel. México</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <sub-title>2026 | TP | ★6.6/10</sub-title>
     <desc>(Deportes,Pádel) Sigue en Movistar Plus+ la temporada Premier Padel 2026, la competición que reúne a las grandes figuras del pádel mundial en un extenso calendario de torneos repartidos por distintos países.</desc>
     <category>Deportes, Pádel</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4459284" />
@@ -55356,12 +55346,12 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129173000 +0100" stop="20261129194000 +0100" channel="M+ Vamos 3">
     <title>DIRECTO Finales: Sudáfrica - Francia T2026 · Nations Championship</title>
-    <sub-title>TP | ★8.4/10</sub-title>
+    <sub-title>TP | ★8.6/10</sub-title>
     <desc>(Deportes,Rugby) La Nations Championship, nuevo torneo internacional que reúne a los 12 mejores equipos del mundo, será bianual y se disputará en dos ventanas (julio y noviembre). Participan los del 6 Naciones, los del Rugby Championship y los invitados Fiyi y Japón,.
 · País: &lt;span&gt;Selección de Sudáfrica&lt;/span&gt;</desc>
     <category>Deportes, Rugby</category>
@@ -55370,7 +55360,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.4/10</value>
+			<value>8.6/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129194000 +0100" stop="20261129195500 +0100" channel="M+ Vamos 3">
@@ -55549,7 +55539,7 @@
 	</programme>
 	<programme start="20261125182700 +0100" stop="20261125190200 +0100" channel="M+ Vamos">
     <title>Verdeliss. Más allá del miedo E1</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Documentales,Deportes) Verdeliss se prepara para dar el salto a atleta profesional real. Va a competir en A Coruña en el Campeonato del Mundo de 100 km (IAU). Mientras entrena, tiene que seguir con su día a día como influencer y el cuidado de sus ocho hijos.
 · País: España
 · Dirección: Óscar Rodríguez.</desc>
@@ -55559,7 +55549,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125190200 +0100" stop="20261125194000 +0100" channel="M+ Vamos">
@@ -55578,20 +55568,17 @@
 		</star-rating>
 	</programme>
 	<programme start="20261125194000 +0100" stop="20261125200000 +0100" channel="M+ Vamos">
-    <title>DIRECTO Jornada 5: Zaragoza - Athinaikos T26/27 · Previa Euroliga femenina</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Previa Euroliga femenina T26/27 · Jornada 5: Zaragoza - Athinaikos</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Los 16 mejores equipos de Europa luchan por el título más codiciado. Valencia, Girona y Zaragoza son candidatos a llegar muy lejos. El objetivo es la Final a 6 que se jugará en Zaragoza en el mes de abril.</desc>
     <category>Deportes, Baloncesto</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4507024" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125200000 +0100" stop="20261125220000 +0100" channel="M+ Vamos">
-    <title>DIRECTO Jornada 5: Casademont Zaragoza - Athinaikos T26/27 · Euroliga femenina</title>
+    <title>Euroliga femenina T26/27 · Jornada 5: Casademont Zaragoza - Athinaikos</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) El Casademont Zaragoza sigue su camino en la Euroliga Femenina buscando mantener su pleno de victorias. En la jornada 5 su rival será el Athinaikos, campeón griego, al que ya derrotó en Atenas en la primera vuelta por 78-89.
 · País: España</desc>
@@ -55631,7 +55618,7 @@
 		</rating>
 	</programme>
 	<programme start="20261125224500 +0100" stop="20261125231400 +0100" channel="M+ Vamos">
-    <title>T26/27 E10 · Eurofighters</title>
+    <title>DIRECTO T26/27 E10 · Eurofighters</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
 · País: España
@@ -55676,8 +55663,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126022900 +0100" stop="20261126041900 +0100" channel="M+ Vamos">
-    <title>Jornada 14: Baskonia - Efes T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga de baloncesto T26/27 · Jornada 14: Baskonia - Efes</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Kosner Baskonia y Anadolu Efes se enfrentan en la jornada 14 de Euroliga. El técnico del equipo turco, Pablo Laso, se mide por primera vez en el Buesa Arena a su exequipo. Los vitorianos son colistas, con una sola victoria, y los turcos decimoterceros.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -55685,9 +55672,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126041900 +0100" stop="20261126043200 +0100" channel="M+ Vamos">
     <title>Top Bakalá T26/27 E11</title>
@@ -55715,7 +55699,7 @@
 			<value>TP</value>
 		</rating>
 	</programme>
-	<programme start="20261126061500 +0100" stop="20261126081000 +0100" channel="M+ Vamos">
+	<programme start="20261126061500 +0100" stop="20261126080500 +0100" channel="M+ Vamos">
     <title>Euroliga de baloncesto T26/27 · Jornada 14: FC Barcelona - Fenerbahce</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
@@ -55729,7 +55713,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126081000 +0100" stop="20261126084300 +0100" channel="M+ Vamos">
+	<programme start="20261126080500 +0100" stop="20261126084300 +0100" channel="M+ Vamos">
     <title>Locos por el golf T2026 E39</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Lidia y Carlos nos cuentan desde Mijas todos los detalles del Andalucía Costa del Sol Open de España, torneo que cierra la temporada en el LET. Ana Peláez lidera a la Armada Española de 14 jugadoras.
@@ -55774,8 +55758,8 @@
 		</star-rating>
 	</programme>
 	<programme start="20261126104100 +0100" stop="20261126123000 +0100" channel="M+ Vamos">
-    <title>Jornada 14: Baskonia - Efes T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Euroliga de baloncesto T26/27 · Jornada 14: Baskonia - Efes</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Baloncesto) Kosner Baskonia y Anadolu Efes se enfrentan en la jornada 14 de Euroliga. El técnico del equipo turco, Pablo Laso, se mide por primera vez en el Buesa Arena a su exequipo. Los vitorianos son colistas, con una sola victoria, y los turcos decimoterceros.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -55783,9 +55767,6 @@
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261126123000 +0100" stop="20261126130100 +0100" channel="M+ Vamos">
     <title>T26/27 E10 · Eurofighters</title>
@@ -55820,7 +55801,7 @@
 	</programme>
 	<programme start="20261126140600 +0100" stop="20261126155400 +0100" channel="M+ Vamos">
     <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -55829,7 +55810,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126155400 +0100" stop="20261126162600 +0100" channel="M+ Vamos">
@@ -56004,7 +55985,7 @@
 	</programme>
 	<programme start="20261127070100 +0100" stop="20261127084800 +0100" channel="M+ Vamos">
     <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -56013,7 +55994,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261127084800 +0100" stop="20261127102000 +0100" channel="M+ Vamos">
@@ -56347,7 +56328,7 @@
 		</star-rating>
 	</programme>
 	<programme start="20261128164500 +0100" stop="20261128184500 +0100" channel="M+ Vamos">
-    <title>Semifinal 2 Evento 3 T2026 · Copa Davis. Fase Final</title>
+    <title>DIRECTO Semifinal 2 Evento 3 T2026 · Copa Davis. Fase Final</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Tenis) La selección española de tenis disputa en Suiza la primera eliminatoria clasificatoria de la Copa Davis 2025. El enfrentamiento se celebrará en el SwissTennis Arena, ubicado en la localidad de Biel.</desc>
     <category>Deportes, Tenis</category>
@@ -56445,7 +56426,7 @@
 	</programme>
 	<programme start="20261129005000 +0100" stop="20261129022000 +0100" channel="M+ Vamos">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -56454,7 +56435,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129022000 +0100" stop="20261129041000 +0100" channel="M+ Vamos">
@@ -56499,7 +56480,7 @@
 	</programme>
 	<programme start="20261129074500 +0100" stop="20261129091500 +0100" channel="M+ Vamos">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -56508,7 +56489,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129091500 +0100" stop="20261129110000 +0100" channel="M+ Vamos">
@@ -56578,13 +56559,13 @@
 	</programme>
 	<programme start="20261129145500 +0100" stop="20261129172000 +0100" channel="M+ Vamos">
     <title>DIRECTO Jornada 13: Sassuolo - Nápoles T26/27 · Serie A Calcio</title>
-    <sub-title>2026 | ★6.0/10</sub-title>
+    <sub-title>2026 | ★6.2/10</sub-title>
     <desc>(Deportes,Fútbol) El fútbol italiano cuenta con uno de los campeonatos más prestigiosos de todo el planeta, la Serie A. La liga cuenta con gigantes del fútbol mundial y cultiva alguna de las rivalidades más encarnizadas de este deporte. El Inter defiende 'Scudetto'.
 · País: Italia</desc>
     <category>Deportes, Fútbol</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4495117" />
 		<star-rating system="ES">
-			<value>6.0/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129172000 +0100" stop="20261129192000 +0100" channel="M+ Vamos">
@@ -56803,8 +56784,8 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125180000 +0100" stop="20261125183700 +0100" channel="Movistar Plus">
-    <title>DIRECTO 25/11/2026 18:00 T26/27 · La Previa de Champions</title>
+	<programme start="20261125180000 +0100" stop="20261125183600 +0100" channel="Movistar Plus">
+    <title>La Previa de Champions T26/27 · 25/11/2026 18:00</title>
     <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) Programa que incluye resúmenes de los partidos de la UEFA Champions League, los goles de la jornada y todo tipo de informaciones relacionadas con esta competición.
 · País: España</desc>
@@ -56817,7 +56798,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125183700 +0100" stop="20261125190700 +0100" channel="Movistar Plus">
+	<programme start="20261125183600 +0100" stop="20261125190500 +0100" channel="Movistar Plus">
     <title>Leo Talks T7 · Quemando tarjeta</title>
     <sub-title>2026 | ⑫ | ★6.6/10</sub-title>
     <desc>(Entretenimiento,Humor) Leo se ríe de nuestra adicción a las compras: las rebajas, el Black Friday, las compras online, los armarios que explotan, los trasteros llenos, las yogurteras olvidadas y todos esos gadgets absurdos que jurábamos necesitar... hasta que llegan a casa.
@@ -56832,9 +56813,9 @@
 			<value>6.6/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125190700 +0100" stop="20261125193700 +0100" channel="Movistar Plus">
+	<programme start="20261125190500 +0100" stop="20261125193400 +0100" channel="Movistar Plus">
     <title>Verdeliss. Más allá del miedo E1</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Documentales,Deportes) Verdeliss se prepara para dar el salto a atleta profesional real. Va a competir en A Coruña en el Campeonato del Mundo de 100 km (IAU). Mientras entrena, tiene que seguir con su día a día como influencer y el cuidado de sus ocho hijos.
 · País: España
 · Dirección: Óscar Rodríguez.</desc>
@@ -56844,10 +56825,10 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125193700 +0100" stop="20261125202500 +0100" channel="Movistar Plus">
+	<programme start="20261125193400 +0100" stop="20261125201000 +0100" channel="Movistar Plus">
     <title>Verdeliss. Más allá del miedo E2</title>
     <sub-title>2026 | TP | ★6.4/10</sub-title>
     <desc>(Documentales,Deportes) Su selección con España para el campeonato mundial de los 100 kilómetros no es un reto más. Aquí Verdeliss compite con las mejores atletas del mundo, en igualdad de condiciones, en un entorno donde nadie regala nada.
@@ -56862,22 +56843,34 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
+	<programme start="20261125201000 +0100" stop="20261125202500 +0100" channel="Movistar Plus">
+    <title>Lo mejor de Bakalá T26/27 E12</title>
+    <sub-title>2026 | TP | ★6.4/10</sub-title>
+    <desc>(Deportes,Programa deportes) Un programa que combina el deporte actual con lo mejor del archivo de la casa. Te contamos todo lo acontecido durante la semana, a la vez que recordamos imágenes míticas. Todo ello amenizado con la voz de Raúl Pérez y sus personajes.
+· País: España
+· Presenta: Raúl Pérez.</desc>
+    <category>Deportes, Programa deportes</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4414957" />
+		<rating system="ES">
+			<value>TP</value>
+		</rating>
+		<star-rating system="ES">
+			<value>6.4/10</value>
+		</star-rating>
+	</programme>
 	<programme start="20261125202500 +0100" stop="20261125204500 +0100" channel="Movistar Plus">
-    <title>DIRECTO Jornada 14: Real Madrid - Zalgiris T26/27 · Previa Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.0/10</sub-title>
+    <title>Previa Euroliga de baloncesto T26/27 · Jornada 14: Real Madrid - Zalgiris</title>
+    <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) os 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.</desc>
     <category>Deportes, Programa deportes</category>
     <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4492883" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
-		<star-rating system="ES">
-			<value>6.0/10</value>
-		</star-rating>
 	</programme>
 	<programme start="20261125204500 +0100" stop="20261125230000 +0100" channel="Movistar Plus">
-    <title>Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
-    <sub-title>2026 | TP | ★6.8/10</sub-title>
+    <title>DIRECTO Jornada 14: Real Madrid - Zalgiris T26/27 · Euroliga de baloncesto</title>
+    <sub-title>2026 | TP | ★7.0/10</sub-title>
     <desc>(Deportes,Baloncesto) Los 20 mejores equipos del continente luchan por el título de la Euroliga, que este año se decidirá en la Final 4 de Abu Dabi. La armada española estará compuesta por Real Madrid, Barça, Valencia y Baskonia.
 · País: España</desc>
     <category>Deportes, Baloncesto</category>
@@ -56886,7 +56879,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.8/10</value>
+			<value>7.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261125230000 +0100" stop="20261126003300 +0100" channel="Movistar Plus">
@@ -56905,7 +56898,7 @@
 	</programme>
 	<programme start="20261126003300 +0100" stop="20261126010600 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · La vida laboral</title>
-    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
 · País: España
 · Presenta: Javier Coronas.
@@ -56917,10 +56910,10 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126010600 +0100" stop="20261126013800 +0100" channel="Movistar Plus">
+	<programme start="20261126010600 +0100" stop="20261126013500 +0100" channel="Movistar Plus">
     <title>T26/27 E10 · Eurofighters</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Deportes,Programa deportes) Eurofighters llega una temporada más para ofrecerte el mejor repaso de cada semana de competición en este clásico de los viernes. Los equipos españoles serán nuestro centro de atención, pero no nos perderemos nada de lo que suceda por toda Europa.
@@ -56935,7 +56928,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126013800 +0100" stop="20261126023100 +0100" channel="Movistar Plus">
+	<programme start="20261126013500 +0100" stop="20261126022800 +0100" channel="Movistar Plus">
     <title>Narcogallegos: Los números uno del tráfico de cocaína</title>
     <sub-title>2022 | ⑯ | ★6.4/10</sub-title>
     <desc>(Documentales,Sociedad) A finales de los años 80, los cárteles de Cali, Medellín y Bogotá descubrieron la capacidad de los clanes gallegos de la provincia de Pontevedra para introducir una droga que aún no estaba muy arraigada en Europa, la cocaína.
@@ -56950,7 +56943,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126023100 +0100" stop="20261126032600 +0100" channel="Movistar Plus">
+	<programme start="20261126022800 +0100" stop="20261126032400 +0100" channel="Movistar Plus">
     <title>Narcogallegos: El tráfico de cocaína en el siglo XXI</title>
     <sub-title>2022 | ⑯ | ★6.2/10</sub-title>
     <desc>(Documentales,Sociedad) En la actualidad, tanto en Europa como en Estados Unidos se sigue consumiendo mucha droga a través de la venta directa. Los narcotraficantes y las fuerzas del orden mantienen una guerra tecnológica a la hora de traficar y de incautar alijos.
@@ -56965,7 +56958,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126032600 +0100" stop="20261126051700 +0100" channel="Movistar Plus">
+	<programme start="20261126032400 +0100" stop="20261126051500 +0100" channel="Movistar Plus">
     <title>Crónicas de guerra</title>
     <sub-title>2025 | ⑫ | ★6.4/10</sub-title>
     <desc>(Cine,Biopic) En 2004, la reportera rusa Anna Politkóvskaya sufre una extraña intoxicación en el avión que la lleva a Beslán para negociar con los terroristas chechenos. Cinco años antes comenzaba su arriesgado trabajo periodístico.
@@ -56985,7 +56978,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126051700 +0100" stop="20261126061300 +0100" channel="Movistar Plus">
+	<programme start="20261126051500 +0100" stop="20261126061100 +0100" channel="Movistar Plus">
     <title>El universo de David Lynch</title>
     <sub-title>2024 | ⑯ | ★6.4/10</sub-title>
     <desc>(Documentales,Biografía) ¿Cómo logró David Lynch convertirse en uno de los cineastas más influyentes de su generación al margen de Hollywood? Siguiendo su vida y obra, este documental explora el significado oculto de su filmografía.
@@ -57001,7 +56994,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126061300 +0100" stop="20261126070700 +0100" channel="Movistar Plus">
+	<programme start="20261126061100 +0100" stop="20261126070500 +0100" channel="Movistar Plus">
     <title>Informe Plus+. Todas las cartas a Celia</title>
     <sub-title>2023 | TP | ★6.4/10</sub-title>
     <desc>(Deportes,Programa deportes) Celia era una de las grandes promesas del golf español hasta que fue brutalmente asesinada en el campus de Iowa donde estudiaba. Cinco años después de su marcha la figura de Celia se ha convertido en todo un símbolo.
@@ -57015,7 +57008,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126070700 +0100" stop="20261126072000 +0100" channel="Movistar Plus">
+	<programme start="20261126070500 +0100" stop="20261126072000 +0100" channel="Movistar Plus">
     <title>13ª edición del Máster del Rafa Nadal Tour by Santander</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) 13ª edición del Máster del Rafa Nadal Tour by Santander -.
@@ -57172,7 +57165,7 @@
 	</programme>
 	<programme start="20261126153700 +0100" stop="20261126160600 +0100" channel="Movistar Plus">
     <title>Verdeliss. Más allá del miedo E1</title>
-    <sub-title>2026 | TP | ★8.0/10</sub-title>
+    <sub-title>2026 | TP | ★8.2/10</sub-title>
     <desc>(Documentales,Deportes) Verdeliss se prepara para dar el salto a atleta profesional real. Va a competir en A Coruña en el Campeonato del Mundo de 100 km (IAU). Mientras entrena, tiene que seguir con su día a día como influencer y el cuidado de sus ocho hijos.
 · País: España
 · Dirección: Óscar Rodríguez.</desc>
@@ -57182,7 +57175,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>8.0/10</value>
+			<value>8.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126160600 +0100" stop="20261126164500 +0100" channel="Movistar Plus">
@@ -57205,7 +57198,7 @@
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2716635V4438275" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2718082V4438275" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -57228,7 +57221,7 @@
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2716637V4438276" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2718083V4438276" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -57251,7 +57244,7 @@
     <sub-title>2026 | TP</sub-title>
     <desc>(Deportes,Programa deportes) Toda la emoción de las Finales de Copa Davis en La Pista del Tenis.</desc>
     <category>Deportes, Programa deportes</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2716638V4438277" />
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/M2718086V4438277" />
 		<rating system="ES">
 			<value>TP</value>
 		</rating>
@@ -57299,7 +57292,7 @@
 	</programme>
 	<programme start="20261126230000 +0100" stop="20261126233000 +0100" channel="Movistar Plus">
     <title>Ilustres ignorantes T20 · La vida laboral</title>
-    <sub-title>2026 | ⑯ | ★6.4/10</sub-title>
+    <sub-title>2026 | ⑯ | ★6.8/10</sub-title>
     <desc>(Entretenimiento,Humor) Programa que trata de encontrar respuestas a todas esas preguntas ridículas que nos planteamos en nuestra vida diaria.
 · País: España
 · Presenta: Javier Coronas.
@@ -57311,7 +57304,7 @@
 			<value>16</value>
 		</rating>
 		<star-rating system="ES">
-			<value>6.4/10</value>
+			<value>6.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126233000 +0100" stop="20261127012000 +0100" channel="Movistar Plus">
@@ -57980,7 +57973,7 @@
 	</programme>
 	<programme start="20261128230000 +0100" stop="20261129003000 +0100" channel="Movistar Plus">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -57989,7 +57982,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129003000 +0100" stop="20261129022500 +0100" channel="Movistar Plus">
@@ -58112,7 +58105,7 @@
 	</programme>
 	<programme start="20261129091800 +0100" stop="20261129104500 +0100" channel="Movistar Plus">
     <title>28/11/2026 T26/27 · DeportePlus</title>
-    <sub-title>2026 | TP | ★4.0/10</sub-title>
+    <sub-title>2026 | TP | ★5.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El programa Deporte Plus+ se emite en directo todos los sábados de esta nueva temporada con la última hora de la información deportiva.
 · País: España</desc>
     <category>Deportes, Programa deportes</category>
@@ -58121,7 +58114,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>4.0/10</value>
+			<value>5.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129104500 +0100" stop="20261129120500 +0100" channel="Movistar Plus">
@@ -61136,7 +61129,7 @@
 			<value>m3</value>
 		</rating>
 	</programme>
-	<programme start="20261125163000 +0100" stop="20261125210000 +0100" channel="PT | Sport TV 7">
+	<programme start="20261125163000 +0100" stop="20261125205900 +0100" channel="PT | Sport TV 7">
     <title>Sem Emissão</title>
     <sub-title>m3</sub-title>
     <desc>(Desporto)</desc>
@@ -61146,7 +61139,7 @@
 			<value>m3</value>
 		</rating>
 	</programme>
-	<programme start="20261125210000 +0100" stop="20261126030000 +0100" channel="PT | Sport TV 7">
+	<programme start="20261125205900 +0100" stop="20261126030000 +0100" channel="PT | Sport TV 7">
     <title>Premier Padel - Padel - México Major (Direto)</title>
     <sub-title>2026 | m3</sub-title>
     <desc>(Padel) Transmissão do Premier Padel.</desc>
@@ -61156,7 +61149,7 @@
 			<value>m3</value>
 		</rating>
 	</programme>
-	<programme start="20261126030000 +0100" stop="20261126070000 +0100" channel="PT | Sport TV 7">
+	<programme start="20261126030000 +0100" stop="20261126065900 +0100" channel="PT | Sport TV 7">
     <title>Premier Padel - Padel - México Major (Direto)</title>
     <sub-title>2026 | m3</sub-title>
     <desc>(Padel) Transmissão do Premier Padel.</desc>
@@ -61407,9 +61400,9 @@
 		</rating>
 	</programme>
 	<programme start="20261128194000 +0100" stop="20261128214500 +0100" channel="PT | Sport TV 7">
-    <title>Liga Italiana - Futebol - Inter De Milão x Génova (Direto)</title>
+    <title>Serie A - Inter Milão x Génova (Direto)</title>
     <sub-title>2026 | m3</sub-title>
-    <desc>(Futebol) Cobertura do programa – Liga Italiana.</desc>
+    <desc>(Futebol) Assiste ao jogo da Serie A entre Inter de Milão x Génova.</desc>
     <category>Futebol</category>
     <icon src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.pam.local.internal%2FPAM.Images%2FStore%2F4a81ef2637b44aa4a8eb2f43ecab0234&amp;profile=ott_1_452x340&amp;client_id=xe1dgrShwdR1DVOKGmsj8Ut4QLlGyOFI" />
 		<rating system="ES">
@@ -61913,7 +61906,7 @@
 	</programme>
 	<programme start="20261128163000 +0100" stop="20261128184500 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 14: Logroñés - Barakaldo T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61922,7 +61915,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128184500 +0100" stop="20261128210000 +0100" channel="Primera Federación">
@@ -61941,7 +61934,7 @@
 	</programme>
 	<programme start="20261128210000 +0100" stop="20261128232000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 14: Extremadura - Cacereño T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.8/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61950,7 +61943,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261128232000 +0100" stop="20261129014000 +0100" channel="Primera Federación">
@@ -61969,7 +61962,7 @@
 	</programme>
 	<programme start="20261129014000 +0100" stop="20261129040000 +0100" channel="Primera Federación">
     <title>Jornada 14: Logroñés - Barakaldo T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.4/10</sub-title>
+    <sub-title>2026 | TP | ★5.8/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -61978,7 +61971,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.4/10</value>
+			<value>5.8/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129040000 +0100" stop="20261129063000 +0100" channel="Primera Federación">
@@ -62047,7 +62040,7 @@
 	</programme>
 	<programme start="20261129181500 +0100" stop="20261129203000 +0100" channel="Primera Federación">
     <title>DIRECTO Jornada 14: Avilés - Mirandés T26/27 · Primera Federación</title>
-    <sub-title>2026 | TP | ★5.2/10</sub-title>
+    <sub-title>2026 | TP | ★6.0/10</sub-title>
     <desc>(Deportes,Fútbol) La Primera Federación es la categoría de bronce del fútbol español. Esta es la sexta edición de esta competición, llamada anteriormente Primera RFEF, en la que 40 clubes, encuadrados en dos grupos de 20, se enfrentarán durante 38 jornadas.
 · País: España</desc>
     <category>Deportes, Fútbol</category>
@@ -62056,7 +62049,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.2/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261129203000 +0100" stop="20261129223500 +0100" channel="Primera Federación">
@@ -64482,7 +64475,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125095800 +0100" stop="20261125102200 +0100" channel="SkyShowtime">
+	<programme start="20261125095800 +0100" stop="20261125102000 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E2 · Rocky apesta</title>
     <sub-title>2022 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Comedia) Mientras Dwayne se recupera de una lesión, toma una decisión que le cambiará la vida.
@@ -64496,7 +64489,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125102200 +0100" stop="20261125104800 +0100" channel="SkyShowtime">
+	<programme start="20261125102000 +0100" stop="20261125104300 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E3 · Contra las cuerdas</title>
     <sub-title>2022 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ata entra en conflicto con su rival en la promoción de lucha libre de Lia.
@@ -64510,7 +64503,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125104800 +0100" stop="20261125111400 +0100" channel="SkyShowtime">
+	<programme start="20261125104300 +0100" stop="20261125110900 +0100" channel="SkyShowtime">
     <title>The Good Place T1 E13 · La jugada de Michael</title>
     <sub-title>2017 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Comedia) Eleanor y sus amigos reflexionan sobre sus destinos; Michael intenta arreglar su barrio.
@@ -64524,7 +64517,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125111400 +0100" stop="20261125115600 +0100" channel="SkyShowtime">
+	<programme start="20261125110900 +0100" stop="20261125115100 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E1 · Todo va bien</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Los recuerdos del grupo se borran; Eleanor encuentra una pista que se había dejado a sí misma.
@@ -64538,7 +64531,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125115600 +0100" stop="20261125121700 +0100" channel="SkyShowtime">
+	<programme start="20261125115100 +0100" stop="20261125121200 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E4 · HalloVeen</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Cuando la comisaría organiza su quinta celebración anual de Hallloween, las relaciones se ponen a prueba.
@@ -64554,7 +64547,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125121700 +0100" stop="20261125123800 +0100" channel="SkyShowtime">
+	<programme start="20261125121200 +0100" stop="20261125123300 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E5 · Mala jugada</title>
     <sub-title>2017 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Jake y Terry realizan una misión de incógnito en un club de apuestas ilegales para atrapar a un traficante de armas.
@@ -64570,7 +64563,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125123800 +0100" stop="20261125125900 +0100" channel="SkyShowtime">
+	<programme start="20261125123300 +0100" stop="20261125125400 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E6 · El salón de boda</title>
     <sub-title>2017 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) El Buitre regresa y amenaza con arrebatarles algo a Jake y Amy.
@@ -64586,7 +64579,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125125900 +0100" stop="20261125134300 +0100" channel="SkyShowtime">
+	<programme start="20261125125400 +0100" stop="20261125133800 +0100" channel="SkyShowtime">
     <title>Impostores T2 E3 · Viejos asuntos sin resolver</title>
     <sub-title>2018 | ⑦ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Maddie sigue lidiando con sus conflictos internos. Los Bumblers deben encontrar la forma de regresar a Estados Unidos.
@@ -64604,7 +64597,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125134300 +0100" stop="20261125140400 +0100" channel="SkyShowtime">
+	<programme start="20261125133800 +0100" stop="20261125135900 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E2 · Rocky apesta</title>
     <sub-title>2022 | ⑫ | ★6.4/10</sub-title>
     <desc>(Series,Comedia) Mientras Dwayne se recupera de una lesión, toma una decisión que le cambiará la vida.
@@ -64618,7 +64611,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125140400 +0100" stop="20261125142800 +0100" channel="SkyShowtime">
+	<programme start="20261125135900 +0100" stop="20261125142200 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E3 · Contra las cuerdas</title>
     <sub-title>2022 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Ata entra en conflicto con su rival en la promoción de lucha libre de Lia.
@@ -64632,7 +64625,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125142800 +0100" stop="20261125160800 +0100" channel="SkyShowtime">
+	<programme start="20261125142200 +0100" stop="20261125160300 +0100" channel="SkyShowtime">
     <title>Comité de dioses</title>
     <sub-title>2021 | ⑫ | ★6.0/10</sub-title>
     <desc>(Cine,Drama) Los miembros de un comité de trasplantes de órganos se enfrentan a las consecuencias de una decisión trascendental que tomaron siete años antes y que afectó a la vida de tres pacientes.
@@ -64652,7 +64645,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125160800 +0100" stop="20261125175600 +0100" channel="SkyShowtime">
+	<programme start="20261125160300 +0100" stop="20261125174800 +0100" channel="SkyShowtime">
     <title>Savage Mountain</title>
     <sub-title>2026 | TP | ★6.2/10</sub-title>
     <desc>(Documentales,Viajes) La alpinista Kristin Harila lo arriesga todo para coronar las 14 cimas más altas del mundo a una velocidad récord, pero cuando su último ascenso desata una oleada de críticas, su logro recibe tanto reconocimiento como reconsideración.
@@ -64669,21 +64662,21 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125175600 +0100" stop="20261125182600 +0100" channel="SkyShowtime">
-    <title>The Good Place T2 E2 · Decisión Danza Danza</title>
-    <sub-title>2017 | ⑫ | ★5.8/10</sub-title>
-    <desc>(Series,Comedia) Michael intenta que su gran plan salga bien; Eleanor hace un descubrimiento sorprendente.
-· País: Estados Unidos</desc>
-    <category>Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504358" />
+	<programme start="20261125174800 +0100" stop="20261125182500 +0100" channel="SkyShowtime">
+    <title>Foodie Love T1 E3 · La Gyoza de Proust</title>
+    <sub-title>2019 | ⑫ | ★6.2/10</sub-title>
+    <desc>(Series,Drama) El sabor más inesperado puede despertar fantasmas del pasado.
+· País: España</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4157877" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125182600 +0100" stop="20261125184700 +0100" channel="SkyShowtime">
+	<programme start="20261125182500 +0100" stop="20261125184600 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E3 · Equipo Cucaracha</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Michael aborda las cosas de otra manera; al grupo le cuesta tomar una decisión.
@@ -64697,7 +64690,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125184700 +0100" stop="20261125193000 +0100" channel="SkyShowtime">
+	<programme start="20261125184600 +0100" stop="20261125192900 +0100" channel="SkyShowtime">
     <title>Suits T6 E15 · Quid pro quo</title>
     <sub-title>2017 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Cuando la demanda colectiva de Mike encuentra un obstáculo, puede costarle algo más que el caso.
@@ -64714,7 +64707,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125193000 +0100" stop="20261125201700 +0100" channel="SkyShowtime">
+	<programme start="20261125192900 +0100" stop="20261125201700 +0100" channel="SkyShowtime">
     <title>The Undeclared War T1 E6</title>
     <sub-title>2022 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Saara y Vadim unen fuerzas para descubrir el código oculto y tratar de evitar una guerra.
@@ -64728,7 +64721,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125201700 +0100" stop="20261125210200 +0100" channel="SkyShowtime">
+	<programme start="20261125201700 +0100" stop="20261125210100 +0100" channel="SkyShowtime">
     <title>A todo o nada T1 E9 · NCIS: Tony &amp; Ziva</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Con el enemigo a la vista y todo en juego, Tony y Ziva deben enfrentar sus miedos.
@@ -64747,7 +64740,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125210200 +0100" stop="20261125214800 +0100" channel="SkyShowtime">
+	<programme start="20261125210100 +0100" stop="20261125214800 +0100" channel="SkyShowtime">
     <title>Sweetpea T1 E3 · Lugares peligrosos en el garaje</title>
     <sub-title>2024 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Con determinación y entereza, Rhiannon va a por su siguiente objetivo: Julia Blenkingsopp.
@@ -64763,7 +64756,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125214800 +0100" stop="20261125223300 +0100" channel="SkyShowtime">
+	<programme start="20261125214800 +0100" stop="20261125223200 +0100" channel="SkyShowtime">
     <title>Sweetpea T1 E4 · Todo el mundo ama a Julia</title>
     <sub-title>2024 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Con Julia encerrada en el garaje, Rhiannon se dispone a demostrar que no es una fracasada.
@@ -64779,7 +64772,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125223300 +0100" stop="20261126002400 +0100" channel="SkyShowtime">
+	<programme start="20261125223200 +0100" stop="20261126002300 +0100" channel="SkyShowtime">
     <title>Americana</title>
     <sub-title>2023 | ⑯ | ★6.4/10</sub-title>
     <desc>(Cine,Comedia) En un pequeño pueblo de Dakota del Sur, las vidas de los marginados y los excluidos de la localidad se entrelazan de forma violenta cuando una rara reliquia indígena norteamericana acaba en el mercado negro.
@@ -64799,7 +64792,7 @@
 			<value>6.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126002400 +0100" stop="20261126011200 +0100" channel="SkyShowtime">
+	<programme start="20261126002300 +0100" stop="20261126011200 +0100" channel="SkyShowtime">
     <title>Tulsa King T4 E5 · Dinosaurios</title>
     <sub-title>2026 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Dwight ve cómo se multiplican sus enemigos; Bodhi y Timpone se apresuran a obtener beneficio de su vino.
@@ -64815,7 +64808,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126011200 +0100" stop="20261126020000 +0100" channel="SkyShowtime">
+	<programme start="20261126011200 +0100" stop="20261126015700 +0100" channel="SkyShowtime">
     <title>Suits T6 E15 · Quid pro quo</title>
     <sub-title>2017 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Cuando la demanda colectiva de Mike encuentra un obstáculo, puede costarle algo más que el caso.
@@ -64832,7 +64825,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126020000 +0100" stop="20261126024700 +0100" channel="SkyShowtime">
+	<programme start="20261126015700 +0100" stop="20261126024400 +0100" channel="SkyShowtime">
     <title>The Undeclared War T1 E6</title>
     <sub-title>2022 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Saara y Vadim unen fuerzas para descubrir el código oculto y tratar de evitar una guerra.
@@ -64846,7 +64839,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126024700 +0100" stop="20261126033200 +0100" channel="SkyShowtime">
+	<programme start="20261126024400 +0100" stop="20261126032800 +0100" channel="SkyShowtime">
     <title>A todo o nada T1 E9 · NCIS: Tony &amp; Ziva</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Con el enemigo a la vista y todo en juego, Tony y Ziva deben enfrentar sus miedos.
@@ -64865,7 +64858,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126033200 +0100" stop="20261126040500 +0100" channel="SkyShowtime">
+	<programme start="20261126032800 +0100" stop="20261126035700 +0100" channel="SkyShowtime">
     <title>Trion T1 E1</title>
     <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Frances aparece por sorpresa en la clase de literatura de Hugo, lo que despierta viejos recuerdos.
@@ -64879,7 +64872,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126040500 +0100" stop="20261126043900 +0100" channel="SkyShowtime">
+	<programme start="20261126035700 +0100" stop="20261126043100 +0100" channel="SkyShowtime">
     <title>Trion T1 E2</title>
     <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Hugo recuerda sus años de estudiante, desde una tarde de verano en Estocolmo hasta un viaje a París.
@@ -64893,7 +64886,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126043900 +0100" stop="20261126051200 +0100" channel="SkyShowtime">
+	<programme start="20261126043100 +0100" stop="20261126050400 +0100" channel="SkyShowtime">
     <title>Trion T1 E3</title>
     <sub-title>2026 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Drama) Tora espera a Hugo, mientras el silencio se llena con recuerdos de su juventud.
@@ -64907,13 +64900,17 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126051200 +0100" stop="20261126054200 +0100" channel="SkyShowtime">
-    <title>The Good Place T2 E2 · Decisión Danza Danza</title>
-    <sub-title>2017 | ⑫ | ★5.8/10</sub-title>
-    <desc>(Series,Comedia) Michael intenta que su gran plan salga bien; Eleanor hace un descubrimiento sorprendente.
-· País: Estados Unidos</desc>
-    <category>Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504358" />
+	<programme start="20261126050400 +0100" stop="20261126054100 +0100" channel="SkyShowtime">
+    <title>Foodie Love T1 E4 · Gelato di Neve</title>
+    <sub-title>2019 | ⑫ | ★5.8/10</sub-title>
+    <desc>(Series,Drama) Él viaja a Italia por negocios. Ella intenta sobrevivir a una gripe en su sofá. Una llamada telefónica se convertirá en una cita inesperada y en un recorrido por la Roma más sensorial. De camino también conoceremos el mejor helado del mundo.
+· País: España
+· Dirección: Isabel Coixet.
+· Reparto: Laia Costa, Guillermo Pfening, Thony Thornburg, Malcolm McCarthy, Yolanda Ramos, Eloi Costa.
+· Guion: Isabel Coixet.
+· Productora: HBO Europe, Miss Wasabi.</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4157877" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
@@ -64921,7 +64918,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126054200 +0100" stop="20261126060000 +0100" channel="SkyShowtime">
+	<programme start="20261126054100 +0100" stop="20261126060200 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E3 · Equipo Cucaracha</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Michael aborda las cosas de otra manera; al grupo le cuesta tomar una decisión.
@@ -64935,7 +64932,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126060000 +0100" stop="20261126062000 +0100" channel="SkyShowtime">
+	<programme start="20261126060200 +0100" stop="20261126062400 +0100" channel="SkyShowtime">
     <title>La Patrulla Canina T1 E26 · La Patrulla y el Tesoro del Pirata</title>
     <sub-title>2013 | TP | ★5.4/10</sub-title>
     <desc>(Infantil,Dibujos animados) Los cachorros deben rescatar al Capitán Turbot cuando accidentalmente queda atrapado en un escondite pirata.
@@ -64953,7 +64950,7 @@
 			<value>5.4/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126062000 +0100" stop="20261126064000 +0100" channel="SkyShowtime">
+	<programme start="20261126062400 +0100" stop="20261126064700 +0100" channel="SkyShowtime">
     <title>La Patrulla Canina T2 E1 · La Patrulla Salva a los Pingüinos; La Patrulla Salva a una Cría de Delfín</title>
     <sub-title>2014 | TP | ★6.2/10</sub-title>
     <desc>(Infantil,Dibujos animados) Alguien ha estado robándole pescado al Capitán Turbot. / Una cría de delfín se queda varada en aguas poco profundas.
@@ -64971,7 +64968,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126064000 +0100" stop="20261126070500 +0100" channel="SkyShowtime">
+	<programme start="20261126064700 +0100" stop="20261126070900 +0100" channel="SkyShowtime">
     <title>Bubble Guppies T1 E2 · ¡Balonpezcesto!</title>
     <sub-title>2011 | TP | ★6.0/10</sub-title>
     <desc>(Infantil,Dibujos animados) Los Guppies practican diferentes tipos de deportes y entrenan con balones para jugar un partido de 'balonpezcesto'.
@@ -64989,7 +64986,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126070500 +0100" stop="20261126073000 +0100" channel="SkyShowtime">
+	<programme start="20261126070900 +0100" stop="20261126073200 +0100" channel="SkyShowtime">
     <title>Bubble Guppies T1 E3 · Constrúyeme un edificio</title>
     <sub-title>2011 | TP | ★6.2/10</sub-title>
     <desc>(Infantil,Dibujos animados) Los Guppies aprenden cosas de construcción para ayudar a construir una nueva caseta de perro para el cachorro Bubble.
@@ -65007,7 +65004,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126073000 +0100" stop="20261126075500 +0100" channel="SkyShowtime">
+	<programme start="20261126073200 +0100" stop="20261126075500 +0100" channel="SkyShowtime">
     <title>Dora la exploradora T7 E12 · La feria de la ciencia del colegio</title>
     <sub-title>2012 | TP | ★6.0/10</sub-title>
     <desc>(Infantil,Dibujos animados) Dora y su amiga Emma presentan su volcán en la Feria de Ciencias de Green Power.
@@ -65023,7 +65020,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126075500 +0100" stop="20261126082000 +0100" channel="SkyShowtime">
+	<programme start="20261126075500 +0100" stop="20261126081600 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E7 · Dos pavos</title>
     <sub-title>2017 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Jake y Amy intentan reunir a sus padres durante Acción de Gracias.
@@ -65039,7 +65036,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126082000 +0100" stop="20261126084500 +0100" channel="SkyShowtime">
+	<programme start="20261126081600 +0100" stop="20261126083700 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E8 · Regreso a Skyfire</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) El equipo se infiltra en una convención de ciencia ficción para investigar el robo de un manuscrito.
@@ -65055,7 +65052,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126084500 +0100" stop="20261126091000 +0100" channel="SkyShowtime">
+	<programme start="20261126083700 +0100" stop="20261126085800 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E9 · 99</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) El equipo asiste a un funeral. Holt debe regresar a Nueva York para acudir a una entrevista de trabajo.
@@ -65071,7 +65068,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126091000 +0100" stop="20261126095500 +0100" channel="SkyShowtime">
+	<programme start="20261126085800 +0100" stop="20261126094300 +0100" channel="SkyShowtime">
     <title>Impostores T2 E4 · Andiamo</title>
     <sub-title>2018 | ⑦ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Una amenaza repentina frustra el intento de Maddie por encontrar la paz. La pasión entre Ezra y Rosa se intensifica.
@@ -65089,7 +65086,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126095500 +0100" stop="20261126102000 +0100" channel="SkyShowtime">
+	<programme start="20261126094300 +0100" stop="20261126101200 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E4 · Noche en Chi-Chi's</title>
     <sub-title>2022 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) El Dwayne adolescente se queda encerrado con su padre toda la noche mientras hacen una limpieza a fondo del restaurante.
@@ -65107,7 +65104,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126102000 +0100" stop="20261126104500 +0100" channel="SkyShowtime">
+	<programme start="20261126101200 +0100" stop="20261126103500 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E5 · Cinco días</title>
     <sub-title>2022 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Dwayne espera con ansiedad para ver cómo reacciona el público ante su inesperado giro.
@@ -65125,21 +65122,21 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126104500 +0100" stop="20261126111000 +0100" channel="SkyShowtime">
-    <title>The Good Place T2 E2 · Decisión Danza Danza</title>
-    <sub-title>2017 | ⑫ | ★5.8/10</sub-title>
-    <desc>(Series,Comedia) Michael intenta que su gran plan salga bien; Eleanor hace un descubrimiento sorprendente.
-· País: Estados Unidos</desc>
-    <category>Series, Comedia</category>
-    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4504358" />
+	<programme start="20261126103500 +0100" stop="20261126112300 +0100" channel="SkyShowtime">
+    <title>Foodie Love T1 E8 · Una Ofrenda de Tabaco, Cerveza y Chocolate</title>
+    <sub-title>2019 | ⑫ | ★6.0/10</sub-title>
+    <desc>(Series,Drama) Una cita sorpresa remueve de nuevo el pasado.
+· País: España</desc>
+    <category>Series, Drama</category>
+    <icon src="https://www.movistarplus.es/recorte/n/dispficha/F4157877" />
 		<rating system="ES">
 			<value>12</value>
 		</rating>
 		<star-rating system="ES">
-			<value>5.8/10</value>
+			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126111000 +0100" stop="20261126113500 +0100" channel="SkyShowtime">
+	<programme start="20261126112300 +0100" stop="20261126114400 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E3 · Equipo Cucaracha</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Michael aborda las cosas de otra manera; al grupo le cuesta tomar una decisión.
@@ -65153,7 +65150,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126113500 +0100" stop="20261126120000 +0100" channel="SkyShowtime">
+	<programme start="20261126114400 +0100" stop="20261126120600 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E7 · Dos pavos</title>
     <sub-title>2017 | ⑫ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Jake y Amy intentan reunir a sus padres durante Acción de Gracias.
@@ -65169,7 +65166,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126120000 +0100" stop="20261126122500 +0100" channel="SkyShowtime">
+	<programme start="20261126120600 +0100" stop="20261126122900 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E8 · Regreso a Skyfire</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) El equipo se infiltra en una convención de ciencia ficción para investigar el robo de un manuscrito.
@@ -65185,7 +65182,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126122500 +0100" stop="20261126125000 +0100" channel="SkyShowtime">
+	<programme start="20261126122900 +0100" stop="20261126125400 +0100" channel="SkyShowtime">
     <title>Brooklyn Nine-Nine T5 E9 · 99</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) El equipo asiste a un funeral. Holt debe regresar a Nueva York para acudir a una entrevista de trabajo.
@@ -65201,7 +65198,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126125000 +0100" stop="20261126133500 +0100" channel="SkyShowtime">
+	<programme start="20261126125400 +0100" stop="20261126134000 +0100" channel="SkyShowtime">
     <title>Impostores T2 E4 · Andiamo</title>
     <sub-title>2018 | ⑦ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Una amenaza repentina frustra el intento de Maddie por encontrar la paz. La pasión entre Ezra y Rosa se intensifica.
@@ -65219,7 +65216,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126133500 +0100" stop="20261126140000 +0100" channel="SkyShowtime">
+	<programme start="20261126134000 +0100" stop="20261126140700 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E4 · Noche en Chi-Chi's</title>
     <sub-title>2022 | ⑫ | ★5.8/10</sub-title>
     <desc>(Series,Comedia) El Dwayne adolescente se queda encerrado con su padre toda la noche mientras hacen una limpieza a fondo del restaurante.
@@ -65237,7 +65234,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126140000 +0100" stop="20261126142500 +0100" channel="SkyShowtime">
+	<programme start="20261126140700 +0100" stop="20261126143100 +0100" channel="SkyShowtime">
     <title>Young Rock T3 E5 · Cinco días</title>
     <sub-title>2022 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Dwayne espera con ansiedad para ver cómo reacciona el público ante su inesperado giro.
@@ -65255,7 +65252,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126142500 +0100" stop="20261126160500 +0100" channel="SkyShowtime">
+	<programme start="20261126143100 +0100" stop="20261126161400 +0100" channel="SkyShowtime">
     <title>Poli de guardería 2</title>
     <sub-title>2016 | TP | ★6.0/10</sub-title>
     <desc>(Cine,Comedia) Con el fin de recuperar unos datos robados en una escuela progresista, el agente más duro del FBI debe infiltrarse en su misión más difícil hasta la fecha: dar clase a un grupo de niños de educación infantil con ideas liberales.
@@ -65275,7 +65272,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126160500 +0100" stop="20261126175000 +0100" channel="SkyShowtime">
+	<programme start="20261126161400 +0100" stop="20261126175800 +0100" channel="SkyShowtime">
     <title>The Moment</title>
     <sub-title>2026 | ⑫ | ★6.0/10</sub-title>
     <desc>(Cine,Comedia dramática) A medida que se acerca su debut en una gira por estadios, una estrella del pop emergente afronta las complejidades de la fama y la presión del mundo del espectáculo.
@@ -65293,7 +65290,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126175000 +0100" stop="20261126181500 +0100" channel="SkyShowtime">
+	<programme start="20261126175800 +0100" stop="20261126182000 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E4 · Crisis existencial</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Tahani organiza una cena; Eleanor y Jason echan una mano cuando las cosas no salen según lo previsto.
@@ -65307,7 +65304,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126181500 +0100" stop="20261126184000 +0100" channel="SkyShowtime">
+	<programme start="20261126182000 +0100" stop="20261126184500 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E5 · El dilema del tranvía</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Chidi y Eleanor se enfrentan a un dilema ético; Tahani se sincera con Janet.
@@ -65321,7 +65318,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126184000 +0100" stop="20261126192500 +0100" channel="SkyShowtime">
+	<programme start="20261126184500 +0100" stop="20261126193000 +0100" channel="SkyShowtime">
     <title>Suits T6 E16 · Carácter y actitud</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Mike necesita la ayuda de Harvey y Rachel para cumplir su sueño de convertirse en un abogado de verdad.
@@ -65337,7 +65334,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126192500 +0100" stop="20261126201500 +0100" channel="SkyShowtime">
+	<programme start="20261126193000 +0100" stop="20261126201800 +0100" channel="SkyShowtime">
     <title>David Frost vs.: David Frost vs. los Beatles</title>
     <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
     <desc>(Documentales,Política) David y los Beatles surgen en el Londres de los años 60, precursores de una revolución cultural.
@@ -65354,7 +65351,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126201500 +0100" stop="20261126210000 +0100" channel="SkyShowtime">
+	<programme start="20261126201800 +0100" stop="20261126210200 +0100" channel="SkyShowtime">
     <title>Círculo completo T1 E10 · NCIS: Tony &amp; Ziva</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Tony y Ziva lo arriesgan todo para detener un letal ataque internacional.
@@ -65373,7 +65370,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126210000 +0100" stop="20261126215000 +0100" channel="SkyShowtime">
+	<programme start="20261126210200 +0100" stop="20261126215200 +0100" channel="SkyShowtime">
     <title>Lioness T3 E3 · El oso está infectado</title>
     <sub-title>2026 | ⑯ | ★5.8/10</sub-title>
     <desc>(Series,Acción) Joe se enfrenta a una filtración, lo que lleva al equipo a una operación arriesgada para descubrir a los infiltrados.
@@ -65388,7 +65385,7 @@
 			<value>5.8/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126215000 +0100" stop="20261126224000 +0100" channel="SkyShowtime">
+	<programme start="20261126215200 +0100" stop="20261126224700 +0100" channel="SkyShowtime">
     <title>Lioness T3 E4 · Avispones asesinos</title>
     <sub-title>2026 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Acción) Se ha desatado una búsqueda frenética mientras el equipo compite contra el reloj; Neal pasa apuros en casa.
@@ -65403,7 +65400,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261126224000 +0100" stop="20261127001500 +0100" channel="SkyShowtime">
+	<programme start="20261126224700 +0100" stop="20261127001900 +0100" channel="SkyShowtime">
     <title>Invasión romántica a domicilio</title>
     <sub-title>2025 | ⑯ | ★6.0/10</sub-title>
     <desc>(Cine,Comedia) Cuando un hombre lleva a su mujer a un viaje romántico para salvar su matrimonio con un plan tremendamente descabellado, se ve envuelto en una investigación por asesinato.
@@ -65418,7 +65415,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127001500 +0100" stop="20261127010000 +0100" channel="SkyShowtime">
+	<programme start="20261127001900 +0100" stop="20261127010300 +0100" channel="SkyShowtime">
     <title>Sweetpea T1 E3 · Lugares peligrosos en el garaje</title>
     <sub-title>2024 | ⑯ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Con determinación y entereza, Rhiannon va a por su siguiente objetivo: Julia Blenkingsopp.
@@ -65434,7 +65431,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127010000 +0100" stop="20261127014500 +0100" channel="SkyShowtime">
+	<programme start="20261127010300 +0100" stop="20261127014800 +0100" channel="SkyShowtime">
     <title>Sweetpea T1 E4 · Todo el mundo ama a Julia</title>
     <sub-title>2024 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Con Julia encerrada en el garaje, Rhiannon se dispone a demostrar que no es una fracasada.
@@ -65450,7 +65447,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127014500 +0100" stop="20261127023000 +0100" channel="SkyShowtime">
+	<programme start="20261127014800 +0100" stop="20261127023300 +0100" channel="SkyShowtime">
     <title>Suits T6 E16 · Carácter y actitud</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Mike necesita la ayuda de Harvey y Rachel para cumplir su sueño de convertirse en un abogado de verdad.
@@ -65466,7 +65463,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127023000 +0100" stop="20261127032000 +0100" channel="SkyShowtime">
+	<programme start="20261127023300 +0100" stop="20261127032300 +0100" channel="SkyShowtime">
     <title>David Frost vs.: David Frost vs. los Beatles</title>
     <sub-title>2025 | ⑦ | ★6.2/10</sub-title>
     <desc>(Documentales,Política) David y los Beatles surgen en el Londres de los años 60, precursores de una revolución cultural.
@@ -65483,7 +65480,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127032000 +0100" stop="20261127040500 +0100" channel="SkyShowtime">
+	<programme start="20261127032300 +0100" stop="20261127041000 +0100" channel="SkyShowtime">
     <title>Círculo completo T1 E10 · NCIS: Tony &amp; Ziva</title>
     <sub-title>2025 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Drama) Tony y Ziva lo arriesgan todo para detener un letal ataque internacional.
@@ -65502,7 +65499,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127040500 +0100" stop="20261127043500 +0100" channel="SkyShowtime">
+	<programme start="20261127041000 +0100" stop="20261127043900 +0100" channel="SkyShowtime">
     <title>Dice T1 E3 · Prestige</title>
     <sub-title>2016 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Dice le da un golpe al coche de Criss Angel y se convierte en el blanco de este ilusionista.
@@ -65522,7 +65519,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127043500 +0100" stop="20261127051000 +0100" channel="SkyShowtime">
+	<programme start="20261127043900 +0100" stop="20261127051300 +0100" channel="SkyShowtime">
     <title>Dice T1 E4 · Alimony</title>
     <sub-title>2016 | ⑯ | ★6.2/10</sub-title>
     <desc>(Series,Comedia) Dice intenta conseguir trabajo cuando descubre que Carmen todavía recibe una pensión.
@@ -65542,7 +65539,7 @@
 			<value>6.2/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127051000 +0100" stop="20261127053500 +0100" channel="SkyShowtime">
+	<programme start="20261127051300 +0100" stop="20261127053700 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E4 · Crisis existencial</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Tahani organiza una cena; Eleanor y Jason echan una mano cuando las cosas no salen según lo previsto.
@@ -65556,7 +65553,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261127053500 +0100" stop="20261127060000 +0100" channel="SkyShowtime">
+	<programme start="20261127053700 +0100" stop="20261127060000 +0100" channel="SkyShowtime">
     <title>The Good Place T2 E5 · El dilema del tranvía</title>
     <sub-title>2017 | ⑫ | ★6.0/10</sub-title>
     <desc>(Series,Comedia) Chidi y Eleanor se enfrentan a un dilema ético; Tahani se sincera con Janet.
@@ -68882,7 +68879,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261125134500 +0100" stop="20261125145900 +0100" channel="Telecinco">
+	<programme start="20261125134500 +0100" stop="20261125145600 +0100" channel="Telecinco">
     <title>Vamos a ver T6 E62</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Información,Informativo) Patricia Pardo presenta 'Vamos a ver', un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.
@@ -68893,7 +68890,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261125145900 +0100" stop="20261125153000 +0100" channel="Telecinco">
+	<programme start="20261125145600 +0100" stop="20261125153500 +0100" channel="Telecinco">
     <title>Informativos Telecinco</title>
     <sub-title>2025 | ★6.0/10</sub-title>
     <desc>(Información,Informativo) Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
@@ -68906,7 +68903,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125153000 +0100" stop="20261125154000 +0100" channel="Telecinco">
+	<programme start="20261125153500 +0100" stop="20261125154800 +0100" channel="Telecinco">
     <title>El Desmarque Telecinco</title>
     <sub-title>2026 | ★6.0/10</sub-title>
     <desc>(Deportes,Programa deportes) El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
@@ -68918,7 +68915,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125154000 +0100" stop="20261125155000 +0100" channel="Telecinco">
+	<programme start="20261125154800 +0100" stop="20261125155900 +0100" channel="Telecinco">
     <title>El tiempo</title>
     <sub-title>2017 | ★6.0/10</sub-title>
     <desc>(Información,Meteorología) Espacio informativo que ofrece la previsión meteorológica.
@@ -68930,7 +68927,7 @@
 			<value>6.0/10</value>
 		</star-rating>
 	</programme>
-	<programme start="20261125155000 +0100" stop="20261125180000 +0100" channel="Telecinco">
+	<programme start="20261125155900 +0100" stop="20261125174600 +0100" channel="Telecinco">
     <title>La tarde se mueve T1 E36</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Entretenimiento,Magacín) Ion Aramendi y sus colaboradores te traen de lunes a viernes la última hora de la actualidad y la crónica social.
@@ -68941,7 +68938,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261125180000 +0100" stop="20261125190000 +0100" channel="Telecinco">
+	<programme start="20261125174600 +0100" stop="20261125185200 +0100" channel="Telecinco">
     <title>El Diario de Jorge T7 E35</title>
     <sub-title>2026 | ⑯</sub-title>
     <desc>(Entretenimiento,Tertulia) Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
@@ -68952,7 +68949,7 @@
 			<value>16</value>
 		</rating>
 	</programme>
-	<programme start="20261125190000 +0100" stop="20261125200000 +0100" channel="Telecinco">
+	<programme start="20261125185200 +0100" stop="20261125200000 +0100" channel="Telecinco">
     <title>Rueda la Letra T1 E72</title>
     <sub-title>2026 | TP</sub-title>
     <desc>(Entretenimiento,Concurso) Carlos Sobera se pone al frente y una divertida competición basada en las palabras en la que concursantes y famosos jugarán en equipo para alcanzar el gran desafío final: 'La Rueda'.
@@ -75712,7 +75709,7 @@
 	</programme>
 	<programme start="20261126023500 +0100" stop="20261126042500 +0100" channel="Warner TV">
     <title>Mamma Mia! · La Película</title>
-    <sub-title>2008 | TP | ★7.0/10</sub-title>
+    <sub-title>2008 | TP | ★7.2/10</sub-title>
     <desc>(Cine,Comedia) ¡Pásatelo genial con Meryl Streep y un elenco lleno de estrellas en esta divertidísima celebración de madres e hijas, viejos amigos y el descubrimiento de una nueva familia!
 · País: Alemania, Estados Unidos y Reino Unido
 · Dirección: Phyllida Lloyd.
@@ -75727,7 +75724,7 @@
 			<value>TP</value>
 		</rating>
 		<star-rating system="ES">
-			<value>7.0/10</value>
+			<value>7.2/10</value>
 		</star-rating>
 	</programme>
 	<programme start="20261126042500 +0100" stop="20261126061500 +0100" channel="Warner TV">
@@ -76147,7 +76144,7 @@
 	<programme start="20261126220000 +0100" stop="20261126224500 +0100" channel="Warner TV">
     <title>FBI T9 E4 · Reticencia</title>
     <sub-title>⑫ | ★6.0/10</sub-title>
-    <desc>(Series,Policíaca) La oficina más bulliciosa del FBI en la Gran Manzana es el escenario en que los agentes Maggie Bell y Omar Adom "OA" Zidan se enfrentan a las amenazas del terrorismo y el crimen organizado.
+    <desc>(Series,Policíaca) La desaparición de un bebé y varios asesinatos llevan al equipo a una empresa de propulsión de cohetes. El sospechoso podría ser uno de los suyos.
 · País: Estados Unidos
 · Reparto: Sela Ward, Jeremy Sisto, Missy Peregrym, Zeeko Zaki.</desc>
     <category>Series, Policíaca</category>
@@ -76213,7 +76210,7 @@
 	<programme start="20261127011000 +0100" stop="20261127020000 +0100" channel="Warner TV">
     <title>FBI T9 E4 · Reticencia</title>
     <sub-title>⑫ | ★6.0/10</sub-title>
-    <desc>(Series,Policíaca) La oficina más bulliciosa del FBI en la Gran Manzana es el escenario en que los agentes Maggie Bell y Omar Adom "OA" Zidan se enfrentan a las amenazas del terrorismo y el crimen organizado.
+    <desc>(Series,Policíaca) La desaparición de un bebé y varios asesinatos llevan al equipo a una empresa de propulsión de cohetes. El sospechoso podría ser uno de los suyos.
 · País: Estados Unidos
 · Reparto: Sela Ward, Jeremy Sisto, Missy Peregrym, Zeeko Zaki.</desc>
     <category>Series, Policíaca</category>
